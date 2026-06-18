@@ -1,0 +1,9 @@
+# Security contact for stlouismissourinearme.com
+# Format: RFC 9116 — https://www.rfc-editor.org/rfc/rfc9116
+# If you've found a security issue, please reach out using the contacts below.
+
+Contact: mailto:directory@stlouismissourinearme.com
+Contact: tel:+1-314-756-8500
+Expires: 2027-06-18T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://stlouismissourinearme.com/.well-known/security.txt
