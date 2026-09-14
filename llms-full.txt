@@ -241563,3 +241563,237 @@ A.  Most personal injury attorneys work on a contingency fee, meaning they are p
 ### Q. How long after an accident can you still make a claim?
 
 A.  Missouri sets a multi-year deadline for personal injury claims, but shorter deadlines and formal notice requirements can apply in particular situations, including claims involving a public entity, and wrongful death runs on its own clock. Illinois rules differ, which matters across this metro. Confirm the deadline for your facts with an attorney promptly rather than relying on a general figure. Separately, insurance policies impose their own prompt-notice requirements that arrive long before any court deadline.
+
+## How to Make ChatGPT Sound Like Your St. Louis Business
+Source: https://stlouismissourinearme.com/blog/how-to-make-chatgpt-sound-like-your-st-louis-business
+
+Picture a Tuesday night in Maplewood. A woman who runs a two-chair salon has finally sat down, phone in hand, trying to answer a bride who wants pricing for a wedding party of eight. She opens ChatGPT, types in the details, and out comes a message that starts with ‘In the vibrant world of bridal beauty.’ She deletes it. She would never say that. Nobody she knows says that.
+
+She is not the only one stuck here. A guy who fixes furnaces out of a van in Affton has the same trouble with his Google posts. A bakery in St. Charles keeps getting captions that could belong to any bakery in any town. The copy is quick and free, and it sounds like no one.
+
+Good news: you can teach ChatGPT to write the way you actually talk. Your words. Your rhythm. The way you sign off an email. Kyle Balmer of AI with Kyle walked through six ways to do exactly that, and every one of them fits a small shop. Here is how to put them to work on your emails, your posts, your replies, and your quotes.
+
+### How do I make ChatGPT sound like my business?
+
+Give it your own words to copy. Feed ChatGPT real samples you wrote before AI got involved, capture how you actually talk out loud, then boil both down into a short style guide the tool reads every time. Turn on its writing-style feature if you trust the connection, and correct every draft so it keeps learning.
+
+That is the whole game, split into six moves. One official feature, five you can run yourself. Use one. Use all six. They stack together. The goal never changes: get the generic out and get you back in, because a customer can smell a robot from the first line, and the moment they do, they stop reading.
+
+Turn on ChatGPT’s built-in writing-style setting.
+
+Feed it real samples of your old writing.
+
+Capture your speaking voice out loud.
+
+Boil it all down into a short style guide.
+
+Scrub the AI tells out of every draft.
+
+Edit the draft, then feed your edits back.
+
+### Should you turn on ChatGPT’s writing-style feature?
+
+Only if you are comfortable letting OpenAI read your inbox. OpenAI added a setting that studies your style straight from connected apps like Gmail, Outlook, Google Drive, Slack, and Notion. Kyle found it buried under Settings, then Personalization, listed as ‘Reference my writing style.’ Flip it on and new drafts borrow the voice from your real emails and files.
+
+The upside is easy to see. It reads how you already write — your favorite phrases, your capitalization habits, the sign-off you use without thinking — and carries that into whatever you type next. These menus move around, so hunt a bit if it is not where Kyle found it.
+
+The catch is two-sided. First, privacy. You are handing OpenAI a door into your email, and plenty of owners are not okay with that. Fair enough. Second, it is not picky. It pulls in everything, the good and the sloppy, including anything you already wrote with AI. Kyle calls that poisoning the well: train the tool on old robot copy and you get more robot copy back. If that trade bothers you, skip it. The next five methods do not need it at all.
+
+### Where do you find writing that actually sounds like you?
+
+Dig up what you wrote before AI existed. Kyle’s rule of thumb is anything from before 2022 — old customer emails, a college paper, the Facebook posts you banged out in a hurry back in 2020. That is your real voice, untouched by any machine, and it is the cleanest sample you can hand a tool.
+
+Most owners already sit on a goldmine and forget it. The furnace guy in Affton has three years of quotes and reply emails in his sent folder. The salon has a wall of old posts. Gather a decent pile of it, hand it over, and tell ChatGPT plainly: this is how I write, match it.
+
+One warning worth repeating. Do not feed it anything an AI already touched. Kyle is blunt about this. Old machine copy poisons the batch, and you end up training your tool to sound like a worse tool. Raw, human, pre-AI writing only. Quality beats volume every time.
+
+### What if you’d rather talk than write?
+
+Then talk. Open ChatGPT’s voice mode and just say what you know. Kyle’s move is to pick something you have real opinions about — why you started, what drives you nuts about your trade, a job you nailed — and ramble. No script. The stumbles and the tangents are the point, because that is what human speech actually sounds like.
+
+This is the method for owners who do not write much. Talking is looser than typing. You self-edit when you write and you do not when you talk, so your real cadence shows up a lot faster out loud.
+
+Stuck for a topic? Tell the AI to interview you. ‘Ask me questions about my business and I’ll answer by voice.’ Then let it lead. If you already record anything — a podcast, videos for your page, even long voice memos — transcribe those. Kyle points out you can transcribe locally for free, and the transcript becomes another sample of exactly how you speak.
+
+### How do you turn all that into one style guide?
+
+You compress it. Dumping 200 old emails into every chat clogs the tool and burns through its memory fast. Instead, Kyle hands the whole pile to a strong model once and says: read all of this and pull out the patterns. What comes back is a short style guide, a page or two that captures how you write.
+
+Inside that guide lives the useful stuff: words you lean on, words you never use, whether you use contractions, how long your sentences run, and whether a one-word paragraph is your thing. Kyle’s own guide even splits by situation — looser for social, tighter for a formal note. Yours can do the same. One voice for a customer quote, another for a quick Google post, another for a reply to an unhappy review.
+
+That little file is the real prize. It is small, so the tool reads it without choking, and it travels. Save it once and paste it into any tool you pick up later. This is close kin to the plain-English instruction sheets we cover in how a St. Louis small business can build its first AI skill: write down what you know, hand it over, reuse it forever.
+
+### How do you strip the AI tells out of a draft?
+
+Give the tool a hit list of phrases to kill. Every reader knows the tells: the grand empty opener, the ‘it isn’t X, it’s Y’ move, the words no human reaches for. Kyle points to Wikipedia’s public ‘signs of AI writing’ page, which catalogs these habits, and you can hand that straight to your AI as a do-not-do list.
+
+He goes one step further and packages the list into a skill file, a small text file you plug into ChatGPT or Claude so the scrub runs on its own. You do not have to build one. Paste the list into your instructions and you get most of the benefit.
+
+Run the check twice. Once while it drafts, once after, as a belt-and-braces pass. Even a smart model that has your whole style guide will still slip a tell or two through. This is the cleanup that catches them before a customer does.
+
+### Why should you feed your edits back to the AI?
+
+Because you are already doing the hard part and throwing it away. You get a draft, you fix the opening, you cut two paragraphs, you put your opinion back, you hit send. The AI never saw those fixes. Next week it makes the exact same mistakes, and you fix them all over again. Kyle calls this the loop most people miss.
+
+Close the loop. After you edit and publish, hand the final version back and ask a simple question: compare your draft to what I actually published, and tell me which changes are writing preferences I’ll want next time. It reads the difference, spots the pattern, and you fold that into your style guide.
+
+Do it by voice if that is quicker. Kyle talks his edits out loud — this bit is too wordy, cut that, this line stays — and the tool learns on the fly. Handy owners can even schedule it, so the AI reviews yesterday’s published version on its own and updates the guide overnight.
+
+### Where should a busy owner start?
+
+Start small this week. Grab three things you are proud to have your name on — a couple of good emails, a post or two — and have ChatGPT study them. Then keep showing it what you actually publish. That feedback loop is the whole engine. Get it turning fast and the voice sharpens on its own.
+
+You do not need all six on day one. Turn on the built-in feature if you trust it, or skip straight to the samples and the voice recording. Build the little style guide once. Add the tells list. Feed your edits back. It is a one-time build with light upkeep, not a second job.
+
+One last thing, and Kyle is right to shout about it: read the draft before it goes out. AI copy nobody checked is how the whole internet started sounding the same. Your customers in Kirkwood or St. Charles can tell. Do not give them a reason to tune you out. Curious what the machines already say about you? See what AI says about your business and how to fix it.
+
+Want a hand building your voice guide? St Louis Near Me Directory runs hands-on AI workshops for St. Louis business owners — no code, no jargon, just your team teaching the tools to sound like you. And once your copy sounds human again, make sure neighbors can find you: list your business so the right customers land on your door.
+
+### Frequently asked questions
+
+### Q. Does ChatGPT really learn my writing style on its own?
+
+A.  It can, once you turn on its writing-style setting and connect apps like Gmail or Google Drive. OpenAI says the tool studies your emails, messages, and files, then carries that voice into new drafts. The trade-off is access and precision: it reads everything, including any old AI copy, which can dull the result.
+
+### Q. Why shouldn’t I feed AI-written text back into ChatGPT?
+
+A.  Because it poisons the well, as Kyle puts it. If your samples were written by an older AI, you are teaching the tool to copy a machine instead of you, and each round comes back blander. Use raw, human writing from before you started using AI. That is your cleanest, truest voice.
+
+### Q. I barely write anything. Can I still do this?
+
+A.  Yes, and voice mode was built for you. Open it and talk about your trade, why you started, or a job you are proud of. Do not script it, because the tangents and stumbles are what make it sound human. Transcribe any podcasts or videos you already have and use those too.
+
+### Q. What actually goes into a tone-of-voice guide?
+
+A.  A short summary of how you write: phrases you lean on, words you never use, whether you use contractions, how long your sentences run, and how you open and sign off. Kyle’s even splits by situation, looser for social and tighter for a formal note. Keep the whole thing to a page or two.
+
+### Q. What are AI tells, and how do I remove them?
+
+A.  AI tells are the giveaway habits: grand empty openers, the ‘it isn’t X, it’s Y’ move, words no real person says. Kyle points to Wikipedia’s ‘signs of AI writing’ page, which lists them out. Hand that list to your AI as things to avoid, then check the draft during and after writing.
+
+### Q. Do I have to connect my Gmail for this to work?
+
+A.  No. Connecting Gmail powers ChatGPT’s official writing-style feature, but the other five methods skip it entirely. You can feed samples by hand, record your voice, and build a style guide without giving any tool access to your inbox. Kyle offers the connected feature as an option, not a requirement.
+
+### Q. Will this work in Claude or Gemini, not just ChatGPT?
+
+A.  Yes. The reason to build a short style guide is that it travels. Kyle keeps his as a small text file and pastes it into whichever tool he is using, whether ChatGPT, Claude, or Gemini. The official writing-style setting is ChatGPT-only, but your guide works anywhere you can paste text.
+
+### Q. How much time does all this take to set up?
+
+A.  It is mostly a one-time build. Gathering samples, recording a voice sample, and writing the guide might take an afternoon. After that the upkeep is light: scrub the tells, feed your edits back, and update the guide now and then. Kyle notes you can even automate the feedback step with a scheduled task.
+
+## How a St. Louis Business Can Replace a Video Editor With AI
+Source: https://stlouismissourinearme.com/blog/how-a-st-louis-business-can-replace-a-video-editor-with-ai
+
+A personal trainer in Kirkwood films herself most weeks. A form demo on her phone, a quick tip in the parking lot after a client heads out, the occasional before-and-after. She knows the clips would pull in new members if they looked sharp. She just doesn’t have four hours on a Sunday to cut them down.
+
+So she asked around. An editor a friend recommended quoted her a thousand dollars a month to take the raw footage and turn it into something worth posting. For a studio with a few dozen members, that number ends the conversation. The videos stay in her camera roll, right where they can’t do her any good.
+
+Here is the part worth knowing. The work an editor charges for — transcribing, trimming, tightening, captioning, packaging — is now something an AI assistant can run on your own computer for a sliver of that cost. Not the magic one-button version people push on TikTok. A real pipeline, built once, that grinds through the boring parts while you keep the pieces only you can do.
+
+Someone has already built and documented this. Kyle Balmer, who runs the AI with Kyle channel, let go of his own editor after wiring up a system that edits his videos start to finish. His numbers and his workflow run through this guide, cited as his own experience, and translated for an owner who wants sharper marketing videos without the monthly invoice.
+
+### Can a St. Louis business replace a $1,000-a-month video editor with AI?
+
+Mostly, yes. Kyle Balmer let go of an editor he paid about $1,000 a month after building an AI pipeline that transcribes, cuts, and packages his videos on his own Mac. The catch is real: this is not the one-button tool people advertise. You build the workflow once, and you still shoot and review every video yourself.
+
+“Replace” needs an honest definition. Kyle says his last several YouTube videos were edited entirely by AI, and one recently reached around 5,000 views, solid for his channel. Three months ago, he says, the models could not do this dependably. Now they can, using assistants like Claude Code and Codex — but the “drop in a video and go viral” pitch is still hype, and anyone selling it probably isn’t actually doing it.
+
+What gets replaced is the mechanical labor: the hours an editor spent cutting and captioning. What stays with you is the camera, the idea, and the final approval. For a local business posting to Instagram or a Google profile, that split is good news, because the expensive part was never the ideas.
+
+### What does Kyle Balmer’s AI editing system actually do?
+
+It runs five jobs an editor used to do by hand: transcribe, plan the cuts, make the cuts, quality-check, and package. Kyle films a messy hour-long live stream and ends up with a clean 15-to-20-minute video, and he says the whole automated run takes less than an hour on his own machine.
+
+### It starts with raw footage and a transcript
+
+Kyle records to a Sony camera in 4K at 30 frames per second, streaming through a tool called Ecamm. He shoots at 30 rather than 60 because platforms like LinkedIn cap there. Raw 4K is enormous, roughly 6 GB for ten minutes, so dragging it into an editor is painful. Instead, a free tool called Whisper transcribes the video into timecoded text, right on his computer.
+
+### An AI writes the edit decision list
+
+The transcript goes up to a smart cloud model, which builds an edit decision list: where to trim tangents, which bad takes to drop, and where to cut the dead air off the front and back. If you fumble a line three times before you get it right, the repeats show up in the transcript, and the model marks them for removal. That plan comes back to the assistant.
+
+### Free software makes the cuts locally
+
+Claude Code or Codex then drives FFmpeg, a free, open-source video engine the assistant can install itself, to make the cuts and stitch the clips together without clipped sentences or jarring jumps. This runs on your machine, so it burns no cloud tokens. For polish, Kyle sometimes adds animated callouts with Remotion or HyperFrames, telling viewers to subscribe or sign up, though he uses them sparingly.
+
+### It checks itself, then packages and uploads
+
+Before anything ships, the assistant runs quality passes: it re-transcribes, takes screenshots as spot checks, and hunts for cut-off sentences or audio drift, sometimes two or three times over. All of this happens on a low-resolution 720p proxy so the computer isn’t on fire. Only at the end does it render a 4K version, upload it to YouTube as a draft, and generate three thumbnail options with a title and description.
+
+### What does the DIY-AI approach cost versus a video editor?
+
+An editor cost Kyle about $1,000 a month. The software doing the mechanical work in his pipeline is free: Whisper for transcription and FFmpeg for cutting both run locally at no charge. The recurring bill drops to the AI assistant subscription he uses, plus recording software. He describes that ongoing cost only as “very very low.”
+
+Here is the honest line-by-line, using only what Kyle names. Transcription with Whisper: free, on your computer. Cutting and rendering with FFmpeg: free and local, no cloud tokens spent. The one step that touches the cloud is the edit decision list, where the transcript goes to a smart model and uses some tokens. The heavy lifting, cutting and rendering, stays local and free.
+
+The paid pieces are a subscription to an AI assistant like Claude Code or Codex, and recording software such as Ecamm, though a free option like OBS works too. Kyle does not state those prices in his walkthrough, so we won’t invent them. He calls the total “very very low” and never puts a dollar figure on it — the same discipline worth applying to every AI statistic you might repeat.
+
+So the real comparison is not $1,000 against some other clean number. It is $1,000 a month for an editor’s hours against a mostly-free toolchain, a modest software subscription, and your own time. That time cost is heaviest on the first few videos and shrinks fast, which is the part the simple math usually hides.
+
+Kyle’s own figures, cited as his experience: an editor at about $1,000 a month, replaced by tools that are mostly free.
+
+### Which tools do you actually need to build this?
+
+Kyle names a short, specific stack, and most of it costs nothing. Whisper handles transcription, FFmpeg handles the cutting, and either Claude Code or Codex acts as the assistant that wires the steps together and drives the other tools. Everything else — Remotion, HyperFrames, HeyGen — is optional polish, not a requirement.
+
+Think of the assistant as the brain and the free tools as its hands. Claude Code or Codex plans the workflow, installs what it needs, and runs each step. Whisper turns speech into text locally. FFmpeg does the actual cutting and rendering. Ecamm, OBS, or TikTok Live Studio handle recording, though you can skip all three and simply film to your phone.
+
+The optional layer adds motion. Remotion builds video programmatically and animates on-screen elements. HyperFrames is open-source and turns HTML, CSS, and media into MP4 animations. HeyGen generates AI avatars, which Kyle mentions but would not use himself. None of these are needed for a plain talking-head clip, which is what most local marketing videos are anyway.
+
+Be honest about the setup. Kyle calls it technical and a work in progress, and it is closer to building a small system than clicking an app. That is why it helps to treat it as an AI skill — a plain-English instruction sheet you write once. Our guide to building your first AI skill walks through that mindset before you go near a video file.
+
+### What can AI edit well, and what still needs a human?
+
+AI is reliable at the mechanical work, per Kyle: transcripts, draft cuts, rendering, captions, thumbnails, titles, and descriptions. What it cannot do is make weak footage worth watching. In his blunt phrase, a clean edit is still just packaging something bad if the content underneath is thin.
+
+Three jobs stay firmly with you. First, shoot content worth editing; the tool cannot invent a good idea. Second, perform — hold attention, speak clearly, be yourself on camera. Third, give every video a visual pass, especially the first thirty to sixty seconds. Kyle had runs where the audio drifted out of sync and the assistant sailed right past it.
+
+Don’t pull yourself out of the loop yet. The tools are still fussy, and a bad render can go out if nobody looks. The upside is that they learn. Each time you catch a mistake and correct it, a smart model tends to stop repeating it. Your first few videos take longer than doing them by hand. After that, the curve bends in your favor.
+
+### How should a St. Louis owner start without a studio?
+
+You don’t need Kyle’s camera or a live-stream rig. You need one repeating video job and a phone. Start by filming a single clip — a weekly tip, a product close-up, an answer to the question customers keep asking — then have your AI assistant transcribe it, tighten it, and caption it before you reach for anything fancy.
+
+Keep the first attempts small. Film to your phone; Kyle says a webcam or a DJI is fine, so don’t stall on gear. Work on a smaller, lower-resolution file so your computer keeps up, the way he runs edits on a 720p proxy. Hand the assistant the dull parts first: cut the dead air, drop the retakes, add captions. Then watch the opening seconds before anything goes live.
+
+Expect the first few to feel slow, and let them. That is the tax you pay once while the system learns your style. By the third or fourth clip, the trainer in Kirkwood is spending minutes where she used to picture a thousand-dollar invoice.
+
+There is a quiet payoff most owners miss. The same video that lands on your Google profile or Instagram also feeds the assistants people increasingly use to find local businesses. A complete, accurate directory listing is the cheapest way to make sure those videos point back to something real.
+
+Want a hand building yours? St Louis Near Me Directory runs hands-on AI workshops for St. Louis business owners — no jargon, no coding degree required. Bring the one video job you keep putting off, and leave with the start of a pipeline that does it for you.
+
+### Frequently asked questions
+
+### Q. Do I need to know how to code to build an AI video editor?
+
+A.  Not really. The assistant, Claude Code or Codex, writes and runs the technical parts for you, and it can install the free tools itself. You guide it in plain language and review the results. Kyle calls the setup technical and a work in progress, so patience helps more than programming does.
+
+### Q. What is FFmpeg, and is it really free?
+
+A.  FFmpeg is free, open-source software that cuts, joins, and renders video. In Kyle’s system the AI assistant installs it and drives it, so you never touch the commands yourself. Because the cutting and rendering run on your own computer, this step costs nothing in cloud tokens, which is a big part of the savings.
+
+### Q. What is an edit decision list?
+
+A.  An edit decision list, or EDL, is the plan for the cuts. Kyle sends his timecoded transcript to a smart model, which decides where to trim tangents, drop bad takes, and top-and-tail the recording. That list goes back to the assistant, which makes the actual cuts locally with FFmpeg.
+
+### Q. Can AI post my videos to YouTube automatically?
+
+A.  Yes, in Kyle’s workflow. Codex can connect to his YouTube account, render a 4K version, upload it as a draft, then generate three thumbnail options plus a title and description. He still opens the draft, watches it, and publishes it himself. The upload is automated; the final call is not.
+
+### Q. Will AI editing make my videos go viral?
+
+A.  No, and anyone promising that is selling hype. Kyle is blunt: a clean edit cannot save weak content, and the “drop a video in and go viral” button does not exist yet. Editing handles the mechanical work. Whether people watch still depends on your idea and your delivery on camera.
+
+### Q. Should I use an AI avatar instead of filming myself?
+
+A.  Kyle would not, and he calls it a race to the bottom. Tools like HeyGen can generate an avatar, but for a local business your face and voice are the trust. People book the trainer, plumber, or baker they believe in. Film yourself, and let the AI handle the cutting.
+
+### Q. How long does the AI editing process take?
+
+A.  Kyle says the full automated run — transcribe, cut, quality-check, and package — takes less than an hour on his own machine, and it runs mostly unattended. It works on a lower-resolution proxy file to keep the computer from bogging down, then renders the final 4K version only when it is time to upload.
+
+### Q. What does the AI still get wrong?
+
+A.  Enough that you must review every video. Kyle had runs where the audio drifted out of sync and the assistant missed it entirely. He recommends watching at least the first thirty to sixty seconds before publishing. The good news: each mistake you correct, a smart model tends to learn and stop repeating.
