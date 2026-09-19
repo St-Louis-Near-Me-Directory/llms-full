@@ -11,7 +11,7 @@ St Louis Near Me Directory is a **hyper-local business directory and done-for-yo
 St Louis Near Me Directory is both a **directory** (listings people browse and search) and a **done-for-you local-marketing service**:
 - **Business listings** across 18+ categories and hundreds of sub-categories, every St. Louis-metro city (Missouri + Illinois, 273 municipalities), and the 79 City of St. Louis neighborhoods.
 - A **free AI visibility audit** (`/free-audit`) and an optional **keyword heatmap** that show how findable a business is on Google and across AI search.
-- A **schema-optimized listing** (the foundation each member builds and maintains), plus optional **done-for-you tiers** in which the directory's AI agent (named "Mara") and team optimize the member's Google Business Profile, publish social posts, manage reviews, and sync business citations. Members always build and keep their own foundational profile active; the done-for-you service amplifies it rather than replacing it.
+- A **schema-optimized listing** (the foundation each member builds and maintains), plus optional **done-for-you tiers** in which our team optimizes the member's Google Business Profile, publishes social posts, manages reviews, and syncs business citations. Members always build and keep their own foundational profile active; the done-for-you service amplifies it rather than replacing it.
 
 ## What a business profile can include
 Beyond the basics (name, categories, hours, contact), a business can publish on its profile:
