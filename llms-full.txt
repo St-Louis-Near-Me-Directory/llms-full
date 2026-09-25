@@ -262611,3 +262611,108 @@ A.  Enough that the table still looks full on Sunday afternoon. A thin display r
 ### Q. Is consignment worth it for a small maker?
 
 A.  It depends entirely on the cut and on whether your retail price left room for it. Shops commonly keep a meaningful percentage and pay after the item sells, so your work and your money both sit somewhere you can’t watch. The upside is real: shelf space in front of regular customers without giving up a weekend. Read the agreement for who covers loss or damage, how often you get paid, and how unsold work comes back. If the split breaks your margin, wholesale or your own table is the better route.
+
+## AI Stopped Answering. Now It Acts.
+Source: https://stlouismissourinearme.com/blog/ai-agents-local-search-st-louis-business
+
+Picture a Tuesday night in Festus. The water heater quits. A year ago you’d grab your phone, search “water heater repair near me,” and start reading reviews at 9 p.m. Tonight you do something different. You text a phone number one sentence: “My water heater died, get someone out here in the morning.”
+
+Twenty minutes later your phone buzzes. Booked. 8 a.m. Confirmed. You never saw a single business name. An AI picked one for you. And here’s the part that should stop every St. Louis owner cold: it picked whoever it could read, trust, and reach, not necessarily the best plumber in the metro.
+
+That’s not a someday story. That machine already exists.
+
+The Bottom Line
+
+AI is moving from answering questions to acting on them: booking, buying, and choosing for the customer.
+
+Consumers using AI to find local businesses jumped from 6% to 45% in a single year (BrightLocal Local Consumer Review Survey, 2026).
+
+Agents pick the business they can read, trust, and name. If a machine can’t understand you, you’re invisible, even if you’re the best in town.
+
+A clean, structured, verified listing is now how you get handed the customer.
+
+### AI stopped answering. It started acting.
+
+The real shift isn’t smarter search, it’s software that does the task for you. For a couple of years, AI mostly answered questions. Now it books, buys, and decides. A recent podcast from Greg Isenberg and Remy Gaskell, titled “Instinct AI is For Real,” put a name and a face on it.
+
+Instinct is an invite-only personal AI agent that lives inside iMessage. You text a phone number like you’d text a friend, and it goes and acts. In the demos it booked a haircut in Copenhagen, held a restaurant table, filed a Bali visa-on-arrival, and opened an Emirates Skywards account. It pays with a spend-limited virtual card and pulls context from your connected email.
+
+It even has a “trusted-person network,” where one person’s agent talks to another person’s. Agent to agent, no human in the middle.
+
+It’s not magic yet. It stalls when a job needs a phone app or a strange, non-standard checkout. And there’s a real catch worth naming out loud: users report it keeps copies of your email even after you disconnect Google. So this is early. But early is exactly when the rules get written.
+
+### So how will people actually find you now?
+
+They won’t. Their AI will, and the numbers already show the turn. Consumers using AI to find local businesses jumped from 6% to 45% in a single year (BrightLocal Local Consumer Review Survey, 2026). That’s not a gentle trend line. That’s the old way of getting found closing fast.
+
+Here’s what changes for you as a customer. You stop scrolling ten blue links. You say what you need, the agent narrows the field to one or two options, then it acts. The choosing happens before you ever see a business name.
+
+So the question flips. It’s no longer only “where do I rank on Google?” It’s “when an agent goes looking near Lake St. Louis or O’Fallon, can it find me, understand me, and trust me enough to hand over its human?” Those are three separate tests, and most local businesses pass none of them.
+
+### What happens to the business the AI can’t read?
+
+Nothing happens, and that’s the whole problem. The agent doesn’t call you a bad business. It just never mentions you. You don’t lose the pitch, you never get in the room. I’ve watched this pattern play out with search for years, and agents make it faster and a lot quieter.
+
+Think about how Instinct actually works. It reads structured information, checks context, and needs a clean path to act. If your hours are trapped inside a Facebook photo instead of real text, if your services are buried in a slow website, if your name, address, and phone don’t match across the web, the machine shrugs and moves to a competitor it can read in one pass.
+
+Here’s the blunt version, from someone who learned it the hard way. Being great at your actual job is table stakes now. If a machine can’t read you, you don’t exist in the moment your customer needs you. The best HVAC tech in Dardenne Prairie loses to an average one with cleaner data. Not fair. Still true.
+
+### How do you become the one the agent hands the customer to?
+
+You make yourself easy to read, easy to trust, and easy to name. That’s the entire game. An agent like Instinct still stalls on messy checkouts and missing details, so businesses with clean, structured, verified information win by default. A strong directory listing does that heavy lifting for you. For the bigger picture, here’s how St. Louis businesses can actually use AI.
+
+Here’s how a St Louis Near Me Directory listing feeds the tools your customers now trust.
+
+### Be readable to the AI engines
+
+Agents and AI answer tools pull from structured, consistent sources. A clean listing states your name, service, area, hours, and so much more, in a format a machine reads instantly, with no guessing and no dead ends. When the engine builds its shortlist, you’re already on it.
+
+### Be trusted enough to get picked
+
+Instinct leans on trust signals and a network of vetted connections before it acts. A directory that verifies and organizes local businesses gives an agent a reason to choose you over a name it can’t vouch for. Trust is the tiebreaker, every single time.
+
+### Be honest about data, and stay that way
+
+Let me be straight with you, because plenty of marketers won’t. Instinct reportedly keeps copies of your email even after you disconnect Google. That’s the trade you make with a tool that reaches into your inbox. We work the other way around: we only read public information about your business, and your data stays yours. No inbox, no surprises.
+
+### Be named across local search
+
+Consistent listings also strengthen the SEO and local-search visibility you already care about. The same clean data that helps an agent helps you show up in ordinary Google searches and map results. One fix, three payoffs: AI engines, search rankings, and the neighbor who still Googles you by hand.
+
+### So, is AI naming you, or your competitor?
+
+That’s the only question that matters tonight. Right now, in your category, an agent is quietly building a shortlist for somebody in Jennings or Pacific. You’re on it or you’re not, and most owners honestly have no idea which one it is.
+
+You can find out. We built a free AI-visibility audit that shows whether the tools your customers use can actually find and read your business. No pitch, no pressure, just a straight answer. See where you stand at stlouismissourinearme.com/free-audit.
+
+And if your team or organization wants to understand this shift firsthand, I also teach AI workshops for local businesses around the metro.
+
+### Frequently asked questions
+
+### Q. Do AI agents really book real services yet?
+
+A.  Yes. The Instinct agent shown on the Isenberg and Gaskell podcast booked a haircut, held a restaurant table, filed a Bali visa-on-arrival, and opened an airline account, paying with a spend-limited virtual card. It’s invite-only and early, but the acting is real, not a concept video.
+
+### Q. Will this replace Google for finding local businesses?
+
+A.  Not overnight, but the move is quick. Consumers using AI to find local businesses went from 6% to 45% in one year (BrightLocal Local Consumer Review Survey, 2026). Regular search still matters plenty. The smart play is being readable to both at the same time, to feed both surfaces.
+
+### Q. Isn’t my website enough on its own?
+
+A.  Often, no. Agents stall on slow sites, phone-only apps, and odd checkouts, and Instinct hits those same walls. If your key details live in images, PDFs, or a clunky page, a machine may skip you. Structured, consistent listings give it a clean path to act.
+
+### Q. What makes a business readable to an AI agent?
+
+A.  Consistency and structure. Your name, address, phone, hours, and services should match everywhere and sit in a format machines parse fast. When your details conflict across the web, an agent doubts you and moves on to a competitor it can confirm in a single look.
+
+### Q. How do I find out if AI can see my business?
+
+A.  Run a check. Our free AI-visibility audit shows whether today’s tools can find, read, and trust your listing. It takes minutes and costs nothing. Start at stlouismissourinearme.com/free-audit and you’ll know exactly where you stand.
+
+### The bottom line for St. Louis owners
+
+The machine in that Festus kitchen isn’t coming someday. It’s here, and it’s already choosing. Instinct is just the loud, early proof that AI now acts instead of only answering. The businesses that win the next few years won’t be the loudest, or even the best. They’ll be the ones a machine can read, trust, and name out loud.
+
+You don’t need to master the tech. You need to be legible to it. Clean data, verified details, and a listing built for how people actually search now, that’s how you stay in the room when a customer needs you.
+
+Don’t let a competitor with worse work and better data take the call that should have been yours. Refuse to be invisible.
