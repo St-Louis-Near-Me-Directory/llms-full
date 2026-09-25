@@ -1659,6 +1659,7 @@ The Shift Already Happened
 
 ### People aren’t searching for a provider anymore. They’re asking AI.
 Across the country — and right here in St. Louis — customers have stopped scrolling through ten listings. They ask ChatGPT on their laptop, Gemini on their phone, Perplexity on their tablet: “Who’s the best [service] near me?” — and they call whoever the AI names.
+In just one year, the share of consumers using AI to find local businesses jumped from 6% to 45% . (BrightLocal Local Consumer Review Survey, 2026) 
 Camp 1
 
 ### Already getting cited by AI
@@ -1670,6 +1671,21 @@ Camp 2
 They’ve realized the AI recommends someone else, and now they’re scrambling to figure out how to get in the answer at all.
 
 Which one are you? 
+
+Why It Names Them, Not You
+
+### A website is built for humans. AI recommends from facts.
+AI assistants don’t browse the way you do. To recommend a business, they lean on machine-readable facts — structured, explicit details about who you are, what you do, and where you do it — repeated consistently across sources they already trust . The business that gets named isn’t always the best one. It’s the one the AI can actually read, verify, and trust.
+✓
+Machine-readable, not just good-looking Your hours, services, and service area written in a structured, AI-native format — not locked inside a page built only for human eyes.
+
+✓
+Consistent everywhere it counts The same name, address, and phone, corroborated across sources. Contradictions make an AI hedge — or leave you out of the answer entirely.
+
+✓
+On sources the AI already trusts A lone facts file on your own site is one weak signal. We actively feed the AI crawlers with verified, current signals from a consistent, locally-relevant source — which counts for far more.
+
+Structured, consistent, AI-fed, and locally relevant — that’s what an AI actually weighs for a local recommendation. Your free check shows which of these you’re missing — and exactly why the AI is naming someone else.
 
 The Quiet Cost
 
@@ -1696,7 +1712,7 @@ Free · By Email
 Find out if AI can see you.
 
 - ✓ Your AI Visibility Score 
-- ✓ For your main “[service] in [city]” question: which of ChatGPT, Gemini, Claude & Perplexity name you 
+- ✓ For your main “[service] in [city]” question: which of ChatGPT, Gemini, Claude, Perplexity & Google AI Overviews name you 
 - ✓ Who the AI recommended instead 
 - ✓ Your single biggest gap 
 - × Your top 10 services & keywords across all engines 
@@ -1710,14 +1726,14 @@ Most owners choose this $197 One-Time
 Find out exactly what’s wrong — and what to do.
 
 - ✓ Everything in the free check, plus: 
-- ✓ Your top 10 services & keywords tested across ChatGPT, Gemini, Claude & Perplexity 
+- ✓ Your top 10 services & keywords tested across ChatGPT, Gemini, Claude, Perplexity & Google AI Overviews 
 - ✓ Competitor comparison — who AI names, and why 
 - ✓ Citation landscape — the sources AI actually trusts 
 - ✓ How much AI demand exists in your category 
 - ✓ Prioritized, plain-English fix list 
 - ✓ A client-ready PDF you own 
 Do it yourself, hand it to your web guy — or want some help? Either way, the report is yours.
-$197 one-time · then $50 off your first year of Gold 
+$197 one-time · others charge $499 for this 
 Get My Full AI Visibility Report → Already purchased? Email your NAP, services & keywords to content@stlouismissourinearme.com and we’ll send your report within 24 hours.
 
 The free check tells you if . The full report tells you what and how . If it’s your own business on the line, you probably want to actually know.
@@ -1796,14 +1812,12 @@ What do you do with my Google Business Profile? ❯ Nothing. We only read what�
 How do I start, and how fast do I get it? ❯ Email us your business name, address & phone, your preferred keywords, and your main services. We build the report by hand-checked automation and email it back — usually within 24 hours. No login and no account access required.
 Can I really just take the paid report to my own web person? ❯ Absolutely. The report is written in plain English and it’s yours — do the fixes yourself, hand it to your web person, or ask us for help. No lock-in, no pressure.
 Will you spam me after the check? ❯ No. We may reach out once to walk through what your results mean — especially if there are easy fixes. After that, you control the conversation. Unsubscribe anytime.
-What if I want to learn more first? ❯ Take a look at why business owners choose us, or compare our plans. The check will be here when you’re ready — and your results will make those pages much easier to read in your own context.
+What if I want to learn more first? ❯ Honestly? The fastest way to get the information you need is to run the free check first — then make any other decision after your report is in hand. Reading about plans or options in the abstract is guesswork; your own results turn it into a specific, personal picture. Get the free check, then decide everything else from there.
 
 ### Is AI recommending you — or your competitor?
 No credit card. Email us your details and get the knowledge you deserve.
 Get My Full AI Visibility Report → 
 St Louis Near Me Directory  ·  Maryland Heights, MO  ·  (314) 756-8500
-
-
 ## Improve Online Visibility in St. Louis
 Source: https://stlouismissourinearme.com/improve-online-visibility-in-st-louis
 
