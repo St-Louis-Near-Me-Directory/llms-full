@@ -2857,7 +2857,8 @@ Source: https://stlouismissourinearme.com/free-audit
 The Shift Already Happened
 
 ### People aren’t searching for a provider anymore. They’re asking AI.
-Across the country — and right here in St. Louis — customers have stopped scrolling through ten listings. They ask ChatGPT on their laptop, Gemini on their phone, Perplexity on their tablet: “Who’s the best [service] near me?” — and they call whoever the AI names.
+Across the country — and right here in St. Louis — customers have stopped scrolling through ten listings.
+They ask ChatGPT on their laptop, Gemini on their phone, Perplexity on their tablet: “Who’s the best [service] near me?” — and they call whoever the AI names.
 In just one year, the share of consumers using AI to find local businesses jumped from 6% to 45% . (BrightLocal Local Consumer Review Survey, 2026) 
 Camp 1
 
@@ -2912,7 +2913,7 @@ Find out if AI can see you.
 
 - ✓ Your AI Visibility Score 
 - ✓ For your main “[service] in [city]” question: which of ChatGPT, Gemini, Claude, Perplexity & Google AI Overviews name you 
-- ✓ Who the AI recommended instead 
+- ✓ Who the AI recommended  instead 
 - ✓ Your single biggest gap 
 - × Your top 10 services & keywords across all engines 
 - × Competitor comparison 
@@ -2971,6 +2972,8 @@ We ask the major AI engines the questions your customers ask, read your public d
 
 ### Your report arrives by email
 Usually within 24 hours. Your score, who AI names for you, and who it named instead — and, on the paid report, exactly what to fix. Want help after? Just ask.
+
+The full report is thorough: ~30 questions each run on 5 engines ≈ ~150 answers analyzed.
 
 St Louis Near Me Directory
 
@@ -103941,13 +103944,34 @@ Source: https://stlouismissourinearme.com/ai-workshops
 
 ### Practical sessions on how customers actually find local businesses now. Tell us if you're interested.
 
+Join the Interest List 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+St Louis Near Me Directory runs hands-on, plain-English AI workshops for St. Louis small-business owners — in-person sessions across the metro on what AI actually changes for a local business, with no jargon and nothing to buy.
 More and more, people looking for a local business never see a page of blue links. They ask, and something hands them a short answer — a few names, assembled for that one person.
 It works that way whether somebody is looking for a salon, a school program, a restaurant, an attorney, a contractor, or anything else. If your business isn't in that answer, you weren't outranked. You weren't there.
 How do I get my business to show up in AI searches?
 AI answers are assembled from sources that already describe your business consistently — your Google Business Profile, directory listings, your own site, and reviews. There is no button to press and nothing to buy. What moves the needle is being described the same way everywhere, in plain language, with the details an assistant needs to answer a question: what you do, where, hours, and what you handle. Start by asking an AI assistant about your own business and reading what it gets wrong.
 
 That shift is the reason for these workshops. Most businesses simply don't know what AI can do to help them — and people tend to fear what they don't know. We can show you.
+Who offers AI training and workshops for small businesses in St. Louis?
+St Louis Near Me Directory offers hands-on AI workshops for St. Louis small-business owners, run by Lane Forman, who builds the local directory with AI tools daily. Sessions are practical and in plain English; dates and venues are being set — join the interest list to be notified.
 
 ### What this actually is
 A working session for St. Louis owners and managers who keep hearing that AI changes everything and have had nobody explain, in plain English, what it changes for them . No jargon, no acronyms left undefined, no assumption that you already know what any of it means.
@@ -103973,6 +103997,7 @@ My name is Lane Forman. I run St Louis Near Me Directory — local businesses ac
 We're planning multiple dates and venues. Let us know you're interested and we'll notify you.
 No charge to be on the list, and your email doesn't go anywhere else. 
 
+Coming with a group, or ready to go deeper? Take the 2-minute pre-session survey so we can tailor the session to you.
 Prefer to just ask a question? The contact page reaches me directly.
 
 ### Questions people actually ask
@@ -104011,7 +104036,6 @@ None of this waits on a workshop. Everything below is free to read, written for 
 - What AI Won’t Replace in a Local Service Business The licensed, physical and judgment work that stays yours. 
 - The AI Rules People Quote, and Whether Any of Them Hold Up The tidy-sounding rules that circulate, checked against where each one came from. 
 - How to Judge an AI Course Before You Pay for One The questions to ask any course before paying — including this one.
-
 ## Alton, IL City Guide
 Source: https://stlouismissourinearme.com/alton-il
 
