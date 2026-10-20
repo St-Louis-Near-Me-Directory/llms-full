@@ -262837,3 +262837,201 @@ A.  It depends on the pantry. The St. Louis Area Foodbank says “This may inclu
 ### Q. Can I take the Missouri credit and a federal deduction for the same gift?
 
 A.  You can, but Missouri takes part of it back. If you listed the donation as a charitable contribution on your federal Schedule A, the Department of Revenue says you must add that amount back on Form MO-A.
+
+## One Pencil Line: Can You Draw Your Own House Plans Without an Architect?
+Source: https://stlouismissourinearme.com/blog/can-you-draw-your-own-house-plans-without-an-architect
+
+“Not a licensed architect.” Four words in pencil, in the corner of a plan you drew at your own kitchen table, copied five times and rolled tight under one arm.
+
+### Can you draw your own house plans without an architect?
+
+Yes, for a dwelling house or a flat containing not more than two families. Those four words are the price of admission: Missouri’s exemption holds only when your drawings indicate that you are not a licensed architect.
+
+Unroll the plan on the table and run a finger past the kitchen, past the new closet, to the spot where the old wall comes out. That is where the knot in your stomach lives. The header over the new opening. The joist under the new tub. The beam that has to carry what the wall used to carry. Missouri hands you that pencil too: one law covers the architecture and its twin covers the engineering (Section 327.101 and Section 327.191). What neither one hands over is the title.
+
+In St. Louis, moving one interior wall takes a building permit. Drawing the whole house it stands in takes no architect’s license.
+
+This page starts where our guide to when Missouri law requires an architect leaves off: five rolled sets going across a counter at City Hall, and a stranger reading your pencil lines for the first time.
+
+### The pencil line, and its twin for the engineer
+
+Put them in the title block of every sheet, the small box where the project name and date go. Plain words work: “Prepared by the owner. Not a licensed architect. Not a licensed professional engineer.” Section 327.101 asks for its note on any drawings, specifications, estimates, reports or other documents, so it belongs on your materials list and your written scope too. Leave it off and the exemption has nothing to stand on.
+
+Then the city adds a line most homeowners never hear about until a reviewer asks. Under Ordinance 71063, the City of St. Louis requires new residential construction to be “solar-ready,” and plans for one- and two-family homes have to illustrate the feasibility of a future solar energy system installation. Nobody is making you buy panels; the drawing just has to show the house could take them. If you are drawing a brand-new house on a vacant lot in Dutchtown or off South Grand, that is a sheet, or at least a note, the city expects to see.
+
+### What does the St. Louis permit counter actually ask for?
+
+To make a building permit application in St. Louis City, at a minimum, you will need four things, according to the Building Division’s permit page: the address of the project, a $25 application fee, a letter of authorization from the property owner if you are not the owner of record, and project plans. Online, the portal takes .pdf, .jpg, .png and Word files, so a clean scan of a pencil drawing will upload. In person, bring five copies of the plans to the Permit office in City Hall during business hours, and know that only check or cash payment is accepted. That is five rolled sets on the counter, with a checkbook or folded bills beside them. Not sure your sheets are enough? Call the Permit Section at (314) 622-3313 before you print all five.
+
+The fee comes in two bites. You pay the $25 application fee when you file. The permit fee waits until every reviewer has signed off, and on a job over $3,000 it runs $10 per thousand of estimated construction cost. A small job, up to $1,000 of estimated cost, totals $44. Every dollar paid is non-refundable, so write down an honest estimate, not a hopeful one.
+
+Or skip the counter and the paper. The city now runs applications, plan uploads, fees and status tracking through its STL City Permits portal, and the contractors who pull permits every week noticed. “I’ve submitted permits online and had them back in three days, whereas before it would take weeks,” John Meller of City Carport said in the city’s announcement. “If something’s missing, they just email me.” That email is what a returned plan feels like now. Not a clerk sliding your pages back across a desk, but a buzz in your pocket while you are standing in the lumber aisle.
+
+### What makes the permit office send your plans back?
+
+I could not find a city list of reasons homeowner plans get bounced, and I won’t invent one. After you file, feedback starts arriving from the various city staff assigned to your project, and which agencies review it depends on the job. The city says the portal integrates review workflows across zoning, planning and inspections, so expect questions from more than one desk, and fix each answer on the drawing itself.
+
+The bigger surprise is how much work needs a drawing at all. In a Soulard rowhouse or a Benton Park two-family, the urge is to call it “just a wall.” The city’s residential permit criteria say otherwise: a permit is required for the removal or installation of any partition in a habitable space, for any cutting or removal of structural beams or joists, for decks, porches and retaining walls, and for turning a basement or attic into living quarters. Separate permits for plumbing, mechanical and electrical work are also required when applicable.
+
+And there is one hard stop. The city’s rebuilding guidance puts it plainly: if your property is structurally condemned, you need an architect to make your construction drawings to get a building permit. Not sure where your house stands? The same page lists a line to speak with a Plan Examiner, 314-622-3332. Make that call before you draw a single line on a condemned house, because no title-block note fixes it.
+
+Smallest floor plan you’ll ever love: an RV parked near St. Louis.
+
+### Does an addition change the answer?
+
+Not on a dwelling house. Missouri’s exemption covers architectural services “in connection with the construction, remodeling or repairing” of a privately owned dwelling house. The city still lists “room additions and/or extensions or enlargement of existing rooms” under work that requires a building permit, so the drawing has to answer every reviewer who opens it.
+
+The building is what changes the answer. On a three- or four-family flat, the state’s break shrinks: it covers remodeling and repairing only, and only where the work does not affect the building’s architectural or engineering safety features. The word construction isn’t in that clause, so read it twice before you sketch an addition onto a four-family.
+
+Then there is the brick front your neighbors walk past every morning. If your property sits in a City historic district or is a City landmark, exterior work goes through the Cultural Resources Office, which keeps design standards for the city’s 14 historic districts and 112 landmarks. Call (314) 657-3865 before you draw the street side of anything.
+
+### When should you put the pencil down and call someone?
+
+When the building isn’t a house or a two-family. When the city has called it structurally condemned. When you are guessing at a beam size and the guess is the only thing holding up the second floor. The law lets you sign that beam as the owner; it does not make the math right.
+
+Help does not have to mean handing over the whole job. Shortlist two or three architects or drafters, interview each one, and tell them exactly what you have drawn and what you want from them: a review of your set, the structural sheet only, or the full drawings. Then compare what each says they will actually deliver.
+
+More for the same project:
+
+Building inspections in St. Louis: occupancy permits, code and who shows up
+
+How to check if a contractor is licensed in Missouri
+
+Hiring a landscape architect in St. Louis
+
+Buying building supplies in St. Louis
+
+Kitchen remodel cost in St. Louis: how to budget and hire
+
+Drew most of it yourself and want a licensed eye on the hard sheet? Start with Architects on St Louis Near Me Directory, pick two or three, and ask each what a review of your owner-drawn set would cover.
+
+If you’re the architect or drafter who reviews homeowner sets in St. Louis, this reader is already looking for you. More customers are searching for exactly that kind of help here, so list your business where they can find it.
+
+### Frequently asked questions
+
+### Q. Can you draw your own plans for a building permit?
+
+A.  Yes, in Missouri, for a privately owned dwelling house or a flat containing not more than two families. State law lets a person who is not licensed render architectural services for those buildings, as long as the drawings indicate the person is not a licensed architect, and, for engineering services, not a licensed professional engineer.
+
+### Q. Can I design my own house without an architect?
+
+A.  Yes. Missouri’s exemption covers the construction of a dwelling house, not just repairs, so a new single-family home can be drawn by its owner with the required “not a licensed architect” note. In the city, plans for a new one- or two-family home also have to show the feasibility of a future solar energy system under Ordinance 71063.
+
+### Q. What are the minimum requirements to apply for a building permit in St. Louis City?
+
+A.  The project address, a $25 application fee, a letter of authorization if you are not the owner of record, and project plans. Apply online through STL City Permits, or bring five copies of the plans to the Permit office in City Hall during business hours, where only check or cash is accepted.
+
+### Q. What documents are needed for a building permit?
+
+A.  In the city, the application, your project plans, and an owner’s letter of authorization if someone else is applying. Separate permits for plumbing, mechanical and electrical work are also required when applicable. If the property is in a FEMA flood area, a Floodway Development Permit is required even when the building code does not require a building permit.
+
+### Q. What if I build without a permit?
+
+A.  A city building permit is the formal and legal authorization to start construction; work done without one has none. The city also keeps a public search where anyone can enter a city address and see past permits issued for that property. If work already happened, call the Permit Section at (314) 622-3313 and ask how to get it permitted.
+
+### Q. How much is a building permit in St. Louis County?
+
+A.  I couldn’t verify St. Louis County’s current fee schedule against its own site, so I won’t quote one here. Call the building department for your address. For comparison, the City of St. Louis charges a $25 application fee plus a permit fee of $10 per thousand of estimated cost on jobs over $3,000.
+
+### Q. Do you need an architect to build an extension?
+
+A.  Missouri’s owner exemption covers architectural services in connection with the construction, remodeling or repairing of a privately owned dwelling house, as long as the drawings carry the “not a licensed architect” note. In the city, room additions and extensions of existing rooms still need a building permit. A three- or four-family building is different: its exemption covers only remodeling and repair that does not affect the building’s safety features.
+
+## Come Alone, Not Late: Single at 40? Where to Go on a Friday Night in St. Louis
+Source: https://stlouismissourinearme.com/blog/where-40-year-old-singles-go-on-a-friday-night-in-st-louis
+
+Showing up alone isn’t the mistake. Showing up late is: you’re on a dark sidewalk in Grand Center in your good shoes, music faint somewhere above you, knuckles stinging on a door nobody answers. The academy that runs the dance even warns you that “the Grandel is generally locked” and the dancers upstairs “will likely not hear you knocking.”
+
+### Where do 40 year old singles go on a Friday night in St. Louis?
+
+They go to rooms that hand them something to do besides stand at a rail and shout: a dance social with a short lesson up front, a trivia table, a late night at the art museum, a quiet bar where you can hear the person on the next stool. In St. Louis that Friday map runs through Forest Park, Grand Center, Cherokee Street and the west edge of downtown, and two of the best stops cost nothing and $12 to walk into. The free one has a twist most locals miss: at the Saint Louis Art Museum, “Admission to main exhibitions is free on Friday,” so the big ticketed show costs you nothing that night. That’s the line to text a friend. (Still sorting out which bar is which? Our guide to the types of bars in St. Louis and how to pick one covers the room types.)
+
+And the thing most people get backwards, straight from the academy’s own site: “Singles and Couples are welcome in all classes; no partner needed.” Coming alone is the normal way in.
+
+### Before you knock on the Grandel’s door
+
+Get it right and the moment is worth it: the door gives, the music drops down the stairwell all at once, and somebody upstairs is already counting out loud. Here’s how to be on the right side of it. The socials happen in the Grand Hall at The Grandel, 3610 Grandel Square, and the Grandel has a large parking lot across the street on the north-west side. Bring $12 cash or Venmo. Wear leather soles if you own them; the academy says “Dance shoes are preferred, but not required. Leather soled shoes are a great alternative, but no sneakers or flip flops, please.” Social dates are subject to change, so check the Monthly Dance Social page the week of, or call the academy at (314) 367-1001. Tell your friend the whole trick in six words: come alone, come early, leather soles.
+
+### The answer sheet does the talking
+
+You’re at a two-top with a pint going warm and a pencil worn flat on one side. The host leans into the mic and reads round three, question four, and you know it. You actually know it. At the next table, a woman is whispering the wrong answer to her friend, so you lean over: “It’s the second one.” She looks at you, looks at the sheet, writes it down. That’s the whole introduction. Nobody had to invent a line.
+
+The good rooms all work that way. Something starts at a set time, so you have a reason to walk in. Something sits in front of you to talk about: the sheet, the dance step, the painting. And there’s a natural break, the last chord or the host reading the answers, so you can drift back to your own table without it feeling like a rejection. A packed bar with a DJ gives you none of that. Save it for later, once you’ve met someone worth shouting over.
+
+The tell is your own shoulders. If they’re up near your ears in the first ten minutes, the room is wrong, not you.
+
+### What is a Friday ballroom social actually like?
+
+A line of strangers, an instructor counting out loud, leather soles scuffing the floor on the turn, everyone half a beat behind. The last posted social ran an American Tango lesson from 7:30 to 8 p.m., general dancing from 8 to 10 p.m., and light refreshments.
+
+That half-hour lesson is the trick. Everyone in it is learning the same steps at the same time, so your first words to a stranger can be about the steps. You don’t need to be good. The lesson starts at 7:30, so be on the right side of that door before it does.
+
+For a bigger, louder version, head south. The Casa Loma Ballroom on Iowa Avenue, in the Cherokee Street Antique Row district, was built in 1927 and has a 5,000-square-foot “floating” dance floor. The ballroom’s own site says it runs a 16- to 24-piece orchestra on Friday nights and oldies on Saturdays, but its event calendar is the thing to trust, so check it or call 314-282-2258 before you put on the good shoes. A full band, a wood floor that gives a little under your heels, and a room old enough that your grandparents could have danced there: that is a Friday you’ll talk about on Monday.
+
+### Is the art museum really a Friday night spot?
+
+By early evening the galleries go hushed. Shoes tap on stone floors. People drift alone, in pairs, in little clusters of friends, and nobody is in a hurry. It’s the easiest room in St. Louis to stand next to a stranger, because you’re both looking at the same thing. Walk a gallery, then walk out to dinner or a drink with the conversation already started.
+
+The Saint Louis Art Museum is open 10 a.m. to 9 p.m. on Fridays, admission is free every day, and the main exhibitions that charge the rest of the week are free on Friday.
+
+### What happens at City Museum after dark?
+
+On select Fridays, City Museum closes early to the public and reopens for City Nights, which run 7 to 11 p.m. and are “21+ only with valid ID.” The ticket includes general admission for the whole day, food, beer and cocktails are sold throughout the building, and the slides, climbers and ramps stay open to grown-ups.
+
+Here’s why it works when you’re single: it is impossible to look cool while crawling through a steel tunnel with your knees on the grate, so nobody tries. You end up laughing with whoever is stuck behind you. Wear jeans and closed-toe shoes. Leave the bag in the car.
+
+Off topic, but when did you last say hello to a giraffe? Start here.
+
+### Where can you meet singles in St. Louis without an app?
+
+The best places to meet singles in St. Louis are the ones with a repeat crowd: a weekly trivia night, a dance class series, a bar rail with the same bartender every week. One great night is luck. The third week in a row is when the regulars start saving you a seat.
+
+Trivia is the easiest door in. Call the bar a day ahead and ask three things: which night the trivia runs, how big a team can be, and will the host match a solo player with a table. If they say “just show up,” show up early and sit at the bar, not a booth.
+
+For a quieter night, a wine bar or a piano bar beats a club: the scrape of a stool, ice rattling in a shaker, a voice you don’t have to lean in to hear. You can sit at the counter, ask the bartender what they’d drink, and actually hear the answer. The person two stools over heard it too.
+
+### One night, neighborhood by neighborhood
+
+If you want one plan for fun adult things to do in St. Louis on a single Friday, string it together by neighborhood so the next stop is always a short drive away.
+
+Start in Forest Park with an hour in the art museum. Head east to Grand Center if the academy has a social that week and catch the 7:30 lesson. On a City Nights Friday, swap in City Museum downtown instead. On a band night, Cherokee Street is the swing and big-band choice, and you can eat on the street before the music starts. End wherever the conversation is still going. That’s the only rule that matters.
+
+More guides for the rest of the weekend:
+
+What to expect at a karaoke bar in St. Louis
+
+What to expect at a piano bar in St. Louis
+
+St. Louis dive bars worth pulling up a stool for
+
+Best date night restaurants in St. Louis, for when Friday turns into a second date
+
+Want a quiet bar with a seat open and a bartender who remembers your name by the third Friday? Browse Bars & Taverns on St Louis Near Me Directory by neighborhood, then call and ask what their Friday crowd looks like.
+
+If you’re the tavern, the dance hall or the trivia host, your Friday regulars all started as strangers searching for a room like yours. More of them are already looking here, so list your business and give them a reason to walk in.
+
+### Frequently asked questions
+
+### Q. What’s going on in St. Louis on Friday night?
+
+A.  Friday is the late night at the Saint Louis Art Museum, open until 9 p.m. with free admission and free main exhibitions. On select Fridays City Museum runs its 21+ City Nights from 7 to 11 p.m., and dance socials and band nights fill Grand Center and Cherokee Street. Check each venue’s calendar the week of.
+
+### Q. Where to meet singles in St. Louis?
+
+A.  Go where there’s a repeat crowd and a built-in reason to talk: a weekly trivia night, a ballroom or swing class, a dance social with a lesson first, or the same bar rail every Friday. Going back a second and third week is what turns faces into friends.
+
+### Q. Where to go in St. Louis at night?
+
+A.  Pair a calm first stop with a livelier second one: the art museum in Forest Park until 9 p.m. on Fridays, then a dance social in Grand Center, a band night on Cherokee Street or a City Nights Friday downtown. Finish at a quiet bar where you can hear each other.
+
+### Q. What are some fun adult things to do in St. Louis?
+
+A.  City Museum’s City Nights are 21+ only with valid ID and keep the slides and climbers open for grown-ups. Ballroom socials, trivia nights, piano bars and Friday nights at the art museum are all adult-friendly ways to spend an evening without a club’s volume.
+
+### Q. Where is the best place to meet single men over 40?
+
+A.  Rooms with an activity are easier for anyone who came alone, because there’s something to do: trivia teams, dance lessons, and the bar rail at a neighborhood tavern. Show up at the start time, join in, and let the break between rounds or songs do the introductions.
+
+### Q. Do you need a partner for a ballroom social in St. Louis?
+
+A.  No. The Ballroom Dance Academy of St. Louis says singles and couples are welcome in all its classes with no partner needed, and its socials open with a short lesson before general dancing. Arrive a few minutes early, since the Grandel is generally locked.
