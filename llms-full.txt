@@ -8669,85 +8669,65 @@ A.  No. A Google Business Profile is free to create and keep; Google charges onl
 Want to see the full feature walkthrough? Serve more than one town? Read the multi-location guide.
 If you’re the owner weighing Gold, read this part first. The Gold Plan page lays out everything - including the location-and-category mechanics with a worked example - and the free visibility audit shows where your business stands before you spend a dollar. If your sign fell down tomorrow, would anyone online still know you exist? When someone asks ChatGPT for the best in your field near them, whose name does it say? What if getting more customers didn’t mean handing another platform your card and hoping? See what may already be yours →
 
-## When a Contractor Won't Finish the Job (Missouri vs. Illinois Rules)
+## Felony in Illinois, Small Claims in Missouri: When a Contractor Won't Finish the Job
 Source: https://stlouismissourinearme.com/blog/contractor-wont-finish-the-job-missouri-illinois
-### What do you do when a contractor takes your money and disappears?
-Search that and you will be sent to a licensing board. Which board depends on the day: we pulled the live results from a Missouri location and page one was California’s CSLB, Arizona’s Registrar of Contractors, Tennessee, Florida, Massachusetts, North Dakota, Maryland, Louisiana.
-Not one of them has any authority over a contractor in Missouri. Missouri has no statewide contractor licensing board, which means there is no state agency that can suspend a license, order restitution, or make anyone come back and finish your kitchen. The complaint form everyone tells you to file does not exist here.
-That is genuinely worse for homeowners than it is in most states, and it is worth knowing before you hire rather than after. But “no board” does not mean no recourse. It means your leverage is in different places, and the order you use them in matters.
-### First: stop and write things down
-Before you make a single angry phone call, spend twenty minutes building a record. Everything below depends on it, and it gets harder to reconstruct the longer you wait.
-The contract, plus any change orders, texts, and emails where scope or timing was discussed. Texts count.
-Every payment — amount, date, method. Cancelled checks and card statements are stronger than memory.
-Dated photographs of the current state of the work. Take more than you think you need.
-A timeline: promised dates, actual visits, when contact stopped.
-The permit status. Call your municipality and ask whether a permit was pulled, in whose name, and whether any inspections passed.
-That last one is often the moment things become clear. A contractor who never pulled the permit has usually left you with unpermitted work as well as unfinished work — and that is a problem that resurfaces years later when you sell.
-### Second: send a written demand, and send it properly
-A phone call is not a record. A letter is. Send a short, unemotional written demand that states what was agreed, what was paid, what is incomplete, exactly what you want done, and a specific deadline. Send it by certified mail with return receipt, and email a copy.
-This is not a formality and it is not about being polite. Every step after this one goes better when you can show a judge that you asked plainly and gave them a chance. Some contractors also simply reappear at this point, because a certified letter reads differently than a voicemail.
-Keep it factual. Do not threaten things you are not going to do, and do not describe your feelings about the situation. Dates, dollars, deliverables.
-### Third: the leverage Missouri actually gives you
-With no licensing board in the picture, these are the levers that exist:
-### Small claims court — up to $5,000
-Missouri’s small claims division handles civil claims where the amount in controversy does not exceed $5,000, under RSMo 482.305. It is designed to be used without a lawyer, and for a deposit that vanished or a job abandoned partway, it is frequently the right tool.
-One useful wrinkle: if your damages exceed $5,000, you can choose to waive the excess and stay in small claims for the speed and the simplicity. You give up the difference permanently, so it is a real trade — but for a $6,500 loss, many people decide that recovering $5,000 in a few months beats chasing $6,500 for a year.
-### Associate circuit court, above that
-Larger claims move up to associate circuit court, where the process is more formal and a lawyer starts to make sense. If the number is big enough that you are weighing this, talk to a construction attorney before filing anything — the strategy differs and the deadlines are real.
-### The Missouri Attorney General’s consumer complaint
-The Attorney General accepts consumer complaints, and filing one is worth doing. Be clear-eyed about what it is, though: it builds a public record and can contribute to a pattern that draws enforcement attention. It is not a mechanism that gets your money back, and no one should wait on it instead of filing suit.
-### Your municipality’s permit office
-Underused, and in Missouri it is closer to a regulator than anything the state offers. If the contractor is registered in that city, the city has a relationship with them and an interest in how they behave. If the work was done without a required permit, the city wants to know that too. Call and describe what happened.
-### The Better Business Bureau
-No legal power, but a real effect on a business that depends on reputation, and the complaint stays visible to the next homeowner researching them. Low effort, worth the fifteen minutes.
-### Across the river: Illinois plays by different rules
-If your house is in Belleville, Edwardsville, O’Fallon, Collinsville, Alton or anywhere else on the Illinois side, almost everything above changes — in your favor. Illinois regulates this work at the state level in ways Missouri simply does not, and metro-east homeowners routinely do not realize how much more leverage they have.
-### Illinois requires a written contract over $1,000 — and a pamphlet before you sign
-Under the Home Repair and Remodeling Act (815 ILCS 513), a contractor doing home repair or remodeling work over $1,000 must give you a written contract, and it must state the total cost, the materials and parts, any charge for estimates, and how to contact the company.
-More useful still: before any contract is signed, the contractor must hand you a copy of the state pamphlet “Home Repair: Know Your Consumer Rights.” They must also disclose up front if the contract forces arbitration or waives your right to a jury trial.
-Think about what that gives you. If the contractor never produced a written contract, or never gave you that pamphlet, they were out of compliance from the first day — before any of the work went wrong. That is a concrete statutory failure you can point at, not a matter of opinion about workmanship. And the Act lets a damaged homeowner sue directly, or have the Illinois Attorney General or the county State’s Attorney pursue the violation.
-### Illinois licenses roofers. Missouri doesn’t license anyone.
-Roofing is the clearest example. The Illinois Roofing Industry Licensing Act (225 ILCS 335) requires a state license to do roofing work — with an examination, a designated qualifying party who actually participates in day-to-day operations, and a surety bond that must be filed and maintained before the license issues or renews.
-So on the Illinois side there is a real state license to verify, a real regulator to complain to, and a bond that may be reachable. Cross the river into Missouri and none of that exists for the same trade. Same metro, same contractor driving between both, completely different consumer protection.
-The practical takeaway for metro-east homeowners: ask for the Illinois license before you hire, and if a roofer is working your side of the river without one, that alone is worth stopping over.
-### Which state’s rules apply?
-Where the property is — not where the contractor is based. A contractor headquartered in St. Louis County working on a house in Belleville is doing Illinois work and owes you the Illinois protections. Plenty of crews work both sides and default to the looser habits of the Missouri side. That is your problem to catch, and it is easiest to catch before you sign.
-Illinois also has its own small claims process with a different dollar limit than Missouri’s $5,000. Confirm the current threshold with the circuit clerk in the county where the property sits before you decide where to file.
-### The lien problem nobody warns you about
-Here is the part that turns a bad situation into a much worse one, and it catches Missouri homeowners constantly.
-Under Chapter 429, a subcontractor or supplier who was not paid can place a mechanic’s lien on your property even if you already paid the general contractor in full. Your payment offsets the claim only to the extent it actually reached them. So a contractor who took your money, did half the work, and never paid the lumberyard can leave you facing a lien for materials you already bought once.
-Two things follow from that:
-If you receive a notice from a subcontractor or supplier, do not ignore it. They are required to give you ten days’ notice before filing, stating the amount and who owes it. That notice is your window to act — talk to a lawyer, and do not assume it will resolve itself.
-Stop paying, and get advice before you pay more. If a job has gone wrong, additional payments to the general contractor may not protect you from the subs at all. This is the point where an hour of a construction attorney’s time is genuinely cheap.
-Nothing to do with contractors — here’s Wydown Skinker, top to bottom.
-The preventive version, for next time: collect signed lien waivers from every subcontractor and supplier before you release final payment. Contractors who run real operations already do this.
-### What actually gets money back
-Honest answer, in rough order of how often it works:
-A credit card chargeback, if you paid that way and are still inside the dispute window. This is the single fastest remedy available and it is the one most people forget. It is also a strong argument for paying deposits by card rather than check or transfer — and a strong hint about contractors who insist on cash.
-Small claims. Slower, but effective for amounts in range, and a judgment is a real thing that follows a business around.
-A demand letter from a lawyer. Often cheaper than people assume, and the response rate is very different from a letter you sent yourself.
-Their next job. A contractor who wants to keep working in your municipality has more to lose from a permit-office complaint and a BBB record than from a letter.
-What generally does not get money back: online reviews, angry phone calls, social media posts, and waiting. Post the review if it is true — but do not mistake it for a remedy.
-### Hiring the person who finishes the job
-If you are now looking for someone to fix or complete the work, be honest with the next contractor about what happened and what condition the job is in. Many will not take over another crew’s unfinished work, and the ones who will need to see it before quoting. Hiding it wastes everyone’s time and yours most of all.
-Then vet this one properly, because the state will not do it for you. Our guide to checking whether a contractor is licensed in Missouri covers how verification actually works here — which municipality to call, why the permit question matters most, and how to confirm insurance without taking anyone’s word for it.
+The dumpster has been in the driveway so long the grass under it has gone yellow. Upstairs, the bathroom is studs and a bare subfloor, and the new vanity is still in its box in the hall, corners soft from being bumped every morning. The last text from the contractor said “back Monday.” That was three Mondays ago.
+Here is what most people in that hallway don’t know. The answer to “what can I do about it” changes at the Mississippi. Same crew, same truck, same bridge, and a different set of laws waiting on each bank.
+In Illinois, a contractor who takes deposits for work he never does can be charged with home repair fraud. When the Illinois Attorney General charged one fence company owner over work he allegedly never completed, the home repair fraud counts were Class 4 felonies, each punishable by up to three years in prison. In Missouri, the same walk-off usually lands in civil territory: a written demand, small claims court up to $5,000, and a complaint to the Attorney General under the Merchandising Practices Act.
+A house in Belleville and a house in St. Louis County can have the same half-finished bathroom and two very different sets of tools to fix it. Know which side of the river your tools come from before you pick up the phone.
+This is general information, not legal advice. When real money or a lien is on the line, an hour with a construction lawyer is cheap.
+### What to do if a contractor does not finish the job?
+Stop paying, and start a paper trail. Photograph the unfinished work, gather the contract, receipts and texts, then send a dated written demand by certified mail with a firm deadline. If nothing changes, file in small claims (Missouri caps it at $5,000) or talk to a lawyer, and file a consumer complaint with your state Attorney General.
+### The first hour: build the record before you make the angry call
+Your thumb is already over his name in your phone. Put it down for an hour. Everything that gets your money back later rests on what you write down now, and it only gets harder to rebuild.
+Walk the job with your phone and take more pictures than feel reasonable: the open wall, the missing trim, the tile stacked in the garage, the date on the screen. Then sit at the kitchen table with the contract, every change order, every canceled check and card statement, and the whole text thread. Texts count. A timeline goes on one sheet of paper: what he promised and when, when the crew actually showed up, and the day the phone went quiet.
+Call the permit office too. In the City of St. Louis that is the Permit Section at (314) 622-3313, 1200 Market, Room 425, open Monday - Friday 8:00 AM - 4:30 PM; in St. Louis County or on the Illinois side, call your own city or county building department. Ask whether a permit was pulled, in whose name, and whether any inspection passed. A contractor who never pulled one has left you unfinished work and unpermitted work, and the second problem shows up again the day you try to sell.
+### The letter that changes the tone
+A voicemail is easy to ignore. A certified letter that someone has to sign for at his front door is not, and the signed return-receipt card that comes back in your mailbox is proof he got it. Keep it short and flat: what you agreed to, what you paid, what is not done, what you want, and the date you want it by. No adjectives, no threats you won’t carry out. Dates, dollars, deliverables.
+Some contractors come back the week that letter arrives. The ones who don’t have just handed you Exhibit A, because every next step goes better when you can show you asked plainly and gave him a fair chance.
+If you also paid a deposit and he never showed up at all, that is a different story with its own playbook. Our guide on what to do when a contractor took your money and disappeared covers the vanished-deposit version. This page is about the job that was started and then abandoned.
+### On the Missouri side: your levers
+Missouri small claims is built for exactly this fight. Under RSMo 482.305, the small claims judge hears civil cases where the amount in controversy does not exceed five thousand dollars, and RSMo 482.310 says parties may bring their claims without the assistance of an attorney. You sit on a hard bench with a folder on your lap, photos in date order, the letter and the receipt card on top. When your case is called, you tell the story in plain words and the judge decides.
+The Missouri Attorney General enforces the Merchandising Practices Act, RSMo 407.020, which makes it unlawful to use deception, fraud, false promise or misrepresentation in connection with a sale. The AG’s office takes consumer complaints and says it mediates disputes between businesses and consumers. Enclose copies of your contract, invoices and canceled checks, never the originals. The Consumer Protection Hotline is 1-800-392-8222. Be clear-eyed: the office acts for the state, not for you personally, and says it cannot give you legal advice.
+Missouri’s Merchandising Practices Act also lets a consumer bring a private suit for actual damages under RSMo 407.025. That is lawyer territory. So is any claim large enough that you are tempted to skip small claims.
+And watch the clock. RSMo 516.120 gives five years for actions upon contracts, except those covered by RSMo 516.110, which allows ten years for an action upon a writing for the payment of money. Which one fits your contract is a question for a lawyer, but neither is a reason to wait.
+Need an afternoon away from the drywall dust? Walk Wydown Skinker and let somebody else’s finished porches remind you how this ends.
+### The lien trap: paying in full doesn’t always protect you
+This is the part that turns a bad month into a bad year. Missouri’s mechanic’s lien law requires a written warning to owners, in bold type: “FAILURE OF THIS CONTRACTOR TO PAY THOSE PERSONS SUPPLYING MATERIAL OR SERVICES TO COMPLETE THIS CONTRACT CAN RESULT IN THE FILING OF A MECHANIC’S LIEN ON THE PROPERTY.” The notice points to Chapter 429, the same chapter that spells out when a subcontractor has a lien.
+Read that sentence again with the half-finished bathroom in mind. If the contractor took your money and never paid the tile supplier, the supplier may come after the house.
+Two dates matter. A party who wants a lien has to give ten days’ notice before filing it, under RSMo 429.100, and the lien claim has to be filed within six months after the debt accrued, under RSMo 429.080. If an envelope from a supplier you have never heard of shows up, do not set it on the counter. That is your window to call a lawyer.
+The same statute tells you the fix for next time: ask the contractor for “lien waivers” from everyone supplying material or services. Get them in hand before you write the last check.
+### Across the river: Illinois puts more in your hands
+If the house is in Belleville, Edwardsville, O’Fallon, Collinsville or Alton, open the contract and look at it again. Illinois wrote more of the rules down.
+Under the Home Repair and Remodeling Act, before starting home repair or remodeling work for over $1,000, the contractor has to give you a written contract or work order for signature stating the total cost, including parts and materials. The contractor also has to hand you the state pamphlet “Home Repair: Know Your Consumer Rights” before the contract is signed, and you sign an acknowledgment that you got it.
+No contract, or no pamphlet, and the contractor was out of compliance before the first wall came down. A person who suffers actual damage from a violation of that Act can sue under Section 10a of the Consumer Fraud and Deceptive Business Practices Act.
+Then there is the criminal side. Illinois treats home repair fraud as a crime, and the Attorney General uses it. In one case the office charged the owner of a suburban fencing company after eight consumers made down payments totaling $20,449 and the fences were never installed. A charge is not a conviction. A contractor who simply ran out of money is not the same as one who never meant to do the work, and that line is for prosecutors and courts to draw.
+Roofing is the trade where the gap is sharpest. Illinois issues a roofing contractor license, and before issuing or renewing one the state requires the licensee to file and maintain a bond. On the Illinois side, ask for that license number before anyone climbs a ladder.
+To complain, use the Illinois Attorney General’s online consumer complaint, which the office calls the preferred method. Its Consumer Protection Division offers informal dispute resolution, but like Missouri’s office, it cannot represent you privately.
+### Finding the crew that finishes it
+Tell the next contractor the truth about what happened, and let them walk the job before they quote. Many crews won’t touch another crew’s half-done work, and the ones who will need to see the open wall with their own flashlight.
+Then vet them properly before any money moves:
+Check local licensing and permits with our guide on checking whether a contractor is licensed in Missouri.
+In Illinois, insist on the written contract and the consumer rights pamphlet.
+Pay by card where you can, tie payments to finished stages, and collect lien waivers before the last check.
+Before you buy, know what home inspections miss.
+Ready to hire the crew that actually finishes? Browse local pros on St Louis Near Me Directory, ask each for a written contract, and compare at least two quotes before anyone touches the open wall.
+If you’re the contractor who shows up Monday when you said Monday, the homeowner standing in that half-finished bathroom is looking for you right now. A Gold listing puts your work, your photos and your reviews where those customers search. Get in front of more customers.
 ### Frequently asked questions
+### Q. What is contractor abandonment?
+A.  It is the plain-English name for a contractor who starts a job and stops showing up without finishing it or ending the contract properly. Whether it counts as a breach of your contract depends on its terms and the facts, so write down the last day anyone worked and send a dated written demand before you hire someone else.
 ### Q. Is it worth suing a contractor?
-A.  Often yes for amounts within Missouri’s $5,000 small claims limit, where you can file without a lawyer and resolve it in months. Above that, weigh legal costs against the amount and, importantly, against whether the contractor has assets worth collecting from — a judgment against a business that has dissolved is paper. Ask a lawyer that question before filing.
-### Q. Can I call the police on a contractor?
-A.  Usually this is a civil matter, not a criminal one, and police will say so. It can cross into criminal territory when there is clear fraud — a fake identity, a pattern of taking deposits with no intent to perform, forged documents. If you believe that describes your situation, report it and also file with the Attorney General, since patterns across multiple victims are what draws enforcement.
-### Q. What should you not say to a contractor?
-A.  Once a dispute starts, avoid saying anything that could read as accepting incomplete work or agreeing to a new deal verbally. Do not threaten actions you will not take, and do not negotiate significant changes by phone. Put scope, money, and deadlines in writing — a text thread is a record, and a phone call is not.
-### Q. How to get money back from a bad contractor?
-A.  Fastest is a credit card chargeback if you paid by card and are within the dispute window. After that: a written demand sent certified, then small claims for amounts up to $5,000, or a lawyer’s demand letter for larger sums. In Missouri there is no licensing board that can order restitution, so recovery comes from the card issuer or the courts.
-### Q. Does Illinois require a written contract for home repair?
-A.  Yes. Under the Home Repair and Remodeling Act, work over $1,000 requires a written contract stating total cost, materials and parts, any estimate charge, and company contact information. The contractor must also give you the state's “Home Repair: Know Your Consumer Rights” pamphlet before you sign, and disclose any arbitration clause or jury-trial waiver. Missing any of that is a statutory violation independent of the workmanship.
-### Q. Who do you complain to about a contractor in Missouri?
-A.  There is no state contractor board, so complaints go to three places instead: the municipality that licenses or permits the work, the Missouri Attorney General’s consumer protection process, and the Better Business Bureau. The permit office is the one most people skip and the one closest to having real leverage.
-### Q. Can a subcontractor lien my house if I paid the contractor?
-A.  Yes. Under Missouri’s Chapter 429, your payment to the general contractor offsets a claim only to the extent it was actually paid through. An unpaid subcontractor or supplier can pursue a lien against your property regardless. They must give ten days’ notice before filing — treat that notice as urgent, and get advice before making further payments.
-Before you hire anyone next time: how to verify a contractor in Missouri and what home inspections miss. Or browse local pros on St Louis Near Me Directory.
-If you’re the contractor who does finish the job, these questions are for you. The machines are answering for your customers now. Do they know your name? What would change if your best customers could finally find you first? See your options →
+A.  Often, for amounts that fit Missouri small claims, where the judge hears cases up to $5,000 and you can appear without a lawyer. Above that, weigh legal fees against what you can actually collect. A judgment against a business with nothing left is paper, so ask a lawyer about collection before you file.
+### Q. Can a contractor go to jail for not finishing a job?
+A.  It turns on intent and on the state. In Illinois, home repair fraud is a crime: the Attorney General has charged it as a Class 4 felony, punishable by up to three years in prison, against a contractor accused of taking down payments for work never done. In Missouri, report suspected fraud to the Attorney General and talk to police if there was clear deceit.
+### Q. Can I do a civil suit without a lawyer?
+A.  In Missouri small claims, yes. RSMo 482.310 says parties may prosecute their claims and defenses without the assistance of an attorney, and RSMo 482.305 covers civil cases up to $5,000. For anything bigger, a lawyer is usually worth the fee.
+### Q. What is the statute of limitations for breach of contract in Missouri?
+A.  RSMo 516.120 sets five years for actions upon contracts, except those under RSMo 516.110, which allows ten years for an action upon a writing for the payment of money. Which one applies depends on your contract and claim, so confirm it with a lawyer and don’t wait on either.
+### Q. How can I file a complaint against a contractor in Illinois?
+A.  File a consumer complaint with the Illinois Attorney General. The office says online submission is the preferred method, and its Consumer Protection Division offers informal dispute resolution. It cannot act as your personal lawyer, so pair the complaint with your own demand letter or small claims case.
+### Q. Should I pay a contractor who did a bad job?
+A.  Not before you document the problems and put your objections in writing. Hold back payment for work that is unfinished or defective, but read your contract first and get advice, because withholding the wrong amount can hand the contractor a claim of his own. In Missouri, also check for lien notices from his suppliers.
 
 ## Business Licenses in St. Louis: What You Actually Need (City vs. County)
 Source: https://stlouismissourinearme.com/blog/business-license-st-louis-what-you-need
