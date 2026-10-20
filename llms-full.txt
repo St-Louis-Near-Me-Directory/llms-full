@@ -27509,70 +27509,87 @@ One application can open several doors. When you apply for SNAP, ask the same of
 
 **Run a food pantry or nonprofit?** If your organization helps families access food or benefits, list it on St Louis Near Me Directory so neighbors who need you can find you fast.
 
-## How to Apply for Medicaid (MO HealthNet) in Missouri: A St. Louis Guide
+## Told No Before? How to Apply for Medicaid (MO HealthNet) in Missouri
 Source: https://stlouismissourinearme.com/blog/how-to-apply-for-medicaid-mo-healthnet-in-missouri-a-st-louis-guide
-Putting off a doctor’s visit because you’re uninsured is a gamble too many St. Louis families are forced to make — in Dogtown, in Bridgeton, out in St. Charles, across the river in Granite City. A nagging cough, a lump you keep meaning to check, a kid’s ear infection at 2 a.m. Here’s the good news a lot of people missed: since Missouri expanded Medicaid, hundreds of thousands more adults now qualify for free or low-cost health coverage through MO HealthNet — and you might be one of them without realizing it. This guide shows you how to apply, and if you’re helping a parent, a patient, or a friend get covered, it’s written for you too.
-For years, the hardest part wasn’t the paperwork — it was being told you earned a little too much to qualify but nowhere near enough to buy insurance on your own. That gap trapped a lot of hardworking people. Expansion closed it. If you looked into Medicaid before and got turned away, the rules that turned you down may not apply anymore. It is genuinely worth a fresh look.
-To apply for MO HealthNet (Missouri Medicaid), go online to mydss.mo.gov/healthcare/apply, call the Family Support Division at (855) 373-9994, apply in person at a local Family Support Division Resource Center, or mail a paper application to the Family Support Division, P.O. Box 2700, Jefferson City, MO 65102. You’ll provide your Social Security number and proof of identity, residency, and household income. Eligibility is usually decided within about 45 days — and coverage can be backdated to cover recent medical bills.
-📌 Found this helpful? Keep it — and pass it on.
-Bookmark this page and share it with anyone who could use it — a friend or neighbor, or a caseworker, social worker, counselor, donor, or nonprofit walking alongside someone who’s rebuilding.
-Every share puts real help in one more person’s hands. That’s exactly why we made it.
-### Four Ways to Apply
-Online (fastest) — apply at mydss.mo.gov/healthcare/apply and upload your documents through the myDSS Document Uploader. Available any time.
-By phone — call the Family Support Division at 855-373-9994 to apply or ask questions.
-In person — visit your local Family Support Division Resource Center for hands-on help.
-By mail — download and print the single Missouri application and mail it to the Family Support Division, P.O. Box 2700, Jefferson City, MO 65102.
-Missouri now uses one application form for all Medicaid programs, so you don’t have to figure out which category you fit — the state sorts that out from your answers.
-### Who Qualifies Now — Medicaid Expansion Changed the Rules
-This is the part people miss. Thanks to Medicaid expansion, adults ages 19–64 can qualify based on income alone — you no longer have to be pregnant, disabled, or a parent to get covered. The cutoff is roughly 138% of the federal poverty level: about $1,730 a month for one person or roughly $3,588 a month for a family of four (higher for larger households). Children and pregnant women qualify at higher income levels still. These figures shift yearly, so if you’re anywhere close, apply — MO HealthNet checks the current numbers for you at mydss.mo.gov.
-### What You’ll Need to Apply
-Social Security numbers for those applying
-Proof of identity (a driver’s license or state ID)
-Proof of Missouri residency (a lease, utility bill, or mail)
-Proof of household income (recent pay stubs, benefit letters, or a statement if you have none)
-If you’re 65 or older, blind, or disabled — the Aged, Blind, and Disabled (ABD) Supplement form
-Immigration or citizenship documentation, if applicable
-Applying online lets you send these straight through the myDSS Document Uploader, which is the quickest way to avoid back-and-forth.
-### What MO HealthNet Covers
-Coverage is comprehensive — not a stripped-down plan. MO HealthNet includes doctor visits, hospital and emergency care, prescriptions, lab and X-ray, maternity and newborn care, mental health and substance-use treatment, and preventive care like checkups and immunizations. Most members pick a managed-care health plan — in the St. Louis area that includes Home State Health, Healthy Blue, and UnitedHealthcare Community Plan — which comes with a member card, a network of local doctors, and a nurse line. Kids get extra benefits through MO HealthNet for Kids (Missouri’s CHIP), including dental and vision.
-### Special Paths to Coverage
-Beyond the standard adult pathway, Missouri has targeted programs worth asking about:
-Pregnant women — MO HealthNet for Pregnant Women and Show-Me Healthy Babies cover prenatal care, delivery, and postpartum at higher income limits; coverage can start quickly so care isn’t delayed.
-Children — MO HealthNet for Kids (Missouri’s CHIP) covers children in families that earn too much for regular Medicaid but can’t afford private insurance, and includes dental and vision.
-Adults 65+, blind, or disabled — the Aged, Blind, and Disabled programs cover long-term care, in-home services, and help with Medicare costs.
-Working people with disabilities — the Ticket to Work Health Assurance program lets you earn more and keep coverage.
-Young adults who aged out of foster care — may qualify for coverage up to age 26 regardless of income.
-### Need Care Before You’re Approved?
-Don’t skip a real emergency waiting on paperwork. By federal law, hospital emergency rooms must screen and stabilize anyone with an emergency, insured or not. If you deliver a baby or face a medical crisis while your application is pending, tell the hospital — MO HealthNet coverage can often be backdated up to three months before your application date, wiping out bills you thought you’d be stuck with. Community health centers also treat patients on a sliding fee scale, so a lack of coverage today never has to mean no care today.
+Told you no. That’s how a lot of St. Louis people remember Medicaid: a letter on the kitchen table of a south city flat, or a tired voice on the phone after the hold music finally broke, saying you made too much. Not enough to buy insurance. Just too much for help. So the cough stayed. The back tooth that bites every time you drink something cold stayed. The blood-pressure pills got split in half to stretch the bottle.
+Here is the part almost nobody tells you. Missouri voters changed the rule when they approved Amendment 2 to expand Medicaid eligibility. Missouri voters approved Amendment 2, and it is now part of the state constitution as MO HealthNet expansion. Article IV, Section 36(c) says adults nineteen to sixty-four with income at or below 133 percent of the federal poverty level, plus five percent, shall be eligible for MO HealthNet. That is the 138 percent line you see on HealthCare.gov. And the state’s own apply page now lists “Adult (age 19-64) without disabilities” right there next to the senior and the pregnant woman. You don’t have to be raising kids. You don’t have to be sick enough to prove it.
+Money in the bank is the other fear, so here it is straight. HealthCare.gov says that in states that have expanded Medicaid, you can qualify based on your income alone. Your paycheck is what gets measured. Not the car in the driveway, not the few hundred dollars you keep for emergencies.
+If someone you love got turned away years ago, send them one line tonight: the rule that said no has changed, apply again. Then read on, because the rest of this page is the how. It takes one sitting, one phone or laptop and a few papers you probably already have in a drawer.
+And the help is not off in Jefferson City. The state’s own office map puts a Family Support Division Resource Center at 3101 Chouteau. On South Grand, Family Care Health Centers, which calls itself the first community-run health center in St. Louis, opened its doors because Carondelet needed better medical care. The people who can walk you through this form are a bus ride away.
+### What is the easiest way to apply for Medicaid?
+The easiest way is online, through the online portal on the state’s Apply for MO HealthNet page, and HealthCare.gov says you can apply any time of year. Rather talk to a person? Call (855) 373-9994 and apply by phone. Then photograph your pay stubs, ID and a piece of mail with your address, and upload them at mydssupload.mo.gov with your name and date of birth on every page.
+### The no you got before may not be the answer now
+Think about the person you were the day that letter came. Maybe a part-time shift at a warehouse off the highway, no kids, a body that was mostly fine. That person is exactly who the change was written for.
+The constitutional language took effect that September, and the coverage it promised began on July 1 the year after. Doctors, pharmacies and the Family Support Division have all been working under it since. What changed is simple to say and easy to miss: for adults in this group, the question is your household income against the poverty line, adjusted each year. The exact dollar figure moves every year, so don’t trust a number you read on a flyer. Check the current federal poverty level, or better, just apply and let the state run the math on your actual pay stubs.
+HealthCare.gov says something worth taping to the fridge: even if you don’t think you’ll qualify based on your income, you should apply. You can apply any time of year.
+### One evening, one kitchen table: how the application goes
+Clear a spot. Plug the phone in so it doesn’t die halfway through. The MO HealthNet apply page gives you three ways to start: the online portal, a phone call to 855-373-9994, or a paper application you download and print. If you need a translator, the state says to call 1-855-373-4636 and ask for one. If you are deaf or hard of hearing, call Relay Missouri at 711.
+The paper side is lighter than people fear. The state’s verification page lists pay stubs or a letter from your employer for work income, a driver’s license or a state or work ID for identity, and something as plain as a piece of mail, a lease or a utility bill to show where you live. Those are the things that sit in the junk drawer under the takeout menus. Pull them out before you start.
+Prefer paper? Mail copies to the Family Support Division, P.O. Box 2700, Jefferson City, MO 65102, or fax them to 573-526-9400. Then the step that saves people weeks. When you send papers to the Family Support Division, write your name, your DCN or Social Security number and your date of birth on every single page. The state asks for exactly that. A loose pay stub with no name on it is how a case stalls. The upload site, mydssupload.mo.gov, lets you snap documents straight from your phone, so you can photograph each page on the counter under good light and send it the same night.
+One more form for some people. If you are 65 or older, blind or disabled, get Social Security, live in a nursing facility, or have Medicare or VA health care, the state says you must also send the Supplemental Form with your application. Everyone else skips it.
+### Walking in: Family Support Division offices in St. Louis
+Some people need a person across a desk, not a screen. That’s fair. The state’s office map lists a Chouteau Resource Center at 3101 Chouteau, a Page Resource Center at 9900 Page Avenue and a South Lindbergh Resource Center at 7545 S Lindbergh. Office hours vary by location, and the state says to check hours or schedule an appointment before you go. Bring the folder. Bring something to read, because the chairs are hard and the wait is real.
+If a clinic is easier than a state office, CareSTL Health has a Population Health Department that helps with Medicaid enrollment and with questions about a pending application. Their main number is 314-367-5820; ask for extension 2294. In north city, Affinia Healthcare is at 1717 Biddle Street. On the south side, Family Care Health Centers is at 3824 South Grand Blvd. Free help from someone who does this every day can be the difference between a form you finish and a form you abandon at question twelve.
+### What MO HealthNet covers, down to the ride there
+This is real coverage, not a coupon. The state’s own FAQ lists examples of covered services, and a few of them surprise people:
+Doctor’s office visits, the emergency room and hospital stays when an overnight stay is required.
+Pharmacy, so that split pill can go back to a whole one.
+Dental and vision, though the state notes services may be limited or not covered depending on your eligibility.
+Mental health and substance abuse treatment, and behavioral health services.
+Laboratory tests and x-rays, maternity benefits and family planning.
+Transportation to medical appointments. If the bus to the clinic is the reason you keep cancelling, ask about this one.
+The state lists adults 19 to 64 without a disability under Managed Care. If you’re assigned a plan, you’ll get an assignment letter in the mail, then a welcome packet with a plan card and a member handbook. The state says to carry both your Managed Care card and your MO HealthNet ID card and show them each time you get care.
+People are asking
+### Can I apply for Medicaid online in Missouri?
+Yes. Missouri lets you apply for MO HealthNet online through the myDSS portal linked from mydss.mo.gov/healthcare/apply, at any time of year. Upload your pay stubs, ID and proof of address at mydssupload.mo.gov straight from your phone. For quick questions that aren’t about your case, the state answers texts at (855) 684-9242, Monday through Friday, 6 a.m. to 6 p.m.
+### Waiting on the letter
+After you apply, the mailbox gets heavier with meaning. You check it twice a day. The Family Support Division will tell you what else it needs to process your case, and how long that takes can vary. A decision based on a disability can take longer. If you hear nothing at all after 45 days, the state says you can contact it, and you should.
+To check where things stand, call (855) 373-4636, use DSS Chat on mydss.mo.gov, or visit your local resource center. When the approval comes, it’s a letter, then a MO HealthNet ID card. Read the letter all the way through. The state says you have to follow its instructions for your coverage to begin, and that is where people slip.
+### Need care before you’re approved?
+Do not sit in the dark with chest pain waiting on paperwork. Under federal law, hospitals that offer emergency services must give a medical screening exam to anyone who asks for emergency treatment, including a woman in active labor, regardless of ability to pay, and then provide stabilizing treatment. That’s the Emergency Medical Treatment and Labor Act.
+And keep every bill. HealthCare.gov says Medicaid may be able to help you pay for medical care from the last 3 months, even if you weren’t enrolled when you got it. Tell the caseworker about any recent hospital or clinic visit. The pile of envelopes on the counter might shrink.
+For a regular checkup while you wait, St. Louis community health centers such as Family Care Health Centers, People’s Health Centers and CareSTL Health publish sliding fee scales. Family Care says it serves patients regardless of insurance status and ability to pay. Affinia Healthcare runs six locations around the area.
 Changing the subject completely: somebody in Granite City is making your next favorite meal.
-### What Does It Cost?
-For most people, MO HealthNet is free or nearly free — there’s no monthly premium for the majority of members, and copays for covered services are small or zero. Some programs (like MO HealthNet for Kids at higher income tiers, or Ticket to Work) may involve a modest monthly premium on a sliding scale, but nothing like private insurance. That’s the whole point of the program: cost should never be the reason you skip the care you need. Compared with a marketplace plan’s premiums and deductibles, Medicaid is by far the most affordable coverage available to those who qualify — which is exactly why it’s worth ten minutes to find out if you do.
-### What If You Don’t Qualify?
-Even if your income is a little too high for MO HealthNet, you’re not out of options — and you should never assume “no coverage” is the end of the road. Most people who don’t qualify for Medicaid do qualify for subsidized private insurance through the Health Insurance Marketplace at HealthCare.gov, where tax credits can bring premiums down to a few dollars a month; a free Cover Missouri navigator can walk you through it. Your children may still qualify for MO HealthNet for Kids even when you don’t. And regardless of insurance, St. Louis community health centers like Affinia Healthcare, CareSTL Health, and Family Care Health Centers treat everyone on a sliding fee scale based on income — so a checkup, a prescription, or a dental visit stays affordable while you sort coverage out. Ask; the door is rarely fully closed.
-### Get Free Help Enrolling in St. Louis
-If the forms feel overwhelming, trained local navigators will walk you through it for free — no cost, no pressure:
-Community health centers like Affinia Healthcare, CareSTL Health, Family Care Health Centers, and People’s Health Centers have enrollment specialists on site and will see you whether or not you’re insured yet.
-Cover Missouri navigators offer free, unbiased enrollment help by phone and in person.
-Your hospital’s financial counselor — if you have unpaid bills, ask; they can often help you apply and backdate coverage.
-### Already Applied? What Happens Next
-After you submit, the Family Support Division reviews your case and requests anything missing — respond fast to keep it moving. A decision usually comes within about 45 days (longer for disability-based cases that need medical review). If approved, you’ll get a MO HealthNet ID and choose or be assigned a managed-care plan. Keep your address and phone current, and watch for your annual renewal notice — returning that form on time is the single most important thing you can do to avoid a coverage gap. If you’re ever denied, you have the right to appeal, and a community health center or legal aid can help.
-### Myths That Stop People From Applying
-Plenty of eligible Missourians never apply because of outdated fears. A few worth retiring: “I make too much money” — expansion raised the limit dramatically, and many full-time workers now qualify. “I own a car and a home, so I’m out” — for expansion adults, eligibility is based on income, not assets, and your home and vehicle don’t count. “Applying will hurt my immigration case” — using Medicaid you’re entitled to does not, on its own, make you a “public charge,” and emergency Medicaid is available regardless of status. “It’s charity I shouldn’t take” — MO HealthNet is coverage your taxes already fund, built so a health scare doesn’t become a financial one. When in doubt, apply and let the state decide.
-### Cover the Rest of the Basics Too
-Health coverage is one piece of the safety net. While you’re getting set up, it’s worth checking whether you also qualify for SNAP food benefits — many households qualify for both — and if rent is tight, our guide to emergency rent assistance points you to programs that pay back rent. Applying for one often makes the others easier, since much of the same information carries over.
-Ready to get covered? Apply at mydss.mo.gov/healthcare/apply, call the Family Support Division at 855-373-9994, or dial 2-1-1 to be matched with a free local enrollment helper. See all St. Louis help resources.
-If you run a clinic or nonprofit that helps people get covered, list it on St Louis Near Me Directory so patients searching for care can find you.
+### Made a little too much? You still have doors
+Hearing “over the limit” again stings. It still isn’t the end. The state runs programs aimed at exactly the people who land just above the line:
+Spend Down. If you make too much, the state says you may still get MO HealthNet coverage if you agree to pay, or spend down, a certain amount. Once you’ve spent it, you have coverage for the month.
+Ticket to Work. For people with a disability who earn too much for MO HealthNet but agree to take part in the program.
+Show-Me Healthy Babies. If you’re pregnant and weren’t approved through MO HealthNet for Pregnant Women, help may still be available here.
+The Marketplace. HealthCare.gov says that if you’re turned down for Medicaid, you may be able to get Marketplace coverage instead, possibly with a premium tax credit.
+Not sure which door is yours? Cover Missouri can help you find free, in-person or virtual help near you, and you can call them at 1-800-466-3213.
+### Other ways in: kids, pregnancy, seniors and foster youth
+The state’s apply page lists who may be eligible, and the list is wider than most people think:
+Children from birth to 18, and a parent or caretaker with a child under 19.
+Pregnant women, including the unborn child.
+Seniors 65 and older, people with disabilities, and blind or visually impaired adults.
+Women under 65 with breast or cervical cancer, through the Breast and Cervical Cancer Treatment program.
+Young people who aged out of foster care. HealthCare.gov says every state must offer former foster youth Medicaid coverage until they turn 26, if they had Medicaid when they aged out.
+### Missed the renewal letter? You get 90 days
+Getting covered is half the job. Staying covered is the other half, and it hinges on one envelope a year. Every year the Family Support Division checks whether you still qualify, and your annual renewal is due in your anniversary month, the month your coverage first began. The notice comes by mail, which is why a current address matters more than anything. Moved? Report it online, at a resource center, or by calling 855-373-4636.
+Here’s the safety net inside the safety net. If you miss the due date, you lose coverage on the last day of that month. But the state says that if you finish your renewal within 90 days of your case closing, your coverage is restored while they review it. Past 90 days, you start over with a new application. Put the anniversary month on the calendar on the wall, in pen.
+Changes are coming, too. Cover Missouri says new federal rules are changing how Missouri Medicaid works, including new work reporting requirements. Read their notice so the change doesn’t catch you cold.
+### If you’re the one helping
+Maybe this isn’t about you. Maybe it’s your mom squinting at the screen with her reading glasses on her head, or a neighbor who won’t say out loud that he can’t read the form. Sit beside them. Let them type their own name. The state lets a person appoint an authorized representative, and the apply page links the form and instructions in English and Spanish, so you can speak for them with the Family Support Division when they can’t.
+Tonight, start the application. Apply at mydss.mo.gov/healthcare/apply or call 855-373-9994, and write your name, DCN or Social Security number and birth date on every page you send. When health care is handled, our guide to St. Louis help and assistance resources covers the next thing on the list. Stuck on where to start? Dial 2-1-1, which the Missouri Department of Social Services lists as a resource with United Way.
+If you run the clinic, the pharmacy or the one-person home care business that sees these patients, people are searching for you right now. A listing on St Louis Near Me Directory helps neighbors find you and helps you get more customers. List your business.
+### Cover the rest of the basics too
+Health coverage is one piece. Much of the same paperwork carries over to these:
+How to apply for SNAP food benefits in Missouri
+Emergency rent assistance in St. Louis
+People are asking
+### What income is too high for Medicaid in Missouri?
+For adults 19 to 64, Missouri’s constitution sets the line at 133 percent of the federal poverty level plus five percent, which is the 138 percent figure HealthCare.gov uses. The dollar amount is adjusted each year with the federal poverty level. Over it? Spend Down, Show-Me Healthy Babies or a Marketplace plan may still cover you.
 ### Frequently Asked Questions
-### Q. What is the income limit to receive Medicaid in Missouri?
-A.  For adults under Medicaid expansion, the limit is about 138% of the federal poverty level — roughly $1,730 a month for one person or about $3,588 for a family of four, with more for larger households. Children and pregnant women qualify at higher income levels. Limits change yearly and deductions apply, so apply at mydss.mo.gov even if you’re close — the state checks the current figures for you.
-### Q. How long does it take to get approved for Missouri Medicaid?
-A.  Most MO HealthNet applications are decided within about 45 days. Cases based on disability can take longer because they require a medical review. Applying online and submitting your documents through the myDSS Document Uploader is the fastest route, and responding quickly to any request for more information keeps your case from stalling. Approved coverage can often be backdated to help with recent bills.
-### Q. What are the requirements for Medicaid in Missouri 2026?
-A.  You generally must be a Missouri resident, a U.S. citizen or eligible immigrant, and have household income within the program limits — about 138% of the poverty level for expansion adults, higher for kids and pregnant women. You’ll verify identity, residency, income, and Social Security numbers. Adults 65+, blind, or disabled also complete an ABD supplement. Missouri uses one application form for all these programs.
-### Q. What will disqualify you for Medicaid?
-A.  Income or countable assets above the program limits are the main reasons for denial, along with not being a Missouri resident or lacking eligible citizenship/immigration status. For aged, blind, and disabled programs, resource limits also apply. Missed documents or interviews can lead to a denial that’s easily fixed by reapplying. If you’re denied, you can appeal — a community health center or legal aid can help.
+### Q. What is the income limit to qualify for Medicaid in Missouri?
+A.  For adults 19 to 64, the limit is 133 percent of the federal poverty level plus five percent, which HealthCare.gov describes as 138 percent. The dollar figure is adjusted each year, so check the current federal poverty level on HealthCare.gov or simply apply and let the Family Support Division measure your real income. Children and pregnant women have their own paths.
+### Q. How long does it take to get approved for Medicaid in Missouri?
+A.  It varies. The Family Support Division tells you what else it needs, and a decision based on a disability may take longer. If you hear nothing after 45 days, the state says to contact them at (855) 373-4636 or through DSS Chat. Labeling every page you send with your name, DCN or Social Security number and birth date keeps it moving.
+### Q. How often does Medicaid check your bank account?
+A.  For adults in Missouri’s expansion group, the test is income, not savings: HealthCare.gov says in states that have expanded Medicaid you can qualify based on your income alone. The Family Support Division rechecks eligibility once a year at your annual renewal, in the month your coverage began. The state’s verification list does include bank statements, under liquid resources, for benefits that count them.
+### Q. What income is too high for Medicaid?
+A.  In Missouri, income above 138 percent of the federal poverty level is too high for the adult expansion group. That isn’t always the end. Spend Down lets some people pay a set amount and then get coverage for the month. And HealthCare.gov says that if you’ve been turned down for Medicaid, you may be able to get Marketplace coverage instead.
 ### Q. How can I help someone apply for MO HealthNet?
-A.  Help them apply online at mydss.mo.gov/healthcare/apply or call 855-373-9994, and gather their ID, proof of income, and residency. You can assist as an authorized helper, and community health centers like Affinia Healthcare and CareSTL Health offer free enrollment help. For someone who is homebound, elderly, or ill, sitting with them through the online application is often the most valuable help of all.
+A.  Sit with them while they apply online or call 855-373-9994, and help gather pay stubs, an ID and a piece of mail showing their address. If they want you to speak for them, the state’s apply page links the form to appoint an authorized representative. CareSTL Health’s Population Health Department also helps with enrollment at 314-367-5820, extension 2294.
 
 ## Four Ways to Apply
 
