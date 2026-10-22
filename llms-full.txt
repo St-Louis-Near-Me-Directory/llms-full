@@ -15507,6 +15507,7 @@ Tell your utility company you’ve applied. As a courtesy, let your provider kno
 Call only if you have a question. After you’ve applied online, the General Office (314-657-1599) and the Senior Automated Line (314-241-7668) are there for follow-up.
 If your utility provider or local community-action agency isn’t showing up on the program’s list, call the resource hotline at 314-241-0001 and they’ll point you to the right place. Apply early in the season - funds are limited and go fast once the cold sets in.
 ### What if nobody answers the phone at Heat Up St. Louis?
+Money for heat is not the only help people miss; here is how to qualify for free or low-cost dentures in St. Louis.
 The shut-off notice is on the counter, the house is getting colder, and you still can’t get through. That’s common, and it doesn’t mean your application is lost. Heat Up is an all-volunteer charity, its phone lines are meant for follow-up questions rather than intake, and its own client notice warns that the 24/7 automated hotline at 314-241-0001 gets busy during extreme weather. It asks callers to try again at off-peak times or to go straight to a partner agency. Here’s what works while you wait:
 Send your paperwork without the phone. Upload it on the form, or email scanned documents to clientserv@heatupstlouis.org. You can also fax them (314-241-1860 for the City form, 314-454-3180 for County and outstate) or drop them off: City applicants at the lobby lock-box at 1520 Market Street, County and outstate applicants at 8960 Jennings Station Road or Suite 111, 1408 North Kingshighway. No screenshots.
 Call your utility first. Heat Up asks every applicant to tell the utility they can’t pay and that a pledge application is pending. That call is what buys you time.
@@ -19615,6 +19616,7 @@ Trust your gut, and watch for a few warning signs. Be cautious of a lawyer who g
 A disciplinary history, an unwillingness to put terms in writing, or a bedside manner that leaves you uneasy are all good reasons to keep looking. You’re hiring someone for one of the hardest moments of your life. Being choosy is completely fair.
 ### What Does a Good Lawyer Cost?
 Legal fees vary widely by the type of case and the lawyer’s experience, but they generally follow a few structures, and knowing them helps you compare. Hourly rates are common for business, family, and general matters. Flat fees are typical for well-defined jobs like a simple will, an uncontested divorce, or a basic contract. Contingency fees are standard in personal-injury cases - the lawyer takes an agreed percentage of your settlement and you generally pay nothing up front (and nothing if you don’t recover). Some matters also involve a retainer, an up-front deposit the lawyer bills against.
+If your legal question is a divorce, start with what a spouse is entitled to in a Missouri divorce before you call anyone.
 The most important cost rule has nothing to do with the number. Get it in writing. Before you hire anyone, ask for a clear written fee agreement that spells out the structure, the rate or percentage, and what expenses are extra. A reputable lawyer will happily provide one, and that free initial consultation is the right time to talk money openly. Don’t let an awkward fee conversation cost you later.
 Looking for a trusted local professional across the metro? The St Louis Near Me Directory is a great place to find and compare local attorneys and other professionals all across the St. Louis area - Missouri and Illinois alike - so you can build a shortlist and choose with confidence. Before you call anyone, read our guide to hiring a personal injury lawyer in St. Louis.
 If you’re the attorney a neighbor should be calling, list your practice with us so more of the neighbors and customers searching after a crash reach your office instead of a national lead service.
@@ -214338,6 +214340,7 @@ Your realistic monthly overage on transactions and on cash, multiplied by the pe
 Nearest branch to the last stop of your working day, and whether it has a night drop
 Whether the institution does business lending at all, and to businesses your size
 Total estimated annual cost for your actual usage
+Before you chase funding, read which small business grants a St. Louis owner can actually apply for.
 That last row is the answer. Not the headline rate, not the bonus, not the branding. The account with the lowest total annual cost for the way your money actually moves, at an institution you can reach when something goes wrong. If two come out close, break the tie on the branch and on whether you will ever want to borrow from them.
 Ready to compare locally? Browse banks across the St. Louis metro on St Louis Near Me Directory, pick three, and take the same ten questions to each one. The worksheet above is the whole comparison - it just needs their numbers in it.
 If you run the lawn crew, the chair or the catering van yourself, a separate account is the day that $85 check stops landing next to the grocery money and starts looking like a business. The next step is the phone. Tonight a neighbor in Affton will search for your trade, and a lead-farm will happily sell that request to three to eight shops, then rent your own customers back to you. Good work was never the problem. Being hard to see is. A Gold listing puts you in up to 10 categories across 40 communities in the metro, no public address required, for $357 a year, under a dollar a day. See what Gold covers. Refuse to be invisible.
@@ -222465,92 +222468,65 @@ A.  Under IDEA, the evaluation, the IEP, and every service written into it cost 
 ### Q. What are some good special education schools in St. Louis?
 A.  There is no ranking worth trusting, and for many children the school is not chosen by the family at all. When an IEP team places a child privately, the district pays and the state must have approved the program. Ask your district for its approved-provider list, and observe any program before you agree.
 
-## What a PR Firm Actually Does for a St. Louis Business
+## Email a St. Louis Newsroom Yourself Before You Pay a PR Firm
 Source: https://stlouismissourinearme.com/blog/what-a-pr-firm-actually-does-for-a-st-louis-business
-Imagine it’s a Thursday morning and you’re behind the counter of your shop in Maplewood with a cold email open on your phone. A public relations firm wants twenty minutes. The note mentions storytelling and earned media, and the attached deck carries logos of outlets you actually recognize. You have no idea whether this is the thing that finally gets people talking about you, or a $4,000-a-month habit you’ll feel stupid about by March. That fear is fair, and it points straight at the right question: do you actually know what a PR firm does — and whether it’s what your business needs now, or later?
-Maybe you’ve had the other version of that morning. A shift lead in Overland posted something ugly from the company account. A customer in Fairview Heights filmed ninety seconds in your parking lot. An inspector wrote you up in Clayton and a reporter has already called twice. Your phone is doing something it has never done before, and you’re searching “crisis PR St. Louis” with one thumb.
-Both owners are asking the same question in very different tones of voice: what does a PR firm actually do, and is this something I need or something somebody sells? Here’s the even-handed version, including the parts a firm pitching you has no reason to volunteer.
-### What exactly does public relations do?
-Public relations manages what other people say about your business. The Public Relations Society of America defines it as “a strategic communication process that builds mutually beneficial relationships between organizations and their publics.” In practice that means media relations, reputation management, crisis response, community and government relations, and employee communication — earning attention instead of buying it.
-Strip the vocabulary away and a PR firm does five recognizable jobs:
-Media relations. Deciding what about you is genuinely newsworthy versus what is only news to you, then pitching the specific reporters who cover it.
-Message and spokesperson work. Writing the two sentences you say every time, then drilling whoever has to say them on camera without wandering.
-Reputation management. Shaping what fills page one when a stranger searches your business name, and what an AI assistant repeats when someone asks about you.
-Crisis communication. The holding statement, the order you tell people in, and the decision about what you do not say yet.
-Community, government and public affairs. The neighborhood meeting, the zoning hearing, the chamber, the school district, the alderman.
-PRSA describes the underlying work as analyzing public opinion, advising leadership on policy and communication decisions, protecting reputation, and researching and evaluating programs. Notice what is missing from that list: selling anything directly. A firm that opens by promising you leads is describing a different service.
+Your stomach drops a little at the number at the bottom of the deck. The phone had buzzed face-down on the counter in the lull after the rush, and you flipped it over expecting a supplier. It was a public relations firm instead. Twenty minutes, the email said. The deck was glossy, full of logos from outlets you had actually heard of, and the word “placements” turned up more than once.
+What would you want a newsroom to say about you, if it said anything at all? Look at where St. Louis newsrooms are now.
+“It’s devastating for St. Louis,” Sarah Fenske, the Riverfront Times’ former executive editor, told St. Louis Public Radio on May 22, 2024. That was the day the alt-weekly was sold and she learned the entire writing and editing staff had been laid off. The station ran the story under a photo of a Riverfront Times newspaper box on Lindell Boulevard in Midtown. A metal box on a sidewalk, and fewer people writing what goes in it.
+So which are you paying for: access, or judgment? Here is the part nobody pitching you has a reason to say out loud. The front door of a St. Louis newsroom is not locked. The St. Louis American’s site asks anyone with “a news tip, press release, event notice or community announcement” to submit it to its newsroom through a form on the page. St. Louis Public Radio’s contact page lists news@stlpr.org for press releases. The St. Louis Jewish Light’s contact page says all editorial submissions, news releases, event photos and Newsmakers items included, go to a single editorial email address. Your new hire, your anniversary, your expansion: those are submissions, not secrets. No retainer, no media database, no gatekeeper. A story, sent to the people who publish stories.
+A retainer does not buy you the door. It buys you somebody who knows which story is worth carrying through it.
+None of that makes hiring a firm a bad idea. What hurts owners is a pitch built on “guaranteed placements” and a long retainer, sold into a city where the reporters keep getting fewer. Often what the business needed first was a sharper story, or a first page on Google that tells a stranger the truth about you.
 ### Is public relations necessary?
-For most small local businesses in the St. Louis metro, not yet. If customers find you by searching for what you do, your next dollar works harder on being findable and reviewable than on a media campaign. PR becomes necessary when your reputation is under threat, or when someone who will never buy from you — a lender, a zoning board, a reporter — has to trust you first.
-That is not a knock on the profession. It is a sequencing argument. PR is an amplifier, and an amplifier attached to nothing is expensive silence. Here is the honest split.
-PR is probably worth real money if:
-Trust is your product and strangers decide — healthcare, financial services, childcare, senior care, anything licensed or regulated.
-You need a yes from a body rather than a buyer: a zoning variance in Kirkwood, a development incentive in Maryland Heights, a contract with a school district.
-You’re raising money, selling the company, or recruiting people who will search your name before they answer.
-You have a story a reporter would run without being asked twice — a genuine first, a milestone with a real number attached, a person worth meeting.
-You’re already in the news, and it is going badly.
-PR can wait if:
-Your hours are wrong somewhere online, your listings are thin, or you have eleven reviews.
-You need revenue this quarter. PR is slow and indirect by design; paid search and ads are the fast levers.
-Nothing about the business survives a reporter’s first question, which is always some version of “so what?”
-Nobody at your company can call a reporter back inside two hours. Media relations dies on deadline, and the deadline is not yours.
-### How is PR different from advertising, marketing and SEO?
-You control advertising and you pay for the space. You cannot control PR, and you pay for the effort rather than the result. Marketing is the umbrella over both, plus pricing, product and distribution. SEO is the slice of marketing aimed at what search engines and AI assistants surface. Clean test: an ad runs because you bought it, a story runs because a reporter put their byline on it.
-The line blurs the moment money or free product moves toward the person doing the talking — and at that point it stops being a style question and becomes a legal one. The Federal Trade Commission finalized updated Endorsement Guides (16 CFR Part 255) on June 29, 2023. Any material connection between an endorser and a brand — payment, free product, an employment relationship, a family tie — has to be disclosed clearly enough for an ordinary reader to notice it. A sponsored post dressed up as a review is advertising with a compliance problem.
-Practical version for an owner with one budget: SEO and listings decide whether you get found by someone already looking. Advertising decides how many strangers see your offer this month. PR decides what those strangers think when they run into your name somewhere you didn’t pay to be. Most small businesses need the first two working before the third earns its retainer.
-### How much do PR people charge per hour?
-Most PR is not sold by the hour at all — it is sold as a monthly retainer. BuzzStream’s 2025 digital PR pricing survey of roughly 70 agency leaders and freelance consultants found an average monthly contract of $5,458, with 52.5% of contracts under $5,000 a month and contracts above $10,000 described as rare. Agencies in that sample averaged $6,357 a month; freelancers averaged $4,200.
-Read that survey as a shape, not a quote for your business. It covers digital PR specifically, the sample was small, and 54% of respondents were in the UK against 23% in the US — though the US respondents came in higher, averaging $6,154 a month. Nothing in it is a St. Louis number.
-Here is the honest gap: there is no neutral, published survey of US public relations hourly rates that I could find. The figures that circulate online, usually $150 to $500 an hour, come from agency marketing pages rather than research, so treat them as a rumor with a dollar sign in front. What you can anchor on is labor cost. The U.S. Bureau of Labor Statistics put the median annual wage for public relations specialists at $69,780 in May 2024, with the bottom 10% under $40,750 and the top 10% above $129,480. A firm has to cover that salary plus payroll taxes, benefits, rent, software, and every unbilled hour spent pitching stories that never ran. That arithmetic is why a $1,200-a-month retainer cannot hold much senior time, whatever the proposal implies.
-### What does a retainer actually buy?
-A retainer buys a block of senior attention each month — hours spread across strategy, writing, pitching, monitoring and reporting — not a number of stories. Agencies price this way because media relations compounds: month three of a relationship with a reporter outperforms month one, and nobody can predict which pitch lands. Around 90% of agencies in BuzzStream’s 2025 survey worked on monthly retainers.
-A retainer with no hours written into it is a subscription to hope. Before you sign, get five things on paper: how many hours are included and what happens to unused ones, the names of the people doing the work rather than the ones in the pitch meeting, the fixed monthly deliverables, the reporting cadence, and who owns the media list and the written materials when the relationship ends. That last one surprises people every single time.
-Project pricing fits more often than agencies admit. A single opening, a funding announcement, a relocation, a media training day, one crisis — those have an end date. Professional services around here price in three shapes, hourly, retainer or commission, and the same tradeoff repeats across trades; you can see it play out in what a real estate consultant does and what it costs. Ask for the project number first. If a firm will only quote twelve months of retainer for a one-week job, that tells you who the retainer is for.
-Wildly off-topic — but your hands: St. Louis nail salons.
-### Why can nobody guarantee you a story in the Post-Dispatch?
-Because the decision belongs to a newsroom, not to a vendor. An editor at the St. Louis Post-Dispatch, the Belleville News-Democrat or KSDK decides what runs, and the moment money changes hands for editorial coverage it stops being earned media. PRSA’s Board of Ethics and Professional Standards calls that pay-for-play and treats undisclosed payment for coverage as a conflict with its Code of Ethics.
-The other reason is arithmetic. Northwestern’s Medill State of Local News report, published October 20, 2025, found that close to 3,500 newspapers have stopped printing since 2005 and more than 270,000 newspaper jobs have disappeared — north of 75% of that workforce. St. Louis got its own version in May 2024, when the Riverfront Times, a 46-year-old alt-weekly, was sold and its entire editorial staff was laid off, as St. Louis Public Radio reported. Fewer reporters cover the same metro, and every one of them gets more pitches than they did five years ago.
-That contraction is the strongest argument for hiring a good firm, oddly enough. The value is no longer the press release. It is knowing which three or four people still cover restaurants, or health care, or Metro East development, knowing which side of the river they file for, and not wasting their afternoon. Ask any firm to name the reporters they would approach for you and why. A firm that answers with outlet logos instead of names is guessing.
-If someone does guarantee placement, ask one question: is it paid? Guaranteed placement is paid media wearing a press release, and paid content that looks editorial carries FTC disclosure obligations. It is not automatically a scam. It is just not the thing you thought you were buying.
-### When does a small business urgently need crisis communications?
-The moment someone else can publish your story before you can explain it. A lawsuit, a data breach, a failed inspection, an injured customer, a video with your sign in the frame. Crisis communication is the one PR service a small local business can genuinely need on a specific Tuesday afternoon, and the one that costs the most when you go shopping for it afterward.
-A data breach is the cleanest example of why the state line matters. Under Missouri law (Mo. Rev. Stat. § 407.1500) you notify affected consumers without unreasonable delay, and if you are notifying more than 1,000 consumers at one time you must also notify the Attorney General’s office and the nationwide consumer reporting agencies. Illinois sets the bar lower. Under the Personal Information Protection Act (815 ILCS 530/10), a business that has to notify more than 500 Illinois residents from a single breach must also notify the Illinois Attorney General, no later than when it notifies those consumers. A Metro East business serving both sides of the river can trip the Illinois requirement at half the head count.
-Legal notice is the floor, not the message. It tells you what you have to mail and says nothing about what your regulars, your staff and the reporter who just called are going to hear. That gap is the actual product a crisis communicator sells, and it is why the good ones bill in days rather than months.
-Resist the two instincts that make everything worse. Do not bury reviews, and do not have staff or relatives post replacements. The FTC’s Trade Regulation Rule on the Use of Consumer Reviews and Testimonials, announced August 14, 2024 and effective October 21, 2024, specifically bans fake reviews, undisclosed insider reviews and the suppression of negative ones, and it carries civil penalties per violation. A cover-up is now a second story, and a more expensive one.
-What to do in the first two hours, whether or not you hire anyone: pick one spokesperson and route everything through that person. Write down what you actually know versus what you assume, and say only the first part out loud. Tell your own staff before they read it somewhere else. Call the reporter back inside their deadline even if all you can give them is what you can confirm right now — “no comment” reads as guilt, and silence lets other people write your sentences for you.
-### How do you tell whether PR actually worked?
-Not by counting clippings. Watch the numbers that move when people hear about you and never click anything: branded search volume for your business name, direct traffic, inbound calls that mention where they heard you, referral traffic from the outlet itself, and what fills page one when a stranger searches you. PR attribution is genuinely hard, and any firm claiming otherwise is overselling. Which points straight at the honest scoreboard: what fills page one when a stranger Googles your name right now — your story, or silence?
-Three habits make the fuzziness manageable. Capture the baseline before the work starts — branded searches, direct sessions, monthly inbound calls — because a number nobody recorded in month zero cannot be improved in month six. Agree on the same three metrics, reported the same way, every month. And give it a fair window: earned media compounds, and three to six months is where a program either shows a pulse or does not.
-One number to reject outright is advertising value equivalency, where a firm multiplies your coverage by what the equivalent ad space would have cost. The industry’s own measurement body, AMEC, has spent years telling practitioners it is not a valid measure of communication value. When it shows up in a monthly report, it is usually there to make a slow month look busy.
-Then apply the plain test the numbers cannot capture: did a door open that was closed? A call back from someone who never returned yours, an invitation onto the panel, a banker who already knew the name. That is what earned media buys, and it is why the honest answer to “what is my ROI” is a range with a shrug in it.
-### What should you ask a PR firm before you sign?
-Interview three firms, and ask each one who does the work day to day rather than who runs the pitch. Then ask what they would do in month one, what they would tell you not to spend money on, and for two references at roughly your size instead of their biggest logo. Vetting a firm is the same discipline as any five-figure purchase — you wouldn’t buy a commercial truck without looking under the hood.
-Two checkable credibility signals exist, and neither is required by law. The APR — Accredited in Public Relations — is administered by the Universal Accreditation Board, an association of nine public relations organizations; roughly 5% of practitioners in the US and Canada hold one of its credentials, candidates are advised to have at least five years of full-time experience, and it renews every three years. The second is local: PRSA’s Mid-America Chapter serves the St. Louis metro along with Mid-Missouri and Southern Illinois communities including Edwardsville and Carbondale. Neither guarantees good work. Both mean somebody has an ethics code to answer to.
-Walk away from four things: a guarantee of placements, a media list they will not describe, per-release pricing with no strategy behind it, and any refusal to write hours into the scope. Ask for a 30- or 60-day exit in the first contract. A firm confident about month three will not fight you on it.
-### What this looks like from the other side of the desk
-If you run a small firm here, none of this is news to you. You sell hours, not outcomes, and the whole business is utilization — salary is your cost of goods, and BLS put the median public relations specialist at $69,780 a year in May 2024, before benefits, rent, software and every hour spent on pitches that never ran. The seasonality is budget cycles rather than weather: new fiscal years and Q1 fill the pipeline, August and late December go quiet, and crisis work arrives unbudgeted at nine at night. The loss leader is the pitch itself, a spec strategy deck written free against three other shops. And the complaint traded between owners is always the same one — the client who goes dark for six weeks, judges you on a placement nobody controls, then cancels in month three, right as the relationships start paying. The operators who last write hours into the scope and report the same three numbers every month. Plenty of owners still start by searching locally, so being listed and complete where people look — including on St Louis Near Me Directory — is part of being findable at all.
-Ready to talk to somebody local instead of a cold email? Browse public relations firms across the St. Louis metro on St Louis Near Me Directory, then ask the first two for a project quote and the names of the reporters they’d approach for you.
-If you run a PR firm that knows the local reporters by name, list your firm so owners with a story to tell can find you.
+For most small St. Louis businesses, not on a retainer, and not yet. Public relations becomes necessary when your reputation is under threat, or when someone who will never buy from you, a lender, a zoning board, a reporter, has to trust you first. Until then, send your own story: the St. Louis American takes press releases through an online form, and St. Louis Public Radio lists news@stlpr.org for press releases.
+Want to test the door yourself before you sign anything? Tonight, after close, with the register counted and the lights half off, write three sentences. What happened, in plain words. Why it matters to people in a named St. Louis neighborhood or town. Who can talk about it, with a phone number that will actually be answered. Paste that into the St. Louis American’s submission form or an email to news@stlpr.org, and attach one good photo. If nobody bites, you learned something a retainer would have charged you months to learn: the story needs sharpening before it needs a publicist.
+PR is an amplifier, and it only carries what is already there. Before you pay anyone, stand on the sidewalk outside your own door and search your business name on your phone. If the hours are wrong or the listing has one photo, a story in the paper just sends a stranger to a page that costs you the sale. If customers find you by searching for what you do, the next dollar usually works harder making you findable and well reviewed than it does on a media campaign.
+PR starts earning real money when trust is your product and strangers decide: health care, financial services, child care, anything licensed. It earns it when you need a yes from a board rather than a buyer, when you are raising money or selling the company, when you have a story a reporter would run without being asked twice, and when you are already in the news and it is going badly. It can wait when your hours are wrong online, when your listings are thin, when you need revenue this quarter, or when nobody at the business can call a reporter back before their deadline passes.
+### What exactly does public relations do?
+It manages what other people say about you. The Public Relations Society of America’s definition, the one it says still stands today, is “a strategic communication process that builds mutually beneficial relationships between organizations and their publics.” Strip out the vocabulary and a firm does five jobs you would recognize.
+Media relations: deciding what about you is genuinely news, as opposed to news only to you, and pitching the specific reporters who cover it. Message work: the two sentences you say every time, drilled until the person on camera stops wandering. Reputation: what fills the first page when a stranger searches your name, and what an AI assistant repeats when someone asks about you. Crisis: the holding statement, the order you tell people in, and what you do not say yet. And community relations: the neighborhood meeting, the chamber breakfast, the zoning hearing with the folding chairs and the bad coffee.
+Notice what is missing. Selling. A firm that opens by promising you leads is describing a different service.
+### How is PR different from advertising and SEO?
+You pay for advertising and you control it. You pay for PR and you control almost none of it. An ad runs because you bought the space; a story runs because a reporter put their name on it. SEO is the part of marketing aimed at what search engines and AI assistants surface when someone is already looking.
+For an owner with one budget, the order usually goes like this. Listings and search decide whether the person already hunting for you finds you. Advertising decides how many strangers see your offer this month. PR decides what those strangers think when they run into your name somewhere you did not pay to be. Most small businesses need the first two humming before the third earns its fee.
+### What does a monthly retainer actually buy?
+The invoice lands at the start of every month, whether or not a reporter called back. What it pays for is a block of somebody’s attention, spread across strategy, writing, pitching, monitoring and reporting. Not a number of stories. BuzzStream’s survey of about 70 digital PR agency leaders and freelancers put the average monthly contract at approximately $5,458, with 52.5% of contracts under $5,000. About 90% of agencies used the monthly retainer model, and agencies averaged $6,357 a month against $4,200 for freelancers. Over half the respondents were in the UK, so treat it as a survey of digital PR shops, not a St. Louis rate card.
+A retainer with no hours written into it is a subscription to hope. Before you sign, get five things on paper: how many hours you get and what happens to unused ones, the names of the people doing the work rather than the ones in the pitch meeting, the fixed monthly deliverables, how often you get a report, and who owns the media list and the written materials when the relationship ends. That last one surprises people every time.
+Project pricing fits more often than people expect. An opening, a relocation, a funding announcement, one media training day: those have an end date. Ask for the project number first. The same retainer-versus-project tradeoff shows up in other trades, as it does in what a real estate consultant does and what it costs.
+Spent the week chewing your nails over a pitch deck? Book the repair: St. Louis nail salons.
+### Why can nobody guarantee you a story?
+Because the decision belongs to an editor, not a vendor. The moment money changes hands for editorial coverage, it stops being earned media and becomes advertising wearing a press release. Guaranteed placement is not automatically a scam. It is just not the thing you thought you were buying.
+The shrinking newsroom is, oddly, the best argument for a good firm. The value is no longer the release. It is knowing which handful of people still cover restaurants, or health care, or Metro East development, and not wasting their afternoon. Ask any firm to name the reporters it would approach for you, and why. Logos instead of names means guessing.
+### When does a small business need crisis help?
+The moment someone else can publish your story before you can explain it: a lawsuit, a data breach, a failed inspection, a video with your sign in the frame. The phone keeps lighting up face-down on the counter, and every buzz is somebody who heard before you said a word.
+A breach shows why the law is the floor, not the message. Under Missouri’s breach notice statute, a business that notifies more than one thousand consumers at one time must also notify the attorney general’s office and the nationwide consumer reporting agencies. That tells you what you have to send. It says nothing about what your regulars, your staff and the reporter on line two are going to hear, and that gap is what a crisis communicator actually sells.
+Whether or not you hire anyone: pick one spokesperson and route everything through that person. Write down what you know versus what you assume, and say only the first part out loud. Tell your own staff before they read it somewhere else. Call the reporter back before deadline, even if all you can give is what you can confirm right now. And never bury bad reviews or have friends post glowing ones. A cover-up becomes the second story, and it is always the more expensive one.
+### How do you tell whether PR worked?
+Not by counting clippings. Watch the numbers that move when people hear about you and never click anything: searches for your business name, direct visits, calls that mention where they heard of you, and what fills page one when a stranger looks you up. Record the baseline before the work starts, because a number nobody wrote down in month zero cannot be improved in month six.
+Then the plain test the numbers miss: did a door open that was closed? A call back from someone who never returned yours. A banker who already knew the name. That is what earned media buys.
+### What to ask a PR firm before you sign
+Interview three firms. Ask each who does the work day to day, what they would do in the first month, what they would tell you not to spend money on, and for two references at roughly your size instead of their biggest logo. Vetting a firm is the same discipline as any big purchase; you would not buy a commercial truck without looking under the hood.
+Walk away from a guarantee of placements, a media list they will not describe, and any refusal to write hours into the scope. Ask for a short exit window in the first contract. A firm confident about month three will not fight you on it.
+### From the other side of the desk
+If you run a small PR shop here, you already know the math. You sell hours, not outcomes, and salary is your cost of goods: the median annual wage for public relations specialists was $74,750 in May 2025, before benefits, rent and software. The pitch itself is the loss leader: a strategy deck written for free against other shops. And the complaint traded between owners is always the same, the client who goes quiet for weeks, judges you on a placement nobody controls, then cancels right as the relationships start paying. The shops that last write hours into the scope and report the same few numbers every month.
+Want a local voice instead of a cold email? Browse public relations firms across the St. Louis metro on St Louis Near Me Directory, then ask the first two for a project quote and the names of the reporters they would approach for you.
+If you’re the owner holding that cold email, ask yourself one thing first: when a neighbor asks ChatGPT or Google who does what you do, does your name come up? Coverage fades in a week. A complete listing keeps working: a Gold listing gives you up to 10 categories across 40 location tags, so the website and Google profile you already pay for finally get more customers, for under a dollar a day. See who AI names instead of you, then start with Gold or claim your spot. Refuse to be invisible.
 ### Frequently asked questions
 ### Q. What exactly does public relations do?
-A.  Public relations manages what other people say about your business. PRSA defines it as a strategic communication process that builds mutually beneficial relationships between organizations and their publics. Day to day that means pitching reporters, writing statements, preparing spokespeople, handling crises, running community and government relations, and communicating with employees. It earns attention rather than buying it.
+A.  It manages what other people say about your business. PRSA defines it as a strategic communication process that builds mutually beneficial relationships between organizations and their publics. Day to day that means pitching reporters, writing statements, preparing spokespeople, handling crises and running community relations. It earns attention rather than buying it.
 ### Q. What does a public relations department do?
-A.  An in-house PR department does what an agency does, except it sits on payroll and knows the business cold. Typical duties: fielding media inquiries, writing press materials, executive and employee communication, community partnerships, and crisis response. Most small St. Louis businesses never need one. The owner is the spokesperson until a full-time salary costs less than the retainer it would replace.
+A.  The same work an agency does, from inside the payroll: fielding media calls, writing press materials, employee and community communication, and crisis response. Most small St. Louis businesses never need one. The owner is the spokesperson until a full-time salary costs less than the retainer it would replace.
 ### Q. Why is public relations important?
-A.  Because most decisions about your business get made by people you never spoke to. Coverage, community presence and a clean first page of results give strangers a reason to trust you before they call. For a small local business that effect usually arrives faster through reviews and referrals. PR is the version that scales past people who already know you.
+A.  Because most decisions about your business get made by people you never spoke to. Coverage, community presence and a clean first page of results give a stranger a reason to trust you before they call. For a small local business, reviews and a complete listing on St Louis Near Me Directory often do that work sooner; PR is the version that reaches people who have never heard of you.
 ### Q. Is public relations free?
-A.  No. Earned media is unpaid only in the sense that you do not buy the placement itself. You still pay for the strategy, the writing, the relationships and the hours behind them. Anything sold to you as guaranteed placement is paid media, and the FTC requires paid or incentivized content that looks editorial to disclose that connection plainly.
+A.  Sending your own story is. The St. Louis American takes press releases and story ideas through a form on its site, and St. Louis Public Radio lists news@stlpr.org for press releases. What costs money is the strategy, the writing, the relationships and the hours behind them, which is what a firm sells.
 ### Q. How much do PR people charge per hour?
-A.  Most PR is billed monthly rather than hourly. BuzzStream’s 2025 survey of about 70 digital PR agency leaders and freelancers found an average monthly contract of $5,458, with 52.5% under $5,000. There is no neutral published survey of US hourly PR rates, so ask any firm directly for its blended hourly rate and how many hours your retainer includes.
+A.  Most PR is billed monthly, not hourly. BuzzStream’s survey of about 70 digital PR agency leaders and freelancers found an average monthly contract of approximately $5,458, with 52.5% under $5,000. I could not find a neutral published survey of hourly PR rates, so ask any firm for its blended hourly rate and how many hours your retainer includes.
 ### Q. How to choose the right PR agency?
-A.  Interview three and ask who does the work day to day. Get hours written into the scope, the same three metrics reported monthly, two references at your size, and a 30- or 60-day exit clause. Check whether anyone on the team holds the APR credential. Walk away from guaranteed placements, which are paid media wearing a press release.
-### Q. What are the 7 types of public relations?
-A.  There is no official list, but the seven usually taught are media relations, community relations, crisis communication, internal or employee communication, public affairs and government relations, investor relations, and influencer or marketing communication. A small St. Louis business realistically touches three of them: media relations, community relations and crisis. The rest belong to much larger organizations.
+A.  Interview three and ask who does the work day to day. Get hours written into the scope, the same few metrics reported monthly, two references at your size, and a short exit clause. Ask which reporters they would approach for you, by name. Walk away from guaranteed placements. You can start the shortlist with the public relations firms listed on St Louis Near Me Directory, then call two.
 ### Q. What are the five main functions of public relations?
-A.  Most versions reduce to research, strategy, communication, relationship management and evaluation. PRSA describes the work as analyzing public opinion, advising leadership on policy and communication, protecting reputation, researching and evaluating programs, and managing content and staff. If a proposal has no research at the front and no evaluation at the back, it is publicity rather than public relations.
-### Q. What are the big 4 PR agencies?
-A.  There is no fixed big four. The largest firms sit inside global holding companies such as Omnicom, WPP and Publicis, alongside the independent Edelman. Worth knowing locally: FleishmanHillard was founded in St. Louis in 1946 and is still headquartered here, part of Omnicom since 1997. A neighborhood business will almost never hire at that tier, and does not need to.
+A.  Most versions come down to research, strategy, communication, relationship building and evaluation. In small-business terms: find out what people already think, decide what you want them to think, say it in the right places, keep the relationships warm, and check whether anything changed. A proposal with no research up front and no evaluation at the end is publicity, not public relations.
 ### Q. Is PR being replaced by AI?
-A.  Reshaped rather than replaced. AI drafts releases, builds media lists and monitors coverage far faster than a junior staffer did, which should compress the hours a retainer covers. What it cannot do is take responsibility, work a Metro East reporter, or stand in front of a camera. Ask a firm which tasks it automates and whether your fee reflects it.
+A.  Reshaped, not replaced. AI drafts releases, builds media lists and monitors coverage faster than a junior staffer, which should shrink the hours a retainer needs. What it cannot do is take responsibility, earn a reporter’s trust or stand in front of a camera. Ask a firm which tasks it automates and whether your fee reflects that.
 
 ## Home Window Tinting in St. Louis: What Film Actually Does
 Source: https://stlouismissourinearme.com/blog/what-to-know-about-home-window-tinting-in-st-louis
@@ -262751,346 +262727,179 @@ A.  Mostly a search term, not a program. USA.gov says the government does not of
 ### Q. Where can I get immediate financial assistance?
 A.  Call 211 first. Our emergency cash guide lists the St. Louis charities that give one-time help with rent and utilities.
 
-
 ## Most of Missouri Is Closed to Free Dentures. St. Louis Is Open: How to Qualify
 Source: https://stlouismissourinearme.com/blog/how-to-qualify-for-free-dentures-st-louis
-
 Toasted ravioli was the first thing you stopped ordering. Then the steak, then the crust on anything. Now it’s soup at the kitchen table in Soulard, cooled so it won’t sting your gums, and you stopped pricing dentures a while ago.
-
 ### How do I qualify for free dentures?
-
 Missouri Medicaid pays for dentures only if you are on MO HealthNet and pregnant, blind, under 21 or living in a nursing home.
-
 That’s the whole list. Most working-age adults on Medicaid fall outside it, and in most cases Medicare doesn’t cover items like dentures either. But it isn’t a dead end.
-
 A full upper denture averages $1,220 to $2,540 out of network. Most of Missouri is closed to the volunteer program that builds them for free, but St. Louis City and St. Louis County are open, so if you qualify, volunteer dentists and labs can build yours at no cost.
-
 Our guide to free and low-cost dental care in St. Louis covers cleanings and same-day pain care. This page is only about one thing: getting your teeth back, and the first bite of an apple that comes with them.
-
 ### The free-denture door most St. Louisans never knock on
-
 A 40-year-old crown breaking apart. Several molars gone, and no way left to chew. That was Richard, a Navy veteran and a veteran service manager at Missouri Veterans Endeavor (MOVE-STL), a nonprofit focused on housing for veterans. Through Dental Lifeline Network’s Donated Dental Services, a volunteer dentist restored five teeth, one lab donated a bridge and another donated a partial lower denture. His words: “It is a life changing experience.”
-
 In Missouri the program works through volunteer dentists and volunteer dental labs. The labs matter. A denture isn’t drilled in a chair; it’s built at a bench from a mold of your mouth, and that bench work is a big part of the bill.
-
 In Missouri, some of those benches work for free.
-
 To apply in Missouri you must have no means to afford dental care and meet ONE of three criteria: 65 years of age or older, permanently disabled, or in need of medically necessary dental care. Counties open and close as slots fill, and the program’s list of counties now accepting applications includes both St. Louis and St. Louis City. They sit on it as two separate lines, just as the 1876 vote split the city from the county, so use the line that matches your address. If yours ever closes, you may still apply if you are a veteran who meets the qualifications, or if you have documentation from a physician stating that you cannot receive essential medical treatment due to your dental condition. The Missouri DDS coordinator’s number is 573-636-4440.
-
 Now the honest part, so nothing surprises you. The application takes about 15 to 20 minutes. You’ll need a backup contact, your physician’s name and phone number, your medical conditions, and your income and expenses written out line by line. If you’re under 65, have your Social Security disability award letter ready; veterans should have a DD214. Then comes the hard part: the wait can run several months to a year or more, and the coordinators can’t return calls about your place in line. Final acceptance happens after your first visit with the volunteer dentist. You can only use the program once, emergencies and cosmetic work aren’t part of it, and implants, sedation and complex care may not be offered.
-
 A year sounds long when you’re eating soup. It’s shorter than the years most people spend not applying at all.
-
 ### Does Missouri Medicaid cover dentures?
-
 Slide your MO HealthNet card across the counter at St. Louis Community College’s dental hygiene clinic at 5600 Oakland Ave. and a cleaning costs you nothing: the clinic lists no charge for Veterans and Medicaid patients with valid ID. Dentures are a different story. For most adults on Medicaid, the answer is no, and your eligibility category, not the card, decides it. The state’s own dental page says coverage for adults is limited, built mostly around trauma to the mouth, jaw and teeth.
-
 The denture rule is narrower still. The Missouri Department of Social Services names exactly four groups for whom dentures are a covered benefit: pregnant women, people in one of the assistance categories for the blind, people living in a nursing home with verified nursing-home eligibility, and anyone under 21. Dentures are not covered for anyone on a limited benefit package. When they are covered, full or partial, they don’t need prior authorization, so there’s one less form standing between you and the chair.
-
 Here’s the line people miss. If your mother or your grandfather lives in a nursing home on Medicaid, dentures are on that list. The plate that clacks because the gums have shrunk, the one that went missing on a lunch tray, is worth a call to the facility to ask which dentist sees their residents.
-
 Even when Medicaid won’t pay for the teeth themselves, keep it. The volunteer program above makes you use up every dental benefit you have first, Medicaid included. And the state health department notes that Medicaid can get you to a dental appointment through Non-Emergency Medical Transportation, so a missing ride doesn’t have to cancel a fitting. Not enrolled yet? Start with how to apply for MO HealthNet.
-
 ### Why won’t Medicare pay for my dentures?
-
 Hand that same Oakland Avenue clinic a Medicare card at 65 and you get a 25% discount on a cleaning. Ask Original Medicare to pay for a denture and, in most cases, the answer is no. It was never built to. Medicare’s own coverage page says that in most cases, Medicare doesn’t cover dental services like routine cleanings, fillings, tooth extractions (removals), or items like dentures and implants.
-
 There are narrow exceptions, and they’re tied to medical treatment, not to your smile: an oral exam and dental work before a heart valve replacement or an organ transplant, for example, or pulling an infected tooth before chemotherapy. If you chose a private Medicare plan, dig out its benefits booklet and look for the word dental. Original Medicare is the part that says no.
-
 For seniors, though, age itself is the key that fits a different lock. Being 65 years of age or older is one of the three criteria for the volunteer program above, St. Louis City and St. Louis County are both on its open list, and nobody at the Medicare office is likely to mention it.
-
 Unrelated, but someone should tell you which Missouri town out-Christmases the rest.
-
 ### What does a full set cost if every program says no?
-
 Dentures are priced per arch, top and bottom, and the numbers are blunt. Delta Dental puts the average out-of-network cost of a complete upper denture at $1,220 to $2,540, and a complete lower at $1,115 to $2,425. The price generally covers the impressions of your mouth, the custom denture itself and the adjustments to make it fit.
-
 That’s why the teaching clinic matters. The St. Louis Dental Center at 1500 Park Ave., where third- and fourth-year dental students work under faculty dentists, says its fees carry discounts of at least fifty percent from the St. Louis dental market, and that specific fees are explained before you receive treatment. The first visit includes x-rays, a look at your gums and bone, and impressions to make models: a cool, thick paste in a tray, held still while it sets. To schedule a first-time appointment, call 314-833-2758.
-
 If you get Social Security disability, there’s one more piece people rarely hear about. The Missouri health department lists the Midwest Special Needs Trust’s charitable grant program, which gives small grants, up to $1500, to Missourians with a disability determined by the Social Security Administration, and dental care is one of the listed uses. It won’t buy a whole set at private-office prices. Paired with a teaching-clinic fee, it can close a gap.
-
 ### What should you do before the week is out?
-
 Three moves, in this order. First, if you have MO HealthNet, find out your eligibility category, because that decides whether Medicaid pays for dentures at all. Second, if you’re 65 or older, disabled or medically fragile, fill out the Donated Dental Services application tonight; your place on that waitlist depends on when you submit, not when you feel ready. Third, book the comprehensive exam at the teaching clinic, so you have a written plan in hand whichever door opens first.
-
 Don’t try to do all three tonight. Do the first one, and let the next bowl of soup be one of the last.
-
 More guides for the road ahead:
-
 Low-cost dental care at St. Louis dental schools
-
 Does dental insurance cover implants in St. Louis?
-
 How to apply for disability benefits (SSI and SSDI) in St. Louis
-
 St. Louis help and assistance resources
-
 You shouldn’t have to hunt for help with your teeth one phone call at a time. Keep the dentists, clinics and neighbors who can help close at hand when you join St Louis Near Me Directory.
-
 If you’re the dental office or the denture lab that takes the hard cases, these patients need your number. More St. Louis families who need teeth they can chew with are already looking here, so list your business where they can call you.
-
 ### Frequently asked questions
-
 ### Q. Does Medicare pay for dentures for senior citizens?
-
 A.  In most cases, no. In most cases, Medicare doesn’t cover items like dentures and implants, with narrow exceptions tied to certain medical treatments. Seniors 65 and older who can’t afford care can apply to Dental Lifeline Network’s Donated Dental Services instead.
-
 ### Q. What type of dentures will Medicaid pay for?
-
 A.  In Missouri, full and partial dentures are both covered, without prior authorization, but only for MO HealthNet members in four groups: pregnant women, people in an assistance category for the blind, nursing-home residents with verified eligibility, and anyone under 21. People on a limited benefit package are not covered for dentures.
-
 ### Q. Where can I get free dentures in Missouri?
-
 A.  One free route is Donated Dental Services from Dental Lifeline Network, where volunteer dentists and labs treat people who are 65 or older, permanently disabled or in need of medically necessary care and can’t afford it. Its list of counties now accepting applications includes both St. Louis and St. Louis City. Call the Missouri DDS coordinator at 573-636-4440.
-
 ### Q. How to get dentures if you have no money?
-
 A.  Apply to Donated Dental Services if you qualify, and expect a wait of several months to a year or more. If you receive Social Security disability, ask about the Midwest Special Needs Trust grant program, whose maximum grant award is $1500; grants may be requested for medical and dental care. Meanwhile, the St. Louis Dental Center explains its discounted fees before any treatment starts.
-
 ### Q. How much should I expect to pay for a full set of dentures?
-
 A.  By Delta Dental’s average out-of-network figures, a complete upper denture runs $1,220 to $2,540 and a complete lower $1,115 to $2,425, and each arch is priced separately. The St. Louis Dental Center says its fees are at least fifty percent below the St. Louis dental market.
-
 ### Q. Is a full set of dentures top and bottom?
-
 A.  It can be: a complete upper denture replaces all of the upper teeth and a complete lower replaces all of the lower teeth, and each is priced separately. If you still have some healthy teeth on one arch, a partial denture fills the gaps instead.
-
 ### Q. How do seniors afford dentures?
-
 A.  If you are 65 years of age or older and have no means to afford dental care, you can apply to Donated Dental Services. Nursing-home residents on Medicaid have dentures covered by MO HealthNet. Others use the St. Louis Dental Center, where fees are discounted and explained up front.
 
 ## Keep the House, Lose the Alimony? Your Share as a Missouri Wife
 Source: https://stlouismissourinearme.com/blog/what-is-a-wife-entitled-to-in-a-divorce-in-missouri
-
 Your grocery bill is about to go under oath. In the City of St. Louis the clerk won’t accept a divorce petition until the income and expense statements are filed, completed under oath, so the pen hovers over the line for groceries, a number you have guessed at for years.
-
 ### What is the wife entitled to in a divorce in Missouri?
-
 As a wife in Missouri you are entitled to keep your own nonmarital property and to a just share of everything either of you acquired during the marriage, including the equity in the house and the marital part of a 401(k) or pension. Just does not mean half.
-
 Maintenance, the thing most people call alimony, comes second, and it has two plain tests. Your share of the property can’t cover your reasonable needs. And you can’t support yourself through appropriate employment. Which makes the house and the alimony one negotiation, not two.
-
 That is the question under the kitchen light at 11 p.m. in a brick house in South City: the dishwasher ticking through its last cycle, the coffee you poured at supper gone cold under your palm, the mortgage statement on one side of the table and the retirement statement on the other. Does taking the house cost you the alimony? It can. What you walk away with on paper decides the first test. The pay stub decides the second.
-
 Before you call anyone, write down four numbers: what the house would sell for, what you still owe on it, the balance in every retirement account, and what you really spend in a month, groceries included. They are what the first test is built from, and the start of the folder you will bring to every lawyer.
-
 And it runs both directions, which matters if you are the one with the bigger paycheck: RSMo 452.335 lets the court grant a maintenance order to either spouse.
-
 If you were just served, start with our guide for anyone holding divorce papers in St. Louis and its parenting plan clock. This page covers the money: the house, the retirement account and the bank account with one name on it.
-
 ### What does filing look like at the courthouse door?
-
 The security line comes first. Everyone walks through a metal detector and every bag, briefcase and folder goes through the screener. Scissors, pocket knives and needles are on the prohibited list, so the nail scissors stay in the kitchen drawer.
-
 Then the third floor. The clerk’s office is in the Clyde S. Cahill Courts Building, 10 North Tucker Boulevard, and the circuit court’s divorce page says city residents may file there in person. A petition goes in the county where the petitioner resides.
-
 The grocery line gets read too. Under Local Rule 68.4 of the Twenty-Second Judicial Circuit, a number on the sworn form can’t say “varies” or “TBD” without approval of a family court judge.
-
 Fees and deposits vary by form, and the court says to contact the Circuit Clerk’s Office at 314-622-4044.
-
 This is general information about Missouri law, not legal advice about your case.
-
 ### Property first, maintenance second, and the order is the whole game
-
 Dig the car title out from under the takeout menus in the junk drawer and set it beside the mortgage statement, the retirement account summary and the credit card bill with the late fee circled in your own pen. That pile is the marriage on paper. Missouri looks at it twice, in a set order, and the first look decides the second.
-
 Step one is the property. Under RSMo 452.330 the court sets apart each spouse’s nonmarital property, then divides the marital property and the marital debts in such proportions as it deems just. Step two is maintenance. And the first test for maintenance asks whether you lack sufficient property, including marital property apportioned to you, to provide for your reasonable needs.
-
 Read that twice. The bigger the share of the house and the accounts you walk away with, the harder it is to show you need maintenance on top. A settlement that hands you the paid-down house can be the same settlement that ends the maintenance conversation.
-
 The second reason the order matters is colder. The order dividing marital property is a final order not subject to modification. A modifiable maintenance order can later be decreased, increased or terminated after a substantial and continuing change of circumstances. The property split is the one decision you can’t come back and fix.
-
 ### Does it matter whose name is on the account?
-
 Open the banking app and look at the top of the screen. One name. His, or yours. It feels like an answer, and it mostly isn’t.
-
 Missouri presumes that all property acquired by either spouse after the marriage and before a decree of dissolution is marital property, regardless of whether title is held individually or jointly. The checking account in his name, the car titled to you alone: presumed marital if the money came in during the marriage.
-
 The presumption can be beaten, but only by showing the property came in one of the listed ways: a gift, an inheritance, an exchange for something owned before the marriage, property excluded by a valid written agreement such as a prenup, or property acquired after a decree of legal separation. That means paper. The bank statement from before the wedding. The letter from the estate. The closing sheet from land a grandmother left to one of you.
-
 One line protects people who mixed money without meaning to: nonmarital property does not become marital solely because it may have become commingled with marital property. If you can still trace an inheritance deposit by date, you sit in a far better seat than the spouse who can’t.
-
 ### Who gets the house when there are children?
-
 Nobody gets it by default. But Missouri hands the judge one tool most couples don’t know exists. Among the factors in 452.330, the court weighs the desirability of awarding the family home, or the right to live therein for reasonable periods, to the spouse having custody of any children.
-
 Or the right to live there. If you have the kids, the court can let you stay with them in the same bedrooms, the same creaking stair, the same walk to school, for a stretch it finds reasonable, with the equity dealt with later. For a family that can’t afford two mortgages, that clause can be the difference between the kids moving twice in a year and not moving at all.
-
 Whether it fits also turns on each spouse’s contribution, homemaker included. Before anyone argues about the house, get its value on paper. An appraisal turns the fight from a feeling into a number.
-
 ### What happens to the 401(k) and the pension?
-
 The account in his name is not only his account, at least not all of it. Contributions made between the wedding and the decree were acquired during the marriage, so the presumption of marital property reaches them no matter whose employer sponsors the plan. The balance that was already there on the wedding day starts on the other side of the line, and so does its growth, unless marital assets, including labor, contributed to that increase.
-
 So can you, as a wife, take half of your husband’s retirement? Not automatically, and not the whole thing. The marital portion goes into the pot with the house and the savings, and the court divides the pot justly. Will you get half of his pension? Same answer.
-
 The IRS says most plans require an ex-spouse to file a qualified domestic relations order with the plan administrator before the plan can pay any portion of the participant’s retirement plan benefits to that ex-spouse. Ask any lawyer you interview who drafts it, and when.
-
 ### What disqualifies you from alimony in Missouri?
-
 Missouri doesn’t keep a list of disqualifications. It sets a door with two locks, and you have to open both. The court may grant you maintenance only if you lack sufficient property, including the marital property apportioned to you, to provide for your reasonable needs, and you are unable to support yourself through appropriate employment or are the custodian of a child whose condition or circumstances make it appropriate that the custodian not be required to work outside the home.
-
 Fail either one and there is no maintenance. Enough property after the split, and the first lock holds. A steady paycheck that covers your reasonable needs, and the second does. So when people ask how hard it is to get alimony in Missouri, they are really asking about the property split.
-
 Clear both, and the judge sets the amount and length after weighing the factors in the statute, among them the comparative earning capacity of each spouse, the standard of living during the marriage and the duration of the marriage. It’s the quiet arithmetic of a kitchen budget, the grocery receipts and the daycare bill and the car note, laid in front of a stranger in a robe.
-
 And it ends. Under RSMo 452.370, unless the parties agreed otherwise in writing or the judgment says otherwise, the obligation to pay future maintenance ends on the death of either party or the remarriage of the spouse receiving it.
-
 ### What if you are going it alone, and what is due when?
-
 If you were the one served, your financial statements are due within 30 days of service or entry of appearance, whichever is earlier.
-
 Going without a lawyer? The city court says anyone who plans to represent themselves in a divorce is required to complete Missouri’s Litigant Awareness Program. Start it tonight. The St. Louis Family Court is up on the ninth floor of the same building as the clerk, past the scanner.
-
 Pages that help with the decisions that come next:
-
 What a home appraisal involves in St. Louis
-
 What a will or trust costs in Missouri, because the old beneficiary forms may still name your husband
-
 How to find your court date and records in Missouri
-
 The split is final the day you sign it, so sit down with a lawyer before you agree to a number. Start with the family law attorneys listed on St Louis Near Me Directory and call two or three this week.
-
 If you’re the family law attorney or the mediator who sits across the table from people at the worst week of their year, the spouses reading this page are already looking for you, so list your practice where they look.
-
 ### Bring a folder, not a story, to every lawyer you interview
-
 Shortlist two or three family lawyers and treat the first calls as interviews. Tell each one plainly what you want: the house for the kids, your retirement whole, or maintenance while you finish a degree. Do they ask where every account came from? Do they bring up the right to live in the home? Bring a folder, not a story: tax returns, pay stubs, every account and retirement statement, and anything proving an asset was yours before the wedding.
-
 Somewhere four hours from here, nobody is talking about a 401(k).
-
 And if your husband already has a lawyer, don’t sign the first draft that shows up in the mailbox. Read it at the kitchen table, slowly, with the folder open beside it.
-
 ### Frequently asked questions
-
 ### Q. How long does spousal maintenance last in Missouri?
-
 A.  As long as the judgment says. A Missouri court can order maintenance with a termination date, and the order must state whether it is modifiable or nonmodifiable. Unless the parties agreed otherwise in writing or the judgment says otherwise, future maintenance ends on the death of either party or the remarriage of the spouse receiving it.
-
 ### Q. How hard is it to get alimony in Missouri?
-
 A.  It takes opening two locks, and the first is the property split. The court may grant maintenance to either spouse only if the spouse seeking it lacks sufficient property, including marital property apportioned to them, to provide for their reasonable needs, and cannot support themselves through appropriate employment. Fail either one and there is no maintenance.
-
 ### Q. Can I stay in the house with my kids during a Missouri divorce?
-
 A.  Not by default, but the court can allow it. One factor in RSMo 452.330 is the desirability of awarding the family home, or the right to live there for reasonable periods, to the spouse having custody of any children.
-
 ### Q. Who pays alimony in Missouri?
-
 A.  Whichever spouse the court orders to. Missouri calls it maintenance, and the statute lets the court grant it to either spouse, but only to a spouse who lacks enough property to meet reasonable needs and cannot support themselves through appropriate employment.
-
 ### Q. What assets cannot be touched in divorce?
-
 A.  In Missouri, you keep your nonmarital property. That covers property acquired by gift, bequest, devise or descent, property acquired in exchange for something owned before the marriage, and property excluded by a valid written agreement of the parties. Bring the paper that proves it, because property acquired during the marriage is presumed marital.
 
 ## $416 Million Asked, $34 Million to Give: Small Business Grants in Missouri
 Source: https://stlouismissourinearme.com/blog/small-business-grants-missouri-st-louis
-
 The agency with “Small Business” in its name does not hand out grants to start or grow one. So when your phone buzzes face-down on the kitchen table at midnight, lighting up a cold coffee ring with “You are eligible!”, the startup money it promises has no SBA program behind it.
-
 ### What grants are available for small businesses in Missouri?
-
 Real Missouri grants exist, but each one pays for a single job behind its own fence: MO STEP funds qualifying international activities, the state’s Credential Training Program reimburses up to $2,000 per employee credential, federal SBIR and STTR awards fund research, and Arch Grants gives St. Louis startups $75,000 equity-free.
-
 What fills your phone instead is the grant-scam trade and the myth it feeds on, that the SBA hands out startup money. The SBA’s own grants page says it “does not provide grants for starting and expanding a business.”
-
 That myth is somebody else’s business model. The “you qualify” text, the grant-finder subscription, the webinar with a countdown clock all live off it, and the fee is the small part of what they take. The big part is the hour after the second shift, when the house finally goes quiet, the dishwasher hums, and you open a laptop to chase money that was never built for a cleaning business, a food truck or a barber chair. That hour is worth protecting from anyone selling money that does not exist.
-
 Still making the business legal? What a St. Louis business license actually requires comes first, because almost every real grant below asks for proof that you are registered and in good standing before anyone reads a word of your story. Grants come after paperwork, never instead of it.
-
 Have even one employee? October is one of the four months the credential grant takes applications, in Submittable, so the Credential Training Program page at Missouri One Start is worth opening tonight.
-
 Selling overseas? Exporters reach the state’s International Trade and Investment Office at 573-751-4855 before booking anything.
-
 Not sure which fence is yours? Spread your receipts on the table, call the Missouri SBDC in St. Louis Region at 314-241-1005, and ask which program fits what you sell.
-
 ### Where did all the St. Louis grant money go?
-
 Open the Transparency Portal on the St. Louis Development Corporation’s North St. Louis grant page and portions of the conditionally approved applications sit right there, next to their scores, worth an evening if you ever plan to write a grant. Most of the grant chatter you heard from neighbors in the last few years was real. It was also pandemic relief. The St. Louis Development Corporation’s Small Business Grant Fund was designed to assist small businesses hurt by the pandemic, and it gave 900 businesses across all 14 wards a $5,000 grant each, about $4.5 million in total, and the city’s own page now says: “This program is complete.”
-
 The bigger one tells you more about your odds than any guide will. SLDC’s North St. Louis Small Business & Non-Profit Grant Program had $34,057,500 to award. The total amount requested by eligible applicants: $416 Million+. More than 700 applications came in. That is roughly twelve dollars requested for every dollar on the table, and the program was funded with Coronavirus State and Local Fiscal Recovery Funds.
-
 So what are the odds of getting a small business grant? Odds like those make a grant a lottery ticket with homework, not a plan. Missing out says nothing about your business.
-
 ### Who actually qualifies for the grants still open?
-
 Arch Grants works out of 2315 Locust St. downtown, and its competition ends at a Finalist Pitch Day, founders on their feet pitching for a $75,000 grant. Every program still running has a fence around it, and the fence is the program.
-
 The Startup Competition from Arch Grants awards $75,000 non-dilutive grants, plus $25,000 for companies relocating, in exchange for headquartering in the City of St. Louis for at least one year. Over 400 industry experts judge the applications, and 51% of the founding team, or one founder and 51% of the team, must live in St. Louis for the program year. One line of the fine print matters: at least one founder has to be working on the company as their primary or full-time professional role. For anyone building a business in the hours after a warehouse shift, that requirement rules this competition out for now.
-
 MO STEP, run by the state’s Department of Economic Development, funds international trade activity for small businesses with 500 employees or fewer that have been in business in Missouri for at least a year and are operating profitably. For the current program cycle, the total program cost for the entire state is $313,333. The whole state. That is not a fund. That is a handful of trade-show booths.
-
 SBIR and STTR are federal research money, built for companies with safety glasses pushed up on the forehead at a lab bench. A research team in Cortex fits that description. A bakery on Cherokee Street has other doors.
-
 ### Reimbursement means you pay first
-
 One word changes the cash math: reimbursement. You spend the money, you keep the receipts, and the state pays you back if every form lines up.
-
 MO STEP requires your full application no less than 15 business days before the trade activity, and approval has to come before the event. Afterward, all receipts go to DED within 90 days, along with a tax clearance letter from the Missouri Department of Revenue. Miss a document and the reimbursement can be delayed or cancelled. That means the plane ticket and the booth fee ride on your own card first, while the balance glows on your phone every time you open the banking app.
-
 The Credential Training Program from Missouri One Start is a competitive grant for any employer registered to do business in Missouri, capped at $2,000 per employee and $30,000 per company each state fiscal year. Applications open for one month each quarter: January, April, July and October. The catch that stings a solo operator: a self-employed employer is prohibited from seeking funds for his or her own training. It pays for the people you hire, not the person in the mirror. If you are about to make that first hire, read what you owe when you hire your first employee in Missouri before you count on the credential money.
-
 Totally unrelated, but your cousin’s wedding makeup bill is going to surprise somebody.
-
 ### How do you spot a grant scam before it costs you?
-
 The scams sound warm. That is the trick. A text lands while you are wiping down the counter at close, the fryer still ticking as it cools, and it says “Great news! You are eligible to receive a government grant.” Grants.gov says that statement should put you on high alert, because the government does not contact people to award grants they never applied for.
-
 The tells settle it fast. The government does not charge a fee to apply for a federal grant. You cannot apply for federal grants over the phone or by email. And any federal grant you can spend any way you like is not a federal grant. The SBA adds another: SBA only communicates from email addresses ending in @sba.gov. If you already paid, report it to the FTC at 1-877-FTC-HELP.
-
 ### What should you do this week instead?
-
 Match yourself to a fence. Building real tech, full time? Get on the Arch Grants reminder list and talk to the SBDC about SBIR. Selling haircuts, tamales, gutter cleaning or bookkeeping in Soulard or on Cherokee Street? No grant on this page was built for that kind of business, and that says nothing about the work.
-
 The money that funds most St. Louis small businesses was never in a grant portal. It is in the customer searching right now for exactly what you do, and whether your name is the one in front of them. If you are still tallying the real startup bill, what it actually costs to start a business in St. Louis lays out the numbers grants will not cover.
-
 The funding that never closes its application window is a customer who already wants what you sell. Put your business where St. Louis is searching, and join St Louis Near Me Directory for $29.75 a month, paid annually.
-
 If you’re the caterer, the cleaner or the one-person crew still refreshing a grant portal, there is a faster door. Neighbors are already asking search engines and AI who to call, so see who AI names instead of you with a free audit.
-
 More guides for the paperwork side of building something here:
-
 Missouri sales tax license: free, fast and no bond
-
 How to test a business idea before you spend money
-
 Side hustle taxes in Missouri: 1099s and estimated payments
-
 ### Frequently asked questions
-
 ### Q. Can an LLC get grant money?
-
 A.  Yes, an LLC can get grant money when it meets a program’s fence. MO STEP wants a business licensed in Missouri and in good standing with the Secretary of State, SBIR requires a for-profit small business, and the Credential Training Program takes any employer registered to do business in Missouri. The entity type rarely decides it; the purpose does.
-
 ### Q. How to get free grants for small business?
-
 A.  Start from the purpose, not the money. Find the program built for what you already do, such as exporting, training staff or research, read its eligibility list line by line, and apply only on the official site. Every federal grant involves an application through a government website such as Grants.gov, and the government does not charge a fee to apply for a federal grant.
-
 ### Q. What are the odds of getting a small business grant?
-
 A.  Long. SLDC’s North St. Louis program had $34,057,500 to award against $416 Million+ requested by eligible applicants, roughly twelve dollars asked for every dollar available. Competitive programs score and rank applications, so even a strong one can lose on math alone.
-
 ### Q. Do you ever pay back a grant?
-
 A.  A grant is not repaid like a loan, but it is never free of conditions. Arch Grants requires your headquarters in the City of St. Louis for at least one year, and MO STEP reimbursement can be delayed or cancelled if receipts and documents are not submitted within 90 days of the event.
-
 ### Q. What not to say when applying for a grant?
-
 A.  Do not say the money will cover “whatever the business needs.” Real grants are awarded for a specific program, project or purpose, so a vague ask reads as a business that has not matched itself to the program. Name the exact cost, the exact activity and the result you will report back.
-
 ### Q. Can I get free money to start a business?
-
 A.  Rarely. The SBA does not provide grants for starting and expanding a business, and Arch Grants requires at least one founder working on the company as a primary or full-time role. Most owners fund the start with savings, a loan or early paying customers.
-
 ### Q. What is the $10 000 SBA grant?
-
 A.  It was the Targeted EIDL Advance, a pandemic payment of up to $10,000 for businesses in low-income communities that lost more than 30% of revenue and had 300 or fewer employees. It is closed. The SBA is no longer accepting new Advance applications, so anyone offering it today is not the SBA.
-
 ### Q. Is there a $5000 small business grant?
-
 A.  The SBA’s $5,000 Supplemental Targeted Advance is closed, and SLDC’s Small Business Grant Fund, which gave 900 city businesses $5,000 each, is marked complete. Treat any unsolicited $5,000 offer as a scam until an official site proves otherwise.
-
 ### Q. How to get money to fund your business?
-
 A.  You fund growth with revenue: more customers, booked more often. Grants fit only when you match a program’s purpose. A listing on St Louis Near Me Directory puts your business in front of neighbors already searching for what you do, at $29.75 a month, paid annually.
+
