@@ -233953,47 +233953,65 @@ A.  Showing up late, dressed carelessly, or with an attitude, because a judge no
 ### Q. Do you need a lawyer for a first DWI in Missouri?
 A.  An arrest at .08 percent or higher is processed administratively as well as criminally, and the license side has a 15-day deadline. A short consultation tells you whether this is a case you can carry yourself or one worth handing off.
 
-## How a St. Louis Small Business Can Build Its First AI Skill (No Coding)
+## The Tax Line You Keep Looking Up: Teach Your AI to Leave It Blank
 Source: https://stlouismissourinearme.com/blog/how-a-st-louis-small-business-can-build-its-first-ai-skill
-Imagine it’s a Tuesday morning. You own a small St. Louis business — a two-truck HVAC outfit, a salon, a bakery, a bookkeeping practice. Before you’ve finished your second cup of coffee you’ve already written the same kind of customer quote you wrote yesterday, drafted another “we’re open, come see us” post for your Google profile, and answered the same three questions you answer every single week. Notice the pattern in that sentence? Every one of those was a repeating job. So which would you hand off first, if you could teach it once and never do it again?
-None of that is hard. It’s just repetitive. And repetitive is exactly what AI is built to take off your plate — if you teach it your way of doing things once. That “teach it once” part has a name now: a skill. And despite how technical it sounds, building one takes zero code.
-### Can a small business use AI without knowing how to code?
-Yes. The key is an AI “skill” — a plain-English instruction sheet you write once that teaches a tool like ChatGPT or Claude to do a repeating task your way. No code required: if you can describe how you do something, whether typed or spoken aloud, you can build a skill for it. Everything below is how that actually works, and how to build your first one this weekend.
-### What an AI skill actually is
-Strip away the jargon and a skill is just this: a plain-English instruction sheet you write one time that teaches your AI how to do a repeating job the way you’d do it.
-Think of training a new employee. You don’t re-explain how to write a quote every single time — you hand them a one-page “here’s how we do quotes here,” and they follow it. A skill is that one-pager, except your employee is ChatGPT or Claude, it never forgets, never calls in sick, and does the job in seconds. It’s a text file. You write it in normal words. That’s the whole secret.
-### Why does this matter more for a small shop than a big company?
-Big companies hire developers to wire this up. You don’t have to — and that’s the point. The wall that used to keep this kind of automation locked behind an IT department is gone. If you can write down how you do something, you can build a skill for it. For a St. Louis small business, the first skills worth building are the boring daily ones:
-The quote skill. Feed it the job details; it drafts the estimate in your format, your tone, with your standard terms — every time.
-The Google post skill. One line about what’s going on this week, and it writes the post that keeps your Google Business Profile active, which quietly helps you show up when neighbors search.
-The photo-to-caption skill. Snap a picture on the job site; it turns it into a ready-to-post caption for Facebook or Instagram.
-I came across one person who built a skill that takes a single sentence — “make a kids’ coloring book about race cars, ages 7 to 11” — and produces a finished, publishable book: forty images, the PDF, the descriptions, the whole listing. That’s not the goal for most of us. It’s just proof of how far a plain-text instruction sheet can go once you’ve written it down.
-### How do you build your first AI skill this weekend?
-You don’t need a course. You need fifteen minutes and one annoying, repetitive task.
-Pick the task you do most and enjoy least. Quotes, posts, follow-up emails — whatever you’d hand off first if you could.
-Write down how you do it, in plain English. The steps, the tone, the do’s and don’ts, and one example of a good one. That’s the skill.
-Hand it to your AI and ask it to follow it. In ChatGPT or Claude, paste your instructions, give it a real example to work on, and see what comes back.
-Fix it once. Wherever it missed, add a line. “Never guess a price — leave it blank.” “Always mention we’re family-owned.” Now it’s tuned to you, permanently.
-That’s it. You’ve built your first AI skill. The next one takes half the time.
-### The bigger picture
-Here’s what most St. Louis business owners haven’t clued into yet: the businesses that win the next few years won’t be the ones with the biggest ad budgets. They’ll be the ones who quietly taught their AI to handle the busywork — so the owner can get back to the actual work.
-You don’t need to become a tech person to do this. You need to write down what you already know — and that’s a thing you’re better at than any developer. Don’t like writing? Turn on your microphone and just talk to your AI. Same thing, and probably faster.
-Have a student in the house? See our verified guide to scholarships for St. Louis students, or browse the St. Louis Schools Map.
-Want to build this with a little help? St Louis Near Me Directory runs hands-on AI workshops for St. Louis business owners - no jargon, no coding, just your team building real skills you’ll put to work Monday morning. Grab a seat.
-If you own a business and want customers to find you while your team is learning this, list it on St Louis Near Me Directory.
+Your thumbs know this quote by heart. Thanks for calling, here’s what we talked about, parts and labor, the warranty line, how long the price holds. Then the line you always stop on: the tax. You look it up again. The water heater is going into a bungalow in Dutchtown, which is the city, but last week’s job was over the line in the county, and the one before sat inside some fire district you couldn’t name. The laptop fan whines. The coffee grows a skin. It is the third quote this week built out of the last one.
+That isn’t a flaw in you. It’s a job that never got written down, so it gets rebuilt every time, and the tax line is the part that bites. St. Louis has run the city and the county as separate governments since the 1876 vote often called the Great Divorce. Missouri’s Department of Revenue says cities and counties may add a local sales tax and special taxing districts, fire districts among them, may add more. Local changes take effect on the first day of a calendar quarter, January, April, July or October, and the state keeps an address-by-address lookup because the right number depends on where the job is.
+So the smartest thing you can teach an AI about that line is to leave it blank.
+That is the whole idea of an AI skill. Not a robot that knows everything. A page of plain English that says how you write the quote, what it must never guess, and what a good one looks like. Anthropic, the company behind Claude, calls it a skill. Who gains when you believe it takes a developer? The people who would charge to “set up your AI.” It doesn’t. Every product fact below comes from Anthropic’s and OpenAI’s own help pages, not from a video thumbnail.
+### What is an AI skill?
+A skill is a folder with one required file inside it, a text file called SKILL.md. At the top of that file sit two labels, a name and a description. Below them, in ordinary sentences, goes whatever you would tell a new hire. Anthropic’s developer docs describe the whole arrangement as organized like an onboarding guide you would create for a new team member. Here is the one for that water-heater job. Nothing in it is code:
+name: writing-customer-quotes
+description: Drafts customer quotes in the owner’s voice and layout. Use when the owner asks for a quote, estimate or bid on a job.
+Open with the customer’s first name. List the work in the order we would do it. Never guess a price or a tax rate. Leave the tax line blank, write “look up by job address,” and ask me which side of the city line the job is on. Close with how long the quote holds and one line about the warranty. Keep it to a page.
+Here is what separates that from pasting instructions into a chat. Claude does not haul the whole folder around. When it starts up it loads only each skill’s name and description, about 100 tokens per skill by the docs’ count, a few sentences’ worth, and it opens the rest of the file only when your request matches. The description is the doorbell. Ring it with the right words and the whole page walks in.
+The whole method fits in four sentences. Do the job once with Claude the ordinary way, with a real quote of yours pasted in. Fix the draft until it sounds like you. Then type: create a skill that captures this. Zip what it hands you, upload it, and test it on three real jobs.
+### Which plan has skills? Anthropic’s two pages give two answers
+It is late. The Department of Revenue’s rate lookup is open in one tab, Claude’s settings in the other, and the button you were promised is not where the page says it is. Open Anthropic’s help center and you’ll read that for the Max, Pro and Free plans you can upload your own skills in Customize, then Skills. Open the developer docs, the paragraph about claude.ai, and uploading custom skills is listed for Pro, Max, Team and Enterprise. Free sits on one page and not the other, and nothing on either settles which list your account is on.
+So check your own screen. On Free, Pro and Max the help center says to turn on code execution and file creation under Settings, then Capabilities, and then look for Skills under Customize. If the upload option is there, everything below works for you. If it isn’t, you have lost nothing, because the skill you write is a plain text file you can keep for the day your plan catches up. The menu names have moved around between Anthropic’s pages, so hunt for the word Skills rather than a fixed path.
+### Is a skill just a Project, a custom GPT or a saved prompt?
+Four things look alike and are not. A Claude Project is the binder on the shelf. Anthropic says Projects provide static background knowledge that is always loaded when you start a chat inside one, while skills are task-specific and only load when relevant. The binder holds who you are: the salon on Cherokee Street, the neighborhoods you serve, what you sell. The skill is the laminated card you pull out when the job comes up.
+A custom GPT is OpenAI’s version of a saved setup. OpenAI’s help center says it is planning to retire custom GPTs and move creators to plugins, and that under the migration the GPT’s instructions become a skill inside the new plugin. A second OpenAI page says new GPT creation and publishing are not available on personal accounts, Free, Go, Plus or Pro. So here is the line worth repeating at the supply counter: the word skill now shows up in both companies’ products. Learn to write your way of working down once, and you are not betting on one brand.
+An artifact is the thing Claude makes, not the instructions for making it. Anthropic defines it as anything Claude makes that you would put in front of someone: a document, a deck, a small tool. The skill is how the quote gets written; the artifact is the quote on your screen. And a command, in Claude Code, the programmer’s version of Claude, is a shortcut you trigger by name. The Claude Code docs say custom commands have been merged into skills, so you can ignore commands unless you ever open that tool.
+### How do you build your first skill in one evening?
+Which job did you retype the most this month? Start there, and do not start by writing. Do the job once with Claude the ordinary way, which is what Anthropic’s authoring guide recommends: work a real task and notice what you keep explaining. Then:
+Pick one job you repeat and dislike. The guide says the best skills solve a specific, repeatable task and stay focused on one workflow. A quote is a good first one. So is the weekly post.
+Do it once, out loud, with a real example. Paste a finished quote of yours with the customer’s name taken out, add the notes from the job, and fix the draft until it sounds like you at your best.
+Then ask for the skill. Say: create a skill that captures this. The authoring guide says Claude handles the skill format natively and generates the SKILL.md with its frontmatter, the two labels at the top. You do not write any code.
+Read the two labels. The name takes lowercase letters, numbers and hyphens, and the words claude and anthropic are reserved, so writing-customer-quotes works and claude-quotes does not. The description should say what the skill does and when to use it, written in the third person.
+Zip the folder and upload it. The help center says the folder name must match the skill’s name and the ZIP should hold the folder itself, not loose files. Then Customize, Skills, and the plus button.
+Test it on three real jobs. Anthropic says to try several prompts that should trigger it, and to rewrite the description if Claude does not use the skill when you expect it to.
+The first time Claude hands back a quote with the tax line blank and the warranty line worded your way, read it out loud to check. It will sound like you on a good day. It is not available on Windows or on Free.
+### What a skill will not do for you
+It will not always open. Claude decides from the description whether to pull the file, which is why the troubleshooting advice is blunt: name the skill in your request if Claude is ignoring it. And it does not know your prices. Anthropic’s authoring guide says to avoid time-sensitive information that will become wrong, and Missouri moves local sales tax rates at the start of a quarter. A rate typed into a skill is a small lie waiting for next quarter. Tell the skill to ask, or to leave a blank.
+It stays with you. The help center says custom skills you upload are not visible to colleagues until you share them, and the developer docs say custom skills do not sync across surfaces: one uploaded to claude.ai is not on the API or in Claude Code. They add that on claude.ai each team member uploads separately, though Team and Enterprise admins have a way to provision skills for everyone.
+And a stranger’s skill is software you have never read. The developer docs say to use skills only from trusted sources, the ones you made or got from Anthropic, because a malicious one can direct Claude to run code in ways the description never mentions. Treat a free skill pack from a social post like a USB stick from a parking lot.
+Ask an AI who to call for your trade in St. Louis. Was it you?
+### Where does a skill fit next to your website and your Google listing?
+You already pay for a website. You already have a Google listing and a Facebook page. Each one goes quiet the week you do, and most owners treat that as a character flaw. It is a scheduling problem. People search for answers, not websites, and a website stays invisible until a friend, Google or an AI points at it. Everywhere you are present is another doorway, and every doorway needs a light left on.
+That is the job for your second skill. One sentence about this week’s work, a finished porch in Soulard, a cancelled slot, a new product on the shelf, and the skill turns it into the Google post, the Facebook post and the line for your listing, each in your voice, each with your never-say list applied. If your assistant can post to Google or Facebook, it can post to your St Louis Near Me Directory listing too. Same effort, and it adds up.
+Want a person beside you for the first one? St Louis Near Me Directory runs hands-on AI workshops for St. Louis business owners, no jargon and no coding, where you build a skill you will put to work the next morning. Grab a seat.
+If you’re the shop, the crew or the one-person show, the customers asking an AI who to call this week are choosing without you in the room. List your business on St Louis Near Me Directory and let your next customer find a real answer with your name on it.
+Not everything on the kitchen table is the business, so two more guides for the rest of the household:
+Have a student in the house? See our verified guide to scholarships for St. Louis students.
+Choosing a school? Browse the St. Louis Schools Map.
 ### Frequently asked questions
-### Q. What exactly is an AI skill?
-A.  It’s a plain-text instruction sheet — written in everyday language — that teaches an AI how to do a repeating task the way you want it done. Think of it as a one-page training doc for a tireless new employee.
-### Q. Do I need to know how to code to build one?
-A.  No. That’s the whole point. If you can describe your process in words, typed or spoken, you can build a skill. There’s nothing to install and no programming involved.
-### Q. Which AI should I use — ChatGPT or Claude?
-A.  Either works well. Both let you save reusable instructions. Pick the one you already have, and don’t overthink it — the skill you write matters far more than which tool runs it.
-### Q. What’s a good first skill for a small business?
-A.  The task you do most and enjoy least: drafting customer quotes, writing your weekly Google Business Profile post, or turning a job-site photo into a social caption. Start with one narrow, repetitive job.
-### Q. Is it safe to let AI handle this?
-A.  Treat it like a sharp assistant, not an autopilot — you review the output before it goes to a customer, just like you’d check a new hire’s work. Never hand it passwords or let it send anything on its own until you trust the results.
-### Q. How is a skill different from just prompting the AI each time?
-A.  A prompt is a one-off request; a skill is that request saved and standardized, so you get the same quality every time without re-explaining yourself. Write it once, reuse it forever.
+### Q. How do I use Claude skills?
+A.  Turn on code execution, open Customize, then Skills, and switch on the ones you want. Claude picks a skill by matching your request to its description, so you rarely call one by name. If it ignores a skill, name it in your request or tighten the description.
+### Q. Are Claude skills the same as custom GPTs?
+A.  No. A custom GPT is a saved setup that lives inside ChatGPT, and OpenAI says it plans to retire them in favor of plugins that carry skills. A Claude skill is a folder of instructions Claude opens only when a task matches. The habit of writing your process down once carries over to both.
+### Q. What’s the difference between a Claude Project and a Claude skill?
+A.  A Project holds background knowledge that is always loaded when you chat inside it. A skill holds instructions for one kind of task and loads only when that task comes up. Use a Project for who you are, and a skill for how you do a specific job.
+### Q. What is the difference between Claude skills and Artifacts?
+A.  An artifact is something Claude makes for you, such as a document, a deck or a small tool, that opens beside the chat so you can edit and share it. A skill is the set of instructions that shapes how Claude does a task. One is the output, the other is the recipe.
+### Q. How do I use AI in business?
+A.  Start with one narrow, repeated job and write down how you do it. Read every draft before it reaches a customer, and keep private customer details out of what you paste. Add a second job only after the first one runs clean for a few weeks. A skill is simply how you keep each job done your way.
+### Q. What is the difference between Claude skills and commands in Claude?
+A.  The Claude Code docs say custom commands have been merged into skills, so a command file and a skill both create the same shortcut. For a shop owner the practical answer is simpler: you can ignore commands. Build the job as a skill, give it a name you will remember, and test it on one real quote before you trust it with a customer.
+### Q. Do I need to know how to code to build a skill?
+A.  No. A skill can be a few lines of instructions in plain English. Do the job with Claude first, then ask Claude to create the skill from that conversation. Anthropic’s guide says Claude models handle the skill format and structure natively, so you review the text instead of writing it.
+### Q. Is it safe to use a skill someone else wrote?
+A.  Only if you trust the source. Anthropic says to use skills you wrote yourself or got from Anthropic, because a skill can include code and can direct Claude to run it. Read every file in a skill from anyone else before you switch it on, the way you would read a contract.
 
 ## Scholarships for St. Louis Students: A Verified Guide
 Source: https://stlouismissourinearme.com/blog/scholarships-for-st-louis-students
