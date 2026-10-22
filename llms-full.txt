@@ -262801,3 +262801,110 @@ A.  The SBA’s $5,000 Supplemental Targeted Advance is closed, and SLDC’s Sma
 ### Q. How to get money to fund your business?
 A.  You fund growth with revenue: more customers, booked more often. Grants fit only when you match a program’s purpose. A listing on St Louis Near Me Directory puts your business in front of neighbors already searching for what you do, at $29.75 a month, paid annually.
 
+
+## Your 10 Days Started Before You Opened It: Missouri Unemployment Protest Period
+Source: https://stlouismissourinearme.com/blog/missouri-unemployment-protest-period
+
+When did your ten days start? The state mails the notice on a Friday. By Monday it is sliding through the mail slot of a bakery on The Hill, or sitting on a Cherokee Street shop counter, or riding the dash of a Dutchtown contractor’s truck. You open it Wednesday night after a double shift, boots still on, shoulders aching.
+
+### How long is the Missouri unemployment protest period?
+
+Ten calendar days, counted from the day the Division of Employment Security mailed the notice of claim to your last known address. Every calendar day counts. The days the envelope spent riding in a mail truck count. Section 288.070 of the Missouri statutes puts it in plain words: a written protest within ten calendar days after the mailing of the notice.
+
+That Wednesday night your stomach drops, and the notice does not say why: Missouri started counting on Friday, so half your ten days are already gone.
+
+The fastest way to take days back is to stop letting the clock start in a mailbox. UInteract, the Division of Employment Security’s employer system at labor.mo.gov/des/uinteract/employers, lists receiving Division correspondence electronically and protesting claim notices among its features, and its employer contact line is 573-751-1995. The same statute says the date the division transmits a notice electronically is treated as the mailing date, and it allows that delivery for any employer who requests it. The notice and the clock start on the same day, and you are looking at both.
+
+Inside those ten days you file a written protest, following the instructions printed on the notice, if you believe your former worker quit without good cause or was fired for misconduct. A protest on time is what makes you an interested party. The state’s own employer protest page puts the payoff plainly: if you submitted a timely protest, you get a copy of the deputy’s determination when a decision is made, and from there you can appeal it.
+
+The stakes are Missouri’s own. A misconduct disqualification can be lifted only after the worker earns six times their weekly benefit amount in insured work, and a quit without good cause attributable to you or the work can run until other employment is secured and at least ten times that amount is earned.
+
+### The clock starts before you open the envelope
+
+Take the paper calendar off the nail by the time clock, the one with the beer distributor’s logo, and grab a pen. Find the day the notice was mailed. Put the pen on the next square and count ten, every square on the page, the ones you were closed included. Circle where you land. Now look at where today is. The pen usually stops a lot closer than your stomach expected.
+
+That gap is not your mistake. The enemy here is a clock that starts before the paper does. That is how the rule is built. The law does not say ten days after you receive the notice; it says ten calendar days after the mailing. It is a deadline that assumes somebody opens the mail every morning, and on a two-truck crew working out of a Dutchtown garage, nobody does.
+
+One Missouri wrinkle runs the other way. If you are a contributing employer and paid that worker gross wages of $400 or less during the base period, the state does not mail you a notice of the claim at all.
+
+If you forward one line of this to another owner, make it this one: in Missouri, the ten days count from the day the state mails the notice, not the day you open it.
+
+Before anything else, save two numbers in your phone, right where you are standing: the Division of Employment Security’s employer line, 573-751-1995, listed on its protest page, and the Department of Labor’s St. Louis line for claims information, 314-340-4950, on its contact page.
+
+St. Louis has one more stop for the empty shift. SLATE, the St. Louis Agency on Training and Employment, is the City of St. Louis government agency that offers businesses a variety of human resource assistance at no cost, including pre-screening candidates and on-site office space for interviews, at 1520 Market St., 3rd Floor.
+
+Already holding the paper one? Missouri also answers through SIDES E-Response. Have your federal and state employer identification numbers ready, plus the Access Code from the mailed notice of claim form. Once you log in to SIDES, the pending request shows the date and time your response is due to the state, and the site gives you a date-stamped confirmation of receipt. Screenshot it.
+
+### What does a Missouri claims deputy need to see in your protest?
+
+A protest is not a feeling. It is a stack of paper on a desk, and the person reading it, a claims deputy, never met your worker and never saw the schedule taped up by the back door. The deputy gets only what you send. A thin protest gets a thin result.
+
+If you fired the person, the deputy wants the date and who did the firing, every incident of unsatisfactory conduct that played a part, the details of all warnings and reprimands, written or verbal, the details of the final incident, and the specific policy that was broken along with how the worker would have known about it. Attach a copy of that policy. Then read the sentence the state tucks into the middle of that list: policies prohibiting mistakes, accidents, poor workmanship or bad judgment may not provide a sufficient basis for protest. Being bad at a job is not the same thing as misconduct.
+
+So what disqualifies a worker for unemployment in Missouri when you were the one who let them go? The legal word is misconduct, and the state’s definition is more specific than the word sounds. It includes a violation of your no-call, no-show policy, chronic absenteeism or tardiness in violation of a known policy, and two or more unapproved absences following a written reprimand or warning about an unapproved absence, unless the absences are protected by law. Known, written, policy. The warning form in the file drawer with their signature at the bottom is worth more than any story you tell on the phone.
+
+If the worker quit, send what they said or did to show they were leaving. If they simply stopped showing up, say so and give the date they last worked. A timecard that ends on a Tuesday is evidence.
+
+### Should you protest at all, or is that the expensive mistake?
+
+Sometimes the honest answer is no. Under the heading Claimant Laid Off Due to Lack of Work, the state’s instruction is blunt: you should not protest a claim based on a separation for this reason. You can still tell the state about vacation, holiday or WARN pay going out, because those payments can affect the claim, and you should say so if the worker is not able or available for full-time work.
+
+Why do owners fight at all? Because of how claiming unemployment affects an employer. According to the state’s page on laying off employees, benefits paid are charged to your account in ratio to the wages used to establish the claim, possibly resulting in an increased experience rate, and employers with reimbursable accounts get a direct charge.
+
+But the same page carries the warning that should keep everybody honest. An employer who misrepresents or hides facts to deny benefits can face a penalty of 25 percent of the benefits denied on a first occurrence, rising to 100 percent for later ones, and can be found guilty of a misdemeanor. Protest what is true. Leave out what isn’t.
+
+### What happens if you miss the ten days?
+
+The tight feeling in your chest when you find the envelope on day twelve is real, but it is not the end. The statute says the ten-day period may, for good cause, be extended. File it anyway, in writing, with the date it was mailed, the date it reached you and the date you opened it. I could not find the state’s list of what counts as good cause, so document everything.
+
+### The phone hearing is the whole case
+
+Say the deputy rules against you. You have 30 days from the date of the determination to appeal, and an appeal cannot be filed by email or phone. According to the Appeals Tribunal, most hearings take place over the phone, the hearing is de novo, meaning the referee hears the matter from the beginning, and you must present your evidence again even if you already gave it to the deputy. It may be your only chance to present evidence.
+
+Forget the courtroom you are imagining. It is you, on speaker in the back office on Cherokee Street or above the bakery on The Hill, the walk-in compressor cycling behind you, your shift lead in the next chair because you have the right to present witnesses. The hearing is recorded. Have the warning forms, the policy, the timecards and a written timeline in front of you, in order, before the phone rings.
+
+A former worker’s claim shouldn’t be the loudest thing happening at your business this month. Put your energy into the next good hire and the next customers walking in the front door: join St Louis Near Me Directory for $29.75 a month, paid annually, with a 7-day trial.
+
+If you’re the shop owner, the crew lead or the one-person kitchen running payroll from a laptop, you’re not short on hustle, you’re short on being seen. St. Louis neighbors are already searching for what you do, so run the free audit and see who the AI names instead of you.
+
+### Your ten days, starting tonight
+
+Write the mailing date on the envelope in marker and circle the tenth day on the wall calendar, the paper one you actually walk past. Pull the signed policy, every warning, the last timecard and any text where the worker said they were done, and write a one-page timeline. Then file the written protest the way the notice tells you to, keep a copy, and watch for the determination.
+
+If the separation is messy, or there is any chance of a discrimination or retaliation claim behind it, that is the moment to talk to a lawyer, not after the phone hearing. Shortlist two or three, interview them, tell them what you want to happen, and compare that with what they say they can deliver.
+
+If you’re reading this from the other side of the counter, as the worker, our guide to filing for unemployment in Missouri covers your clocks and your appeal. This page is the employer’s half.
+
+Fired in Missouri: what the worker’s rights actually are
+
+Where St. Louis workers get help finding the next job
+
+St. Louis help and assistance resources
+
+Hiring your first employee in Missouri
+
+When a St. Louis small business needs an attorney
+
+Somewhere four hours out, a lake sits flat and nobody mails you anything.
+
+### Frequently asked questions
+
+### Q. How does claiming unemployment affect my employer?
+
+A.  Benefits paid are charged to the employer’s account in ratio to the wages used to set up the claim, which can raise the employer’s experience rate, and reimbursable employers are charged directly. A worker can draw up to twenty weeks of benefits in a benefit year. That’s why a timely, accurate protest matters when a separation was a quit or a misconduct firing, and why it doesn’t when it was a layoff.
+
+### Q. Does unemployment contact your previous employer?
+
+A.  It reaches out on paper: Missouri mails a notice of the initial claim to each base-period employer and to the last employing unit the worker names, except a contributing base-period employer that paid the worker four hundred dollars or less. That notice is what starts the employer’s ten-day protest period.
+
+### Q. What does issue on file mean with unemployment?
+
+A.  In Missouri’s terms, an issue is the circumstance causing a dispute over whether a claimant may receive benefits, and a pending issue means benefits are on hold because of it. An employer protest about a quit or a firing is one common way an issue gets raised. The claimant is contacted if more information is needed.
+
+### Q. What disqualifies you for unemployment in Missouri?
+
+A.  Quitting without good cause attributable to the employer or the work, being discharged for misconduct connected with work, or refusing suitable work can all lead to disqualification. Misconduct includes things like violating a no-call, no-show policy or two or more unapproved absences after a written warning.
+
+### Q. What happens if I lose an unemployment appeal?
+
+A.  The losing side at the Appeals Tribunal has 30 days to ask the Labor and Industrial Relations Commission to review the referee’s decision, and the Commission generally decides on the existing hearing record. After the Commission, the next step is the Missouri Court of Appeals, and an employer other than a sole proprietor needs a Missouri-licensed attorney to file it.
