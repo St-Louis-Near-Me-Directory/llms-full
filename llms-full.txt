@@ -1607,6 +1607,83 @@ A free, mobile-first tool from St Louis Near Me Directory for people weighing a 
 Coverage today: 5 towns tested (Wentzville, Ballwin and Arnold in Missouri; O'Fallon and Collinsville in Illinois) across 50 business types. Other towns within 50 miles are listed as coming soon. The numbers were pulled in October. The first answer is open; an email unlocks the town's full list of all 50 businesses, ranked from the biggest gap down.
 
 Example from the data: about 280 Google searches a month for Indian food from the Collinsville, IL area, and no Indian restaurant within 5 miles (3 within 10 miles).
+
+## St. Louis Small Business Statistics: 268,541 Businesses, 215,309 With Nobody on Payroll
+Source: https://stlouismissourinearme.com/st-louis-small-business-statistics
+How many small businesses are in the greater St. Louis, Missouri metro?
+The greater St. Louis metro, home to 2,809,527 people, has 268,541 small businesses, and small businesses make up 99.2% of the region’s businesses, according to the SBA Office of Advocacy. Of those, 215,309 have no employees, and small businesses employ 552,276 people, 44.4% of the metro’s employees.
+One owner, one phone, nobody on payroll. That’s most of St. Louis business. The person who replaces the water heater or cuts the hair is also the one answering the 9 p.m. text, sending the invoice and trying to keep up with how customers pick who to call. Here are the numbers: how many there are, how customers choose now, and what 109 towns around the Arch search for that nobody nearby sells.
+### How many small businesses are in the greater St. Louis, Missouri metro?
+The greater St. Louis metro, home to 2,809,527 people, has 268,541 small businesses, and small businesses make up 99.2% of the region’s businesses, according to the SBA Office of Advocacy. Of those, 215,309 have no employees, and small businesses together employ 552,276 people, 44.4% of the metro’s employees.
+The SBA counts a business as small if it has fewer than 500 employees. Inside the city limits, the Bureau of Labor Statistics counts 16,132 business establishments, big employers included (see the county table).
+Small businesses: St. Louis metro and Missouri:
+- Small businesses: St. Louis metro 268,541; Missouri 590,131
+- Small businesses as a share of all businesses in that area: St. Louis metro 99.2%; Missouri 99.4%
+- Small businesses with no employees: St. Louis metro 215,309; Missouri 475,437
+- People employed by small businesses: St. Louis metro 552,276; Missouri 1,139,031
+- Share of employees at small businesses: St. Louis metro 44.4%; Missouri 44.4%
+Sources: SBA Office of Advocacy small business profiles for Midwest metro areas and Missouri, both built on 2022 Census data.
+### Four in five have nobody on payroll
+The no-employee business isn’t a side note in St. Louis. It’s the main event: 215,309 of the metro’s 268,541 small businesses, about four in five. It’s the second job that slowly became the first one, the truck that doubles as the office. Self-employment is climbing, too: in the SBA’s count, 10.8% of the metro’s private workers were self-employed, up from 10.0% five years earlier. The median unincorporated self-employed worker earned $49,055; the incorporated ones earned $72,208.
+Ownership is broad. Women own 46.7% of the metro’s businesses, veterans own 6.1%, and 41,159 businesses are Black-owned, about 16% of the businesses whose owners’ race is known.
+Jobs tell a flatter story. Small businesses employed 554,615 people in the metro in 2012 and 552,276 a decade later, even as the number of small employers rose from 52,510 to 53,232. Statewide, the small shops did the hiring: Missouri small businesses netted 19,137 new jobs in the SBA’s latest one-year count, while all Missouri establishments combined netted 13,708.
+### What kind of business has no employees?
+Not the one most people picture. In the SBA’s St. Louis metro count, the biggest group of no-employee businesses is professional, scientific and technical services, with 27,552. Right behind it: transportation and warehousing with 27,032, other services with 25,341, and real estate and rental with 23,897.
+Put faces on those labels and it’s the bookkeeper at the kitchen table, the driver who runs deliveries after the day job, the stylist renting one chair, the cleaning crew of one, the landlord with a two-family flat. Retail (18,531), administrative and support services (18,311) and construction (17,489) fill out the top of the list.
+Nationally, 86.7% of businesses with no employees are sole proprietorships, according to the SBA. One owner, one phone, and for a lot of them the business address is the front door.
+### Business counts, county by county
+This table uses one yardstick: the Bureau of Labor Statistics’ quarterly count of establishments whose workers are covered by unemployment insurance, big employers included. Don’t mix it with the Census Bureau’s County Business Patterns: St. Louis County shows 48,068 establishments here and 29,717 there. Only two of Missouri’s seven largest counties pay above the national average weekly wage of $1,569: the city at $1,611 and St. Louis County at $1,586.
+Establishments, jobs and pay by county, fourth quarter 2025 (preliminary):
+- St. Louis County, MO: Establishments 48,068; Jobs (December 2025) 592,217; Average weekly wage $1,586
+- St. Louis city, MO: Establishments 16,132; Jobs (December 2025) 219,421; Average weekly wage $1,611
+- St. Charles County, MO: Establishments 11,490; Jobs (December 2025) 164,906; Average weekly wage $1,202
+- Madison County, IL: Establishments 5,481; Jobs (December 2025) 108,781; Average weekly wage $1,217
+- St. Clair County, IL: Establishments 4,849; Jobs (December 2025) 89,928; Average weekly wage $1,205
+- Jefferson County, MO: Establishments 4,829; Jobs (December 2025) 50,301; Average weekly wage $1,059
+- Franklin County, MO: Establishments 3,181; Jobs (December 2025) 40,096; Average weekly wage $1,077
+Sources: Bureau of Labor Statistics county employment and wages releases for Missouri and Illinois.
+### How customers pick a business now
+Before anybody calls you, they check. BrightLocal’s Local Consumer Review Survey, a panel of 1,002 US adults, found 97% read reviews for local businesses, and the average consumer uses six different review sites when choosing one. Where they look is moving fast. Google’s share of review reading dipped from 83% to 71% in a year. Use of ChatGPT and other AI tools for local recommendations jumped from 6% to 45%, making AI the third most popular source of business recommendations.
+That breaks the old belief that a website plus a Google listing means you’re covered. People don’t search for websites. They ask for answers: who fixes a garage door in Arnold, where to get pho near Wildwood. An AI tool answers with the businesses it can find and make sense of (here’s how AI decides which local businesses to name). The same BrightLocal research found just 35% of small businesses have a Google Business Profile at all.
+When the AI names somebody else, you never hear about it. No missed call, no voicemail. The phone just doesn’t ring. You’re not bad at what you do. You’re invisible where the question got asked.
+### What’s missing: searches nobody nearby answers
+We measured demand ourselves. Across 50 everyday business types in 109 towns within 50 miles of the Gateway Arch, Google Ads data shows 402,970 searches a month. We set each town’s searches against the businesses Google Maps shows within 5 miles. Of the 5,450 town-and-type pairs, 300 came out underserved and 64 crowded.
+Indian restaurants alone make up 14 of the metro’s top 50 gaps. Florissant shows what that looks like: about 320 searches a month for an Indian restaurant, roughly ten a day, and not one within 5 miles. Somebody keeps typing the question, and the nearest answer is a drive away.
+A gap is a lead to check, not a guarantee. Drive it, call the businesses 10 miles out, ask the neighbors. Then run your own town and trade in the What’s missing check.
+What 109 St. Louis-area towns search for:
+- Towns within 50 miles of the Gateway Arch: 109 (46 in Missouri, 63 in Illinois)
+- Everyday business types checked: 50
+- Monthly searches, all towns and types: 402,970
+- Businesses counted on Google Maps: 81,178
+- Town-and-type pairs underserved: 300
+- Town-and-type pairs crowded: 64
+- Indian restaurants among the top 50 gaps: 14
+Source: Google Ads search volume (12-month average, October 2025 to September 2026) and Google Maps listings (searched October 15-22, 2026), both pulled through DataForSEO and analyzed by St Louis Near Me Directory.
+### Town by town: five places up close
+Eureka and Wildwood. Wildwood’s ZIP area searches for ramen about 370 times a month and for pho another 370, with neither within 5 miles. Eureka adds about 190 monthly searches for an Indian restaurant, none within 5 miles.
+Fenton and High Ridge. Fenton came out balanced, with 27 business types about right and one gap: pho, at 60 searches a month and none within 5 miles. High Ridge has 9 underserved types, barbers among them, at 130 searches a month against 5 shops within 5 miles.
+Arnold. Eight underserved types. Barber searches run about 460 a month against 22 shops within 5 miles, more than twice the usual demand per shop, and an Indian restaurant draws 160 a month with none that close.
+Wentzville. Locksmiths draw about 430 searches a month against 6 within 5 miles, nearly six times the usual demand per shop. Ramen draws 170 a month with no shop within 5 miles.
+Florissant. Beyond the Indian-restaurant gap, yoga studios draw about 110 searches a month with one studio within 5 miles.
+### How we got our numbers
+Government sources are linked under each table. Our own figures were built like this.
+Demand. Monthly searches are Google Ads search volume, pulled through DataForSEO for 150 search phrases per town: three ways of searching for each of the 50 business types. Each figure is Google’s 12-month average. Under 40 searches a month, we call it too little data to judge.
+Supply. Businesses are Google Maps listings, also via DataForSEO, counted within 5 and 10 miles of each town’s Census center point: 81,178 unique businesses in all. Chains count.
+The verdict. We compare each town’s searches per person with its businesses per person within 5 miles, against the average for St. Louis, St. Charles, Jefferson, Madison and St. Clair counties. Underserved means at least twice the normal searching per nearby business, or 40+ searches a month with nothing within 5 miles. Crowded means half the normal rate or less, with 3+ businesses within 5 miles.
+Left out on purpose: the city of St. Louis. Google’s “St. Louis” search figure runs at 78% of St. Louis County’s monthly searches, while the city has 30% as many people as the county, so it can’t be compared fairly with the other towns.
+### Questions people ask about St. Louis business
+### What percent of small businesses are successful?
+From 1994 through 2022, an average of 67.7% of new employer establishments survived at least two years, and 49.2% lasted five (source). Clear year five and the odds turn: 69.5% of businesses that reach five years go on to reach ten.
+### How to start a business in Missouri?
+A sole proprietorship can start without filing anything with the Missouri Secretary of State; an LLC is created by filing articles of organization there, which you can do online. If you’ll trade under a name other than your own, register it as a fictitious name. Per the state’s startup guide, most businesses then register with the IRS for a federal employer identification number and with the Missouri Department of Revenue for taxes such as sales tax. Local licenses depend on where you work; our St. Louis business license guide covers city versus county. Once you’re open, claim your spot on St Louis Near Me Directory.
+### What is the main industry in St. Louis?
+Among small businesses, it’s professional, scientific and technical services: 33,611 of the metro’s small businesses work in that field, more than in any other industry, per the SBA. By jobs, health care and social assistance leads, with 82,233 people working at small businesses in that industry.
+### Is St. Louis growing or declining?
+It depends where you draw the line. Census estimates show the city of St. Louis lost 7.7% of its population between April 2020 and July 2025 and St. Louis County lost 1.4%, while St. Charles County grew 5.2%. Business is steadier: the metro’s small employers rose from 52,510 to 53,232 between 2012 and 2022.
+### What is the population of the Saint Louis Metro area?
+About 2.8 million, which makes it the 23rd-most populous metro area in the US, according to USAFacts, drawing on Census Bureau estimates. Census survey data compiled by Census Reporter puts the St. Louis, MO-IL metro area at 2,809,527 people, counting both the Missouri and Illinois sides.
+### How many small businesses are in the United States of America?
+36,207,130, according to the SBA Office of Advocacy, and 99.9% of all US businesses are small. Most have no staff at all: 82.3% have no employees, close to the four in five seen across the St. Louis metro.
 ## Improve Online Visibility in St Louis
 Source: https://stlouismissourinearme.com/improve-online-visibility-in-st-louis
 
