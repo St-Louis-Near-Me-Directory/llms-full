@@ -1659,12 +1659,18 @@ What 109 St. Louis-area towns search for:
 - Town-and-type pairs crowded: 64
 - Indian restaurants among the top 50 gaps: 14
 Source: Google Ads search volume (12-month average, October 2025 to September 2026) and Google Maps listings (searched October 15-22, 2026), both pulled through DataForSEO and analyzed by St Louis Near Me Directory.
-### Town by town: five places up close
+People are asking
+### How many St. Louis based companies are there?
+Counting St. Louis companies depends on where you draw the line. Across the greater metro, the SBA counts 268,541 small businesses, and small businesses make up 99.2% of the region’s businesses. By the Bureau of Labor Statistics count, St. Louis County has 48,068 business establishments and the city of St. Louis has 16,132, big employers included.
+### Town by town: a closer look
 Eureka and Wildwood. Wildwood’s ZIP area searches for ramen about 370 times a month and for pho another 370, with neither within 5 miles. Eureka adds about 190 monthly searches for an Indian restaurant, none within 5 miles.
 Fenton and High Ridge. Fenton came out balanced, with 27 business types about right and one gap: pho, at 60 searches a month and none within 5 miles. High Ridge has 9 underserved types, barbers among them, at 130 searches a month against 5 shops within 5 miles.
 Arnold. Eight underserved types. Barber searches run about 460 a month against 22 shops within 5 miles, more than twice the usual demand per shop, and an Indian restaurant draws 160 a month with none that close.
 Wentzville. Locksmiths draw about 430 searches a month against 6 within 5 miles, nearly six times the usual demand per shop. Ramen draws 170 a month with no shop within 5 miles.
 Florissant. Beyond the Indian-restaurant gap, yoga studios draw about 110 searches a month with one studio within 5 miles.
+Imperial. A census-designated place, not a city, with 16 underserved types. Nail salons draw about 240 searches a month against 12 within 5 miles, and vets about 120 against 5, more than six times the usual demand per vet.
+House Springs. No barber shop within 5 miles of a town that searches for one about 110 times a month. Vets draw about 180 searches against 3 that close.
+For the full numbers on any of these towns, open the What’s missing in your town check.
 ### How we got our numbers
 Government sources are linked under each table. Our own figures were built like this.
 Demand. Monthly searches are Google Ads search volume, pulled through DataForSEO for 150 search phrases per town: three ways of searching for each of the 50 business types. Each figure is Google’s 12-month average. Under 40 searches a month, we call it too little data to judge.
@@ -1955,6 +1961,127 @@ The Census Bureau’s QuickFacts puts Florissant at 47.9% White alone, 42.3% Bla
 The city calls itself one of the oldest communities in Missouri, known for its French colonial history, its Old Town district and a strong sense of community.
 How we counted. Demand is Google Ads’ 12-month average of monthly searches, pulled through DataForSEO; supply is Google Maps listings within 5 and 10 miles of the town’s Census center point; underserved means at least twice the normal searching per nearby business, or 40+ searches a month with none within 5 miles. The full method is on our St. Louis small business statistics page.
 More in this series:
+
+## Imperial MO County: Jefferson, Not a City, and 16 Business Gaps for 5,488 People
+Source: https://stlouismissourinearme.com/st-louis-small-business-statistics/imperial-mo
+Is Imperial, MO a city?
+No. The Census Bureau lists Imperial as a census-designated place in Jefferson County, Missouri, not an incorporated city. By the Bureau’s definition, that is an unincorporated community with no legally defined boundary and no active, functioning government. Arnold, Festus and Hillsboro, also in Jefferson County, are incorporated cities.
+Not a city, on paper. The Census Bureau files Imperial as a census-designated place in Jefferson County: unincorporated, no legally defined boundary, no government of its own. Its 5,488 people need things anyway. A thumbnail chipped to the quick, a knot under the shoulder blade: “nail salon near me” gets typed here about 170 times a month, and Google Maps shows 12 salons within 5 miles.
+### Is Imperial, MO a city?
+No. The Census Bureau lists Imperial as a census-designated place in Jefferson County, Missouri, not an incorporated city. By the Bureau’s definition, that is an unincorporated community with no legally defined boundary and no active, functioning government. Arnold, Festus and Hillsboro, also in Jefferson County, are incorporated cities.
+### What Imperial searches for and runs short on
+By our count, Imperial has 16 underserved business types. These services each draw 120 or more searches a month.
+Imperial’s underserved services with 100+ searches a month:
+- Nail salon: Monthly searches 240; Within 5 miles 12; Within 10 miles 44
+- Massage: Monthly searches 190; Within 5 miles 9; Within 10 miles 30
+- Barber shop: Monthly searches 160; Within 5 miles 9; Within 10 miles 29
+- Veterinarian: Monthly searches 120; Within 5 miles 5; Within 10 miles 25
+- Dentist: Monthly searches 120; Within 5 miles 22; Within 10 miles 110
+Sources: St Louis Near Me Directory’s count of Google Ads monthly searches (12-month average, October 2025 to September 2026) against Google Maps listings searched October 15-22, 2026, both via DataForSEO.
+Start with nails and massage. About 240 nail searches a month, 170 for “nail salon near me,” meet 12 salons within 5 miles, nearly three times the usual searching per salon. Massage: about 190 searches, 9 places, more than three and a half times the usual rate.
+Barbers are spread thin, too: about 160 searches a month, 110 for “barber shop near me,” and 9 shops within 5 miles, nearly five times the normal rate.
+Then the vet. About 120 searches a month and 5 vets within 5 miles: more than six times the usual searching per vet, and a sick animal doesn’t ride well in traffic.
+Smaller signals: check before you trust them. These sit at 40 to 80 searches a month. Florist has 2 shops within 5 miles, so one opening or closing swings it. Thai, ramen and pho round out the 16.
+Smaller underserved services in Imperial, 40-80 searches a month:
+- Gym: Monthly searches 80; Within 5 miles 5; Within 10 miles 31
+- Hair salon: Monthly searches 60; Within 5 miles 20; Within 10 miles 98
+- Dog grooming: Monthly searches 50; Within 5 miles 8; Within 10 miles 28
+- Garage door repair: Monthly searches 50; Within 5 miles 5; Within 10 miles 13
+- Chiropractor: Monthly searches 50; Within 5 miles 16; Within 10 miles 43
+- Daycare: Monthly searches 40; Within 5 miles 17; Within 10 miles 45
+- Florist: Monthly searches 40; Within 5 miles 2; Within 10 miles 18
+- Tailor and alterations: Monthly searches 40; Within 5 miles 0; Within 10 miles 3
+Sources: St Louis Near Me Directory’s count of Google Ads monthly searches (12-month average, October 2025 to September 2026) against Google Maps listings searched October 15-22, 2026, both via DataForSEO.
+### Inside Jefferson County: the Imperial MO county numbers
+Census Reporter puts Imperial’s median household income at $90,028 with a $26,961 margin of error, so treat it as a sketch. Jefferson County counts 15,956 businesses with no employees: a lot of kitchen-table invoices. Imperial’s ZIP code is 63052, the one on the state historic site ’s address.
+Imperial CDP and Jefferson County, the counts:
+- Imperial population: 5,488
+- Imperial area: 5.2 square miles
+- Imperial households: 1,835
+- Imperial median household income: $90,028 (plus or minus $26,961)
+- Imperial median home value: $228,700
+- Jefferson County population: 233,132
+- Jefferson County employer firms: 2,905
+- Jefferson County employer establishments: 3,956
+- Jefferson County businesses with no employees: 15,956
+Sources: Imperial figures from Census Reporter, ACS 2024 5-year estimates; Jefferson County figures from Census Bureau QuickFacts (population estimate for July 1, 2025; employer firms, employer establishments and nonemployer businesses for 2023).
+### Spare room, van or storefront
+Some trades travel; some need a chair. A mobile vet, a massage therapist with a folding table or a dog groomer can work from home and drive to the customer. Nails and barbering want a shop, so rent a chair or a booth by the week before any lease.
+Check it yourself. Drive past the nearest shops at the after-work rush, call the ones a town or two over and ask where their customers live, and ask neighbors who they use. Our numbers point; they don’t promise.
+Working from home? With no city government, start with the county: Jefferson County’s Planning Division takes Home Occupation Permit applications at 636-797-5580. The rules: you live there, one employee on site at most besides residents, a third of the home’s floor area at most, and no outdoor storage.
+The searches are already typed. Whoever is listed where neighbors and AI look gets the call.
+### Questions people ask about Imperial
+### What is Imperial Missouri known for?
+Mastodon State Historic Site’s Kimmswick Bone Bed, where scientists found the first solid evidence of humans and the American mastodon living side by side in eastern North America, per Missouri State Parks.
+### What is there to do in Imperial Missouri?
+Mastodon State Historic Site has a museum with fossils and a mastodon skeleton replica, three trails, one leading to where the bones were found, picnic sites and a wildflower garden that draws birds and butterflies.
+### How many people live in Imperial Missouri?
+5,488, by Census Reporter ’s count, in 1,835 households across 5.2 square miles.
+### Is Imperial Missouri a good place to live?
+The Census helps: the median home value, $228,700, is about the same as Missouri’s $230,300, and households average 3 people, about 25 percent more than the St. Louis metro’s 2.4.
+### What cities are included in Jefferson County, MO?
+Jefferson County’s cities, per the Census Bureau’s place list: Arnold, Byrnes Mill, Crystal City, De Soto, Festus, Herculaneum, Hillsboro, Kimmswick, Olympian Village, Pevely and part of Eureka. Imperial, High Ridge and Barnhart are census-designated places, not cities.
+### Where these numbers come from
+Searches: Google Ads’ 12-month monthly average, via DataForSEO. Businesses: Google Maps listings within 5 and 10 miles of Imperial’s Census center point. Underserved: searching runs at least double the usual rate per nearby business, or draws 40+ monthly searches with nothing inside 5 miles. Full method: the St. Louis small business statistics hub.
+
+## House Springs MO County: Jefferson, 180 Vet Searches a Month and No Barber Shop Within 5 Miles
+Source: https://stlouismissourinearme.com/st-louis-small-business-statistics/house-springs-mo
+What county is House Springs, Missouri located in?
+House Springs, Missouri is in Jefferson County. The State Historical Society of Missouri lists it among the county’s place names, and the county runs its Animal Resource Center at 4848 Highway 30 in House Springs. The closest Census figures are for ZIP code 63051: 13,436 people.
+Adopt a dog at the Jefferson County Animal Resource Center on Highway 30, and somewhere on the ride home, a wet nose smudging the back window, comes the question: who’s our vet now? House Springs searches for a vet about 180 times a month, with 3 vets within 5 miles. A barber: about 110 searches a month, and no barber shop within 5 miles.
+### What county is House Springs, Missouri located in?
+House Springs, Missouri is in Jefferson County. The State Historical Society of Missouri lists it among the county’s place names, and the county runs its Animal Resource Center at 4848 Highway 30 in House Springs. The closest Census figures are for ZIP code 63051: 13,436 people.
+### Eleven gaps around House Springs
+What House Springs searches for, against the businesses close by:
+- Veterinarian: Monthly searches 180; Within 5 miles 3; Within 10 miles 16
+- Barber shop: Monthly searches 110; Within 5 miles 0; Within 10 miles 11
+- Hair salon: Monthly searches 80; Within 5 miles 9; Within 10 miles 53
+- Locksmith: Monthly searches 50; Within 5 miles 1; Within 10 miles 7
+- Chiropractor: Monthly searches 50; Within 5 miles 6; Within 10 miles 32
+- Dog boarding: Monthly searches 40; Within 5 miles 1; Within 10 miles 14
+- Physical therapy: Monthly searches 40; Within 5 miles 5 practices; Within 10 miles 24
+- Florist: Monthly searches 40; Within 5 miles 0; Within 10 miles 9
+- Ramen shop: Monthly searches 40; Within 5 miles 0; Within 10 miles 0
+- Thai restaurant: Monthly searches 40; Within 5 miles 0; Within 10 miles 0
+- Indian restaurant: Monthly searches 40; Within 5 miles 0; Within 10 miles 1
+Sources: St Louis Near Me Directory’s own count for What’s missing in your town: Google Ads monthly search averages (October 2025 to September 2026) and Google Maps listings pulled October 15-22, 2026, both via DataForSEO.
+The vet gap is the big one. About 180 searches a month meet 3 vets within 5 miles, more than two and a half times the usual demand per vet. Most, about 110, are “vet near me,” typed with a sick dog underfoot.
+The barber gap is the cleanest: not one shop inside 5 miles. Both made our top 50 gaps across 109 towns around the Gateway Arch: the barber at No. 21, the vet at No. 29.
+The rest are thin. Locksmith and dog boarding each have one business within 5 miles; one opening swings them. The rest, restaurants included, draw 40 to 80 searches a month: notes, not plans.
+### Which of these could you start without a storefront?
+The vet can start on wheels. A house-call or mobile practice can test House Springs before anyone signs a clinic lease. A locksmith can work from a van.
+The barber can start with one chair. Rent one by the week, let the clippers buzz a few Saturdays, and see if those searches become regulars.
+Working from home? Home Occupation Permit applications go to the Jefferson County Planning Division, 636-797-5580. The permit expects you to live in the home, keep on-site help to one employee beyond the household, use no more than a third of the floor area and keep storage indoors.
+Before signing anything, phone a couple of vets and barbers farther out and ask where their regulars live. Treat every gap as a tip to check, not a sure thing.
+### House Springs MO county and ZIP 63051, in figures
+The figure under it all: about 4 in 5 Jefferson County businesses have nobody on payroll, 15,956 against 3,956 employer establishments. The second job, the side hustle, the driveway trade: that’s the competition, and maybe it’s you.
+ZIP 63051 averages a 32.4-minute commute, about 1.3 times the St. Louis metro’s. A haircut shouldn’t need a second commute.
+ZIP 63051 and Jefferson County at a glance (business counts are county-wide):
+- Population: Area ZIP 63051; Figure 13,436
+- Area: Area ZIP 63051; Figure 43 square miles
+- Households: Area ZIP 63051; Figure 5,027
+- Median household income: Area ZIP 63051; Figure $79,940 (plus or minus $14,081)
+- Below the poverty line: Area ZIP 63051; Figure 13%
+- Average travel time to work: Area ZIP 63051; Figure 32.4 minutes
+- Population: Area Jefferson County; Figure 233,132
+- Median household income: Area Jefferson County; Figure $82,851
+- Employer firms: Area Jefferson County; Figure 2,905
+- Employer establishments: Area Jefferson County; Figure 3,956
+- Businesses with no employees: Area Jefferson County; Figure 15,956
+Sources: Census Reporter (ACS 2024 5-year estimates) for ZIP 63051; Census Bureau QuickFacts for Jefferson County (population estimate July 1, 2025; income 2020-2024; business counts 2023).
+### Questions people ask about House Springs
+### What is the history of House Springs, Missouri?
+It’s named for early settler Adam House and “the many springs gushing from the hills,” per the State Historical Society of Missouri. Ownership of the spring later passed to Jefferson County, which turned it over to House Springs Preservation, says the Northwest Jefferson County Chamber of Commerce.
+### Is House Springs, MO a good place to live?
+In ZIP 63051, median household income, $79,940 (give or take $14,081), roughly matches the St. Louis metro’s, and the $201,700 median home value is about 80 percent of the metro’s. Poverty, 13%, runs about 25 percent above the metro rate.
+### What is there to do in House Springs, MO?
+Visit House Springs Preservation, the historical park where the town’s spring runs under a small bridge into a pond with a fountain and fish, beside nine flower beds and native wildflowers.
+### Where is House Springs, Missouri?
+Along Heads Creek and Bear Creek in Jefferson County, near the city of Byrnes Mill, per a Missouri Department of Natural Resources sewer permit for work “in the vicinity of House Springs and Byrnes Mills.”
+### How many people live in House Springs, MO?
+ZIP code 63051, the closest Census measure, has 13,436 people in 5,027 households, per Census Reporter.
+### The count behind the table
+Two numbers drive every row. Demand is Google Ads’ 12-month average of monthly searches, pulled through DataForSEO; supply is the Google Maps listings counted within 5 and 10 miles of the town’s center point. A type is underserved when its searching doubles the normal rate per nearby business, or when 40+ searches a month find nothing inside 5 miles. The rest of the method is on the St. Louis small business statistics hub.
 ## Improve Online Visibility in St Louis
 Source: https://stlouismissourinearme.com/improve-online-visibility-in-st-louis
 
