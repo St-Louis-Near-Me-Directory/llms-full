@@ -1670,6 +1670,8 @@ Wentzville. Locksmiths draw about 430 searches a month against 6 within 5 miles,
 Florissant. Beyond the Indian-restaurant gap, yoga studios draw about 110 searches a month with one studio within 5 miles.
 Imperial. A census-designated place, not a city, with 16 underserved types. Nail salons draw about 240 searches a month against 12 within 5 miles, and vets about 120 against 5, more than six times the usual demand per vet.
 House Springs. No barber shop within 5 miles of a town that searches for one about 110 times a month. Vets draw about 180 searches against 3 that close.
+Collinsville. About 280 searches a month for an Indian restaurant and 100 for Thai, with neither within 5 miles, in a city that sits in both Madison and St. Clair counties.
+Granite City. Vets draw about 240 searches a month against 5 within 5 miles, more than three times the usual demand per vet.
 For the full numbers on any of these towns, open the What’s missing in your town check.
 ### How we got our numbers
 Government sources are linked under each table. Our own figures were built like this.
@@ -2082,6 +2084,111 @@ Along Heads Creek and Bear Creek in Jefferson County, near the city of Byrnes Mi
 ZIP code 63051, the closest Census measure, has 13,436 people in 5,027 households, per Census Reporter.
 ### The count behind the table
 Two numbers drive every row. Demand is Google Ads’ 12-month average of monthly searches, pulled through DataForSEO; supply is the Google Maps listings counted within 5 and 10 miles of the town’s center point. A type is underserved when its searching doubles the normal rate per nearby business, or when 40+ searches a month find nothing inside 5 miles. The rest of the method is on the St. Louis small business statistics hub.
+
+## Collinsville IL County: Madison and St. Clair, 280 Searches a Month for Indian Food, None Within 5 Miles
+Source: https://stlouismissourinearme.com/st-louis-small-business-statistics/collinsville-il
+Where is Collinsville, IL?
+Collinsville, IL is a city in two Illinois counties at once, Madison County and St. Clair County, according to the Census Bureau’s place records. The federal Office of Management and Budget puts both counties in the St. Louis, MO-IL metro area. Census Reporter counts 24,031 people on 15.4 square miles, with a median household income of $67,612.
+We keep picking on Collinsville. The top of our own What’s missing page is about this town: “Somebody in Collinsville wants tikka masala tonight. About 280 searches a month, and no Indian restaurant within 5 miles.” Hot, creamy, slow-burning, and nothing on the map close. It isn’t favoritism. Across the 109 towns we measured, that gap ranks 7th on our top-50 list, one of 7 business types Collinsville is short on.
+### Where is Collinsville, IL?
+Collinsville, IL is a city in two Illinois counties at once, Madison County and St. Clair County, according to the Census Bureau’s place records. The federal Office of Management and Budget puts both counties in the St. Louis, MO-IL metro area. Census Reporter counts 24,031 people on 15.4 square miles, with a median household income of $67,612.
+### Seven gaps, and four of them are food
+Collinsville’s underserved business types:
+- Indian restaurant: Monthly searches 280; Within 5 miles 0; Within 10 miles 3
+- Thai restaurant: Monthly searches 100; Within 5 miles 0; Within 10 miles 8
+- Ramen shop: Monthly searches 90; Within 5 miles 0; Within 10 miles 1
+- Garage door repair: Monthly searches 80; Within 5 miles 2; Within 10 miles 15
+- Vietnamese and pho: Monthly searches 70; Within 5 miles 0; Within 10 miles 1
+- Tailor and alterations: Monthly searches 50; Within 5 miles 0; Within 10 miles 15
+- Yoga studio: Monthly searches 50; Within 5 miles 2; Within 10 miles 12 studios
+Sources: Google Ads search volume (12-month average, October 2025 to September 2026) and Google Maps listings (searched October 15-22, 2026), pulled through DataForSEO and counted by St Louis Near Me Directory for the What’s missing check.
+Indian food is the loud one. About 280 searches a month, 140 of them for “indian restaurant near me,” and Google Maps shows none within 5 miles of Collinsville’s center and 3 within 10. Metro-wide, Indian restaurant lands on our top-50 gap list more than any other type: 14 times.
+Thai is a drive, not a desert. About 100 searches a month, nothing inside 5 miles, but 8 within 10.
+Smaller signals. Ramen (90 searches) and Vietnamese and pho (70) show nothing within 5 miles, but on thin numbers. Garage door repair and yoga have 2 businesses each within 5 miles, so one newcomer changes the math. Tailoring: none within 5 miles, 15 within 10.
+One caution: we count restaurants Google files under the cuisine or named for it, so a nearby Asian or sushi spot may cook some of it.
+### Collinsville IL county figures: plates and payrolls
+Those searches are wallets already out, and here’s the receipt: Collinsville businesses that sell a bed for the night or a plate of food took in about $100.6 million in one year. The next kitchen here won’t invent demand, just catch it closer to home.
+Collinsville and Madison County, by the numbers:
+- Collinsville population: 24,031
+- Land area: 15.4 square miles
+- Median household income: $67,612
+- Employer firms in Collinsville: 373
+- Hotel and food service sales: about $100.6 million
+- Retail sales per resident: $41,401
+- Employer establishments: 5,659 in Madison County
+- Nonemployer businesses: 16,945 in Madison County
+Sources: Census Reporter (ACS 2024 5-year estimates) for population, land area and income; Census Bureau QuickFacts for employer firms (reference year 2022) and sales (2022 Economic Census); QuickFacts for Madison County for county establishments (2023).
+### Test the dish before you sign a lease
+None of the food gaps has to start with a lease: try catering or a booth at a public event first. In Madison County, every food stand at a publicly advertised event needs a Temporary Food Service Sanitation Permit, and private events take a year-long permit, says the county health department. One-day vendors also need food safety training; without a food handler certification, the department’s class costs nothing, online or Wednesdays at 3pm in Wood River.
+First permit? The department encourages first-timers to call 618-692-8954 before they begin, and because Collinsville straddles two counties, confirm which one’s health department covers your address.
+The other three start smaller. Alterations begin at a sewing machine on the dining table, garage door repair rides in a truck, and a yoga teacher can rent a room by the hour.
+Then check it yourself. Order from one of the 3 Indian places within 10 miles and time the ride home, bag warm on the seat. Ask neighbors what they order now. Your legwork decides.
+### Questions people ask about Collinsville, IL
+### What is the average income in Collinsville, Illinois?
+The median household earns $67,612 a year, give or take $4,578, about 80 percent of the St. Louis metro’s $80,196, per Census Reporter.
+### What percentage of Collinsville, IL's population is Black?
+16.4%, counting residents who report Black as their only race, per the Census Bureau.
+### Is Collinsville, IL a good place to live?
+It’s easier to buy into than the metro: the median owner-occupied home is worth $163,600, about two-thirds of the metro’s $244,800. The poverty rate, 12%, runs about 10 percent above the metro’s 10.5%, per Census Reporter.
+### What is the cost of living in Collinsville, Illinois?
+On housing, the Census Bureau puts median gross rent at $979 a month; owners with a mortgage pay a median $1,410 a month in owner costs, those without one $598.
+### Is Collinsville, IL a suburb of St. Louis?
+Part of greater St. Louis, not part of the city. Collinsville is its own incorporated city, and federal metro definitions count both its counties in the St. Louis, MO-IL metro area.
+### Where our counts come from
+We pair two counts: Google Ads’ 12-month average of monthly searches, via DataForSEO, and Google Maps listings within 5 and 10 miles of Collinsville’s Census center point. Underserved means double the usual searching per nearby business, or 40+ monthly searches with nothing inside 5 miles; the hub has the full method.
+
+## Granite City IL County: Madison County, Where 240 Vet Searches a Month Meet 5 Vets Within 5 Miles
+Source: https://stlouismissourinearme.com/st-louis-small-business-statistics/granite-city-il
+Is Granite City in Missouri or Illinois?
+Granite City is in Illinois. The Census Bureau lists it as an incorporated city in Madison County, IL, and the federal Office of Management and Budget counts Madison County in the St. Louis, MO-IL metro area. It has 26,549 people on 19 square miles and a median household income of $59,205.
+A dog favoring one back paw. A hem frayed under a boot heel. A yoga mat still rolled tight behind the closet door. Each one starts with a thumb on a phone. In Granite City, vet searches run about 240 a month, 140 of them “vet near me,” and Google Maps shows 5 vets within 5 miles: more than three times the usual demand per vet. It’s one of 8 gaps we found in this Madison County, Illinois city of 26,549 people.
+### Is Granite City in Missouri or Illinois?
+Illinois. Granite City is an incorporated city in Madison County, Illinois, per the Census Bureau, and the federal Office of Management and Budget counts Madison County in the St. Louis, MO-IL metro area. It has 26,549 people on 19 square miles and a median household income of $59,205, according to Census Reporter.
+### Granite City IL county numbers: the city, then Madison County
+The county runs on solo work. Madison County holds 16,945 businesses with no employees, the van, the spare bedroom, the craft-fair table, against 5,659 locations with a payroll.
+Granite City and Madison County, IL at a glance:
+- Granite City population: 26,549
+- Land area: 19 square miles
+- Median household income: $59,205
+- Owner-occupied homes: 72.6%
+- Median home value: $104,300
+- Median gross rent: $834 a month
+- Employer firms in Granite City: 377
+- Health care and social assistance revenue in Granite City: $207.3 million
+- Madison County employer establishments: 5,659
+- Madison County businesses with no employees: 16,945
+Sources: Census Reporter (ACS 2024 5-year estimates) for population, land area and income; Census Bureau QuickFacts for Granite City housing (2020-2024), employer firms (reference year 2022) and health care revenue (2022, reported in thousands of dollars as 207,324); QuickFacts for Madison County for county business counts (2023).
+### What Granite City searches for and can’t find close by
+Eight business types came out underserved. Start with the ones that aren’t restaurants.
+Granite City’s underserved services:
+- Veterinarian: Monthly searches 240; Within 5 miles 5; Within 10 miles 42
+- Tailor and alterations: Monthly searches 60; Within 5 miles 1; Within 10 miles 21
+- Dog boarding: Monthly searches 40; Within 5 miles 0; Within 10 miles 17
+- Yoga studio: Monthly searches 40; Within 5 miles 0; Within 10 miles 15
+- Personal trainer: Monthly searches 40; Within 5 miles 13; Within 10 miles 81
+Sources: Google Ads’ 12-month search average (October 2025 to September 2026) and Google Maps listings searched October 15-22, 2026, both via DataForSEO; analysis by St Louis Near Me Directory.
+The vet gap is the real one. It ranks 31st of our top 50 gaps across 109 towns, one of just 5 vet gaps there. The vets exist, 42 within 10 miles. They just aren’t close, and a dog panting in the back seat makes every mile long.
+Tailoring is real but thin. 60 searches a month against one shop within 5 miles runs nearly five times the usual demand, but one opening would change that.
+Three sit at the floor. Boarding, yoga and personal training each draw 40 searches a month, the least we judge at all.
+The other three are restaurants: Indian, Thai and Vietnamese, none within 5 miles.
+### How to fill one without betting the house
+Some fit in a car or a spare room. A mobile vet makes house calls. A trainer works in living rooms and parks. A tailor needs a sewing machine and a good lamp; a yoga teacher, a room rented by the hour.
+A clinic needs a building. Granite City won’t issue a retail tenant its final certificate of occupancy until it holds a business license. File through the city’s Building and Zoning Department, (618) 452-6218, weekdays 8 a.m.-4 p.m., and ask whether a home setup needs a license too.
+Kick the tires first. Drive past the nearest clinics at closing time and count the cars. Call a few of the 42 farther out and ask which towns their clients drive in from. The numbers are a reason to look, not a reason to sign.
+In BrightLocal’s consumer survey, use of AI tools for local recommendations went from 6% to 45% in a year, and AI can’t recommend a vet it’s never heard of.
+### Questions people ask about Granite City, Illinois
+### Is Granite City expensive?
+Not by St. Louis standards. The median home is worth $104,300, about two-fifths of the metro’s $244,800, and median gross rent is $834 a month.
+### Is Granite City considered St. Louis?
+Part of its metro, not the city. Granite City is its own city in Madison County, Illinois, and federal metro definitions put that county in the St. Louis, MO-IL metropolitan area with St. Louis County, Missouri.
+### What are the racial and ethnic demographics of Granite City, Illinois?
+Census Bureau estimates: 77.1% white alone, 9.3% two or more races, 9.2% Black alone and 1.3% Asian alone. Hispanic or Latino residents, 9.9%, also fall within those groups.
+### What is the median income in Granite City, Illinois?
+$59,205 per household, about three-quarters of the St. Louis metro’s $80,196, per Census Reporter. Per person, it’s $31,559.
+### Is Granite City, Illinois a good place to live?
+It’s a settled town: 88.4% of residents lived in the same house a year earlier. Money is tighter: 14.8% live below the poverty line (give or take 2.6 points), against 10.5% metro-wide.
+### Method, in two sentences
+We weighed Google Ads’ 12-month search averages, via DataForSEO, against Google Maps listings within 5 and 10 miles of Granite City’s Census center point. A type counts as underserved when searches per nearby business run double the norm or more, or when 40+ monthly searches meet nothing within 5 miles. Full method: our St. Louis small business statistics hub.
 ## Improve Online Visibility in St Louis
 Source: https://stlouismissourinearme.com/improve-online-visibility-in-st-louis
 
