@@ -212849,85 +212849,74 @@ A.  Most of the bill is not the person in your basement. Licensing, liability in
 ### Q. What is a reasonable day rate for an electrician?
 A.  Work it back from the wage and the overhead. A day rate has to cover eight hours of licensed pay plus the truck, insurance and the paperwork. If a day rate sounds like wages alone, ask who is actually doing the work and whether their name can go on the permit.
 
-## How Much Does a Concrete Driveway Cost in St. Louis? (2026 Prices)
+## $25 Permit, $10,400 Slab: What a 20x40 Driveway Costs in St. Louis
 Source: https://stlouismissourinearme.com/blog/how-much-does-a-concrete-driveway-cost-in-st-louis
-Imagine the driveway at a 1960s house in Crestwood, or Ferguson, or St. Peters. It has been cracking for years and you have been ignoring it, the way everyone does. Then one winter the crack becomes a step you can catch a toe on, a corner starts to sink toward the garage apron, and it stops being cosmetic.
-Three contractors come out. The quotes are $4,200, $7,900, and one that just says driveway replacement with a number and no detail at all.
-Here is what concrete flatwork actually costs in the St. Louis metro, and why our particular dirt makes the base prep matter more than the concrete.
-### The short answer
-Concrete driveways in St. Louis generally run $7 to $12 per square foot installed for a standard broom-finish slab, with the full local range spanning roughly $6.75 to $20 depending on finish and site conditions.
-For a typical two-car driveway of 400 to 600 square feet, expect about $2,700 to $7,300 installed.
-If an old driveway has to come out first, demolition and haul-away adds roughly $1.40 to $6 per square foot depending on thickness, whether it is reinforced, and how far the truck has to be from the work.
-Decorative finishes carry a premium: stamped patterns and exposed aggregate typically add $2 to $5 per square foot over a broom finish.
+Your toe finds it before your eyes do. Dark morning, coffee in one hand, keys in the other, and the front of your shoe catches the lip where one slab of the driveway has heaved up over its neighbor. You stumble, you swear, you look down. The crack that was a pencil line last spring is now a step, packed with grit and old rock salt, and the panel by the garage has tipped toward the door.
+That lip is the St. Louis winter doing its work. Water gets into the crack, freezes, swells, thaws, and comes back the next night to do it again, while the clay underneath swells in the wet months and shrinks in the dry ones. The concrete is not failing all at once. It is being pried apart a little at a time, and every cold snap that lands near freezing gives it another nudge.
+So you call for quotes, and the first thing to know is the number. The second thing is smaller, and almost nobody prices it in.
+### How much does a 20x40 concrete driveway cost?
+A 20x40 concrete driveway is 800 square feet, and at St. Louis rates of $7 to $13 per square foot for un-reinforced concrete, that comes to about $5,600 to $10,400 before any tear-out. Reinforced concrete runs $8 to $14 per square foot, and breaking out an old slab adds $1.40 to $2.30 per square foot. In the City of St. Louis, the permit to rebuild a residential driveway is $25.
+### The $25 line on the whole job belongs to City Hall
+Here is the part that makes contractors in the county laugh when they hear it. If your house is inside the city limits, the Street Department’s fee to reconstruct a residential driveway is $25. A brand-new residential driveway is $50. And if the work pulls up the old granite curb at the street, the City will cart that granite to storage for $5.
+Think about that for a second. Thousands of dollars of concrete, a crew of four, a ready-mix truck idling at the curb with its drum turning, and the line item that keeps you legal costs less than a pizza. Skip it, and an inspector or a neighbor can stop the job while the forms are still wet.
+The Department of Streets takes applications online, and you can reach it at (314) 647-3111 or at 1900 Hampton Ave, St. Louis, MO 63139, Monday thru Friday, 8:00 to 4:30. Ask your contractor, before anything else, who is pulling the permit and whether that $25 is already in the bid. If you live outside the city, call your own city hall before the old slab comes out.
 ### Why the base matters more here than the concrete
-This is the part that separates a driveway that lasts thirty years from one that cracks in four, and it is largely invisible once the job is done.
-Much of the St. Louis region sits on expansive clay soil. Clay holds water, swells when wet, and shrinks when it dries out. Over a St. Louis year — wet spring, dry August, repeated freeze-thaw cycles rather than one steady freeze — that ground moves considerably. A slab poured directly onto undisturbed clay with no compacted base is being asked to bridge soil that will not hold still.
-A proper job excavates below the slab, brings in several inches of compacted aggregate base, and compacts it in lifts rather than dumping it and driving over it once. That base is the difference between a driveway that settles evenly and one that cracks along the line where the fill was loose.
-When one quote is $3,000 under another, the base is frequently where the money went missing. It is also the one part you cannot inspect afterward, which is why it is worth asking about before rather than after.
-Random, but: Waterloo, IL’s dinner options are right here.
-### What else moves the number
-Thickness. Four inches is standard for cars. Six inches is the right answer where a truck, an RV or a dumpster will sit, and at the garage apron where turning loads concentrate. Thickness is a direct materials cost and an easy place for a low bid to hide.
-Reinforcement. Wire mesh is the budget option and only works if it is actually lifted into the middle of the slab rather than left on the ground. Rebar on chairs costs more and behaves better. Fiber-reinforced mix helps with surface cracking but is not a substitute for steel.
-Concrete strength. Ask what PSI mix is being poured. Exterior flatwork in a freeze-thaw climate should be a properly air-entrained mix — the tiny air bubbles give freezing water somewhere to expand, which is what prevents surface scaling. A cheaper non-air-entrained mix will look identical on day one and start flaking after a couple of winters.
-Control joints. Concrete cracks; the only question is whether it cracks where someone decided or where it felt like it. Joints should be cut at sensible spacing, generally within a day of the pour, and to about a quarter of the slab depth. A quote that does not mention jointing is a quote from someone not thinking about cracking.
-Drainage and slope. Water has to run away from the house and the garage. On a flat lot that can mean regrading, and on a sloped one it can mean a trench drain. Getting this wrong is expensive to fix later and is a common cause of a wet garage.
-Access. If the truck can back to the forms, the pour is fast. If concrete has to be wheeled or pumped — common on narrow city lots or where the drive is behind the house — labor climbs.
-### Concrete versus asphalt, honestly
-Asphalt is cheaper up front, typically by a meaningful margin, and it goes in faster. It also needs sealing every few years and softens in August heat, and its usable life in this climate is generally shorter than concrete’s.
-Concrete costs more initially and asks for very little afterward beyond keeping joints sealed and being sensible about de-icing salt. On a house you intend to keep, concrete usually wins on total cost over its life. On a rental or a short hold, asphalt can be the rational choice.
-One genuine warning for this region: rock salt and similar chlorides are hard on concrete, especially on a slab less than a year old. Sand for traction on new concrete through its first winter.
-### What a quote should itemize
-Square footage, and the slab thickness being poured
-Removal and disposal of the existing surface, if any
-Depth of excavation and the base material, with compaction stated
-Reinforcement type — mesh, rebar, or fiber — and how it will be positioned
-Concrete strength and whether the mix is air-entrained
-Control joint layout and when they will be cut
-Finish: broom, exposed aggregate, stamped
-Grading and drainage work
-Permit, where the municipality requires one for a driveway or apron
-Warranty, and specifically what it says about cracking
-On that last point: no honest contractor warrants concrete against all cracking, because concrete cracks. What a good warranty covers is failure — settling, heaving, spalling, and cracks beyond a stated width. A contractor who promises no cracks at all is either inexperienced or telling you what you want to hear.
-### Timing and how to save without cutting the base
-Spring and fall are ideal for pouring here. Summer pours can be done but need care, because concrete that cures too fast in high heat is weaker at the surface. Winter pours require blankets and admixtures and are best avoided if you can wait.
-The honest ways to save: keep the shape simple, since curves and multiple levels cost more than rectangles; choose broom finish over stamped; do several flatwork projects at once so one mobilization covers a drive, a walk and a patio; and schedule in the shoulder season rather than at peak.
-The ways that cost you later: thinner slab, thinner base, skipping reinforcement, or a cheaper non-air-entrained mix. Every one of those is invisible at handover and obvious within three winters.
-### Repair, resurface, or replace
-Replacement is not always the answer, and the three options are genuinely different jobs at genuinely different prices.
-Repair makes sense for isolated cracks in a slab that is otherwise flat and sound. Crack filling and sealing is inexpensive and buys years. It does not look invisible, and it does nothing for a slab that is moving.
-Mudjacking or polyurethane lifting is the option people most often do not know exists. Where a slab has settled but is not broken up — a driveway panel that dropped an inch at the garage apron, a walk that tipped toward the house — the slab can be lifted back to grade by pumping material underneath it. It typically costs a fraction of replacement and takes a day. On our clay soil, settling without cracking is common, which makes this worth asking about before accepting a tear-out quote.
-Resurfacing puts a thin overlay over existing concrete. It works only when the underlying slab is structurally sound and simply looks bad. Over a cracked or moving slab, the overlay will telegraph every one of those cracks within a season or two.
-Replacement is the right call when the slab is broken into multiple pieces, when sections have heaved or sunk at different rates, when the surface is scaling and spalling across large areas, or when the drainage is wrong and has to be regraded anyway.
-### Questions worth asking every bidder
-Four questions sort most quotes quickly. How deep is the excavation and what base material goes in. What thickness and what PSI mix. What reinforcement, and how will it be held up off the ground. Where will the control joints go and when will they be cut.
-A contractor who answers those crisply has done this work properly before. One who waves them off as details is telling you which parts of the job they intend to move quickly through, and those are precisely the parts that decide whether you are doing this again in six years.
-### Curing, and the first year
-Concrete does not dry, it cures — a chemical reaction that keeps gaining strength for weeks. What happens in the first days sets how the surface performs for decades.
-You can usually walk on a new slab after a day or so and drive a car on it after about a week, though a contractor pouring in cool weather may ask for longer. Keep trucks, dumpsters and anything heavy off it for a month.
-Ask how the slab will be cured. Concrete that dries too fast at the surface — hot sun, dry wind — ends up with a weaker skin that scales later. Curing compound, plastic sheeting or keeping it damp all address this, and a contractor who has a plan for it is one who has watched a summer pour go wrong before.
+Walk past any ranch house in Crestwood or Ferguson on the morning of a pour and you can smell it before you see the truck: wet gravel, diesel, the cold mineral smell of the mix sliding down the chute. Everyone on the sidewalk watches the concrete. The gravel under it decides how long you keep it.
+St. Louis homes sit on clay-dense soil that expands and contracts with the freeze-thaw cycles, which is why a slab here needs more than a quick scrape and a pour. A good job digs below the slab, brings in compacted aggregate base, and packs it in layers, not one pass with a truck tire. A slab laid on loose fill cracks along the line where the fill gave way, usually within a few winters.
+When one quote is thousands under another, the base is often where the money went. It is also the one part of the job you will never see again once the truck pulls away.
+### What moves the price up or down
+On a city lot the job starts with a saw. It screams through the old apron where the driveway meets the granite curb, the gray dust settles on every parked car on the block, and the neighbors come out to look. The plain broom finish that follows is what the per-foot rates above assume. Staining and stamping are priced on top.
+Steel is the next line. Un-reinforced concrete is the low number; rebar or wire pushes you into the reinforced range. Ask how the steel will sit. Mesh lying flat on the dirt does nothing, and rebar held up on chairs in the middle of the slab does its job. Thickness matters too: a thicker slab, 6 to 8 inches rather than 4 to 5, costs more and earns it where a truck or a dumpster will park.
+Then the tear-out. Breaking up the old drive is loud, dusty work, the jackhammer rattling your windows for a morning, and at $1.40 to $2.30 a square foot it adds $1,120 to $1,840 to an 800-square-foot drive. If the old slab only sank and never broke apart, ask whether it can be lifted back into place instead. Slab lifting is a different trade at a different price, and on settling clay it is worth the question before you sign for a full replacement.
+What a slab runs here
+### How much for a 200 sq ft concrete patio?
+A reinforced concrete patio in St. Louis runs $7 to $11 per square foot, so 200 square feet lands around $1,400 to $2,200; stamped runs $9 to $16 a foot, or about $1,800 to $3,200. Driveways run $7 to $13 un-reinforced, and steel, thickness and tearing out an old slab push either job toward the top.
+### Four questions that sort the bids
+Lay the quotes side by side on the kitchen table and they blur together. Four questions pull them apart fast. How deep will you dig, and what goes in for a base? How thick is the slab? What steel goes in, and how is it held up off the ground? Where will the control joints go, and how soon after the pour will you cut them?
+A contractor who answers all four without a pause has done this a few hundred times. One who waves them off as details is telling you which parts of the job he plans to rush, and those are the parts that decide whether you are standing in this same spot, toe on a fresh crack, a few winters from now.
+Listen for drainage too. Stand at the garage door after a hard rain and watch where the water goes. If it pools against the door or runs back toward the foundation, the new slab has to be pitched to send it away, and that may mean regrading or a trench drain at the apron. That work belongs in the written quote, not in a phone call after the concrete has set.
+### Concrete or asphalt, said plainly
+On an August afternoon you can feel the difference through your sneakers. Asphalt goes soft and gives off that hot tar smell; concrete stays pale and hard. Up front, asphalt in St. Louis runs $5 to $8 per square foot, and that price includes demolition of an existing asphalt driveway. Concrete costs more to put in and asks less of you for years after. On a house you plan to keep, that usually tips it toward concrete. On a short hold, asphalt can be the sensible call.
+### What a written quote should spell out
+The quote with one number and no detail is the one that keeps you up at night. A good one reads like a recipe:
+Square footage and the slab thickness
+Removal and disposal of the old surface
+Depth of the dig, the base material, and how it is compacted
+Reinforcement type and how it will be held off the ground
+The concrete mix, and whether it is air-entrained for freeze-thaw
+Where the control joints go and when they are cut
+Finish: broom, exposed aggregate or stamped
+Grading and drainage away from the house and garage
+Who pulls the permit, and whether the fee is in the bid
+The warranty, and exactly what it says about cracks
+No honest contractor promises concrete that never cracks. What a good warranty covers is failure: settling, heaving, flaking and cracks past a stated width. The one who swears you will never see a crack is telling you what you want to hear.
 Pouring a slab for the kids instead of the cars? Here is what a backyard basketball court costs in St. Louis.
-Through the first winter, use sand rather than salt. De-icing chlorides are hard on all concrete and hardest on concrete less than a year old, and salt damage looks exactly like poor workmanship a few years later.
-Caught your toe on that crack one too many times? Browse concrete contractors near you on St Louis Near Me Directory and ask every one of them to write down the base prep, not just the price.
-If you’re the flatwork crew that digs out the base before the truck ever shows up, the homeowner holding a quote with no detail on it is looking for you, so list your business and be the quote that explains itself.
-Clay soil is the common thread in a lot of St. Louis home repair — the same ground movement shows up in basement waterproofing. And if you are pricing several trades at once, our breakdowns of roof replacement and electrical work read quotes the same way.
-The same road salt that is hard on concrete is hard on your car — see what car detailing costs in St. Louis for the winter-damage side of it.
+### The first winter decides a lot
+The new slab looks perfect the day the crew rolls up the hoses, pale gray and smooth, the joint lines crisp. Then the first ice storm comes, and the bag of rock salt in the garage starts calling your name. Leave it there. Spread sand for grip through that first winter instead. Salt damage on young concrete shows up later as a flaking, pitted surface that looks exactly like bad workmanship, and no warranty will cover it.
+Keep heavy trucks and dumpsters off it until your contractor says it is ready, and ask them how the slab will be cured. A crew that has a plan for a hot, windy pour day has seen one go wrong before. Sheeting, curing compound or a slow soak from the hose all keep the surface from drying out faster than the slab beneath it.
+Caught your toe on that crack one too many times? Browse concrete contractors near you on St Louis Near Me Directory, and ask every one of them to write down the base prep and who pulls the permit, not just the price.
+If you’re the flatwork crew that digs out the base before the truck ever shows up, the homeowner holding a one-line quote is looking for a crew who explains itself. List your business and get more customers who already know what a good driveway costs.
+More St. Louis home costs, read the same way:
+Basement waterproofing in St. Louis, where the same clay shows up again
+What a roof replacement costs in St. Louis
+What an electrician costs in St. Louis
+What car detailing costs in St. Louis, for the road salt on the other side of the garage door
+Can’t park on the new slab yet? Waterloo, IL’s dinner options are right here.
 ### Frequently asked questions
 ### Q. How much to pour 1000 sq ft of concrete driveway?
-A.  Around $7,000 to $12,000 in this market for a standard four-inch broom-finish slab with proper base. Going to six inches for truck or RV parking, or adding decorative finish, pushes it higher. Removal of an existing 1,000 square foot drive typically adds $1,400 to $6,000 on its own.
-### Q. Is it cheaper to do a concrete driveway or asphalt?
-A.  Asphalt is cheaper to install and faster to complete. Concrete costs more up front but needs far less maintenance and generally lasts longer in this climate. On a house you plan to keep, concrete usually wins over its lifetime; on a short hold or a rental, asphalt can be the sensible call.
-### Q. What are the downsides of having a concrete driveway?
-A.  Higher upfront cost, longer cure before you can drive on it, and repairs that are harder to make invisible than asphalt patching. It is also vulnerable to de-icing salt, particularly in its first winter — use sand for traction on new concrete. And it will develop hairline cracks; control joints decide where.
-### Q. How much should a 20x20 concrete patio cost?
-A.  Four hundred square feet at local rates works out to roughly $2,800 to $4,800 for a broom finish, more with stamping or exposed aggregate. Patios can sometimes be poured slightly thinner than driveways since they carry no vehicle load, but the base preparation matters just as much on our clay soil.
-### Q. Is it cheaper to pour a concrete patio or use pavers?
-A.  Poured concrete is usually cheaper to install than pavers of comparable area. Pavers cost more in labor but are easier to lift and reset if the ground settles — a real consideration on expansive clay. Concrete is lower maintenance; pavers are more repairable. Neither is wrong, they fail differently.
+A.  At St. Louis rates of $7 to $13 per square foot for un-reinforced concrete, a 1,000-square-foot pour comes to $7,000 to $13,000. At $8 to $14 a foot for reinforced concrete, that 1,000-square-foot pour runs $8,000 to $14,000, and tearing out an old slab adds $1.40 to $2.30 a foot on top.
 ### Q. How much does a 200 ft concrete driveway cost?
-A.  It depends whether you mean 200 square feet or 200 feet long. At St. Louis rates of roughly $7 to $12 per square foot installed, a 200 square foot slab runs about $1,400 to $2,400. A driveway 200 feet long and 10 feet wide is 2,000 square feet — closer to $14,000 to $24,000.
+A.  It depends whether you mean 200 square feet or 200 feet long. A 200-square-foot slab at $7 to $13 a foot runs about $1,400 to $2,600. A drive 200 feet long and 10 feet wide is 2,000 square feet, and 2,000 square feet at $7 to $13 a foot is $14,000 to $26,000 un-reinforced.
+### Q. Is it cheaper to do a concrete driveway or asphalt?
+A.  Asphalt is cheaper up front. In St. Louis it runs $5 to $8 per square foot, including demolition of an old asphalt drive, against $7 to $13 for un-reinforced concrete before demolition. Concrete costs more to install and needs less upkeep afterward.
 ### Q. What is the cheapest option for driveways?
-A.  Gravel, by a wide margin — it is the least expensive to install and the most expensive to maintain, since it needs regrading and topping up. Asphalt sits in the middle. Concrete costs the most up front at roughly $7 to $12 per square foot installed here, and lasts the longest with the least attention.
+A.  Between the two paved choices, asphalt. If you already have an asphalt drive that is worn but sound, an overlay is cheaper still: resurfacing runs $2 to $4 per square foot for a 2-inch overlay in St. Louis, against a full new pour.
+### Q. How much would a 20x20 concrete patio cost?
+A.  At St. Louis rates of $7 to $11 per square foot for reinforced concrete, a 400-square-foot 20x20 patio costs $2,800 to $4,400 with a plain finish. Stamped at $9 to $16 a foot, that 400-square-foot patio runs $3,600 to $6,400.
 ### Q. What is the average cost of a 12x12 concrete patio?
-A.  A 12x12 slab is 144 square feet, so at St. Louis rates of roughly $7 to $12 per square foot installed you are looking at about $1,000 to $1,730 for a standard broom finish. Stamped or exposed aggregate adds $2 to $5 per square foot on top of that.
+A.  At $7 to $11 per square foot for reinforced concrete in St. Louis, a 144-square-foot 12x12 slab costs $1,008 to $1,584. Stamped at $9 to $16 a foot, that 144-square-foot slab runs $1,296 to $2,304.
+### Q. What are the downsides of having a concrete driveway?
+A.  It costs more up front than asphalt, you wait before you can park on it, and patches never fully disappear. It will crack, so the control joints decide where. And it hates rock salt, especially in its first winter, so spread sand instead.
 
 ## How Much Does Car Detailing Cost in St. Louis? (2026 Prices)
 Source: https://stlouismissourinearme.com/blog/how-much-does-car-detailing-cost-in-st-louis
