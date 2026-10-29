@@ -88343,103 +88343,73 @@ A.  Replacing 12 windows in the St. Louis area typically runs about $5,400 to $
 ### Q. Is a map pin enough to promote my window business? 
 A.  Map pins show where you work, but they carry only limited contact and basic details. A full listing on St Louis Near Me Directory gives you room for a rich description, project photos, product lines, offers, and reviews, plus category placement — far more than a pin alone. See how we’re different, and our Gold Plan puts your window business in front of more local customers.
 
-## How Long Until It’s Safe to Sleep in a Freshly Painted Room (St. Louis Answers)
+## The Paint Feels Dry. The EPA Still Says Wait 2 to 3 Days to Sleep There
 Source: https://stlouismissourinearme.com/blog/how-long-until-its-safe-to-sleep-in-a-freshly-painted-room
-Imagine it’s a Saturday in October and you’ve finally done the back bedroom. The tape is still on the baseboards, the roller is soaking in the sink, and the whole second floor smells like a hardware store. Somebody has to sleep in there tonight.
-Maybe you’re in a 1907 four-square in Tower Grove South and the windows have been painted shut since the Clinton administration. Maybe it’s a ranch in Affton, a rented flat in Maplewood, a starter house in O’Fallon where the nursery has to be ready before the baby is. The question is the same one, and it comes with a small knot of worry attached: is this actually safe, or am I being dramatic?
-You’ll find every answer between “a few hours” and “a week” if you go looking. Most of it is written by people selling paint or selling painting. So here is what the federal agencies actually say, what they admit they don’t know, and the parts that are specific to a metro where most of the houses are older than everyone living in them.
-### How long should you wait before sleeping in a freshly painted room?
-The EPA’s published guidance is to avoid freshly painted rooms for two to three days where possible, and to keep ventilating for that whole stretch. That comes from Healthy Indoor Painting Practices (EPA 744-F-00-011), written with the Consumer Product Safety Commission.
-Here is the part nobody quotes, and it’s the most useful sentence in the document. The EPA calls its own number a “rule of thumb” — not a health threshold, not a tested safety line. So when a painting company’s blog tells you “72 hours” with the confidence of a lab result, that precision isn’t coming from anywhere. The two-to-three-day range is real and it’s federal. The decimal point is invented.
-One honest caveat we’d rather state than hide: that guide is dated May 2000. We looked for something newer and found nothing superseding it on epa.gov. It predates today’s low-VOC market, which cuts both ways — modern paints are generally cleaner, but the advice was written when “low-VOC” meant something different than it does on a shelf in 2026.
-### Why “the paint is dry” doesn’t mean “the room is safe”
-The EPA names this misconception directly: “Part of the risk with indoor painting arises from the idea that dry paints are safe.”
-Touch-dry is a surface condition. What you smell afterward is the coating continuing to release compounds into the room, and that process runs on its own schedule. EPA-affiliated chamber research on a low-VOC latex paint found formaldehyde emissions came in three stages: a sharp initial burst, a fast decay, and then a slow tail the researchers described as lasting more than a month. The main source wasn’t the solvent at all — it was the biocide preservative in the can.
-What you painted matters as much as what you painted with. In related chamber work, emissions off drywall ran past 200 days, while the same coating on stainless steel was finished in three or four. Porous surfaces hold onto it. A room of fresh drywall and a room of old woodwork are not the same room.
-None of that means your bedroom is dangerous for a month. It means the two-to-three-day rule is about clearing the spike, not about reaching zero. Those are different claims, and only one of them is true.
-### What “zero-VOC” on the label actually means
-This is where the label and your lungs part company.
-Federal limits for interior architectural coatings live in 40 CFR Part 59, Subpart D: 250 grams per liter for flat interior paint, 380 g/L for non-flat. Straightforward enough. But read the headnote on the EPA’s own table — limits are calculated “excluding the volume of any water, exempt compounds, or colorant added to tint bases.”
-Colorant is excluded. Tinting happens at the store, after that number was set. So a can can carry a very low or zero VOC figure and contain measurably more once someone mixes your color into it. Green Seal puts the consumer version plainly: the label figure doesn’t include VOCs added in the colorant at point of sale, which can raise levels significantly.
-Then there are exempt compounds. The EPA’s regulatory definition of a VOC only covers carbon compounds that help form smog. Chemicals judged not to contribute get excluded — the EPA specifically names methylene chloride and perchloroethylene as exempt despite potential indoor health risks, and acknowledges the mismatch creates confusion in product labeling. In its words, VOCs are regulated outdoors because of smog; indoors, the concern is people’s health. Same three letters, two different problems.
-So a paint labeled zero-VOC can lawfully contain volatile chemicals. They simply aren’t counted, because the yardstick was built to measure smog.
-One more thing worth knowing: “zero-VOC” is not an EPA-defined term. There’s no such category in the federal rule. The claim is policed by the Federal Trade Commission instead — in 2018 the FTC finalized orders against four paint companies over emission-free and VOC-free claims made without substantiation, including claims about safety for babies, children, pregnant women, and people with asthma or allergies. If a can promises you it’s safe for an infant, that is exactly the sentence regulators went after.
-Hard left turn — while the room airs out, go eat in Breese, Illinois.
-### Ventilation: the box fan really is the official answer
-The EPA’s guidance here is unusually specific, and it happens to match what your grandfather did:
-Open doors and windows to the outside — not into hallways, which just moves the problem to another room.
-Push curtains and blinds back so nothing blocks airflow. You want a cross-breeze.
-Place a box fan securely in the window blowing out. Not in. Out.
-Don’t aim it into a neighbor’s space.
-Secure it in the frame so it can’t fall or be tipped by a child.
-If it rains or snows, turn it off and take it out of the window.
-Keep it going while painting and for two to three days afterward.
-Two things the EPA says explicitly do not work, both of which people try first:
-“An air conditioning unit should not be substituted for the use of a fan.” Central air recirculates; it doesn’t exhaust. And bathroom or kitchen exhaust fans “do not always vent out-of-doors and should not be relied upon.” In a lot of older St. Louis housing, that bath fan vents into the attic or nowhere at all.
-The scheduling advice is genuinely useful here: paint during a dry stretch in fall or spring, when you can leave windows open for three days without misery — the same stretch when the rest of the seasonal maintenance on a St. Louis house gets done anyway. In this metro that’s an argument against both a July repaint and a January one.
-### Who should wait longer than two or three days
-The EPA and CPSC are direct about this, and the wording is worth reading as written rather than paraphrased:
+The smell reaches the top of the stairs before you do. Sweet and sharp, part new car and part hardware store aisle, and it has already drifted down the hall into the bathroom. The roller is soaking in the sink. Blue tape still lines the baseboards. Press a knuckle to the wall and it feels dry.
+And somebody has to sleep in there tonight.
+Maybe it’s the back bedroom of an old four-square in Tower Grove South, windows painted shut long before you bought the place. Maybe it’s a ranch in Affton or a rented flat in Maplewood, and the crib is already standing in the corner under a drop cloth.
+The federal answer is 2 to 3 days, and the agency that wrote it calls even that a rule of thumb, not a tested safety line. The painting blogs that promise you an exact hour count are guessing.
+Two St. Louis facts matter more than the hour count, and the national articles skip both. If your home is in the City and a child under six or a pregnant woman lives there, the City’s Lead Inspection and Hazard Control Division will inspect it free of charge; call the Citizens Service Bureau at 314-622-4800. And when you haul the leftover cans to the regional drop-off, HHWSTL charges residents 50 cents per pound for latex paint, the safe stuff, while the first 50 pounds of true hazardous material are free. The reason: it wants your latex liquid so it can be turned into new paint.
+### Can I sleep in my room after I just painted it?
+Not the first night if you can help it. The EPA’s painting guide says to avoid freshly painted rooms for 2 to 3 days whenever possible and to keep fresh air moving through that whole stretch, ideally with a box fan in the window blowing out. Young children, pregnant women and anyone with breathing problems should stay out of the room, and anyone who gets watery eyes, a headache or dizziness should leave it.
+### Dry to the touch is not the same as done
+Run your palm along the wall the next morning and it feels finished: smooth, cool, not a hint of tack. Then you breathe in, and the smell is still there. That gap is the whole story.
+The EPA names this mistake in plain words: “Part of the risk with indoor painting arises from the idea that dry paints are safe.” Touch-dry describes the surface. What you smell is the coating still giving off vapor into the room, on its own schedule, long after the roller has been rinsed.
+How much it gives off depends on what is in the can. The same EPA guide points out that the types and amounts of chemicals emitted from paint vary widely, especially between oil-based and latex paints. That is why no honest source will give you one number down to the hour. The 2 to 3 days is about getting past the strongest stretch, with the windows open, not about the room reaching zero.
+So where do you sleep tonight? The couch, the guest room, a sibling’s floor. Close the door to the painted room, keep the fan running in its window, and let the house do the work while you sleep somewhere the air smells like nothing.
+### The box fan really is the official answer
+You can hear a box fan working from the hallway, that steady drone, and if you stand in the doorway you can feel the air pulling past your ankles toward the window. That pull is exactly what the EPA asks for.
+Its guidance reads like something your grandfather would have told you. Open doors and windows to the outside. Set a box fan securely in the window, blowing out, not in, and not aimed at someone else’s space. Secure it in the frame so it cannot fall out of the window or be tipped over by children. If it rains or snows, turn the fan off and pull it out of the window, because a wet fan is a shock hazard. Keep it running while you paint and afterward.
+Two things people reach for first do not count. The guide says flatly, “An air conditioning unit should not be substituted for the use of a fan.” Central air moves the same air around the house; it does not throw it outside. And bathroom and kitchen exhaust fans do not always vent out-of-doors, so the EPA says not to rely on them either.
+The practical takeaway is timing. Paint when you can leave windows open for a few days without misery, in the mild stretches of spring and fall, the same weeks when the rest of the seasonal maintenance on a St. Louis house gets done anyway. A sticky July repaint with the windows shut and the air conditioner humming is the hardest version of this job.
+### Who should wait longer than the rest of the house
+Think of the person in your house who coughs first when someone lights a candle. The EPA wrote this part of its painting guide with that person in mind, and it is worth reading as written:
 “Susceptible people, such as young children and individuals with breathing problems, should avoid paint vapors. To avoid any health risks for themselves and their unborn babies, pregnant women should avoid undertaking painting projects and should limit their time in freshly painted rooms, especially when oil-based paints are being used.”
-They add a plain instruction that beats any timer: “Leave painted areas if you experience eye watering, headaches, dizziness, or breathing problems.” And a sentence that explains why no single number can be right for everyone — “People’s susceptibility to paint chemicals varies widely.”
-The American Lung Association lists the short-term effects as eye, nose and throat irritation, headaches, nausea, dizziness, and difficulty breathing, and notes that people with asthma or COPD can see symptoms worsen. If someone in the house has asthma, the nursery timeline isn’t the same as the guest-room timeline — and that’s worth saying out loud up front if you’re hiring an interior painting company instead of doing the room yourself.
-### The St. Louis part: most of our houses are from the lead era
-Here the local math actually changes the advice.
-Using Census Bureau ACS 2024 estimates for year structure built, about 87% of housing units in the City of St. Louis were built before 1980 — and roughly 56% before 1940. St. Louis County runs younger: about 67% pre-1980, and only about 9% pre-1940. Statewide, Missouri’s health department puts it at roughly 65% of housing built before 1978, which is the lead-paint cutoff.
-(A note on precision, since we’d rather be exact than impressive: the Census buckets by decade, so there’s no clean pre-1978 line in the data. “Before 1980” is the honest way to say it.)
-What that means practically: in much of the City, “should I repaint this?” and “is there lead under this?” are the same question. Sanding or scraping an old painted surface is a different risk category than rolling a fresh coat over drywall — it’s why doing your own interior painting in an old St. Louis house is mostly a prep job — and no amount of ventilation addresses lead dust.
-Two rules people routinely mix up:
-Renovation — the EPA’s Renovation, Repair and Painting rule applies in Missouri, administered by the EPA directly. Anyone paid to disturb painted surfaces in a pre-1978 home must work for an EPA-certified firm with a certified renovator on the job.
-Abatement — deliberately removing lead hazards. That’s licensed by Missouri DHSS, and it’s a different credential entirely. A contractor certified for one is not automatically qualified for the other.
-Homeowners doing their own work in their own home generally aren’t covered by the RRP rule — but you are covered if you rent out any part of the property, run childcare there, or are flipping it. That catches a lot of small St. Louis landlords who don’t think of themselves as contractors.
-The City of St. Louis runs a Lead Inspection and Hazard Control Division, and inspections are free for City residential properties where a child under six or a pregnant woman lives. That’s the Citizens Service Bureau at 314-622-4800.
-### If you live in an apartment, your neighbors are part of this
-This is the detail no national article will tell you, and it matters in a city full of two- and four-families.
-The EPA warns that paint vapor moves as “shared air” between units in apartment buildings, traveling through common walls via gaps around pipes and electrical outlets. It advises building managers to notify neighbors ahead of a repaint, keep ventilation running for at least two to three days, and even consider loaning box fans to residents.
-If you’re a landlord repainting a unit in a South City four-family, that’s a courtesy call worth making. If you’re the tenant next door wondering why your place smells like primer, now you know why.
-### What to do with the leftover paint
-Half-full cans in the basement are a St. Louis tradition. Here’s how to end it properly.
-Residents of St. Louis City, St. Louis County, and Jefferson County can use the regional Household Hazardous Waste program. St. Charles County residents are not eligible for it — that county runs its own. Appointments are required and you’ll need proof of address.
-South facility — 291 E. Hoffmeister, St. Louis, MO 63125
-North facility — 4100 Seven Hills Dr., Florissant, MO 63033
-Fees, which surprise people: latex and water-based paint costs about $0.50 per pound, because latex isn’t hazardous waste and doesn’t fall under the free allowance. Oil-based paint is free for the first 50 pounds, then about $1.70 per pound after that. City residents’ access is covered by the solid waste fee on the quarterly water bill; book through the Citizens Service Bureau at 314-622-4800.
-The free option most people miss: fully hardened, dried-out latex paint can generally go in the regular trash. Both the regional program and the EPA say so, and the program specifically asks residents to bring only liquid paint. Leave the lid off in a ventilated spot until it’s solid. Both sources hedge with “often” and “check with your hauler,” and with 88 municipalities in the County that’s worth a phone call. Never pour paint down a drain or into a storm sewer.
-### Milk paint, clay paint, lime wash: what we could and couldn’t verify
-We went looking for evidence that these are genuinely lower-emission. We’d like to tell you they are. We couldn’t verify it.
-Essentially every source making that claim was a company selling the product, an affiliate roundup, or a content mill. We found no EPA, CDC, American Lung Association, or peer-reviewed source substantiating lower real-world emissions. What they’re made of isn’t in dispute — milk paint is casein, lime and mineral pigment; clay paint is clay, water and plant binders; lime wash is slaked lime and water. Whether that translates into cleaner indoor air is a claim we can’t stand behind.
-And one thing worth knowing before you romanticize the natural option: lime wash is calcium hydroxide, a caustic alkali. NIOSH lists eyes, skin and respiratory system as target organs, with an exposure limit of 5 mg/m³. With moisture it can cause serious skin burns, and eye contact can cause chemical burns. Natural is not a synonym for harmless.
-Vendors also consistently report the practical trade-offs — lower durability and washability, a topcoat usually needed over milk paint, lime wash fading and wanting redoing every few years. Reasonable for a low-traffic wall or a piece of furniture. Less so for a kitchen with kids in it.
-### Four things you’ll read that aren’t true
-“Once it’s dry, it’s safe.” The EPA names this one specifically as a misconception.
-“Indoor VOCs run 1,000 times higher while paint dries.” The EPA’s 1,000× figure describes paint stripping, not painting. It gets misquoted constantly. What the EPA does say is that indoor VOC levels run up to ten times outdoor levels, and that elevated concentrations can persist long after the work is done.
-“If you can’t smell it, it’s safe.” Odor thresholds and health thresholds for different compounds can differ by orders of magnitude, and noses go blind to a smell within minutes. The reverse is equally untrue — a strong smell isn’t proof of harm. Smell just isn’t a dose meter.
-“Put a cut onion or a bowl of charcoal in the room.” We found no health agency or study addressing this at all — only content mills and companies selling air purifiers. We’re not going to claim it’s been disproven, because we couldn’t find anyone who tested it. What agencies actually recommend is ventilation.
-The two versions of the question are how long is it safe to sleep in a room after painting, and how long until paint fumes are safe to breathe at all — and they have different answers, because the smell clears long before the off-gassing does.
+The guide adds the one instruction that beats any timer: leave painted areas if you experience eye watering, headaches, dizziness or breathing problems. And it explains why no single number fits every family: “People’s susceptibility to paint chemicals varies widely.”
+The American Lung Association lists what breathing these vapors can do: eye, nose and throat irritation, headaches, nausea, dizziness and difficulty breathing, and it notes they may worsen symptoms for people with asthma and COPD. If someone in the house has asthma, the nursery timeline is not the guest-room timeline. Say that out loud up front if you are hiring an interior painting company instead of rolling the walls yourself.
+Doing the next room yourself? Read how DIY interior painting goes in an old St. Louis house before you open the can.
+### In an old St. Louis house, the paint underneath matters more
+Scrape the old trim in a city two-family and the chips come off in layers, cream over green over something older, each one a decade of somebody else’s taste. Some of those layers may be the reason to slow down.
+In 1978, the federal government banned the sale of lead-based paint for use in homes, and the EPA says approximately three-quarters of U.S. homes built before 1978 still contain some lead-based paint. Rolling a fresh coat over sound drywall is one kind of job. Sanding or scraping an old painted surface is another, because it can create lead dust, and no box fan clears lead dust out of a room.
+If you pay someone to do that work, the EPA’s Renovation, Repair and Painting rule says anyone paid to disturb painted surfaces in a pre-1978 home has to be certified and trained in lead-safe work practices. Ask any painter for that certification before they touch the trim.
+And if you live in the City with a child under six or a pregnant woman at home, use the free inspection. Request it online or call CSB at 314-622-4800. When lead hazards are found, owners may apply for financial assistance.
+### If you share walls, your neighbors are breathing it too
+In a South City four-family, you already know what the neighbors are cooking for dinner. Paint travels the same way.
+The EPA says paint vapor moves as “shared air” between units in apartment buildings, and that harmful gases can move through common walls through gaps around pipes and electrical outlets. It suggests apartment managers give neighbors advance notice before a unit is painted and keep ventilation going during painting and, as a rule of thumb, for at least 2 to 3 days afterwards, even loaning box fans to residents.
+If you are the landlord repainting a unit, that is a courtesy knock worth making. If you are the tenant next door and your place suddenly smells like primer, now you know why.
+### The leftover paint costs money to drop off, and the reason is good
+Half-full cans with rusty rims, stacked on a basement shelf, lids crusted shut: that shelf is in half the houses in St. Louis. Here is the part that surprises people when they finally haul them out.
+The region’s Household Hazardous Waste program, HHWSTL, says residents will pay the full cost of latex paint disposal, 50 cents per pound. The truly hazardous stuff works the other way: it falls under the first 50 pounds being free, then $1.70 per pound after that. The program wants your latex in liquid form so it can be turned into new paint, which is why it asks for no dried-up cans.
+That gives you a free option. The EPA’s painting guide notes that latex paint and its containers can often be thrown out with regular household trash, and HHWSTL wants no dried-up cans. Leave the lid off in a ventilated spot, somewhere the kids and pets can’t reach, until it’s solid, then ask your hauler. And never pour paint down a drain.
+Want someone else to breathe the fumes this time? Search painting contractors across the metro on the St Louis Near Me painting contractors map, and ask every candidate two things: are you certified for lead-safe work in pre-1978 homes, and how will you ventilate while you work.
+If you’re the painter who sets the box fan in the window before you open a single can, the parent standing in that hallway is looking for you. List your business and get more customers who already know to ask the right questions.
+Out of the house while the bedroom airs? Here is where to eat in Breese, Illinois.
+Sources:
+EPA, Healthy Indoor Painting Practices
+EPA, VOCs’ Impact on Indoor Air Quality
+EPA, Technical Overview of VOCs
+American Lung Association
+EPA Lead RRP Program
+Missouri health department on lead
+CDC/NIOSH
+HHWSTL
 ### Frequently asked questions
-### Q. How long does it take for paint fumes to harm you?
-A.  No health agency publishes a harm-onset time, because it depends on the paint, the ventilation, and the person. The EPA’s actionable version is a symptom rule, not a stopwatch: leave the area if you get eye watering, headaches, dizziness, or breathing problems.
-### Q. What happens if I sleep in a room with paint fumes?
-A.  The commonly reported short-term effects are eye, nose and throat irritation, headache, nausea and dizziness. The American Lung Association notes people with asthma or COPD can have symptoms worsen. Most healthy adults who spend a night in a lightly-scented room are fine; the risk rises with stronger fumes, poorer ventilation, oil-based paint, and susceptibility.
-### Q. How long should you avoid a room after painting?
-A.  Two to three days per the EPA, ventilating throughout. Longer for infants, young children, pregnant women, and anyone with a respiratory condition — and longer again for oil-based paint, which the EPA singles out.
-### Q. How long do paint fumes stay in the air?
-A.  The sharp, smelly phase clears within days with good ventilation. The low-level tail runs much longer than most people expect: EPA-affiliated chamber research on a low-VOC latex found formaldehyde emissions decaying for more than a month, and related work measured emissions off drywall continuing past 200 days. The two-to-three-day rule clears the spike, not the tail.
-### Q. Is it safe to stay in a room that smells like paint?
-A.  Smell isn’t a reliable measure in either direction — odor and health thresholds differ by orders of magnitude depending on the compound, and you go nose-blind fast. Treat a strong paint smell as a sign the room needs more air, not as a verdict. Ventilate either way.
-### Q. Can breathing in paint fumes make you sick?
-A.  Yes. The EPA lists eye, nose and throat irritation, headaches, loss of coordination, nausea and dizziness among effects associated with VOC exposure, and the American Lung Association lists a similar set. The EPA and CPSC single out young children, people with breathing problems, and pregnant women as needing to avoid paint vapors.
 ### Q. How long is it safe to sleep in a room after painting?
-A.  With a modern low-VOC latex and real ventilation, most healthy adults are fine after two to three days. Dry to the touch is not the same as finished off-gassing, which continues well past that. The safe answer is driven by airflow more than by the calendar.
+A.  The EPA’s guide says to avoid freshly painted rooms for 2 to 3 days whenever possible, with fresh air moving the whole time. It calls that a rule of thumb, not a precise safety line, so give infants, pregnant women and anyone with breathing problems more room than that.
+### Q. Is it safe to stay in a newly painted room?
+A.  For a short stay with the windows open and a fan blowing out, most people manage fine. The EPA still advises keeping young children and people with breathing problems out of freshly painted rooms, and leaving if you get watery eyes, headaches, dizziness or trouble breathing.
 ### Q. How long until paint fumes are safe?
-A.  The strong smell usually clears within a couple of days with windows open and a fan running; low-level off-gassing continues for weeks. If you can still smell paint, the room is still releasing something — that is the practical test, and it is more reliable than counting days.
+A.  There is no single number, because emissions vary widely from paint to paint, especially between oil-based and latex. The EPA’s working figure is 2 to 3 days of ventilation after painting. Treat a lingering smell as a sign the room needs more air.
 ### Q. Can a baby sleep in a room that was just painted?
-A.  Wait longer than you would for yourself. Infants breathe faster relative to their size and cannot leave a room that bothers them. Paint well ahead of a due date or a move-in, ventilate hard for several days, and only move the crib back once the room smells like nothing at all.
+A.  Wait longer than you would for yourself. The EPA says young children should avoid paint vapors and be kept out of freshly painted rooms. Paint the nursery well ahead of time, ventilate hard, and in an older City home, ask about the free lead inspection first.
+### Q. How long does it take for paint fumes to harm you?
+A.  No agency publishes a stopwatch, because it depends on the paint, the airflow and the person. The EPA’s rule is about symptoms instead: leave painted areas if you experience eye watering, headaches, dizziness or breathing problems.
+### Q. How long do paint fumes stay in the air?
+A.  The strongest stretch is what the 2 to 3 days of ventilation targets. The EPA also warns that dry paint is not the same as safe paint, since some paints carry solvents or drying oils that keep releasing vapor after the surface feels finished.
+### Q. Is it safe to stay in a room that smells like paint?
+A.  A strong paint smell means the room is still giving off vapor and needs more fresh air. The American Lung Association lists eye, nose and throat irritation, headaches, nausea and dizziness among the effects of breathing these vapors, so open the windows and run a fan out.
 ### Q. Can I sleep in a freshly painted room with the windows open?
-A.  Open windows plus a box fan pointed out is the single biggest improvement you can make, and it is what shortens the wait. It is still not a substitute for the first night or two elsewhere, especially in a small room, a basement, or anywhere the air does not move on its own.
-### The short version
-Two to three days with a box fan blowing out the window, per the EPA — and treat that as a sensible default rather than a guarantee. Longer if there’s a baby, a pregnancy, or asthma in the house. Don’t trust the number on the can to mean what it sounds like, since it’s calculated before your color goes in. And if your house went up before 1980, which most St. Louis houses did, the question of what’s under the old paint matters more than what’s in the new can.
-Looking for someone who’s done this in an old St. Louis house before? Search painting contractors across the metro in the St Louis Near Me painting contractors map, and ask any candidate two questions: are you an EPA-certified firm for pre-1978 homes, and how will you ventilate while you work. If they don’t have a clean answer to the first one and your house is older than 1978, keep looking.
-If you run a business like this yourself, list your business. Does it ever feel like you do great work that nobody outside your regulars sees? How much is “word-of-mouth will carry us” quietly costing you each month? Tired of paying for “leads” that were sold to five other people too? Find out →
-Sources: EPA/CPSC, Healthy Indoor Painting Practices (EPA 744-F-00-011); EPA, VOCs’ Impact on Indoor Air Quality and Technical Overview of VOCs; EPA architectural coatings rule, 40 CFR Part 59 Subpart D; American Lung Association; EPA Lead RRP Program; Missouri DHSS; CDC/NIOSH on calcium hydroxide; U.S. Census Bureau ACS 2024, Table B25034; HHWSTL. Verified August 2026.
+A.  Open windows help, and a box fan helps more; the EPA’s guide says to place a box fan securely in the window blowing out. The guide still says to avoid the room for 2 to 3 days when you can, so the first night or two is better spent somewhere else.
 
 ## Why Is My Business Not Showing Up on Google? A St. Louis Owner’s Checklist
 Source: https://stlouismissourinearme.com/blog/why-is-my-business-not-showing-up-on-google
