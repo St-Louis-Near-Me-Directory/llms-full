@@ -10577,35 +10577,24 @@ A.  The standard list is toasted ravioli, gooey butter cake, St. Louis-style piz
 Every photo, post, and review you add can be indexed on its own. What are yours doing right now? Also worth reading: our guide to Black-owned restaurants in St. Louis. Or browse restaurants across the metro on St Louis Near Me Directory.
 If you run a soul food kitchen, this part is yours. What’s the plan when the referrals slow down - hope? If your sign fell down tomorrow, would anyone online still know you exist? See who AI names instead of you →
 
-## Your Card Won’t Open the MetroLink Gate: St. Louis Public Transit, the $1 Bus and the $5 Day
+## St. Louis MetroLink Gates Won’t Take Your Card: The $5 Fix
 Source: https://stlouismissourinearme.com/blog/your-essential-guide-to-getting-around-st-louis-by-public-transit
-Tap a credit card on a MetroLink validator and nothing happens. No green flash, no beep, no open gate. On the other side, the train you hurried for pulls away without you.
+Tap a credit card on a MetroLink validator and nothing happens. No green flash, no beep, and the security gate in front of you stays shut. On the other side, the train you hurried for pulls away without you.
 That’s the newest trap in St. Louis transit. Every MetroLink station now sits behind automated security gates that open only for a fare you’ve validated, and Metro’s validators don’t accept tap to pay from credit or debit cards. The gate doesn’t care that your card works everywhere else in town.
 The bus has a surprise too, a kinder one. The whole cash fare on a MetroBus is $1.00. Smooth the bill flat on your knee, feed it into the farebox, and you’re riding. Have it exact, because operators can’t make change.
 One move handles both, so do it before you leave the house: download the free Transit app, set up Tap & Ride, and let fare capping do the math. Metro caps what you pay at the price of a pass, so a day of riding never costs more than $5 and a month never more than $78. Two train rides at $2.50 each already reach that $5. Every ride after that, the same day, costs nothing.
-The rest of this guide is the neighbor-to-neighbor version of Metro Transit: which train goes where, what each ride really costs, the stop for the Arch and the Zoo, the free parking most drivers never use, and the help that exists if a regular bus or train isn’t workable for you.
+### How do I get around St. Louis using public transit?
+Ride Metro Transit. MetroLink light rail runs two lines: the Red Line from Lambert Airport to Shiloh-Scott, Illinois, and the Blue Line from Shrewsbury to Fairview Heights, Illinois, sharing every station from Forest Park-DeBaliviere east through downtown. MetroBus covers 58 routes for $1.00 cash; a train ride is $2.50. Download the free Transit app, set up Tap & Ride, and fare capping stops charging at $5 a day.
 ### Does St. Louis have light rail downtown?
 Yes. When the windows go black for a stretch and the rumble gets louder, you’re in the Union Station Tunnel, which Metro says is more than 130 years old. That’s older than anyone you’ll sit next to.
 MetroLink is the region’s light rail: 46 miles of track and 38 stations, 27 in Missouri and 11 in Illinois. Downtown you can board at Union Station, Civic Center, Stadium, 8th & Pine, Convention Center and Laclede’s Landing, then cross into Illinois at East Riverfront.
-There are two lines, and the train tells you which is which. Look for the red or blue sign on the front and sides of the cars before you step on.
-Red Line: Lambert Airport Terminal #1 in Missouri to Shiloh-Scott in Illinois. This is the airport train.
-Blue Line: Shrewsbury-Lansdowne I-44 in Missouri to Fairview Heights in Illinois.
-Shared track: both lines stop at every station between Forest Park-DeBaliviere and Fairview Heights. If you need to switch lines, Forest Park-DeBaliviere is where you change trains.
+There are two lines, and the train tells you which is which: look for the red or blue sign on the front and sides of the cars before you step on. The Red Line runs from Lambert Airport Terminal #1 in Missouri to Shiloh-Scott in Illinois, so it’s the airport train. The Blue Line runs from Shrewsbury-Lansdowne I-44 in Missouri to Fairview Heights in Illinois. Both lines stop at every station between Forest Park-DeBaliviere and Fairview Heights, and if you need to switch lines, Forest Park-DeBaliviere is where you change trains.
 Trains run seven days a week from before 5 a.m. to about 1 a.m. Once you’re aboard, the operator announces each upcoming station and a route map hangs in every car, so nobody has to count stops with their nose against the window.
 ### What a ride costs, and the cap that stops the meter
-A green flash and a short beep at the validator mean your fare worked. What that beep cost you depends on how you paid. Metro’s fare table is short enough to memorize on the walk to the stop:
-MetroBus, cash: $1.00 (reduced fare $0.50)
-MetroLink, cash: $2.50 (reduced fare $1.25)
-One-Day Pass, bus and rail: $5.00
-7-Day Pass: $27.00
-30-Day Pass: $78.00 (reduced fare $39.00)
-Metro Call-A-Ride: $2.00
+A green flash and a short beep at the validator mean your fare worked. What that beep cost you depends on how you paid. Metro’s fare table is short enough to memorize on the walk to the stop. A MetroBus ride is $1.00 in cash, or $0.50 at the reduced fare. A MetroLink ride is $2.50, or $1.25 reduced. A One-Day Pass for bus and rail is $5.00, a 7-Day Pass is $27.00, and a 30-Day Pass is $78.00, or $39.00 reduced. Metro Call-A-Ride is $2.00.
 Children 4 and younger ride free and kids 5 to 12 pay half, with no special pass needed, though someone may ask for proof of age. Riders 65 and older ride MetroBus and MetroLink for half price with a Senior Reduced Fare Permit, which you get through Metro’s ADA Services office at 314-982-1510.
 Now the part the fare table doesn’t shout about. With Tap & Ride, you load money onto a balance in the Transit app or on a reloadable Ride On card, and each time you board, the validator draws the fare from it. Fare capping runs on top of that automatically: once what you’ve paid reaches the price of the pass that would have been your best deal, the charging stops. You never have to guess on Monday whether this week is a 7-Day Pass week. The system works it out for you, and you never have to front $78 at once to get the monthly price.
 The one-day version is the one visitors feel. Ride the train downtown in the morning, out to the Delmar Loop for lunch, and back to your hotel at night. That’s three train rides, and with Tap & Ride the third one is free.
-Bus fare, counted in coins
-### How much does it cost to ride the MetroBus in St. Louis?
-A MetroBus ride is $1.00 in cash, or $0.50 at the reduced fare with a Metro permit. What moves your total is how often you ride: with Tap & Ride, Metro stops charging at $5 for a day and $78 for a month, and children 4 and younger always ride free.
 ### How to pay for a St. Louis MetroBus?
 You have three ways, and one of them needs no phone at all.
 Exact cash. The farebox takes bills and coins. Operators can’t make change, so whatever bill goes in stays in.
@@ -10615,7 +10604,7 @@ If you qualify for a reduced fare, show your reduced-fare ID to the operator bef
 Can a single-ride ticket carry you onto a second bus? Don’t count on it. Metro’s own mobile-fare page says paper transfers are suspended, so there’s no transfer slip coming with your dollar. If your trip needs two buses, Tap & Ride is the cleaner answer, because the $5 daily cap means changing buses all afternoon can never cost more than a day pass.
 Catching the bus itself has its own little rhythm. Get to the stop at least five minutes early. As the bus rolls up, check that the lighted sign above the windshield shows your route number, then stand or raise a hand so the operator knows you’re boarding. Operators call out major intersections along the way. When your stop is close, pull the cord that runs above the windows or press the strip between them, and you can step off through the front or rear door.
 Fare sorted? Now pick somewhere worth riding to. Our season-by-season guide to St. Louis festivals and annual events lays out the big ones, so you can plan which train to catch.
-If you’re the coffee counter, the bookshop or the lunch spot a few blocks from a MetroLink station, think about the rider stepping off the train and asking a phone where to eat nearby. Whose name does it say? If it isn’t yours, that rider walks past your door to someone else’s. See who AI names instead of you.
+If you’re the coffee counter, the bookshop or the lunch spot a few blocks from a MetroLink station, a Gold listing on St Louis Near Me Directory is how the rider stepping off the train and asking a phone where to eat becomes one of your customers instead of someone else’s: see who AI names instead of you.
 ### Which stop for the Arch, the Zoo and the City Museum?
 Metro’s own exploring guide matches the big attractions to a station or a bus route. Save this list to your phone:
 Gateway Arch National Park and the riverboats: Laclede’s Landing MetroLink Station.
@@ -10630,11 +10619,13 @@ Soulard Farmers Market: the #30 Arsenal or #73 Carondelet.
 ### Your ticket doubles as a coupon
 Here’s a perk worth knowing. Metro’s Destination Deals program partners with local merchants to give special discounts to Metro riders. Show a current pass or a same-day ticket when you visit. On the list today: 10% off tickets bought at the Aquarium or Wheel ticket office at Union Station, and 25% off scoops at Jeni’s Splendid Ice Creams. That’s a cold scoop dripping down the cone on the walk back to the station, at 25% less. Merchants change, so check the current list on Metro’s Destination Deals page before you go.
 Every MetroBus, MetroLink train and Call-A-Ride van also carries free Wi-Fi. Join the network called “Metro Public Wi-Fi” and accept the terms. It’s a public, unencrypted network, so save the banking for later.
-Off the Red Line entirely: Local SEO in Troy decides which Troy shops show first.
-### The airport run, the free parking and this fall’s detours
+Rather pedal than ride? Our bike-rental guide picks up where the train leaves off.
+### The airport run and the free parking
 Suitcase wheels clattering across a Park-Ride lot at dawn, a free parking space behind you: that’s how a flight from the Illinois side can start without a parking bill. The Red Line is how you fly out of Lambert from there. Metro runs free Park-Ride lots at 24 locations, and nine MetroLink stations hold free long-term spaces for up to 14 days, first come, first served: Shrewsbury-Lansdowne I-44, Brentwood I-64, Emerson Park, Washington Park, Fairview Heights, Swansea, Belleville, College and Shiloh-Scott. Leave the car at Shiloh-Scott, roll your suitcase onto a Red Line train, and the same line carries you to the airport.
-Check the calendar before you try it this season, though. Metro has closed the Lambert Airport Terminal #1 station since October 12 for airport construction, with free shuttles running between Terminal #2 and Terminal #1 that add a few minutes to the trip. The Terminal #2 station closes November 2. Metro expects the Terminal #1 work to be finished in mid-December. The Terminal #2 work is also expected to wrap up in mid-December, and Metro says it will share how riders can connect closer to that closure.
-The Blue Line changes the same day. From November 2 through December 23, Blue Line trains run only between Shrewsbury-Lansdowne I-44 and Forest Park-DeBaliviere while crews work in the Union Station Tunnel. Blue Line riders headed east switch to a Red Line train at Forest Park-DeBaliviere. Expect a train every 20 minutes and allow at least 5 extra minutes if you’re changing lines. Check Metro’s Rider Alerts page before you ride, or let the Transit app send rider alerts to your phone.
+Bus fare, counted in coins
+### How much does it cost to ride the MetroBus in St. Louis?
+A MetroBus ride is $1.00 in cash, or $0.50 at the reduced fare with a Metro permit. What moves your total is how often you ride: with Tap & Ride, Metro stops charging at $5 for a day and $78 for a month, and children 4 and younger always ride free.
+Before any airport run, check Metro’s Rider Alerts page or turn on rider alerts in the Transit app. Airport construction has closed the Lambert MetroLink stations for stretches before, with free shuttles running between Terminal #2 and Terminal #1, and Union Station Tunnel work has run Blue Line trains only between Shrewsbury-Lansdowne I-44 and Forest Park-DeBaliviere.
 Coming in by train instead? Amtrak’s St. Louis stop is the Gateway Transportation Center at 430 S. 15th St., which Amtrak describes as an intermodal facility serving Amtrak, light rail, and intercity and local buses.
 ### Is it safe to take the MetroLink in St. Louis?
 A late train, a quiet platform, your own footsteps a little too loud: that’s when the safety question stops being abstract. Nobody can promise you a perfect ride on any city’s transit, so here is what’s actually in place. Every MetroLink station now sits behind automated security gates that open only for a validated fare. Dispatchers watch every MetroLink platform on closed-circuit cameras around the clock and can call for security or police right away. Cameras also cover Park-Ride lots, stairwells, trains, buses and vans. Security guards and fare inspectors patrol trains, stations and transit centers, backed by officers from the St. Louis County Police Department, the St. Louis Metropolitan Police Department, the St. Louis City Sheriff’s Department and the St. Clair County Sheriff’s Department.
@@ -10658,6 +10649,7 @@ Things to do at St. Louis Union Station
 Planning a visit to the St. Louis Aquarium at Union Station
 New to St. Louis? The move-in setup checklist
 Bike rentals in St. Louis and where to ride
+Local SEO in Troy, Missouri
 ### Frequently Asked Questions
 ### Q. Does STL have public transportation?
 A.  Yes. Metro Transit runs MetroLink light rail, two lines and 38 stations across Missouri and Illinois, plus 58 MetroBus routes and Metro Call-A-Ride paratransit vans. Via Metro STL adds $2 shared rides in parts of North, South and West St. Louis County. The Transit app plans trips across all of it.
