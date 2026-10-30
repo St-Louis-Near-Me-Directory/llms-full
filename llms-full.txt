@@ -10413,94 +10413,75 @@ A.  The basics aren’t hard; the patience is. Google’s starter guide walks th
 ### Q. What is the 80/20 rule for SEO?
 A.  It’s a rule of thumb, not a Google rule: a small share of the work drives most of the results. For a St. Louis business that share is usually the Business Profile, reviews and replies, and pages that answer real questions. Google says local results rest mainly on relevance, distance and popularity, so start there.
 
-## 10 Questions Local Business Owners Ask About Online Visibility (Answered Honestly)
+## You Can’t Pay Google for Local Rank: 10 Owner Questions
 Source: https://stlouismissourinearme.com/blog/10-questions-local-business-owners-ask-about-online-visibility-answered
-Every week we hear the same questions from business owners across Missouri and Illinois — frustrated with ad budgets that evaporated, confused by SEO advice that contradicts itself, and suspicious of anyone promising page one by Friday. Fair enough. The suspicion is earned; this industry has done a lot of over-promising. So let’s do the opposite of over-promising and answer plainly — starting with the one every owner quietly wonders: why can the competitor down the street get found when you can’t?
-So here are the ten questions owners actually ask us, answered the way we’d want them answered if we were on your side of the desk: straight, specific, and honest about both what works and what it costs you in effort. No fake ROI tables, no magic buttons.
+“There’s no way to request or pay for a better local ranking on Google.” Google wrote it, on its own help page about local ranking, with the word Important in front of it. For every St. Louis owner who has paid someone to fix their ranking, that sentence lands like a cold draft under the door.
+It reads differently at the kitchen table that doubles as the office, laptop open beside the invoices, the phone face-up and quiet. Every caller who promised page one by Friday was selling something Google says can’t be bought. You weren’t foolish to listen. The pitch was built to sound like the only door in.
+So what does decide who shows up? Google names it in one sentence: “Local results are mainly based on relevance, distance, and popularity.” You can’t move your shop closer. The other two can change this week, without a contract.
+St. Louis paperwork has been asking the same question all along. At City Hall on Market Street, home of the License Collector’s Office, the City’s rules read: “A separate license is required for each location of your business in the city,” and “a separate license is required for each trade name under which you operate.” The City’s own license search warns that “Business licenses are issued under legal names.” What are you called, and where are you? When the City, the State and Google all hear the same answer, most of the ten questions below start answering themselves.
+### How can one directory listing appear in multiple cities?
+Through location tags, not more licenses or map pins. In the City of St. Louis, the License Collector requires a separate license for each location and each trade name, and Google allows one Business Profile for each location. A directory profile can carry a tag for each community you serve, so one listing reaches searches in each. A trade name that isn’t your legal name gets registered with the Missouri Secretary of State, which lists the cost at $7.
 ### 1. “Why can’t potential customers find my business online?”
-Short answer: you’re invisible in the searches that matter — and it’s almost never about the quality of your work.
-When someone types “emergency plumber near me” or asks an AI assistant for a restaurant recommendation, they’re not browsing — they’re choosing. If you don’t appear, the choice happens without you. The usual culprits: your information doesn’t match across the web, you’re present on fewer surfaces than competitors, your reviews are stale or unanswered, your profiles are skeletons, and nothing you’ve published answers the questions customers actually ask. We wrote a full six-reason diagnostic with a self-scoring checklist — ten minutes there will tell you exactly which reasons apply to you.
-### 2. “I spent $5,000 on Google Ads with terrible results. What went wrong?”
-Short answer: probably nothing unusual — ads are an auction, and auctions are expensive for the unprepared.
-Here’s the honest version, without the horror-story math some marketers use: Google Ads genuinely works for many businesses, but it’s a skill-intensive auction. Click prices in competitive local categories run high, budgets drain fast without careful keyword and negative-keyword management, and a slow website quietly wastes every click you buy. If nobody was actively managing your campaign, mediocre results are the expected outcome, not bad luck.
-The structural thing to understand: ads rent visibility. The day you stop paying, it’s gone. That doesn’t make ads bad — it makes them a tool for moments when you need volume now and have someone skilled at the wheel. The complement is owned visibility: profiles, reviews, content, and citations that keep working after the spend stops. Most resilient local businesses eventually run on the owned foundation, with ads as an accelerant when it makes sense — not the other way around.
-When do ads make sense? Honestly: when you’re new and need calls before organic visibility matures, when you’re filling a slow season, or when you’ve got a high-value service where one job covers a month of clicks — and in every case, only with someone competent watching the campaign weekly. If none of those describe you, fix the free foundation first. (For the full channel-by-channel map — including offline options and where the first 00 a month should go — see our local marketing strategies guide.)
+Usually because the machines can’t match you, not because the work isn’t good. Someone types a trade and a town, and they’re choosing. If what Google reads about you doesn’t agree with itself, the choice gets made without you, and your phone stays dark on the counter.
+Three gentle steps come straight from Google’s own guidelines.
+First, one name, everywhere. Google asks that your profile name reflect “your business’s real-world name, as used consistently on your storefront, website, stationery, and as known to customers.” Here’s the Missouri part most owners never hear. If the name on the truck door isn’t your own legal name, Missouri law makes it unlawful to do business under it “without first registering same with the secretary of state” as a fictitious name, and that registration expires at the end of five years unless a renewal is filed. The Secretary of State lists the cost of registering a fictitious name at $7, takes the filing and the renewal online, and its Corporations Division answers at (573) 751-4153, with a branch office in St. Louis. Inside the city limits, the City’s Business License Search lets anyone type in any part of a business name and see what the City has on file. A lapsed name is a crack in the story Google is trying to read.
+Second, say what you do, narrowly and honestly. Google asks owners to choose “the fewest number of categories it takes to describe your overall core business,” and says a service area “shouldn’t extend farther than about 2 hours of driving time from where your business is based.” The plumber who says plumber, typed once on a laptop at night, is easier to match than one who claims every trade.
+Third, finish the profile and answer the people who talk about you. Google says “Businesses with complete and accurate info are more likely to show up in local search results,” and that replying to reviews “shows that you value their feedback.” Real hours. Photos of the actual work, mud on the boots and all. A reply under every review, even the two-star one that stung.
+Those three cost no ad money, and most owners can get through them in an evening after the last job, boots by the door. But all three live on one platform, under one set of rules, with one pin on one map. So when a neighbor across the river asks a phone who to call, where else is your name showing up?
+### 2. “I spent thousands on Google Ads with terrible results. What went wrong?”
+The card statement on the kitchen table tells the story in one line. Probably nothing unusual went wrong. Google describes its ads as running on an auction, and auctions are expensive for anyone without a skilled hand on the controls. Budgets drain fast without careful keyword work, and a slow website quietly wastes every click you buy. If nobody was managing the campaign week to week, a weak result was the expected outcome, not bad luck.
+The bigger thing to understand: ads rent attention. The day you stop paying, it’s gone. That doesn’t make ads bad. It makes them a tool for moments when you need calls now, sitting on top of a foundation you own: profiles, reviews, photos and pages that keep working after the spending stops. Our local marketing strategies guide maps where each channel fits.
 ### 3. “What about SEO? Everyone says I need SEO.”
-Short answer: you need the fundamentals, which are free; whether you need an agency depends on your ambitions and your patience.
-The honest timeline nobody advertises: meaningful SEO results typically build over months, not weeks, and no honest practitioner guarantees rankings — Google’s own updates reshuffle results regularly. Agency retainers commonly run from hundreds to thousands per month, and quality varies wildly.
-The good news: the highest-return work is the unglamorous stuff you can do yourself — consistent business information everywhere (our citations guide is the one-afternoon version), complete profiles, real reviews, and a handful of pages that answer your most-asked customer questions. One legitimate shortcut: platforms that already carry authority. A complete profile on an established local directory gets indexed and surfaced far faster than a new website earns rankings on its own — it’s borrowing a running start rather than building alone in an empty field.
-### 4. “How can one listing appear in multiple cities?”
-Short answer: location tags and category tags — and the honest rule is to claim exactly what you genuinely serve.
-On St Louis Near Me Directory, a Gold profile can carry up to 40 location tags and 10 business categories, which means your one profile can surface in searches across every community and every service you actually cover — the mechanics, with a worked example, are laid out in the Up to 400 Keywords section of the Gold Plan page.
-The key word is genuinely. This cuts both ways:
-Most businesses under-claim. A typical owner tags three or four towns and stops — then wonders why the next suburb over never calls. If you’d happily take the job in Fenton, Fenton should be able to find you.
-A metro-wide business should claim metro-wide. An HVAC company that trucks to every corner of the region, or a destination restaurant that draws diners from across both states, is genuinely a 30-or-40-community business — claiming that footprint isn’t inflation, it’s accuracy.
-Nobody should claim towns they wouldn’t serve. Tagging communities you’d decline a job in doesn’t bring customers; it brings wrong-fit calls, disappointed neighbors, and clutter. Accuracy converts; padding doesn’t.
-Same with categories: list every service you truly offer — a remodeler legitimately spans kitchens, bathrooms, and basements — and skip the ones you’d subcontract away. (The full setup walkthrough — steps, mistakes, and honest economics — is in our complete guide to multi-location listings.)
+The cold-call voicemail promising page one is still sitting in the phone. You need the fundamentals, and they’re mostly the three steps above. Google’s own advice on hiring help is blunt: if someone guarantees “that their changes will give you first place in search results, find someone else.” Real results build over months, not weeks.
+The highest-return work is the unglamorous kind you can do yourself: the same business details everywhere (our citations guide is the one-afternoon version), complete profiles, real reviews, and a few pages that answer the questions customers actually ask. One honest shortcut is to show up on sites that already carry weight in your area, instead of waiting for a brand-new website to earn its own.
+### 4. Why one map pin can’t cover the whole metro
+Jobs all over the metro, one pin on Google. Google’s rules tie a Business Profile to where you’re actually based. That’s fair, but it leaves the roofer working out of a pickup, the caterer working out of a home kitchen and the mobile groomer with one profile and one pin, while their real customers are spread across a dozen towns.
+This is the gap St Louis Near Me Directory was built around. A Gold profile can carry 10 business categories and 40 location tags, which the plan page counts as up to 400 keyword combinations, and you can show a service area or no address at all. The rule we’d hold you to is the same one Google uses: tag the towns you’d really drive to and the services you really offer. Padding brings wrong-fit calls; accuracy brings jobs. The full setup is in our complete guide to multi-location listings.
 ### 5. “This sounds good. What’s the catch?”
-Short answer: the catch is that you have to do the work.
-A directory profile isn’t a customer machine you switch on. The businesses that get real results build a complete profile, upload real photos, actively request reviews, answer inquiries fast, and refresh things monthly. The ones that create a bare listing and vanish get bare-listing results. The platform provides reach and structure; the effort is yours. Anyone who tells you otherwise — about any marketing channel — is selling the dream instead of the tool.
-### 6. “How do I know if this will work for MY business?”
-Short answer: three yes/no questions settle it.
-Do potential customers search online (or ask AI assistants) for businesses like yours? For nearly every home-service, professional, health, restaurant, retail, automotive, and personal-care business, yes.
-Do you serve customers across multiple communities? Then multi-location visibility applies to you.
-Can you invest a few hours up front and a couple of hours a month after? Then you can execute it.
-Where it’s honestly a poor fit: pure e-commerce with no local component, ultra-niche B2B serving a handful of national clients, or any owner who truly won’t touch the profile after day one. Better to know that now.
+You have to do the work, at the same table where the invoices get written. A profile isn’t a customer machine you switch on. The owners who get results fill it out, upload real photos, ask for reviews, answer messages fast and refresh things every month. A bare listing gets bare-listing results, and anyone who says otherwise about any channel is selling the dream instead of the tool.
+### 6. Will it work for my kind of business?
+Three questions settle it, and you can answer them before the coffee goes cold. Do your customers search online, or ask a phone assistant, for businesses like yours? Do you serve more than one community? Can you give it a few hours up front and a couple of hours a month after? Three yeses means it fits. It’s a poor fit for pure online stores with no local customers, or for an owner who truly won’t touch the profile after day one, and it’s better to know that now.
 ### 7. “What results should I realistically expect?”
-Short answer: we won’t hand you a fake ROI table — results vary too much by industry, competition, and effort to promise numbers.
-What we can say honestly: businesses with complete profiles, steady reviews, and fast response times consistently outperform bare listings — not by a little — and visibility compounds, because reviews accumulate, content ages into authority, and familiarity breeds referrals. Early weeks are about being findable and trustworthy; the payoff curve builds over months.
-The discipline that makes results visible: ask every new customer how they found you, and write it down. Attribution is the difference between knowing a channel works and guessing. If after a few months of genuine effort nothing is moving, diagnose before abandoning — usually one of the six reasons from question 1 is still unfixed — and it’s fixable this week.
-Early signals it’s working, before the revenue shows: profile views trending up in your dashboard, calls that start with “I found you online,” review count climbing, and your business appearing when you run the logged-out self-search — and, increasingly, when you ask an AI assistant who it recommends in your category.
+The first sign is small: the phone lighting up on the counter with a number you don’t know. Nobody honest will hand you a guaranteed number, and Google’s own advice is to beware of anyone who guarantees rankings. Complete profiles with steady reviews and fast replies tend to beat bare ones, and the effect builds over months as reviews pile up and neighbors start recognizing the name.
+The habit that makes results visible costs nothing: ask every new customer how they found you, and write it down on the invoice pad. Early signs it’s working show up before the revenue does: calls that open with “I saw you online,” a review count that keeps climbing, and your name coming back when you ask a phone assistant who it recommends for your trade.
+Want to see which of the six usual reasons applies to you? Our six-reason diagnostic has a self-scoring checklist you can work through tonight.
+If you’re the contractor, the salon or the one-person crew who does good work and still waits on referrals, ask yourself who a phone names when a neighbor asks for your trade, and if it isn’t you, a Gold listing on St Louis Near Me Directory is how those customers start finding your number instead: see who AI names instead of you.
 ### 8. “How do I actually get started?”
-Short answer: one focused first week.
-Day 1: Create your profile — name, location, contact, logo, a two-sentence description. Live in minutes.
-Day 2: Expand the description to a genuine 200–300 words, complete hours and service area, connect your socials.
-Day 3: Tag every community you genuinely serve and every category you truly offer (see question 4 for the honest rule).
-Day 4: Upload 15–25 real photos — your work, your team, your space. Phone photos in good light beat stock every time.
-Day 5: Create one honest offer (a first-visit discount, a free consultation) and ask your three happiest recent customers for a review.
-After that: a couple of hours a month keeping it current, answering inquiries fast, and adding photos as work happens. That cadence is the whole maintenance plan.
-Random, but: here’s every business in Ballwin, all at once.
+One focused first week does it.
+Day 1: Create your profile with your name, contact details, logo and a two-sentence description. Use the exact name on your Missouri registration.
+Day 2: Grow the description into a few honest paragraphs, and add your hours, service area and social links.
+Day 3: Tag every community you truly serve and every category you truly offer.
+Day 4: Upload real photos of your work, your team and your space. Phone photos in good light beat stock every time.
+Day 5: Ask your three happiest recent customers for a review.
+After that, a couple of hours a month keeps it current.
 ### 9. “What mistakes should I avoid?”
-Short answer: the fatal one is the bare listing; the sneaky ones are below.
-Claiming less than you serve — invisible in the suburbs that would happily hire you.
-Claiming more than you serve — wrong-fit calls and clutter that helps nobody, starting with you.
-Three dark, blurry photos — customers judge your work by your pictures long before they call.
-A description that could be anyone’s — if a competitor could paste their name over yours, rewrite it.
-No review habit — the competitor with thirty answered reviews wins the tie every time.
-Set-it-and-forget-it — stale profiles fade; fifteen minutes a week keeps yours alive.
-Never promoting your own profile — put the link in your email signature, your receipts, your counter QR code.
-Slow replies — the customer who messaged three businesses hires the one who answered first.
-Ignoring your analytics — the dashboard tells you which towns and categories pull; double down there.
-No attribution question — “how’d you find us?” is four words that justify (or redirect) every marketing dollar you spend.
+The fatal one is the bare listing. The sneaky ones are quieter: tagging fewer towns than you serve, tagging towns you’d never drive to, three dark and blurry photos, a description a competitor could paste their name over, slow replies to messages, and never asking how a customer found you. Every one of those is fixable this week.
+Building your own site too? Our guide to the legal pages a small business website needs walks through what Missouri does and doesn’t require.
 ### 10. “How is this different from Yelp, Angi, or HomeAdvisor?”
-Short answer: different models, honestly described — per-lead resale, ad-boosted review platforms, and owned profiles are three different deals.
-Lead-resale platforms take a customer’s request and sell it to several businesses at once, charging each per lead — you pay whether or not the job closes, and you’re bidding against everyone who bought the same lead. That model suits businesses that want volume and can absorb the per-lead economics; it builds no lasting asset.
-Review platforms with paid placement offer free listings, with paid tiers for prominence — and on many of them, competitors’ ads can appear on your own profile page. Useful reach, limited control.
-An owned directory profile is a fixed, flat cost — the Gold plan runs $29.75/month paid annually — for a page you control completely: your locations, your categories, your photos, your content, no competitor ads on your page, no per-lead meter. Every review and photo you add builds an asset that keeps working.
-None of these are scams and none are magic; they’re different economics. Our bias is obvious — we built the owned model because we think local businesses deserve an asset instead of a meter — but the honest advice is to know exactly which deal you’re accepting from each platform you use.
+Three different deals, honestly described. Lead-resale sites sell one customer’s request to several businesses at once and charge each of them, whether or not the job closes. Review sites with paid placement give you a free listing and sell prominence on top of it. An owned directory profile is a flat yearly cost for a page you control: your towns, your categories, your photos, no per-lead meter. On St Louis Near Me Directory, Gold is $357 a year, which works out to less than $0.98 a day.
+None of these are scams and none are magic. Our bias is obvious, since we built the owned model, but the honest advice is to know exactly which deal you’re accepting from every platform you use.
 ### The pattern across all ten
-Read the answers back and one theme repeats: completeness, honesty, and consistency beat cleverness every single time. Complete information beats scattered brilliance. Honest claims — the towns you truly serve, the services you truly offer, the results you can truly expect — convert better than inflated ones and never blow up on you later. And consistent, boring maintenance outperforms heroic weekend sprints followed by silence.
-That’s also why this work is genuinely available to every owner reading this: none of it requires a budget you don’t have or expertise you can’t learn in an afternoon. It requires deciding that being findable is part of running the business — the same way answering the phone is. The owners who internalize that stop chasing tricks — and quietly start winning the searches their competitors still think are luck.
-Building or refreshing your own website? Make sure it has the basics covered too — our honest guide to the legal pages a small business website actually needs walks through what Missouri does and doesn’t require.
-### Frequently Asked Questions — the short versions
-### Q. Why can’t customers find my business online?
-A.  Almost never because of your work quality — usually because your information doesn’t match across the web, you’re on fewer surfaces than competitors, reviews are stale or unanswered, profiles are incomplete, and nothing you’ve published answers real customer questions. Each one is diagnosable and fixable.
-### Q. What results should I realistically expect?
-A.  No honest platform promises numbers — results vary by industry, competition, and effort. What holds true: complete, active, review-rich profiles consistently outperform bare ones, visibility compounds over months, and asking every new customer “how did you find us?” tells you exactly what’s working.
-### Q. How is a directory profile different from lead-generation platforms?
-A.  Different economics: lead platforms resell each customer request to several businesses and charge per lead; ad-boosted review platforms sell prominence, sometimes with competitor ads on your own page. An owned directory profile is a flat cost for a page you fully control — no per-lead meter, and everything you add builds a lasting asset.
-### Q. How can I list multiple locations on my Google Business profile?
-A.  Each staffed location needs its own profile, managed together under a business group. What you cannot do is make one profile appear across several cities — that is the distinction people miss, and attempting it is a common route to suspension.
+Read the answers back and one theme repeats: complete, honest and consistent beats clever. Google can’t be paid, won’t stretch your pin across the metro and tells you to find someone else if they guarantee first place. What’s left is the work you control, done everywhere your neighbors look. You do good work. It deserves to be seen.
+Refuse to be invisible.
+### Keep reading
+The complete guide to multi-location listings
+Getting your business details right everywhere
+Every business in Ballwin, all at once
+### Frequently Asked Questions
+### Q. Can you give me 10 questions about business with answers?
+A.  The ten on this page are the ones owners keep asking about getting more customers online: why customers can’t find them, ads, SEO, reaching several towns, the catch, fit, results, getting started, mistakes, and how a directory differs from lead sites. Each answer leans on Google’s or Missouri’s own written rules.
 ### Q. How can you improve business visibility?
-A.  Be complete and consistent everywhere people already look, before spending on ads. An owned directory profile is a fixed flat cost — the Gold plan runs $29.75 a month paid annually — against ad spend that stops working the moment you stop paying.
+A.  Start with what Google asks for: complete and accurate business info, the same real-world name everywhere, replies to reviews, and photos of your work. Then show up beyond one map pin. A Gold profile on St Louis Near Me Directory lets one listing carry the towns and services you truly cover.
+### Q. How can I list multiple locations on my Google Business profile?
+A.  Google allows one profile for each location that has its own service area and staff, rather than one profile stretched across several cities. If you have 10 or more locations of the same business, Google lets you manage and verify them in bulk.
 ### Q. How do I show multiple locations on maps?
-A.  For a business, that means separate verified profiles per location rather than pins on one map. For a route or a service area, a custom map layer does it — but a custom map does not help you rank, which is usually the real question underneath.
+A.  For a planning map, Google My Maps lets you import places from a spreadsheet or other file and see them all on one map. For customers, Google allows one Business Profile for each location. A custom map is a planning tool, not a business listing.
 ### Q. How do I map a bunch of addresses at once?
-A.  Bulk-import them into a custom map from a spreadsheet with one address per row. Useful for planning routes or visualising coverage. It is a private planning tool though — it does not create business listings or affect what customers find when they search.
+A.  Put one address per row in a CSV, XLSX or Google Sheet and import it into Google My Maps. Google’s help page says not to import files with more than 2,000 rows, so split a bigger list into several files.
 ### Q. How do I show two locations in a map?
-A.  Add both as separate points on a custom map, or if they are business premises, hold two verified profiles. The second is what customers actually search; the first is for you. Do not substitute one for the other.
-Still have a question we didn’t cover? Want the deeper diagnosis? Read the visibility diagnostic.
-If you own a business with a question we didn’t answer, start here. Start with the free visibility audit - it shows how your business currently appears across Google and six major AI engines, in plain English. What’s the plan when the referrals slow down - hope? Are you the best-kept secret in your part of St. Louis? And is that actually a good thing? Six major AI engines are recommending local businesses today. Are you one of them? See who AI names instead of you →
+A.  In Google Maps, get directions to the first place, then click Add destination for the second. Google says you can add up to 9 stops, including the final destination, and drag them to change the order.
+### Q. How is a directory profile different from lead-generation platforms?
+A.  Different economics. An owned profile on St Louis Near Me Directory is a flat yearly cost for a page you control, with no per-lead meter, and everything you add to it keeps working for you.
 
 ## Soul Food in St. Louis: Who's Still Open, and What to Order
 Source: https://stlouismissourinearme.com/blog/soul-food-in-st-louis
