@@ -2691,84 +2691,65 @@ A. Because Belleville is part of the Greater St. Louis Combined Statistical Area
 Q. I am a mobile or service-area business that drives to customers — how do I show up in local search for cities I do not have a storefront in? 
 A. Service-area businesses without a storefront still rank locally, but the rules are different. In your Google Business Profile, hide your physical address and define a service area that lists every city you serve — about 20 service cities is the practical Google limit. Reinforce this with structured citations on platforms like St Louis Near Me Directory that allow you to list multiple service areas. Be honest: list only cities you actually serve. Google’s algorithm checks consistency across citations.
 
-## The Local Business Visibility Crisis (And Why Your Competitors Keep Showing Up First)
+## St. Louis: Google’s 3 Ranking Factors Skip Your Website
 Source: https://stlouismissourinearme.com/blog/the-local-business-visibility-crisis-and-why-your-competitors-are-winning
-You provide excellent service. Your customers love you. Your work genuinely speaks for itself — to everyone who already knows you exist. But when a stranger in Ballwin or Belleville searches for exactly what you do, somebody else’s name comes up. Again. That word — again — is the whole ache of it. So which of the six reasons below is the one quietly handing your customer to a competitor, over and over?
-Here’s the uncomfortable part: that competitor probably isn’t better than you. In most cases they’re not even close. They’re just more findable — and in local search, findable wins the customer before quality ever gets a chance to compete for the job. This piece is a working diagnostic, not a lecture: the six specific reasons competitors show up first, how to tell which ones apply to you, and what fixing each one actually involves.
-### First, the honest stakes
-We won’t bury you in scary statistics — just three sourced ones that frame the problem:
-In BrightLocal’s consumer research, 62% of consumers said they would avoid a business entirely after finding incorrect information about it online (BrightLocal, 2023). Not “call to double-check.” Avoid.
-Consumers now touch an average of 3.6 platforms before choosing a local business (SOCi Consumer Behavior Index, 2025) — being strong on one surface and absent on three loses the comparison you never knew you were in.
-45% of consumers now use AI assistants like ChatGPT to find or get recommendations for local businesses, up from 6% a year earlier (BrightLocal, 2026). A whole discovery channel most local businesses haven’t even considered.
-That’s the landscape. Now the diagnosis.
-### Score yourself: which reasons apply?
-Six yes-or-no questions — answer them honestly and you have your diagnosis:
-1. If you searched your business name right now, would every listing show the same name, address, and phone — character for character?
-2. Could a customer find you on Google, a maps app, a review site, and get you recommended by an AI assistant?
-3. Is your newest review less than a month old — and answered?
-4. Does your main profile answer hours, services, service area, and show at least ten real photos?
-5. Does anything you’ve published answer the five questions customers always ask you by phone?
-6. Have you been doing any of this deliberately for more than a year?
-Every “no” is a reason a competitor shows up first — and an item for the ninety-minute plan below. Most businesses that feel invisible score two or three noes. That’s not a crisis of quality; it’s a to-do list — and unlike most business problems, every item on it is entirely within your control.
-### Reason 1: Their information matches everywhere — yours doesn’t
-The symptom: your address is right on Google, older on a directory somewhere, and your website footer still shows the phone number from two years ago.
-Search engines and AI assistants cross-check your details across the web before trusting them. Every mismatch is a small vote against recommending you; every clean match is a vote for. A competitor with boring, identical information everywhere beats a better business with a scattered trail — every time, invisibly.
-The fix: a one-afternoon cleanup. Our local citations guide walks the whole process — the canonical-NAP document, the three-way self-search, the majors-first fix order.
-### Reason 2: They’re on more surfaces than you
-The symptom: you have a Google listing and a website, and you assume that’s the game. Meanwhile the customer’s journey ran through a maps app, a Facebook group recommendation thread, a review site, and an AI answer — and your competitor appeared in all four.
-Local discovery now runs across five distinct surfaces — search, maps, social recommendations, review sites, and AI assistants — and each needs something slightly different from you. The good news: the same complete, consistent information powers all five. Our visibility guide breaks down each surface and includes a five-minute self-check that shows exactly where you’re absent.
-### Reason 3: They answer their reviews — and keep earning new ones
-The symptom: your last review is eight months old, and the one three-star review from last year sits unanswered.
-To a customer comparing tabs, review recency and owner responses read as “alive and cares.” Silence reads as “maybe closed, maybe indifferent” — and algorithms read activity signals much the same way. Your competitor isn’t luckier with reviews; they ask satisfied customers at the natural moment, and they answer what comes in, including the rough ones.
-The fix: two habits, fifteen minutes a week. Ask at the moment of delight (job done, compliment given). Answer everything within a few days — graciously, briefly, especially the critical ones, because your next customer is the real audience for that reply. A calm, decent response to an unfair review persuades more readers than the review dissuades.
-### Reason 4: Their profiles are complete — yours are skeletons
-The symptom: your listings have a name and a phone number. Theirs have hours, services, sixty photos of real work, answers to common questions, and a description written for humans.
-A complete profile out-converts a bare one for a simple reason: the customer with three tabs open picks the business that answered every question without a phone call. Completeness is also what AI assistants need — they recommend businesses they can verify and describe, and a skeleton profile gives them nothing to say.
-The fix: pick your two most important profiles — for most businesses that’s Google and one quality local directory — and finish them completely: every field, real photos, current hours. Complete beats clever, and it beats scattered-across-ten-platforms-half-done too. Depth on two surfaces, then expand.
-### Reason 5: They answer questions customers actually ask
-The symptom: your website says “quality service since 2009.” Their site answers “how much does a water heater replacement cost?” and “do you service Fenton?”
-Search engines and AI assistants surface businesses whose content matches the customer’s actual question. You don’t need a content empire — a handful of honest pages answering your five most-asked questions outworks a decade of “welcome to our website” copy.
-The fix: write down the five questions every customer asks you on the phone. Answer each in plain English on your site or your profiles. That’s the whole strategy, and almost nobody local does it — which is exactly why it works.
-### Reason 6: They started eighteen months ago
-The symptom: none, yet. That’s the problem.
-Visibility compounds. Reviews accumulate, citations age into trust, content builds a record of relevance. The competitor showing up first today usually made these unglamorous moves quarters ago, back when their phone was ringing fine too — the best time to plant this particular tree was eighteen months ago, and the second-best time is this afternoon. The honest corollary: there is no overnight version, and anyone selling you one is selling you something else. But the flip side is just as true — every week you start earlier than the next competitor is a week that compounds in your favor.
-The fix: start with whichever reason above stung the most. One fixed reason per week beats a heroic weekend followed by nothing.
-Nothing to do with rankings — but Edwardsville eats really well.
-### Two landscapers, one customer
-Picture two landscaping companies of equal skill — one in Mehlville, one in Oakville. A homeowner in between searches “landscaper near me,” skims the map results, opens two tabs, and asks ChatGPT for a second opinion while she’s at it.
-Company A has a complete profile with forty photos of real yards, thirty reviews with owner replies, matching details everywhere, and a page that answers “what does landscaping cost in St. Louis County?” Company B has a name, a phone number, an address from two moves ago on one site, and a five-year-old review thanking “Dave.”
-She never compares their actual work — the comparison ended before it began. Company A gets the walkthrough, the job, and eventually the neighbor’s job too. Company B never knows the call didn’t come; its owner just notices, vaguely, that things feel slower than they used to, and blames the economy. Multiply that invisible loss across every week of the season — that’s the actual cost of the visibility gap, and no invoice ever itemizes it.
-### The 90-minute counterattack
-If you want the prioritized version, here’s where the first ninety minutes go:
-Minutes 0–10: Run the self-check — search your business logged-out, search what-you-do-plus-your-town, and ask an AI assistant who it recommends in your category. Write down what you find; that’s your diagnosis.
-Minutes 10–40: Fix your NAP everywhere you found it wrong — Google first, your own website second, then the rest.
-Minutes 40–80: Complete one profile fully — every field, ten real photos, honest description.
-Minutes 80–90: Answer every unanswered review, and text your three happiest recent customers a review link.
-None of that requires a budget, an agency, or a computer science degree. It requires ninety minutes and the willingness to see your business the way a stranger does. (And if you’ve got more questions than this diagnostic answers, our ten most-asked visibility questions covers ads, SEO, platforms, and honest expectations.) — which is harder than it sounds, and more valuable than almost anything an agency would bill you for.
-### What NOT to do (the shortcuts that backfire)
-Visibility advice has a scammy underbelly, and some of the most-marketed “fixes” now actively hurt:
-Don’t mass-produce thin pages and listings. Spraying near-identical profiles or pages across dozens of towns used to look clever; search engines increasingly treat masses of thin, duplicative pages as clutter — and it can drag your whole site down. Fewer, better, genuinely useful beats volume.
-Don’t buy the 500-directory blast. Most of those directories are ghost towns built to sell links; a pile of low-quality, slightly-inconsistent listings creates the exact trust problem you’re trying to solve.
-Don’t stuff keywords into your business name. Renaming your Google profile “Joe’s Plumbing – Best Cheap Plumber St. Louis” violates Google’s guidelines and risks suspension of the profile you depend on most.
-Don’t fake or buy reviews. Platforms are aggressive about detection, penalties hit hard, and one exposed fake costs more trust than fifty real reviews earn.
-Every shortcut above trades tomorrow’s trust for this week’s illusion of progress. The unsexy fundamentals — consistent, complete, active, honest — are slower and they’re also the only thing that lasts.
+Your phone sits face up on the counter. Screen dark. You check it anyway, thumb on the glass, and nothing. Somewhere across town a customer is holding a phone too, glowing in a dim kitchen, and the first name on that screen is the other guy’s. They tap it. It rings for him.
+You did what you were told. The website went live. The Google listing got claimed. That was the deal everybody repeated: build the site, list the business, and the customers come. So why is the counter so quiet?
+Google’s own help page answers in one line the old deal skipped. Local results, it says, “are mainly based on relevance, distance, and popularity.” Three things. “Has a website” isn’t one of them. Relevance, Google says, is how well a Business Profile matches what someone is searching for.
+The closest Google comes is in how it explains prominence: it’s “based on info like how many websites link to your business and how many reviews you have.” Read it slowly. Not your website. Other people’s websites, pointing at you. The site you paid for can be fast and true and still sit there like a business card in a drawer while the competitor with more mentions around town takes the call. And there is no back door: “There’s no way to request or pay for a better local ranking on Google.”
+Here is the part that is only true in St. Louis. You don’t have to guess who the other guy is. At 1640 S. Lindbergh Blvd., on the 2nd floor of St. Louis County Library’s Clark Family Branch, there is a Small Business Center. The library’s own page says its Reference Solutions database lets you learn about your competitors’ locations, executives and expenses. The training to use it is free. A chair, a screen, and the name that keeps beating you finally has a shape.
+### Why does my competitor show up first on Google?
+Usually because Google can read more about them, in more places. Google’s help page says local results are mainly based on relevance, distance and popularity, and that prominence draws on how many websites link to a business and how many reviews it has. A competitor who is closer to the searcher, or simply written down in more places, can outrank better work.
+### Three things Google and the library actually ask of you
+None of what follows needs an agency or a contract, or another salesman at your kitchen table with a clipboard. It is what the platforms say they want, in their own words, plus one St. Louis door most owners walk past.
+Google asks for every blank filled in. Its page is plain about it: “Businesses with complete and accurate info are more likely to show up in local search results.” It names the pieces, your hours and what kind of business you are among them. The hours that still list the old Saturday schedule. The category picked in a hurry the night the profile went up. Those small, stale things are what a stranger reads first, and so does Google.
+Google asks for reviews, and for answers to them. “More reviews and positive ratings can help your business’s local ranking,” the same page says, and elsewhere: “When you reply to customer reviews, it shows that you value their feedback.” Think of the last kind thing a customer wrote about you, still sitting there with no reply under it. It costs two minutes on the couch with the phone. To the next stranger scrolling, it says somebody is home.
+St. Louis County Library asks you to book a librarian. Open the library’s Small Business Resources page and the request is right there: the library provides free training to help individuals or groups learn its databases, and you ask for it through Book A Librarian. Rather talk to a person first? The library’s number is 314-994-3300. The same Reference Solutions database lets you create free mailing lists of potential residential and business clients, and the Small Business Center has computers, a copy center and private rooms you can reserve. The hum of the computers, a librarian pulling up a chair beside you, and the competitor who keeps beating you laid out on the screen instead of in your head at 2 a.m.
+That is the whole list. Fill the blanks. Answer the reviews. Go look at the competition in daylight instead of staring at a dark phone.
+So when the shop down the road shows up first, is it really the better business, or just the one written down in more places?
+### Distance is the one you can’t change
+Google explains distance in one line: it refers to how far each business is from the customer who’s searching. If the customer doesn’t share where they are, Google uses what it knows about their location. So the competitor three blocks from the searcher starts with a head start you can’t buy back.
+That is exactly why the other two factors matter so much. You can’t move your shop closer to every kitchen in St. Louis County. You can make sure that when Google weighs relevance and popularity, there is a lot to read about you: what you do, where you do it, who has vouched for you, and how many other sites point back to you.
+The owner who loses to distance alone usually never finds out. The phone just rings a little less, the slow week looks like the economy, and nobody sends a bill for the customer who went three blocks over.
+### What does a stranger see when they compare you?
+Think about the person on the other end. Three tabs open, a dripping faucet or a dead outlet or a party coming up, scanning fast for one reason to trust a name. They don’t compare your craftsmanship. They can’t see it from there. They compare what is written down.
+The listing that wins that scan is boring and specific. The name matches the sign. The phone works on the first try. The hours say whether you pick up on a weekend. There are photos of real jobs, not a logo and a stock picture. And somewhere near the top there is a reply to a review, so the reader can hear how you talk to people when something goes sideways.
+Nothing on that list is clever. All of it is checkable, by a person and by a machine. That is the point. When your name, phone and address read the same everywhere, every mention adds up. When they don’t, every mismatch is a reason for a search engine or an AI tool to hesitate.
+### The new place customers ask
+More of those strangers aren’t typing at all. They hold the phone up and ask it who to call, the way you would ask a neighbor over the fence. BrightLocal’s consumer survey found that use of ChatGPT and other generative AI tools for local recommendations rose from 6% to 45% in a year, becoming the third most popular source of business recommendations.
+An AI assistant can only name you when it can read clear facts about you in more than one place. One website and one Google profile is a thin thread. Every matching listing is another place the facts line up, and another website pointing at your business, which is the very thing Google says prominence is built on.
+Try it tonight. Ask an AI assistant who it would recommend for what you do, in your part of town, the way a customer would. Write down the names it gives you. Then look each one up and count the places their name, phone and hours appear. That count is usually the whole story, and it is a story you can change one listing at a time, without an agency, without a contract and without anyone talking down to you.
+Still have questions about ads, SEO and what to expect? Here are the ten owners ask most.
+### The shortcuts that backfire
+When the phone is quiet, the pitches get louder. Some of the most-marketed fixes make the problem worse, and it helps to know them on sight.
+The bulk directory blast is the first. Hundreds of listings on sites nobody visits, half of them with your details slightly wrong, is the exact mess you were trying to clean up. Stuffing extra words into your business name is the second; Google’s guidelines ask that your name reflect your business’s real-world name, the one on your storefront and stationery. Paying for fake reviews is the third, and it trades the one thing that actually earns trust for a few stars that can disappear.
+Underneath every one of those is the same promise: a shortcut around the work. Google already told you there isn’t one. The slow, honest version is the one that compounds.
+### Where a directory listing fits
+A good local directory isn’t a fourth bill on top of the website and the Google profile. It is one more website that links to your business, which is exactly the kind of signal Google describes. It makes the work you already paid for easier to reach.
+On a St Louis Near Me Directory Gold listing you can file under up to 10 categories and tag up to 40 St. Louis-area locations, which is up to 400 keyword combinations. No public address required, so a home-based or service-area business stays private. Every image, blog, coupon and video on the listing can be indexed and can be cited by AI on its own. For the cleanup that should come first, our local citations guide walks the whole job, and our guide to Google’s 20 service areas covers the profile side.
+The shop that shows up first isn’t always better. It’s usually just written down in more places. Start with the free work: fill every blank, answer every review, then line up your name and phone everywhere with the local citations guide.
+If you’re the contractor, the salon or the one-person crew watching a competitor take the calls, this part is yours. See who AI names instead of you with a free check, then look at the Gold plan: $357 a year, about $29.75 a month paid annually, under a dollar a day, with a 7-day trial and no charge until day 8. It’s built to help you get more customers from searches already happening. Know an owner in the same spot? Send them to list their business.
+Need a night off from all of it? Edwardsville eats really well.
+The research behind this page:
+BrightLocal’s Local Consumer Review Survey
+BrightLocal’s report on local business discovery and trust
+SOCi on its Consumer Behavior Index
 ### Frequently Asked Questions
-### Q. How long does it take to improve local visibility?
-A.  Honestly: some things move in days (a corrected address, a completed profile customers can finally trust), while ranking improvements typically build over weeks to months as search engines re-verify your signals. Anyone promising a specific position on a specific date is guessing at best. Consistency over time is the only lever that reliably works.
-### Q. Do I have to buy ads to be visible?
-A.  No — everything in this guide is organic and free except your time. Paid ads are a legitimate accelerant when you have the budget and someone managing them well, but they rent attention rather than owning it: the day you stop paying, the visibility stops. The foundation work here keeps working whether or not you ever run an ad.
-### Q. What’s the single fastest visibility win?
-A.  Fix your information consistency — same name, address, and phone everywhere — and completely fill out your Google Business Profile. Those two moves address the most trust-killing errors customers find and give every search engine and AI assistant a clean, verifiable record to recommend.
 ### Q. What determines what comes up first on Google?
-A.  For local results: relevance, distance and prominence. Prominence is the one you influence — a complete profile, consistent details everywhere, and real reviews. Distance you cannot change, which is why a competitor closer to the searcher can outrank a better business.
+A.  For local results, Google says relevance, distance and popularity. Relevance is how well your profile matches the search, distance is how far you are from the searcher, and prominence draws on how many websites link to your business and how many reviews you have. Distance you can’t change. The other two you can.
+### Q. How much does it cost to be at the top of a Google search?
+A.  For the local results, you can’t buy it. Google’s help page says there’s no way to request or pay for a better local ranking. What moves you is complete, accurate information, more reviews with replies, and more websites that link to your business.
 ### Q. How to solve your business is not visible to customers?
-A.  Start where the searching happens rather than with a new website. Consumers now touch an average of 3.6 platforms before choosing a local business, so the fix is being accurate and complete on all of them, not being brilliant on one.
-### Q. What is the 1% rule in business?
-A.  Improve by one percent consistently and the compounding does the work. It is a useful frame for local visibility specifically, because the wins are small and cumulative — one more review, one more photo, one corrected listing — rather than a single campaign.
+A.  Start where the searching happens. Fill every blank on your Google profile, answer every review, make your name and phone match everywhere, and add listings that point back to you. A St Louis Near Me Directory listing can tag up to 40 St. Louis-area locations across up to 10 categories.
+### Q. What is the number one reason most businesses lose customers?
+A.  Most lost customers never announce it. They simply pick the name they could check fastest. A stale phone number, missing hours or an unanswered review can send them to someone else before you ever knew they were looking.
 ### Q. Is it true that 90% of businesses fail?
-A.  No — that figure gets repeated far past what the data supports. Failure rates are real but far lower and vary enormously by industry and year. Be wary of anyone opening a pitch with it; a scary statistic is usually doing the work an argument should.
-Want the diagnosis done for you? Then work through the local citations guide one line at a time.
-If you run a business whose competitors keep showing up ahead of it, this part is for you. Run a free visibility audit - it checks how your business shows up across Google and six major AI engines and hands you the gaps in plain English. Are the people already looking for you actually able to find you? Six major AI engines are recommending local businesses today. Are you one of them? Ever feel like the “marketing experts” talk down to you and take your money? See your options →
+A.  I could not find a solid source behind that number, so treat it as a scare line rather than a fact. Be wary of anyone who opens a pitch with it. A frightening statistic is often doing the work an honest argument should.
+### Q. What is the 1% rule in business?
+A.  It is shorthand for getting a little better, steadily, and letting it add up. It fits local search well: one more review answered, one more photo, one corrected listing each week does more than one big push followed by nothing.
+### Q. Can a directory listing help me show up ahead of competitors?
+A.  A good one can help, because it is one more website linking to your business, which is a signal Google describes. St Louis Near Me Directory Gold listings need no public address, cover up to 400 keyword combinations, and come with a 7-day trial and no charge until day 8.
+The shop down the road was never proof that your work falls short. It was proof that the old deal stopped working. Should a stale listing decide who gets your next call? Refuse to be invisible.
 
 ## First, the honest stakes
 
