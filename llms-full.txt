@@ -11899,96 +11899,70 @@ A.  Watch immersive star shows in the Orthwein StarBay Theater — including a l
 ### Q. Where is the St. Louis Science Center and planetarium?
 A.  The Saint Louis Science Center is at 5050 Oakland Avenue, St. Louis, MO 63110, in and around Forest Park, with the McDonnell Planetarium building on the Forest Park side off Clayton Avenue. A walkable Sky Bridge over Interstate 64 connects the two buildings. It’s open most days (closed Tuesdays); confirm current hours at slsc.org or (314) 289-4400.
 
-## Hiring a Personal Injury Lawyer in St. Louis: Deadlines, Fees and the State Line
+## Hurt in St. Louis? You May Have 90 Days, Not 5 Years, to Act
 Source: https://stlouismissourinearme.com/blog/hiring-a-personal-injury-lawyer-in-st-louis
-Two cars crash the same way on the same afternoon. One wreck happens on Kingshighway, the other on a street in Belleville, twenty minutes east.
-The Missouri driver has five years to file. The Illinois driver has two. And if a jury later decides each driver was 60% at fault, the Missouri driver still collects a substantial check while the Illinois driver collects nothing at all.
-St. Louis straddles a state line, which means the single most important fact about an injury claim here is one almost nobody explains: which side of the river it happened on.
+The sidewalk slab had lifted just enough to catch a toe. Then the heel of your hand is full of grit, your wrist is going hot and fat, and a stranger is asking if you’re okay. You say you’re fine, because that’s what St. Louisans say. You limp home, ice it, and figure you have years to sort it out.
+You probably don’t.
+Missouri does give most injury claims a long runway: five years to file a lawsuit. But if that broken slab belongs to the City of St. Louis, a separate state law says no lawsuit over a defective street or sidewalk can go forward against a city that size unless written notice reached the mayor within 90 days. Not five years. Ninety days, while you are still wearing the brace.
+Then there is the river. Cross the bridge, get rear-ended in Illinois, and the clock there is two years. Which deadline is yours depends on what hurt you and which side of the Mississippi you were standing on. Five years, two years, ninety days: same city, three clocks, and most people only ever hear about the longest one.
 ### How long do I have to file an injury claim in St. Louis?
-In Missouri, generally five years for personal injury, three years for wrongful death from the date of death, and two years for medical malpractice. In Illinois, it’s two years for personal injury and wrongful death, and only one year for a claim against a local public entity. If your claim is against the City of St. Louis for a street or sidewalk defect, written notice must reach the mayor within 90 days. And a work injury must be reported to your employer in writing within 30 days. Which deadline applies is a legal question — don’t self-diagnose it.
-### Missouri’s five years is a trap
-Missouri’s general five-year window is unusually generous, and that generosity is exactly what hurts people. Someone hears “five years,” relaxes, and blows through every shorter deadline that actually governs their case.
-Because the five years is the exception in this list, not the rule:
-Wrongful death: three years from the date of death, not from the injury. Medical malpractice: two years from the act, with a ten-year outer limit. A work injury: 30 days to notify your employer in writing. Street or sidewalk defect in the City of St. Louis: 90 days written notice to the mayor. Anything that happened in Illinois: two years — or one year against a municipality.
-One more that surprises people: for a minor, the Missouri clock is paused until the disability is removed — and the statute sets that at age twenty-one, not eighteen. Medical malpractice has its own separate rule for minors.
-### The 90-day rule almost nobody knows
-If you were hurt by a defect in a street, sidewalk, bridge, boulevard or thoroughfare in a Missouri city of 100,000 or more — which in this metro essentially means the City of St. Louis — you must give written notice to the mayor within 90 days of the occurrence. The notice has to state the place, the time, the character and circumstances of the injury, and that you will claim damages.
-Two limits worth being precise about, because they get blurred constantly. It applies only to cities over 100,000 — St. Louis County is a county, not a city, so this particular provision doesn’t reach it. And it applies only to those specific kinds of defects, not to every claim against a city.
-Suing a public entity is harder in another way, too. Missouri governments are generally immune, with narrow exceptions — principally the negligent operation of a motor vehicle by a public employee on the job, and injuries caused by a dangerous condition of public property. Outside those windows the claim often does not exist at all.
-Where immunity is waived, damages are capped, and the cap is adjusted for inflation every year. For 2026 the Department of Commerce and Insurance publishes it at $532,148 for any one person and $3,547,658 for all claims from a single occurrence. Those numbers change every January 1 — if you see them quoted without a year attached, they’re probably stale.
-### Partly your fault? It depends which state
-This is the single biggest practical difference across the river, and it’s the reason people who assume they have no case sometimes do.
-Missouri uses pure comparative fault. There is no cutoff. Your recovery is reduced by your share of the blame, and that’s all. (Worth noting for accuracy: for ordinary negligence this comes from a 1983 Missouri Supreme Court decision rather than a statute, so anyone citing “the Missouri comparative fault statute” for a car wreck is misinformed.)
-Illinois uses modified comparative negligence with a bar. If you are found more than 50% responsible, you recover nothing at all. At 50% or less, your damages are reduced proportionally.
-Put actual numbers on it. Say your damages are $100,000 and a jury finds you 60% at fault:
-Missouri: you recover $40,000. Illinois: you recover $0.
-Same facts. Same injury. Same jury. Opposite outcomes, decided by geography. Which state’s law applies is a choice-of-law question and depends on more than your home address — another reason not to talk yourself out of a claim because you think you were partly to blame.
-### Why the other driver’s insurance usually isn’t enough
-Missouri requires drivers to carry $25,000 per person, $50,000 per accident, and $25,000 for property damage. That is the floor the state demands of an at-fault driver. It is not a measure of what an injury costs.
-An ambulance ride, an emergency room visit, imaging and a single surgery can exhaust $25,000 before anyone counts a lost paycheck. If the at-fault driver carries the minimum and has nothing worth pursuing, that policy is effectively the ceiling on your recovery.
-Which is why the coverage that matters most is often your own. Missouri requires uninsured motorist coverage on every auto policy, at the same $25,000/$50,000 limits. Missouri does not require underinsured motorist coverage — that one is optional, and it is precisely the coverage that carries a serious claim when the at-fault driver is insured but nowhere near adequately.
-Go read your own declarations page tonight. Ten minutes, and it tells you more about your protection than the other driver’s policy will.
-### Hurt at work? Two clocks, running at once
-A work injury runs on an entirely separate track, and the first deadline is brutally short.
-Written notice to your employer within 30 days. Missouri’s Division of Workers’ Compensation says plainly that failing to report within 30 days may jeopardize your benefits — and advises keeping a copy of the notice with the date, time, and who received it. There is a narrow exception where the employer wasn’t prejudiced, but the burden falls on you. Treat 30 days as hard.
-The claim itself must be filed with the Division within two years, extended to three if your employer never filed its report. The Division also notes the period can run from the last payment made on account of the injury — which matters if you received benefits for a while.
-Now the part most injured workers never hear. Workers’ compensation is generally your exclusive remedy against your employer — that’s the trade. But it does not bar a claim against a negligent third party: another driver who hit you while you were working, a subcontractor on the site, the manufacturer of a machine that failed.
-Those third-party claims run on the ordinary injury clock, not the comp clock. So you can have two live cases at once, with different deadlines, and the third-party case is frequently where the real recovery is.
-Apropos of nothing: Rock Hill, Missouri is tiny and eats surprisingly well.
-### The one sentence in the fee agreement that costs you thousands
-Injury lawyers work on contingency — a percentage of what they recover, nothing if they lose. We are deliberately not going to tell you what percentage is “normal” in Missouri, because no neutral source establishes one. Every number you’ll find comes from law firm marketing.
-You don’t need the average anyway, because Missouri’s rules of professional conduct require your contract to spell it out. A contingency agreement must be in writing, signed by you, and must state:
-• the percentages for settlement, trial and appeal, separately — they are often different • the litigation and other expenses to be deducted • whether those expenses come off before or after the fee is calculated • any expense you owe even if you lose
-That third item is the one to read twice, because Missouri sets no default. The contract decides — and the rule requires the contract to say which. Here is what it’s worth, on a $100,000 settlement with a one-third fee and $10,000 of case expenses:
-Expenses first, then the fee: $10,000 comes off, the fee is one third of $90,000 — $30,000 — and you net $60,000. Fee first, then expenses: the fee is one third of the full $100,000 — $33,333 — then $10,000 of expenses, and you net $56,667.
-Same settlement, same percentage, same expenses. A $3,333 difference, decided entirely by one sentence. If a fee agreement doesn’t address it, that agreement doesn’t comply with the rule.
-Expenses are separate from the fee and typically include filing fees, depositions and court reporters, expert witnesses, medical records, investigators and exhibits.
-### Why your settlement shrinks, and the cap that protects you
-A $100,000 settlement never lands in your account as $100,000, and the reason isn’t just the fee.
-When someone injures you, your health insurer or the hospital usually pays the bills up front. If you later recover from the at-fault party, those payers can claim reimbursement out of your settlement — otherwise the same bill gets paid twice. That’s a lien.
-Missouri law puts a real limit on it, and it is stated correctly almost nowhere. Health care provider liens are capped at 50% of the net proceeds — and “net” is defined as what remains after attorney fees and the expenses of recovery. Providers do not get to take the settlement. Where the liens exceed the cap, they share the available amount proportionally.
-If MO HealthNet paid your bills, the state has its own lien, with no fixed percentage cap — but attorney’s fees take priority over the state’s claim, and courts apportion based on equitable factors including your age, the permanence of the injury and your future needs.
-### Can a lawyer call you after a crash? No.
-This is the question people actually have after a wreck, and it has an unambiguous answer.
-Missouri’s rules prohibit a lawyer from initiating in-person, telephone, or real-time electronic solicitation of legal business under any circumstance — with narrow exceptions for existing clients, other lawyers, close friends and relatives. Not “discouraged.” Prohibited.
-Written solicitation has rules too. In an injury or wrongful death matter, a lawyer may not send one within 30 days of the accident. And any solicitation letter must be marked ADVERTISEMENT on the envelope and at the top of the first page.
-So: a call or a knock at the door from a lawyer you don’t know is a violation. A letter that shows up a week after your crash is a violation. A letter at six weeks with no ADVERTISEMENT marking is a violation. You can report any of them to the Office of Chief Disciplinary Counsel.
-Related, and worth knowing: Missouri lawyers generally may not pay anyone for recommending them, and may not practice through a business a non-lawyer owns or controls. If a “case manager” from a marketing company signs you up and then assigns you a lawyer, ask directly who owns the firm.
-### Checking a lawyer, and what the lookup won’t tell you
-For Missouri, the Office of Chief Disciplinary Counsel is the Supreme Court agency that investigates lawyer misconduct, and public discipline imposed since January 1, 2006 is posted through the courts. The Missouri Bar maintains an official directory to confirm someone is a member and authorized to practice. For Illinois, use the ARDC lawyer search.
-Three limits to understand, because misreading these does real harm:
-The Missouri Bar’s LawyerSearch tool is opt-in — it lists only lawyers who asked to be listed and are taking new clients. A lawyer’s absence from it means nothing. Use the official directory for the “is this person licensed” question.
-Public discipline online runs from 2006 forward. Older matters aren’t in that set.
-And pending, dismissed and confidential complaints are not public — so a clean record means no public discipline, not that nobody ever complained.
-For a Metro East crash, check both states. A Missouri license is not an Illinois license.
-### You probably don’t need legal aid
-This surprises people, so it’s worth saying directly: legal aid organizations in this metro generally do not handle personal injury cases — and that isn’t a gap in the system.
-Injury work is done on contingency, which means someone with a real claim can hire a lawyer without any money up front. Cost isn’t the barrier here the way it is for an eviction or a custody fight.
-Where legal aid matters enormously is the wreckage that follows an injury — the eviction when you can’t work, the debt collectors, the denied benefits. Legal Services of Eastern Missouri covers 21 counties of eastern Missouri; Land of Lincoln Legal Aid covers the entire Metro East from its East St. Louis office. The Missouri Bar also runs a free, confidential fee dispute resolution program if you end up in a disagreement with your own lawyer over a bill.
-This is general information about Missouri and Illinois law, not legal advice, and deadlines have exceptions that turn on facts specific to your case. If you were injured, talk to a lawyer licensed in the state where it happened — most will tell you where you stand at no charge.
+In Missouri, most personal injury lawsuits must be filed within five years. Wrongful death is three years, and medical malpractice is generally two. In Illinois, personal injury is two years. If a defective City of St. Louis street or sidewalk hurt you, written notice must reach the mayor within 90 days, and a work injury must be reported to your employer within 30 days. The shortest clock that touches your case is the one that counts.
+### Ninety days, addressed to the mayor
+The law behind this is short and old-fashioned. It covers injuries from a defect in a bridge, boulevard, street, sidewalk or thoroughfare in a Missouri city of one hundred thousand people or more, and the City of St. Louis is one of them.
+The notice has to be in writing and it has to say four things: the place, the time, the character and circumstances of the injury, and that you will claim damages from the city. That’s it. One page. You can write it at the kitchen table with the ice pack still sweating through a dish towel on your wrist.
+Before you write a word, go back to the spot in daylight. Take photos of the slab from standing height and from the ground, with your shoe next to the lip for scale. Photograph the street sign. Those pictures are the “place” and “character” the statute asks for, and sidewalks get patched.
+Then address it to the Mayor, City Hall, 1200 Market Street, Saint Louis, MO 63103, the address the mayor’s office lists. Send it by certified mail with a return receipt, or carry it in yourself and ask for a date-stamped copy. Clip the green receipt card or the stamped copy to your photos. That small piece of cardstock is your proof the clock was met.
+When should you get a personal injury lawyer? Before the shortest clock on your case runs out, not the longest. Most people hear “five years,” relax, and only learn about the 90 days when it is already gone.
+### Same crash, opposite checks on either side of the river
+Here is the part that changes whether you even pick up the phone. Plenty of people talk themselves out of a claim because they think it was partly their fault. They were going a little fast. They looked down at the radio.
+In Missouri, that is usually not the end. The Missouri Supreme Court adopted pure comparative fault in Gustafson v. Benda, which means your recovery is cut by your share of the blame, with no cutoff. In Illinois, the law bars you from recovering anything if a jury finds you more than 50% at fault.
+Put numbers on it. Say your damages are $100,000 and a jury puts 60% of the blame on you. Under Missouri’s rule you collect $40,000. Under the Illinois rule you collect nothing. Same bruises, same tow truck, same insurance adjuster on the phone. Which state’s law applies can depend on more than where you live, so let a lawyer sort that out before you decide you have no case.
+### The other driver’s policy is probably smaller than your hospital bill
+Missouri only requires drivers to carry $25,000 for one person hurt in an accident, $50,000 for two or more, and $25,000 for property damage. That’s the floor, not a measure of what an injury costs. An ambulance ride, an ER night under those flat white lights, imaging and a surgery can blow through it before anyone counts a missed paycheck.
+So the coverage that matters most is often your own. Missouri requires uninsured motorist coverage on auto liability policies. Underinsured coverage is the one people skip. Tonight, pull the declarations page out of the glove box or the insurer’s app and read the two lines for uninsured and underinsured motorist. Ten minutes. It tells you more about your real ceiling than the other driver ever will.
+### Is it worth hiring a lawyer? Read the one sentence that decides your check
+The fee agreement usually shows up as a few stapled pages slid across a desk, a pen already uncapped on top. Is it worth hiring a lawyer? For a real injury with real bills, most people find out the answer is in those pages, not the billboard. Injury lawyers usually work on contingency: a percentage of what they recover, and nothing if they lose.
+Missouri’s rules for lawyers say a contingency agreement has to be in a writing you sign. It must state the percentage for settlement, trial or appeal, the expenses that come out of the recovery, and whether those expenses come out before or after the fee is calculated. That last line is the one to read twice with a pen in your hand.
+Say the case settles for $100,000, the fee is one third, and expenses are $10,000. Expenses first: the fee is a third of $90,000, which is $30,000, and you keep $60,000. Fee first: the fee is a third of the full $100,000, about $33,333, then expenses, and you keep about $56,667. Same lawyer, same settlement. Roughly $3,333 decided by one sentence.
+### Hurt at work: tell your boss in writing within 30 days
+The supervisor says go get it looked at, and you drive yourself to urgent care with your hand wrapped in a shop rag. A work injury runs on its own track, and the first deadline is short. Missouri’s workers’ compensation law requires written notice to your employer no later than 30 days after the accident, stating the time, place and nature of the injury. There is a narrow exception when the employer wasn’t harmed by the late notice, but don’t bet your benefits on it. Write it, date it, keep a copy.
+And if someone other than your employer caused it, like another driver who hit your work truck, you may have a second claim against that person on the ordinary injury clock.
+Neck still stiff from the crash? Here is how to choose a chiropractor in St. Louis without guessing.
+### Where the settlement goes before it reaches you
+Months later the envelope comes, and the number on the check is smaller than the number you agreed to. That gap is not always a mistake. A settlement check never lands as the number on the papers. Hospitals and doctors who treated you can file liens against your recovery. Missouri caps what they can take together: if their liens add up to more than half of what’s due to you, they share up to fifty percent of the net proceeds, split in proportion to each claim. The rest stays with you.
+That cap is worth knowing before anyone hands you a closing statement to sign. Ask for a line-by-line list: the settlement amount, the fee, each expense, each lien and what is left. If a number on it surprises you, ask about it before you sign, not after the check clears.
+### A stranger lawyer calling you after a crash? That breaks the rules
+Missouri’s rules bar a lawyer from starting an in-person, telephone or real-time electronic solicitation, with narrow exceptions such as relatives and existing or former clients. A lawyer also may not send you a solicitation about an accident that happened less than 30 days earlier. Any written solicitation by mail has to be plainly marked ADVERTISEMENT on the envelope and at the top of the first page. If a stranger knocks on your door the week after the wreck, that’s your red flag, not your lawyer.
+This is general information about Missouri and Illinois law, not legal advice. Deadlines have exceptions that turn on your facts. If you were hurt, talk to a lawyer licensed in the state where it happened.
 ### Frequently asked questions
-### Q. What percentage do most injury lawyers take?
-A.  There is no Missouri cap and no neutral source establishing a local norm — every percentage you will find online comes from law firm marketing. What Missouri’s rules do require is that your written agreement state the percentages for settlement, trial and appeal separately, since they often differ. Ask for those three numbers in writing.
-### Q. How much will I get from a $50,000 settlement?
-A.  It depends on the fee percentage, the case expenses, whether expenses come off before or after the fee, and any medical liens. On a $50,000 settlement with a one-third fee and $5,000 of expenses, expenses-first nets you about $30,000 while fee-first nets about $28,333. Missouri also caps health care provider liens at 50% of your net proceeds after fees and costs.
-### Q. What not to say to a personal injury lawyer?
-A.  Don’t guess or minimize. Saying “I’m fine” or estimating speeds and distances you aren’t sure of can follow a case for years. Also avoid assuming you have no claim because you were partly at fault — Missouri uses pure comparative fault, so being 60% responsible reduces recovery rather than ending it.
-### Q. How hard is it to win a personal injury lawsuit?
-A.  Most injury claims settle rather than going to trial. The harder practical questions are usually whether the deadline was met, whether fault can be proven, and whether there is enough insurance to collect against — Missouri only requires $25,000 per person in liability coverage, which frequently becomes the real ceiling.
-### Q. How long do I have to file an injury claim in Missouri?
-A.  Generally five years for personal injury, three years for wrongful death from the date of death, and two years for medical malpractice. Shorter deadlines override these: 30 days to report a work injury in writing, and 90 days’ written notice to the mayor for a street or sidewalk defect claim in the City of St. Louis.
-### Q. Is the deadline different if my accident happened in Illinois?
-A.  Yes, and dramatically. Illinois allows two years for personal injury and wrongful death, against Missouri’s five and three. A claim against an Illinois local public entity must be filed within one year. For a Metro East crash the Illinois clock is the one that likely matters.
-### Q. Can I still recover money if the accident was partly my fault?
-A.  In Missouri, yes — it uses pure comparative fault, so if you are 60% at fault on $100,000 of damages you still recover $40,000. In Illinois, being more than 50% at fault bars recovery entirely, so the same facts would yield nothing. This is the sharpest legal difference across the river.
+### Q. What is the statute of limitations on personal injury claims in Missouri?
+A.  Generally five years for a personal injury lawsuit, three years for wrongful death and two years for medical malpractice. Shorter deadlines can override those: written notice to the mayor within 90 days for a defective City of St. Louis street or sidewalk, and written notice to your employer within 30 days for a work injury.
+### Q. When should you get a personal injury lawyer?
+A.  Early, and always before the shortest deadline on your case. For a fall on a City of St. Louis sidewalk that can mean within weeks, because written notice must reach the mayor within 90 days. For a crash in Illinois the lawsuit clock is two years, not Missouri’s five.
+### Q. What percentage do most accident lawyers take?
+A.  The percentage is negotiated with each lawyer. What Missouri’s rules require is a written agreement you sign that states the percentage for settlement, trial or appeal, the expenses deducted, and whether expenses come out before or after the fee. Ask for those numbers in writing before you sign anything.
+### Q. Is 40% high for lawyer fees?
+A.  It depends on what the 40% is taken from and when. A percentage charged on the full settlement before expenses costs you more than the same percentage charged after expenses, and Missouri’s rules require the agreement to say which. Compare the written terms, not just the headline number.
+### Q. Is it worth hiring a lawyer?
+A.  For a real injury with medical bills, often yes, mainly because of deadlines, liens and insurance limits most people never see coming. Missouri drivers only have to carry $25,000 of coverage for one injured person, so finding your own uninsured or underinsured coverage can matter as much as proving fault.
+### Q. What are red flags for lawyers?
+A.  A lawyer you have never met who calls you, knocks on your door or messages you live after a crash. A mailed solicitation within 30 days of the accident, or one not marked ADVERTISEMENT. And a contingency agreement that will not say in writing whether expenses come out before or after the fee.
+### Q. How much of a $25,000 settlement will I get?
+A.  It depends on the fee, the expenses, their order, and any medical liens. With a one-third fee and $2,500 of expenses taken out first, the fee is $7,500 and you keep $15,000 before liens. Missouri caps medical provider liens at fifty percent of the net proceeds due to you.
 ### Q. Can a lawyer call me after my car accident?
-A.  Fighting an insurer rather than a driver? Here is when to call an attorney about a denied claim.
+A.  No, not if you did not reach out first. Missouri’s rules bar in-person, telephone and real-time electronic solicitation, with narrow exceptions for relatives and existing or former clients. Mailed solicitations about an accident are barred for 30 days afterward and must be marked ADVERTISEMENT.
+### Q. Is the deadline different if my accident happened in Illinois?
+A.  Yes. Illinois gives you two years to file a personal injury lawsuit, against Missouri’s five. For a crash on the Illinois side of the river, plan around the two-year clock, and talk to a lawyer licensed in Illinois, because a Missouri license is not an Illinois license.
+### Q. What are the odds of winning a personal injury lawsuit?
+A.  Be wary of anyone who promises you a win rate. Your own odds turn on three things you can check: whether the deadline was met, how the fault splits (Missouri cuts your recovery by your share, Illinois bars it above 50%), and whether there is enough insurance to collect.
+Related guides:
+Fighting an insurer rather than a driver? Here is when to call an attorney about a denied claim.
 Facing charges rather than a claim? Here’s what a criminal defense attorney costs in St. Louis.
 If the harm came from treatment rather than a crash, start with whether you have a medical malpractice case in St. Louis.
 Hurt on the job rather than on the road? Here is when to call a workers’ compensation attorney in St. Louis.
-No. Missouri’s rules prohibit a lawyer from initiating in-person, telephone or real-time electronic solicitation, with narrow exceptions for existing clients, other lawyers, friends and relatives. Written solicitation is also barred within 30 days of an accident, and any solicitation letter must be marked ADVERTISEMENT.
-Also useful: how to find the right lawyer in St. Louis. Or browse local professionals on St Louis Near Me Directory.
-If you run a St. Louis business that serves people after an injury, read this. Physical therapy, chiropractic, medical transport, auto body, home modification - these are the searches people run in the weeks after a crash, and they run them locally. Listing your business takes a few minutes.
+Need a break from paperwork? Rock Hill eats surprisingly well.
+Start with the shortest clock, then find the right lawyer. Here is how to find the right lawyer in St. Louis, or browse local professionals on St Louis Near Me Directory.
+If you’re the physical therapist, the body shop or the one-van medical transport crew, this is your week-after-the-crash customer. People search for help close to home while the bruises are still purple. A listing on St Louis Near Me Directory puts you where they are looking and helps you get more customers. See how a listing works.
 
 ## Kicked Out at 1:30? The Grove Is Just Getting Loud. Where to Dance in St. Louis Tonight
 Source: https://stlouismissourinearme.com/blog/discover-the-best-dance-clubs-in-stl-your-ultimate-guide-for-2026
