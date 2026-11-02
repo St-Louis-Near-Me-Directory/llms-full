@@ -6946,71 +6946,70 @@ A.  Further than most people try. For a City of St. Louis address, the Address &
 ### Q. How do I find service providers I can trust?
 A.  Referrals from neighbors first, then the permit check, then the phone. Browse candidates by category and town on a local directory, shortlist two or three, ask each one whose name goes on the permit, and let the first call be part of the test.
 
-## How to Check If a Contractor Is Licensed in Missouri (the Answer Surprises People)
+## Missouri Has No State Contractor License. Here's Where the Real One Lives
 Source: https://stlouismissourinearme.com/blog/how-to-check-if-a-contractor-is-licensed-in-missouri
+In Missouri, “fully licensed” is a sentence no state office can check. It’s printed on the magnet stuck to the truck door in your driveway, and he says it again while the engine ticks as it cools and your gutter hangs off the house behind him.
+So you stand at the kitchen counter, phone in hand, coffee going cold, and go to look him up. Name, license number, the state board. And you hit the wall every Missouri homeowner hits: there is nothing to look up. Most states require contractors to get a license, but not Missouri. The state’s own attorney general has told a Springfield TV station she would support legislation requiring contractors to be licensed in Missouri. Until that happens, the checking is yours.
+Here is the turn. In St. Louis, the trades that can flood your basement or start a fire in your walls do carry a license. It just isn’t the state’s. It belongs to City Hall or to St. Louis County. And Missouri law already makes the contractor on a home job hand you a written warning about your own house, in ten-point bold type, before you pay a dime. It is easy to sign without reading. So the one question worth asking at the truck door is short: licensed by whom?
 ### How do you check if a contractor is licensed in Missouri?
-Search that question and you will get a wall of official-looking answers, nearly all of them useless to you. We pulled the live results for this exact phrase from a Missouri location, and page one was nine different state license lookup portals — California, Washington, Florida, South Carolina, New Jersey, Tennessee, Virginia, Minnesota, North Carolina.
-Missouri was not among them. Not lower down, not on page two. Missouri has no statewide licensing board for general contractors, plumbers, or HVAC contractors, so there is no state database to search. The advice everyone gives — “just check the state license board” — describes a thing that does not exist here.
-That is not a loophole or an oversight anyone is hiding. Bills to create statewide contractor licensing have been introduced in Jefferson City repeatedly and have not passed. So the verification job falls to you, and it works differently than it does almost anywhere else.
-### What Missouri does license, and what it doesn’t
-The distinction matters, because “unlicensed” sounds alarming until you understand it is often just how the state is organized.
-The state does license a long list of professions through its Division of Professional Registration — electricians in some contexts, elevator mechanics, engineers and architects, cosmetologists, and many health professions. If your project needs a licensed design professional, there is a state record to check.
-The state does not license general contractors, remodelers, plumbers, HVAC contractors, roofers, painters, or handymen. There is no state exam, no state number, no state complaint history. Home inspectors are not licensed by the state either — a fact worth knowing before you rely on an inspection report.
-So when a roofer tells you they are “fully licensed,” the honest follow-up is: licensed by whom? The answer should be a city. If they cannot name one, that is your first real signal.
-### Where the license actually lives: your city hall
-Missouri pushes this work down to local government, and in the St. Louis metro that means it is fragmented to an unusual degree.
-The City of St. Louis licenses contractors directly through its License Collector, with its own application and its own requirements. If work is happening inside the city limits, that is where the record is.
-St. Louis County is not one jurisdiction. It holds more than eighty separate incorporated municipalities — the published count runs 84 or 88 depending on whether villages are counted — plus unincorporated territory. Kirkwood, Clayton, Florissant, Webster Groves, Chesterfield and the rest each write their own contractor rules. Some require a bonded registration or a master’s card. Some require little.
-The practical consequence: a contractor can be perfectly licensed for the job they did last week and not licensed for yours, purely because your house sits in a different municipality. This is not misconduct. It is the structure. It also means the only license that matters to you is the one valid where your address is.
-### How to actually verify a contractor here
-Since there is no portal, the sequence is manual. It takes about twenty minutes and it works.
-1. Find out which city governs your address. Do not assume. A “St. Louis, MO” mailing address frequently sits in a county municipality with entirely separate rules. Get this right first or every other step points at the wrong office.
-2. Call that city’s permit or building office and ask two questions. Does this trade require a license or registration here? And is this specific company current? Permit desks answer this routinely — it is not an unusual request, and they will tell you.
-3. Ask who is pulling the permit. This is the highest-value question on this page. A licensed contractor pulls the permit in their own name. If they suggest you pull it as the homeowner, understand what that means: liability shifts to you, inspections become your responsibility, and the arrangement is frequently a sign the contractor cannot pull one. Occasionally there are legitimate reasons. Usually there are not.
-4. Verify insurance directly with the insurer, not the contractor. Ask for the certificate, then call the number on it. A certificate is a PDF; anyone can edit a PDF. The insurer will confirm the policy is active in about a minute. Ask for general liability and, if they have employees, workers’ compensation — without the latter, an injury on your property can become your problem.
-5. Check the paper trail that does exist. No state board does not mean no record. Look at Better Business Bureau complaint history, Missouri Attorney General consumer complaints, and county court records for judgments and mechanic’s liens. Court records are public and are far more revealing than reviews.
-6. Ask for two recent local addresses. Not a reference list — specific jobs in your area within the last year. A contractor working steadily nearby can produce them without effort. One who hesitates is telling you something.
-### What to weigh instead of a state license
-Because the state signal is missing, other signals carry more weight here than they would in California or Florida:
-Whether they pull permits as a matter of course. The single strongest indicator of a legitimate operation.
-Insurance you confirmed yourself. Not a certificate you were handed.
-How long they have worked in this metro. A contractor who has been doing this in the same municipalities for a decade has passed inspections there repeatedly.
-Trade certifications the state doesn’t require. Manufacturer certifications, trade association membership, EPA certification for refrigerant work. Voluntary credentials mean more where mandatory ones are absent.
-A written contract with a defined scope. Missouri does not hand you a licensing board to complain to, so your contract is your protection.
-### The lien notice: a verification test almost nobody knows
-This one is worth the whole page, and most homeowners have never heard of it.
-Under Chapter 429 of the Missouri statutes, a general contractor is required to give the property owner a conspicuous written notice about mechanic’s liens — in at least 10-point type — at the front end of the project. Not at the end. Not buried in an invoice. Up front, as a matter of law.
-Which hands you a clean test. A contractor who gives you that notice unprompted is running a real operation. One who has never heard of it is telling you how they work, without meaning to. You do not have to be confrontational about it — just notice whether it arrives.
-And here is why it exists, which is the part that should get your attention: in Missouri, a subcontractor who does not get paid can place a lien on your house even if you already paid the general contractor in full. Your payment to the contractor only offsets the claim to the extent of what was actually paid through. If your GC pockets the money and stiffs the drywall crew, the drywall crew’s claim can land on your title. Subcontractors must give you ten days’ notice before filing, stating the amount and who owes it — so if a letter like that ever arrives, it is not junk mail.
-The protection is straightforward and you should ask for it every time: lien waivers from every subcontractor and supplier, collected before you release final payment. A contractor who works this way already has a process for it. A contractor who reacts badly to the request has just answered a question you were going to have to ask eventually.
-Nothing to do with permits — cross the river and eat in Collinsville.
-In a state with a licensing board, some of this gets screened out before you ever meet the person. Missouri does not have that filter. Which is exactly why the paperwork habits — permits, notices, waivers — carry so much more signal here than a friendly estimate does.
-### Red flags that matter more in a no-license state
-Some warning signs are universal. These three are sharper here, precisely because there is no board doing any screening for you:
-A large deposit up front. Materials deposits are normal. Half the job before anyone shows up is not. Without a licensing authority, there is no fast administrative remedy if the crew never returns — your recourse is civil court.
-Storm-chasers after severe weather. Hail and wind events reliably bring out-of-state crews into the metro. They are often not licensed in your municipality, may not be insured locally, and are gone before problems surface. Ask where their office is and how long they have worked in your city.
-Cash-only, no contract, no permit. Any one of these is a caution. All three together is not a discount — it is an operation with nothing to lose. If the work fails inspection later, or shows up as an unpermitted improvement when you sell, the cost lands on you.
+You can’t check it with the state, because Missouri has no statewide contractor license. Check where the license actually lives: the City of St. Louis licenses electrical, mechanical, plumbing and drainlaying contractors through its own boards, and in St. Louis County those trades carry a county license you can ask to see. Then call your city’s permit office, confirm insurance with the insurer, and expect a written lien notice before you pay anything.
+### The license that does exist lives at City Hall or the county
+Inside the city limits, the Building Division has Boards of Examiners for mechanical, plumbing, drainlaying and electrical contractors. The Committee of Electrical Examiners reviews electrical certification and licensing for the City of St. Louis. A Mechanical Contractors Board oversees the heating and cooling side, and a Plumbers and Drainlayers Board handles plumbing licensing, apprentice applications and complaints. Applying for the City’s Construction - Contracting Business license means a visit to the License Collector’s office in Room 104 of City Hall, and every general contractor has to give that office a list of the subcontractors on any job.
+Cross the city line into the county and the license follows a different paper trail. One north county city spells it out on its own permit page: electrical permits are issued to electrical contractors who are licensed by St. Louis County, and plumbing permits go to master plumbers and drain layers licensed by the county. Then it tells residents exactly what to do: you may verify qualifications by asking to see the company’s license or visiting the St. Louis County website.
+Ask to see it. That’s the move. A real county-licensed electrician hands you the card without a pause, the way you’d hand over a driver’s license at a traffic stop. A long pause, a story about it being “in the other truck,” and you have learned what the missing state board would have told you.
+The roofer, the painter, the remodeler and the handyman are another matter. For them, the check moves to permits, insurance and the paperwork habits below.
+### How to check a contractor here in one afternoon
+First, find out which city governs your address. A “St. Louis, MO” mailing address often sits in a county municipality with its own rules, and every other step depends on getting this right.
+Second, call that city’s permit office. Inside the City of St. Louis, the Permit Section answers at (314) 622-3313 and sits at 1200 Market, Room 425. Ask two plain questions: does this trade need a license here, and is this company current?
+Third, confirm insurance with the insurer, not the contractor. A certificate is a PDF, and anyone can edit a PDF. Call the number for the insurance company yourself and ask whether the policy is active today.
+Fourth, ask for two recent addresses near you. Not a reference sheet. Real jobs, recent ones, close by. A contractor who works the area steadily can name them while you’re still standing in the driveway.
+### The permit is your job, not his
+This is the sentence most homeowners never read. That north county city’s permit page also says that whether a mechanical permit is issued to the property owner or the contractor, it is the property owner’s responsibility to verify that the permit has been issued and see that it is posted on the job site.
+Your responsibility. Not his. So when the furnace goes in, look for the permit card taped in the window or tacked to the wall by the panel. No card, no work. A contractor who pulls permits in his own name is putting his license on the line at your address, and that is the strongest single signal you can get in a state that hands you no lookup.
+If he suggests you pull the permit yourself as the homeowner, slow down. It may be fine. It is also the most common way a contractor without the right local license gets a job done anyway, with you holding the responsibility for every inspection.
+### The lien notice: a test written into state law
+Missouri may not license contractors, but it does tell them what to hand you. Under Chapter 429 of the Missouri statutes, a contractor on residential work has to give you a written notice before receiving payment in any form, in ten-point bold type.
+The words are set by law, and they are blunt: failure of this contractor to pay those persons supplying material or services to complete this contract can result in the filing of a mechanic’s lien on the property. Your property. Even if you paid him.
+The same notice tells you the fix: you may ask the contractor for lien waivers from all persons supplying material or services for the work. Collect them before the final check. A contractor who hands you that notice without being asked is running a real operation. One who has never heard of it just told you how he works.
+And if a letter ever arrives from a supplier or sub you’ve never met, read it twice. Anyone other than the original contractor has to give the owner ten days’ notice before filing a lien, so that envelope is not junk mail. It is the warning.
+Permit card posted, waivers in a folder? Reward yourself: cross the river and eat in Collinsville.
+### What to say at the truck door
+You don’t need to sound like an inspector. You need four questions, asked in a normal voice, before anyone climbs a ladder or opens a wall. Write the answers on the back of the estimate while he’s standing there.
+“Which city or county license do you hold for this work?” For wiring, pipes, drains or the furnace, the answer should name City Hall or St. Louis County, not “the state.” If he says the state, he either doesn’t know how it works here or hopes you don’t.
+“Who pulls the permit, and where will the card be posted?” The right answer is his name and a specific spot: the front window, the wall by the panel, the basement door.
+“Can I have your insurer’s phone number?” Not the certificate. The number. Watch his face when you ask. Most good contractors have been asked before and rattle it off.
+“When do I get the lien notice and the waivers?” Someone who works by the book will tell you the notice comes with the contract and the waivers come before the final payment. Someone who doesn’t will change the subject to the price.
+None of this is rude. It is the conversation a state license would have handled for you somewhere else. Here, it takes five minutes in the driveway, and it is the cheapest five minutes of the whole project.
+### Red flags that cost more in a no-license state
+Some warning signs are universal. These are sharper here, because no state board screens anyone before they knock.
+A big deposit before anyone shows up. Paying for materials ordered for your job is normal. Paying for half the job before a single board is cut is not, and with no state board to complain to, getting it back means court.
+Storm-chasers after hail. The morning after a hailstorm, the doorbell rings before you have even walked the yard to look at the dents in the gutters. Crews from out of town follow severe weather. Some do honest work. Some are gone before the first leak shows up on your ceiling. Ask where their office is, which St. Louis-area cities they have pulled permits in, and whose name will be on the permit for your roof. A crew with a local track record answers all three without checking a phone.
+Cash only, no contract, no permit. Any one is a caution. All three together is not a discount. If the work fails later, or turns up as unpermitted when you sell, the cost lands on you.
 ### If you are the contractor reading this
-The same gap cuts against you. Homeowners here have no state directory that proves you are legitimate, which means an established, insured, permit-pulling business looks identical online to someone who started last Tuesday. Nothing sorts you apart automatically.
-So the sorting has to be something you do. Name the municipalities you are licensed in. Say plainly that you pull your own permits. Put your insurance status and your years in the metro where people can see them before they call. In a state with no license lookup, being easy to verify is the competitive advantage — and most of your competitors are not bothering.
-Worth knowing what you owe on the paperwork side too: our guide to business licenses in St. Louis covers the city versus county split and what each actually costs.
+The same gap cuts against you. With no state lookup, a licensed, insured, permit-pulling shop looks the same online as someone who started last week. Name the city and county licenses you hold. Say plainly that you pull your own permits and hand over the lien notice. In a state with nothing to search, being easy to check is the advantage. Our guide to business licenses in St. Louis covers the city and county paperwork.
+### Keep reading
+What home inspections miss here
+Old-house wiring in St. Louis
+What insurance Missouri actually requires
 ### Frequently asked questions
-### Q. Does Missouri require a contractor license?
-A.  Not at the state level. Missouri issues no statewide license for general contractors, plumbers, or HVAC contractors, and has no state board that maintains a lookup. Licensing is handled by individual cities and counties, so requirements change from one municipality to the next — and a contractor may hold several.
-### Q. How do I verify a contractor in St. Louis?
-A.  Identify the municipality your address falls in, then call that city’s permit or building office and ask whether the trade requires licensing there and whether the company is current. Confirm insurance by calling the insurer directly rather than trusting the certificate. Then check BBB history, Missouri Attorney General complaints, and county court records for liens or judgments.
-### Q. Is it legal to hire an unlicensed contractor in Missouri?
-A.  Because there is no statewide license, “unlicensed” usually means not registered with a specific city rather than breaking state law. The real risk is practical: work that never gets permitted or inspected can fail, may surface as an unpermitted improvement when you sell, and leaves you with civil court as your only recourse.
-### Q. Should I pull the permit myself as the homeowner?
-A.  Generally no. Homeowner-pulled permits shift responsibility for inspections and code compliance to you, and a contractor who asks for this is often unable to pull one themselves. There are occasional legitimate reasons, but treat the request as a question to be answered rather than a convenience.
-### Q. What should I check if there is no state license to look up?
-A.  Weight shifts to what you can verify yourself: whether they pull permits in their own name, insurance you confirmed with the insurer, how long they have worked in your specific municipalities, voluntary trade certifications, and a written contract with a defined scope. Court records and complaint history fill in the rest.
+### Q. How do I know if a contractor is legit?
+A.  In St. Louis, ask which city or county license they hold and ask to see it, especially for electrical, plumbing and mechanical work. Then confirm the permit is issued and posted, call the insurer yourself, and expect the state’s written lien notice before you pay.
+### Q. Which states do not require a contractor’s license?
+A.  Missouri is one. Most states require contractors to get a license, but Missouri does not license them statewide, so the license that matters comes from your city or from St. Louis County.
+### Q. Do independent contractors need a license?
+A.  Not from the state for general work here. Electrical, mechanical, plumbing and drainlaying work is licensed locally: by City Hall boards inside the City of St. Louis, and by St. Louis County out in the county.
+### Q. What are red flags when hiring a contractor?
+A.  A large deposit before work starts, a request that you pull the permit yourself, no written lien notice, cash only, and no permit card on the job. Any one deserves a question. Several together mean thank him for his time and walk him back to his truck.
+### Q. How much should I pay a contractor upfront?
+A.  Enough to cover materials ordered for your job, and get that in writing. Pay the rest in stages as work is finished and inspected, never ahead of it, and hold the final payment until you have lien waivers from the subs and suppliers.
+### Q. What is the difference between a contractor and a handyman?
+A.  Around St. Louis the line that matters is the license. Electrical, plumbing and mechanical work needs a city or county license, so a handyman without one should stay on the small jobs and leave the wiring, pipes and furnace to a licensed trade.
+### Q. Do I need a business license in Missouri?
+A.  Business licenses here come from the city where you work. In the City of St. Louis, applying for a Construction - Contracting Business license means a visit to the License Collector’s office in City Hall, and trade licenses for electrical, mechanical and plumbing work come through the Building Division’s boards.
 ### Q. Can a subcontractor put a lien on my house if I already paid the contractor?
-A.  Yes. Under Missouri's Chapter 429, payment to the general contractor only offsets a claim to the extent it was actually paid through. If your contractor doesn't pay a subcontractor or supplier, that party can pursue a lien against your property. Subcontractors must give you ten days' notice before filing. Collect signed lien waivers from every sub and supplier before releasing final payment.
-### Q. Does Missouri license home inspectors?
-A.  No. Home inspector does not appear among the state’s licensed professions, and bills to create licensing have not passed. Look for ASHI or InterNACHI certification instead, since those impose exams and continuing education that state law does not require.
-Also worth reading: what home inspections miss here and old-house wiring. Or browse local pros on St Louis Near Me Directory. Already hired someone and it went wrong? Here is what actually works when a contractor won’t finish. Running the trade yourself? What insurance Missouri actually requires - and why the certificate is your best sales asset here.
-If you run a licensed contracting business, this part is for you. Have you ever asked an AI what it recommends in your category - and heard someone else? Are you okay staying invisible - or is it time to be found? See what may already be yours →
+A.  It can happen. The notice Missouri law requires says a contractor’s failure to pay suppliers can result in a mechanic’s lien on the property, and it tells you to ask for lien waivers. Collect them before the final payment.
+Already hired someone and the job stalled? Don’t send another check. Read what actually works when a contractor won’t finish, or browse local pros on St Louis Near Me Directory.
+If you’re the licensed electrician, plumber or one-truck remodeler reading this, put your license and your permit habit where homeowners can check them before they call, and get more customers who already trust you.
 
 ## St. Louis Home Repair: The Deductible Offer Missouri Bans
 Source: https://stlouismissourinearme.com/blog/master-home-repair-your-step-by-step-guide-to-top-services
