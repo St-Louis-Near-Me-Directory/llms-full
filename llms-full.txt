@@ -8667,85 +8667,75 @@ A.  It depends on the city. In the City of St. Louis, a new business pays $200 i
 ### Q. What do I need to start a small business in Missouri?
 A.  Know which city governs your address, file articles of organization with the Secretary of State if you want an LLC, register with the Department of Revenue if you sell taxable goods, and get the local license first. Then make sure customers can reach you. St Louis Near Me Directory’s Gold listing runs $357 a year, under a dollar a day.
 
-## The Real Cost of Living in St. Louis (It's the Housing, Not Everything Else)
+## Living in the City of St. Louis Costs 1% of Your Paycheck Before Rent
 Source: https://stlouismissourinearme.com/blog/cost-of-living-in-st-louis
+The first pay stub from the new job comes folded in thirds, and there is a line on it you have never seen before. Earnings tax. One percent, gone before the money ever reaches your account.
+That line is the most St. Louis thing about the cost of living here, and no national calculator shows it. The City of St. Louis collects a one percent earnings tax from City residents, wherever their employer is, and from people who work inside the City, wherever they live. Rent a brick two-bedroom in the City, and it follows your paycheck to any job. The rule turns on two addresses, your home and your workplace, so check both.
+On a $60,000 salary, that one percent is $600 a year. Same metro, same groceries, same humid August, and the line on the pay stub depends on which side of the City limits you sleep on and work on.
+Then, if you have a small child, the daycare quote lands in your inbox. MIT’s Living Wage Calculator for the St. Louis metro budgets $13,740 a year for child care for one adult raising one child, and $14,613 for that family’s housing. St. Louis makes the rent cheap. It does not make the daycare, the doctor or the City tax cheap.
 ### What does it actually cost to live in St. Louis?
-About 10% below the national average — and almost all of that discount is one category.
-Missouri’s own state agency, the Missouri Economic Research and Information Center, puts the St. Louis MO-IL metro at a composite cost-of-living index of 89.8 for the first quarter of 2026, where 100 is the national average. Statewide, Missouri sits at 88.6, tied with Iowa for the seventh-lowest cost of living in the country.
-But the composite hides the interesting part. Break it into components and St. Louis stops looking uniformly cheap:
-Source: MERIC Cost of Living Data Series, Q1 2026.
-So the honest summary is not “everything is cheap in the Midwest.” It is: your housing costs drop sharply, your grocery bill barely moves, and your health care costs go up.
+On Missouri’s own index, the St. Louis metro runs about 10% below the national average, at 89.8 where 100 is national, and nearly all of that discount is housing, at 80.0. Groceries and utilities run close to national, and health care is higher, at 103.9. For one adult with no children, MIT puts the living wage here at $21.79 an hour. City of St. Louis residents also pay a one percent earnings tax.
+### Three St. Louis numbers to check before you sign anything
+First, the address. Before you sign a lease, find out whether it sits inside the City of St. Louis or out in the County, and do the same for the job. That one answer decides whether the earnings tax line shows up on your stub. It also decides which assessor sends you the yearly bill on your car: Missouri law has assessors, the City of St. Louis included, list taxable personal property every year and assess it at one-third of its value.
+Second, if you have a child under school age, call two daycares near the new job before you sign the lease. Ask for the weekly rate, the waitlist and the registration fee. Then look at Missouri’s Child Care Subsidy Program, run by the state education department, which helps eligible parents pay for care. For a single parent with one child, MIT puts the living wage at $38.52 an hour, more than double Missouri’s $15.00 minimum wage.
+Third, ask the employer for the health plan’s premium and deductible in writing. That one sheet of paper tells you whether St. Louis’s cheap rent survives your first year of copays.
+### The discount lives in one category
+The Missouri Economic Research and Information Center, which does research for the state’s higher education and workforce department, publishes a cost-of-living index by quarter, and it breaks the number into pieces. That is where St. Louis stops looking uniformly cheap.
+Housing in the St. Louis MO-IL metro scores 80.0, about a fifth below national. Transportation scores 89.1. Then the discount fades. Groceries sit at 98.7, utilities at 98.5, close enough to national that you will not feel a difference at the register or on the electric bill. Health care is 103.9, above the national average.
+So picture the receipts. The rent check is the one that feels like a bargain. The grocery receipt that curls out of the machine at the register looks about like it did back home. And the explanation of benefits from your first doctor visit is the one that stings.
+Missouri as a whole had the seventh lowest cost of living in the country on MERIC’s latest ranking, at 88.2. The agency says the least expensive areas were the Midwest and Southern states, and the most expensive were Hawaii, Alaska, the Northeast and the West Coast.
+### What a paycheck has to cover here
+MIT’s calculator is the closest thing to a grocery list for a whole life. For one adult with no children in the St. Louis metro, it budgets $11,447 a year for housing, $8,875 for transportation, $4,520 for food and $3,375 for medical care. Add the rest and it lands on a living wage of $21.79 an hour, assuming full-time work of 2,080 hours a year.
+Missouri’s minimum wage is $15.00 an hour. The gap between that $15.00 and the $21.79 living wage, $6.79 an hour, is the honest shape of affordability here. St. Louis is inexpensive next to the coasts, and a full-time minimum-wage job still does not reach a single adult’s baseline. Both things are true. Most cost-of-living pages only tell you the first one.
+Now add a child, and the math changes faster than the rent does. MIT’s living wage for one adult with one child jumps to $38.52 an hour, and child care is a big reason why. If you are moving here for a job with kids in tow, price the daycare before you celebrate the lease.
 ### Why every website gives you a different number
-If you have already searched this, you have noticed the answers do not agree. We pulled the current page one and counted:
-Salary.com — about 2% below national
-Payscale — 6% below
-MERIC — 10.2% below
-Apartments.com — 10.4% below
-Google’s own summary panel currently repeats the 2% figure. That is a five-fold spread on the same question, and none of these sources is lying.
-They differ because a cost-of-living index is a basket, and everyone builds the basket differently. How much weight goes on housing versus groceries? Is it the city or the whole metro? Renting or owning? Change those and the answer moves several points.
-Which is why we lead with MERIC here: it is a state agency, it is dated to a specific quarter, and it publishes the components rather than one blended number. You can see which parts are cheap instead of taking a single percentage on faith.
-The practical takeaway is not to trust any one figure — including ours. Look at the category that dominates your budget. If you rent modestly and have a chronic condition, the health line matters more to you than the housing line, and your personal index looks nothing like 89.8.
-### What earning a living actually requires here
-The MIT Living Wage Calculator estimates the living wage in the St. Louis metro at $21.79 an hour for one adult with no children. Missouri’s minimum wage is $15.00 as of January 1, 2026.
-That gap — roughly $6.79 an hour, or about $14,000 a year at full time — is the honest shape of affordability here. St. Louis is genuinely inexpensive compared with the coasts, and a full-time minimum-wage job still does not reach a single adult’s baseline. Both things are true, and most cost-of-living pages only tell you the first one.
-### How St. Louis compares inside Missouri
-Every participating Missouri city sat below the national average in Q1 2026:
-Joplin — 83.7, the lowest in the state, with housing at 59.8
-Springfield — 89.7
-St. Louis MO-IL — 89.8
-Columbia — 91.3
-What driving school costs in St. Louis
-St. Louis and Springfield are effectively tied, which surprises people who assume a large metro must cost more than a smaller city. It does not, here — because the housing stock is old, plentiful, and spread across a very large area.
-That last point deserves its own note, because it is where the metro’s averages become almost meaningless in practice.
+Search this question and the answers will not agree. That is not because anyone is lying. A cost-of-living index is a basket, and everyone builds the basket differently: how much weight goes on housing versus groceries, the city or the whole metro, renting or owning. Change those and the number moves several points.
+That is why this page leads with MERIC. It is a state agency, it dates each release to a quarter, and it publishes the components instead of one blended number. You can see which parts are cheap instead of taking a single percentage on faith.
+The practical takeaway: look at the category that runs your budget. If you rent modestly and see a specialist every month, the health line matters more to you than the housing line, and your personal index looks nothing like 89.8.
 ### The average is not a place you can live
-A hillside block of brick homes in south St. Louis, MO, photographed by Lane Forman on August 31, 2026 for St Louis Near Me Directory.
-“St. Louis” in these indexes means the whole MO-IL metro — the city, all of St. Louis County’s eighty-plus municipalities, St. Charles County, and the Illinois side. The spread inside that area is enormous.
-Housing in Clayton and housing in Florissant are not the same market. A house in Belleville, Illinois and a house in Chesterfield are not the same purchase, and they are not even in the same state for tax purposes. The index averages all of it into one number that describes no actual neighborhood.
-So use the index for the question it answers — is this metro cheaper than where I live now? — and then look at specific municipalities for the question you actually care about. Our guide to why St. Louis real estate is so affordable goes deeper on the housing side, which is where most of your savings live.
-### How to actually use this if you are comparing a job offer
-Here is where most people misuse a cost-of-living index, and it can cost them real money in a negotiation.
-The instinct is to take the composite and apply it to the whole salary — “St. Louis is about 10% cheaper, so I can accept about 10% less.” That is the wrong calculation, and depending on your situation it is wrong in either direction.
-The composite is a weighted blend of six categories, and your household does not spend like the blend. Do it this way instead:
-Split your current spending into the same six buckets — housing, groceries, utilities, transportation, health, everything else. Rough percentages are fine. Then apply each index to its own bucket rather than applying one number to everything.
-Unrelated, and we know it — North Pointe, if you’re curious.
-Two examples of how differently that lands, both clearly hypothetical:
-Someone spending half their income on rent gets most of the benefit. Housing at 80.4 is doing the heavy lifting, and it is the biggest slice of their budget, so their personal saving lands well above the headline 10%.
-Someone with modest housing costs and high medical spending gets almost none of it. Their largest categories are groceries at 98.7, utilities at 98.0, and health at 103.6 — that is roughly break-even or slightly worse. For that household, moving here on a 10% pay cut is a real pay cut.
-Same city, same quarter, same official numbers, opposite conclusions. Which is why the component table above matters more than any single percentage anyone quotes at you.
-Two practical notes if you are running this exercise. Renting and buying are not the same bet. The 80.4 housing index reflects both, and a renter feels it immediately while a buyer feels it over years — alongside the maintenance costs of older housing stock. And health care weighting rises with age and household size. A 103.6 index on a small share of a young single person’s budget is noise; on a retired couple’s budget it is the headline.
+Photographed by Lane Forman for St Louis Near Me Directory: a hillside block of brick homes in south St. Louis, MO.
+“St. Louis” in these indexes means the whole MO-IL metro: the city, St. Louis County’s many municipalities, the counties to the west and the Illinois side. The spread inside that area is enormous.
+Housing in Clayton and housing in Florissant are not the same market. A house in Belleville, Illinois and a house in Chesterfield are not the same purchase, and they are not even in the same state for tax purposes. The index averages all of it into one number that describes no actual block.
+So use the index for the question it answers, whether this metro is cheaper than where you live now, and then look at specific municipalities for the question you actually care about. Our guide to why St. Louis real estate is so affordable goes deeper on the housing side, which is where most of your savings live.
+Cheapest state vs. St. Louis
+### What is the #1 cheapest state to live in?
+On MERIC’s latest state ranking, Oklahoma, at an index of 83.0. Missouri ranks seventh at 88.2 and the St. Louis metro sits at 89.8. In dollars, MIT budgets $11,447 a year in housing for one St. Louis adult, and a living wage of $21.79 an hour; children, health care and which side of the river you live on move it most.
+### How to use this if you are weighing a job offer
+Here is where most people misuse a cost-of-living index, and it can cost them in a negotiation. The instinct is to take the composite and apply it to the whole salary: St. Louis is about 10% cheaper, so I can accept about 10% less. That is the wrong calculation, and it can be wrong in either direction.
+The composite blends six categories, and your household does not spend like the blend. Split your current spending into the same buckets: housing, groceries, utilities, transportation, health and everything else. Rough percentages are fine. Then apply each index to its own bucket.
+Two hypothetical households show how differently that lands. Someone spending half their income on rent gets most of the benefit, because housing at 80.0 is the biggest slice of their budget. Someone with modest rent and high medical spending gets almost none of it, because groceries at 98.7, utilities at 98.5 and health at 103.9 are roughly break-even or worse. For that household, moving here on a 10% pay cut is a real pay cut.
+Already picking a place? Read renting an apartment in St. Louis before you sign anything.
 ### Costs the index does not really capture
-A few things surprise people who move here, none of which show up cleanly in a composite number.
-Personal property tax on vehicles. Missouri counties assess an annual tax on cars, trucks and boats. Newcomers from states without it are reliably caught out by the first bill. Rates are set locally, so check with the assessor for the county you are moving to rather than assuming a figure.
-Two states, two tax systems. The metro spans Missouri and Illinois, and where you live determines your income tax, your property tax, and your sales tax — while your commute may cross the river daily. If you are weighing sides, that comparison is worth doing properly rather than by rule of thumb.
-Sales tax stacking. Missouri layers state, county, city and special district rates, so the rate at one shopping center differs from another a few blocks away. It is a small effect on a coffee and a real one on a car.
-Older housing stock. The savings on the purchase price are real. So are the maintenance costs of a house built in the 1930s — sewer laterals, original wiring, foundations on clay soil. Budget for the house you are actually buying, not the index.
-Utilities are an annual average hiding two extremes. The 98.0 index is a yearly figure, and St. Louis does not have a mild year. Summers are hot and genuinely humid, winters get cold, and the bills follow — so a household that budgets by the monthly average will be caught out twice a year. If you are moving from a temperate climate, ask a prospective landlord or seller for twelve months of actual utility bills rather than a typical month. In an older, poorly insulated house the gap between July and October is not small.
-Car dependence outside the core. Transportation scores well at 88.8, but that assumes driving. Much of the metro has limited transit, so a household running two cars will not feel the transport discount the way the index implies.
+A yearly tax on your car. Newcomers from states without a personal property tax get caught by the first bill. See what the St. Louis County personal property tax adds.
+Two states, two tax systems. The metro spans Missouri and Illinois, and where you live decides your income tax, property tax and sales tax, while your commute may cross the river every day. Compare the Missouri state income tax rate before you pick a side.
+Sales tax that changes by address. The St. Louis sales tax rate is not one number, which barely matters on a coffee and matters a lot on a car.
+Older houses. The purchase price savings are real. So is the upkeep on an old brick house: the sewer line, the wiring, the basement that smells like rain every spring. Budget for the house you are actually buying, not the index.
+Summer and winter bills. The utilities index is a yearly figure, and St. Louis summers are thick and humid while winters bite. Ask a landlord or seller for twelve months of real utility bills, not a typical month.
 ### So is it affordable?
-For most people moving from a larger or coastal metro, yes — and the reason is specific rather than general. You will spend meaningfully less on housing, slightly less on getting around, about the same on food and utilities, and somewhat more on health care.
-If you are moving here from elsewhere in the Midwest, the difference narrows to very little. And if you are already here on a lower income, the state ranking is cold comfort: a low cost of living and a wage that does not reach the local living wage still leaves a gap.
-Both of those are the honest answer, and it is a more useful one than a single percentage.
-For the tax side of a St. Louis budget, see how the St. Louis sales tax rate changes by address, what the St. Louis County personal property tax adds every year, and the Missouri state income tax rate.
-Turning these numbers into a plan? Start with how to budget on a St. Louis paycheck, and what causes inflation explains why the prices keep moving.
+For most people moving from a bigger or coastal metro, yes, and the reason is specific. You will spend much less on housing, a little less on getting around, about the same on food and utilities, and more on health care. If you are raising kids, child care can eat a big share of the housing savings.
+If you already live here on a lower income, the state ranking is cold comfort. A low cost of living and a wage below the local living wage still leaves a gap. Start with how to budget on a St. Louis paycheck, and what causes inflation explains why the prices keep moving.
 ### Frequently asked questions
+### Q. How much does it cost to live in St. Louis, MO?
+A.  For one adult with no children, MIT’s Living Wage Calculator budgets $11,447 a year for housing, $8,875 for transportation, $4,520 for food and $3,375 for medical care, and puts the living wage at $21.79 an hour. Overall, Missouri’s MERIC index puts the metro at 89.8, about 10% below national.
 ### Q. Is it expensive to live in St. Louis, MO?
-A.  By the numbers, no — it is cheaper than most of the country. The metro sits at a cost-of-living index of 89.8 against a national average of 100, and Missouri as a whole is tied for the seventh-lowest in the country. But the discount is concentrated in housing, at 80.4. Groceries and utilities run close to national, and health care is above it at 103.6.
-### Q. What salary do you need to live in St. Louis?
-A.  There is no single honest figure, and published estimates vary widely because each uses a different basket. A useful floor: the MIT Living Wage Calculator puts the living wage for one adult with no children in this metro at $21.79 an hour. Comfort above that depends most on whether you rent or own, and in which municipality.
-### Q. What is middle class income in St. Louis?
-A.  Definitions vary by source and none is authoritative, so treat any specific bracket cautiously. What is measurable is that local costs run roughly 10% below the national average overall, driven by housing, meaning a given income stretches further here than the same income in a coastal metro — but less far than the headline suggests once health care is included.
-### Q. Is $40 an hour good in Missouri?
-A.  It is well above both the state minimum wage of $15.00 and the MIT living-wage estimate of $21.79 an hour for a single adult in the St. Louis metro. Whether it is comfortable depends on household size and municipality — the same wage supports a very different life in Joplin, at an index of 83.7, than in a higher-cost pocket of St. Louis County.
-### Q. Why do different websites give different costs of living for St. Louis?
-A.  Because each builds a different basket and weights it differently. Current published estimates for St. Louis range from about 2% below national to about 10.4% below. MERIC, a Missouri state agency, is the one that publishes the underlying components by quarter, which is why its 89.8 composite is the most inspectable figure rather than simply the most favorable.
-### Q. Is the cost of living the same across the St. Louis metro?
-A.  No, and the average can be misleading. The index covers the whole MO-IL metro — the city, more than eighty municipalities in St. Louis County, St. Charles County and the Illinois side. Housing costs, property taxes and sales tax rates all vary considerably between them, and the Illinois side sits under a different state tax system entirely.
-New to the area and working out where things are? St Louis Near Me Directory lists local businesses across the whole metro, Missouri and Illinois sides both - useful when you are trying to find a dentist, a mechanic or a plumber in a place you have just moved to.
-If you run a business in this line of work, list your business. Are the people already looking for you actually able to find you? Six major AI engines are recommending local businesses today. Are you one of them? Find out →
+A.  By the numbers, no. The metro sits at 89.8 against a national 100, and Missouri ranks seventh lowest among the states. But the discount is concentrated in housing, at 80.0. Groceries and utilities run close to national, and health care is above it at 103.9.
 ### Q. What is a livable salary in St. Louis?
-A.  The MIT Living Wage Calculator puts the living wage for one adult in the St. Louis metro at $21.79 an hour, against a Missouri minimum wage of $15.00. That is a floor for one person covering their own costs, not a comfortable salary and not a household figure - add children or a second earner and the number moves substantially.
-### Q. How much cheaper is housing in St. Louis?
-A.  Housing is where nearly all of the savings live. MERIC puts the metro’s housing component at 80.4 against a national 100 - roughly 20% cheaper - while groceries (98.7) and utilities (98.0) run about national and health care is above it at 103.6. That is why a single “10% cheaper” figure applied to your whole salary will mislead you.
+A.  MIT puts the living wage for one adult with no children in the St. Louis metro at $21.79 an hour of full-time work. For one adult raising one child, it rises to $38.52 an hour. That is a floor for covering basic needs, not a comfortable salary.
+### Q. What salary do you need to live in St. Louis?
+A.  At least the living wage for your household. MIT puts it at $21.79 an hour for a single adult with no children and $38.52 for one adult with one child, based on 2,080 hours a year of work. Above that, comfort depends mostly on whether you rent or own, and where.
+### Q. Can I afford $1000 rent making $20 an hour?
+A.  It is tight. At $20 an hour for 2,080 hours, you earn $41,600 before taxes, and $1,000 a month is $12,000 a year, a bit under 29% of that. It is also above the $11,447 a year MIT budgets for housing for one St. Louis adult, and $20 is below the $21.79 living wage.
+### Q. Is $1200 a month good for rent?
+A.  For one adult, twelve of those rent checks add up to well above the $11,447 a year MIT budgets for a single adult’s housing in St. Louis. It is close to the $14,613 MIT budgets for one adult with one child, so it can make sense for a small family.
+### Q. Is St. Louis a low cost of living city?
+A.  Yes, with an asterisk. MERIC puts the metro at 89.8, about 10% under national, driven by housing at 80.0. Health care at 103.9 runs above national, so a household with high medical costs feels much less of the discount.
+### Q. Is St. Louis cheaper than Texas?
+A.  On MERIC’s numbers, the St. Louis metro scores 89.8 and Texas as a state scores 90.8, so St. Louis comes out a little lower and the two are close. Missouri as a whole scores 88.2. Your own result will depend more on the specific city and neighborhood than on the state line.
+More St. Louis cost guides:
+What driving school costs in St. Louis
+A neighborhood worth a look: North Pointe
+New to the area and still learning where everything is? Use St Louis Near Me Directory to find a dentist, a mechanic or a plumber in a place you just moved to.
+If you’re the daycare, the mover or the handyman every newcomer here is about to need, read this. People who just moved to the metro search for help close to home before they know a single neighbor to ask. A listing on St Louis Near Me Directory puts you in front of them and helps you get more customers. See how a listing works.
 
 ## Before You Say Yes: What St. Louis Marketing Jobs Pay
 Source: https://stlouismissourinearme.com/blog/top-8-marketing-job-st-louis-opportunities-for-2025
