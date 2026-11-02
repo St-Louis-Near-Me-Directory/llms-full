@@ -12104,78 +12104,75 @@ A.  Google describes SEO as “helping search engines understand your content, a
 ### Q. Can you pay Google for a better local ranking?
 A.  No. Google states that “there’s no way to request or pay for a better local ranking on Google.” Anyone promising a purchased position is misrepresenting how the system works.
 
-## How to Choose a Real Estate Agent in St. Louis (After the 2024 Rule Change)
+## Sign Before You Tour: Choosing a St. Louis Agent When Their Pay Goes in Writing First
 Source: https://stlouismissourinearme.com/blog/how-to-choose-a-real-estate-agent-in-st-louis
-The rules for hiring a real estate agent changed in August 2024, and the lawsuit that changed them was decided in a Missouri federal courtroom — the Western District, in Kansas City.
-If you are buying a house in St. Louis right now, you will be asked to sign something before you are allowed to walk through your first front door. Most people sign it without reading it.
-Here is what actually changed, what didn’t, and the specific things worth checking before you pick anyone.
+The pen is already in your hand. You’re at the kitchen table of a brick house in south city, the radiator ticking, and the agent has slid a form across to you and tapped the line where you sign. Somewhere on page one is the line about what you’ll pay them. It’s blank. Or it says “whatever the seller offers.”
+Put the pen down for a second.
+Under the National Association of Realtors settlement rules, you sign a written agreement with your agent before you tour a single home, and the pay in it has to be objective: a $0, a flat fee, a percent or an hourly rate. NAR’s own example of a term that is not allowed reads almost exactly like that blank line: “whatever the amount the seller is offering to the buyer.” If your form says that, it isn’t finished.
+Now the St. Louis turn, the one no national checklist will give you. St. Louis REALTORS told its own members the wait for a St. Louis County occupancy inspection could run as high as four to six weeks, long enough to push a closing while the boxes sit packed in the hallway. The association’s advice to agents is to apply for that inspection when they secure the listing agreement, because many county municipalities use St. Louis County inspections for their own city inspections and they all draw from the same pool of inspectors.
+So ask the person across the table one thing: when do you order the occupancy inspection? An agent who answers before you finish the sentence has sold here before. An agent who shrugs is learning on your closing.
+Inside the city limits it’s a different form with the same lesson. For residential sales, the City of St. Louis says a Certificate of Inspection must be obtained before occupancy of the unit is permitted, and its page is blunt: the inspection “does not imply a guarantee or warranty as to the overall condition of the building and/or its systems.” The city inspector checks code minimums. Nobody from the city is checking that house for you.
 ### How do you choose a real estate agent in St. Louis?
-Start by verifying the license. Missouri’s public lookup is at mopro.mo.gov, and disciplinary actions since 2011 are posted separately at pr.mo.gov/realestate-disciplines.asp — both free, both take a minute. Then interview at least three, and before signing anything, get the compensation figure written as an actual number. Since August 2024 a buyer must sign a written agreement before touring a home, and that agreement’s compensation term must be, in the National Association of Realtors’ own words, “objectively ascertainable” and “not open-ended.” A blank, or “standard rate,” or “whatever the seller offers” does not meet that standard.
-### What actually changed in 2024
-The case was Burnett v. National Association of Realtors. NAR agreed to pay $418 million, and a judge granted final approval in November 2024. The practice changes took effect on August 17, 2024. Two of them matter to you.
-One: offers of buyer-agent compensation came off the MLS. This is the change that gets described wrong more than any other. Compensation was not banned. Sellers can still offer to pay a buyer’s agent — it just can’t be advertised through the multiple listing service anymore. Seller concessions toward your closing costs can still appear there, though nothing in a listing tells you what movers actually cost in St. Louis, which stays its own line in your budget.
-Two: you sign before you tour. An agent working with you must have a signed written agreement in place before showing you a home. There are exceptions — an open house hosted by the seller’s agent doesn’t require one, and neither does a showing where you’re unrepresented.
-What did not change: commissions were always negotiable. The settlement didn’t create that, cap anything, or set a rate. NAR now requires agents to conspicuously disclose that compensation “is not set by law and is fully negotiable” — which was true before, and is now something they have to say out loud.
-### Commissions did not go down
-You will read that the settlement drove commissions down. The data doesn’t support it, and you should know that before you sit across from anyone.
-Redfin’s research tracked the average buyer’s-agent commission at 2.38% in the second quarter of 2024, dipping to 2.36% in the third quarter as the rules took effect — and back to 2.42% by the third quarter of 2025. Slightly higher than before the change. A separate analysis by AccountTECH, covering more than 224,000 closed transactions across roughly 1,300 offices, found the same shape: a real dip in late 2024 that round-tripped within about five months.
-Two independent datasets, same conclusion. Anyone telling you the market has settled this for you is wrong.
-And there’s a detail in that data that lands directly on St. Louis. Broken out by price, the average buyer-agent commission in the third quarter of 2025 ran 2.52% on homes under $500,000, 2.32% between $500,000 and $999,000, and 2.22% above a million. The cheaper the house, the higher the percentage. Nearly every St. Louis transaction sits in that first tier — so buyers and sellers here are in the segment paying the most, proportionally, and have the most to gain from asking.
-Which almost nobody does. A survey conducted by Ipsos for Redfin in spring 2025 found 37.4% of sellers negotiated or tried to negotiate commission — against just 27.2% of buyers. Buyers are leaving the most on the table, in the tier where the percentage is highest.
-### Verify the license in about a minute
-Two free public tools, and almost nobody uses either.
-License status: the Missouri Division of Professional Registration portal at mopro.mo.gov/license/s/license-search. You can confirm the license is real, active, and whether the person is a salesperson or a broker. (If you find an older link floating around, note that Missouri migrated portals — the legacy address redirects here.)
-Disciplinary history: a separate page, pr.mo.gov/realestate-disciplines.asp, which posts actions taken since June 30, 2011 as downloadable PDFs you can search by name.
-Know the limits of what you’re seeing. You cannot see pending or unresolved complaints, sales volume, transaction history, or anything before mid-2011 without digging into archives. A clean record means no public discipline — not that someone is good at the job.
-### Agent, REALTOR, broker — three different things
-These get used interchangeably and they are not interchangeable. There are actually two separate systems running at once.
-The state licensing system. Under Missouri law, a broker is licensed to conduct real estate business, and a salesperson must be affiliated with a broker who is responsible for their conduct. A salesperson cannot operate independently. That’s state law, and violating it is a licensing matter.
-The trade association. “REALTOR” is a registered membership mark belonging to the National Association of Realtors. It is not a license and not a job title — it means the person pays dues and is bound by NAR’s Code of Ethics, first adopted in 1913. A licensed agent who isn’t a member is not bound by that code.
-The practical consequence is that you have two different complaint paths. Legal violations go to the Missouri Real Estate Commission, which can act against a license. Ethics complaints against a REALTOR go to the local association — here, St. Louis REALTORS — which can only discipline membership. Knowing which is which saves you months.
-### The word that decides how much they owe you
-Missouri law draws a line between a client and a customer. A client has entered a brokerage relationship. A customer is involved in the transaction but has not.
-There is also a role called a transaction broker, who assists with the deal without an agency or fiduciary relationship to either side. That is a legitimate, legal arrangement — and it means nobody in the room owes you a fiduciary duty.
-Ask the question directly: Am I your client or your customer, and are you acting as a single agent, a limited agent, or a transaction broker? If the answer is vague, that is the answer.
-Unrelated, and we know it — where to eat in Creve Coeur.
-### What a seller has to tell you in Missouri — and what they don’t
-Missouri leans toward caveat emptor. There is no broad statutory duty for a seller to volunteer every defect. There are specific exceptions in both directions, and they surprise people.
-Must be disclosed: if methamphetamine was produced on the property and the seller knew, that has to be disclosed in writing — and it applies whether or not anyone was ever convicted.
-Need not be disclosed: Missouri law says a property is not required to be disclosed as “psychologically impacted.” That covers a homicide, felony or suicide having occurred there, and an occupant having had a disease unlikely to be transmitted by living in the house. The statute goes further and bars a cause of action against an agent for not telling you.
-Now the part worth reading twice. The agent’s duty is broader than the seller’s. A Missouri licensee must disclose adverse material facts actually known, or that should have been known — to clients and customers both. But the same law says the licensee has no duty to conduct an independent inspection, no duty to discover adverse facts for a customer, and no duty to verify what the seller told them.
-So it is a duty not to conceal. It is not a duty to investigate. Nobody in the transaction is required to go find the problems for you. Get your own inspection.
-### Which St. Louis number are they quoting you?
-If an agent quotes “the St. Louis median” without saying which geography, they may not be misleading you on purpose — but the figures differ enormously.
-For June 2026: the median sale price in St. Louis City was about $261,000, up roughly 0.8% year over year, on 292 homes sold. In St. Louis County, about $325,000, up roughly 6.6%. Meanwhile the median list price across the whole St. Louis MO–IL metro area ran about $290,000, down 3.3% — and that one is an asking price, not a sale price. They are not the same measurement and should never be compared to each other.
-Two more metro figures worth having: median days on market around 44, four days longer than a year earlier, and active listings up about 10.3%. More inventory, sitting slightly longer. We’re reporting those as recorded, not predicting where they go.
-City and county are different markets. An agent who closes constantly in one may know very little about the other — so ask which municipalities they actually close in.
+Look the agent up first: the Missouri Real Estate Commission (573-751-2628) runs a free licensee search and posts disciplinary actions imposed since June 30, 2011. Interview three. Ask each to write their pay as a real number, whether you’ll be a client or only a customer, and when they order the occupancy inspection or the city’s Certificate of Inspection. Clear answers on all three win.
+### The blank line, and why it matters more here
+You’ll hear that the rule change pushed commissions down. The average U.S. buyer’s agent commission came in at 2.42%, up from 2.36% a year earlier. NAR’s homebuyer guide says broker fees and commissions are fully negotiable and not set by law, and your agreement has to say so in plain view.
+Now the part that lands on St. Louis. Nationally, for homes that sold for less than $500,000, Redfin found the average buyer’s agent commission was 2.52%, up from 2.45% a year earlier. Homes at $1 million or more averaged 2.22%. The cheaper the house, the bigger the percentage. Most of the brick two-stories and ranch houses on a St. Louis buyer’s list sit in that first tier, which means the buyers here are paying the highest rate and have the most to gain from one plain question at the kitchen table.
+On a $300,000 house, 2.52% is $7,560. Say that number out loud before you sign, and watch whether the agent flinches or explains.
+So, is 3% normal for a realtor? On the buyer’s side, the national average sits under that, and nothing in the rules makes any figure standard. Anyone who tells you a rate is “standard” or “set” has just told you something NAR’s own guide says is not true.
+### Client or customer: the word that decides who they work for
+Missouri law sorts you into one of two boxes, and most buyers never learn which one they’re in. A client is a buyer or seller who has entered into a brokerage relationship with a licensee. A customer is someone in the deal who has not. The difference is felt in small moments: the agent across the table who hears your top number, the phone call where you mention you’re in a hurry.
+There’s a third role, too. A transaction broker, in the statute’s words, assists the parties without an agency or fiduciary relationship to either party and is “neutral, serving neither as an advocate or advisor for either party.” That’s legal. It also means nobody in that arrangement is in your corner. How do I find the right real estate agent when I can’t tell whose side they’re on? You ask, out loud, before you sign: “Am I your client, and are you my agent or a transaction broker?” If the answer is foggy, that is the answer.
+### Check the license in the time it takes to boil water
+Do this alone, before the first meeting, with your coffee going cold next to the laptop. The Missouri Real Estate Commission’s site at pr.mo.gov has a licensee search and a separate disciplinary actions page covering actions imposed since June 30, 2011. Type the name. Confirm the license is active and whether the person is a broker or a salesperson.
+Know what a clean record means: no public discipline. It does not mean the person is good at the job, and it does not show complaints still being worked out.
+The word REALTOR is a membership, not a license. If your agent is a REALTOR, NAR says they must abide by the REALTOR Code of Ethics. A licensed agent who doesn’t belong to the association is still licensed by the state, just not bound by that code.
+### The city inspection is not your inspection
+This is where St. Louis catches people. In the city, a Certificate of Inspection is required before a sale of an occupied structure when one has not been issued within the last 12 months. The earliest that inspection may be scheduled is 3 business days from the day you apply. Nobody wants to learn that in closing week, with the moving truck already booked.
+And when it passes, it means the house met minimum standards. The same city page suggests that people purchasing property may want to consider a commercial grade building inspection. Take the hint. Hire your own inspector, stand in the basement while they shine the flashlight along the foundation, and listen.
+One more Missouri law surprises buyers. Under the state statute, a house where a homicide or other felony, or a suicide, took place is not something that has to be disclosed in a sale, and no cause of action can be brought against the agent for not mentioning it. If that matters to you, ask directly.
+### Open houses, video tours and the moment the paper appears
+Here’s where it gets real on a weekend afternoon. You wander into an open house, shoes squeaking on a freshly mopped floor, and the agent at the dining table asks if you’re working with anyone. You don’t owe them a signature for that. NAR’s homebuyer guide says you do not need a written agreement if you are just speaking to an agent at an open house or asking them about their services.
+The paper shows up the moment someone starts working for you. Written agreements apply to both in-person and live virtual home tours, so a video walk-through on your phone counts the same as standing in the kitchen. If an agent offers to “just show you a few places first” and sort out the paperwork later, that’s a small tell worth noticing.
+Before you sign, NAR says you should make sure the agreement reflects the terms you negotiated. That’s the whole game in one sentence. The form is not a formality you get past on the way to the fun part. It is the job description, the pay stub and the exit door, all on one page, and you get to edit it before the ink touches it.
+Does the buyer need to pay the agent fee? Sometimes the seller covers part or all of it, sometimes none. Either way, the number you agreed to is the number you owe, so the only safe agreement is one where you can point at the figure and say it out loud.
 ### What to ask before you sign
-Do the license and discipline lookups first, quietly, before the meeting. Then:
-1. What exact rate or dollar figure goes in the compensation blank, and how long does this agreement run? 2. Can I cancel it, and on what terms? 3. If the seller offers compensation off-MLS, does that reduce what I owe you dollar for dollar, or do you keep the difference? 4. Am I your client or your customer, and what is your agency role? 5. Will you show me homes where the seller offers little or no buyer-agent compensation? 6. Are you a REALTOR, or licensed only? 7. Which municipalities do you actually close in?
-Question three is the sharpest one on the list, because it is precisely the ambiguity the off-MLS change created — and a straight answer to it tells you most of what you need to know about the person.
-Two red flags worth naming: anyone who tells you the commission is standard or set by law, and anyone who pressures you to sign before you’ve read it. The signature is required. The terms in it are not.
+Look up the license first, quietly. Then, at the table:
+What exact rate or dollar figure goes in the compensation line, and how long does this agreement run?
+If the seller offers to pay you, does that reduce what I owe you dollar for dollar?
+Am I your client or your customer, and what is your role?
+Will you show me homes where the seller offers little or nothing toward your pay?
+For a city house, who orders the Certificate of Inspection, and when?
+Which parts of the city and county do you actually close in?
+Question two is the sharp one. The seller may still agree to pay your agent, but NAR says that offer cannot be shared on the MLS, so it happens off the listing, in conversation. A straight answer tells you most of what you need to know about the person.
+Before the boxes come out, see what movers actually cost in St. Louis.
 This is general information about Missouri real estate practice, not legal advice. For advice about your situation, talk to a Missouri attorney.
 ### Frequently asked questions
-### Q. What is the best way to choose a real estate agent?
-A.  Verify the license at mopro.mo.gov and check disciplinary history at pr.mo.gov/realestate-disciplines.asp, then interview at least three. Before signing, get the compensation written as an actual number — NAR requires it to be “objectively ascertainable” and “not open-ended,” so a blank or “standard rate” does not qualify.
-### Q. How much does a realtor make off of a $300,000 house?
-A.  At the 2.52% average buyer-agent commission for homes under $500,000, a $300,000 sale is about $7,560 to the buyer’s agent, before their brokerage takes a share. A listing agent is paid separately. Nothing sets these rates — they are negotiable, and St. Louis sits squarely in the price tier where the percentage runs highest.
-### Q. What not to say to a real estate agent?
-A.  Avoid revealing your maximum budget or your deadline pressure before you understand who the agent represents. Under Missouri law a transaction broker owes no fiduciary duty to either party, and a “customer” is owed less than a “client” — so establish your agency relationship in writing first, then share strategy.
-### Q. What is the 3-3-3 rule in real estate?
-A.  It is an informal rule of thumb that circulates online in several conflicting versions — sometimes about touring three homes, sometimes about savings or budgeting. It is not a Missouri regulation, an NAR rule, or a lending standard, and no authoritative source defines it. Treat it as folklore rather than guidance.
-### Q. What annoys real estate agents?
-A.  Common complaints are touring homes far outside your approved budget, working with several agents at once without disclosing it, and missing scheduled showings. Note that since August 2024 the multiple-agent question is more concrete — buyers now sign written agreements before touring, so overlapping agreements can create real obligations.
-### Q. What is the hardest month to sell a house?
-A.  Winter months are traditionally slowest, though it varies by market and we would not predict any particular month for St. Louis. What is documented locally: metro median days on market was about 44 in June 2026, four days longer than a year earlier, with active listings up roughly 10.3%.
+### Q. How do you find the best realtor?
+A.  Start with the state, not the yard signs. Search the license on the Missouri Real Estate Commission site at pr.mo.gov, check its disciplinary actions page, then interview at least three. The best one writes their pay as a real number and answers the client-or-customer question without hesitating.
+### Q. How do I find the right real estate agent?
+A.  Match the agent to the house. Ask which parts of the city and county they close in, and for a house inside city limits, ask who handles the Certificate of Inspection the city requires before a buyer moves in. An agent who knows that cold has done this here before.
+### Q. Can a seller refuse to pay a buyer's agent?
+A.  Yes. Under NAR’s rules the seller may agree to offer compensation to your agent, but it is a choice, not a requirement, and the offer cannot be shared on the MLS. That is why your own written agreement has to say what you owe if the seller pays nothing.
+### Q. Does the buyer need to pay the agent fee?
+A.  You agree to it in writing before you tour a home. If the seller pays some or all of it, the rest is on you, so the agreement has to state an objective amount, like a flat fee or a percent, never “whatever the seller is offering.”
+### Q. What percentage do most realtors charge?
+A.  Redfin put the average U.S. buyer’s agent commission at 2.42%, and at 2.52% for homes that sold for less than $500,000. The seller’s agent is paid separately. Every figure is negotiable and none is set by law.
+### Q. Is 3% normal for a realtor?
+A.  For the buyer’s side, it runs above the national average Redfin tracks. NAR says fees are fully negotiable and not set by law, so treat any figure as an opening offer and ask what you get for it.
+### Q. Are real estate agents worth the money?
+A.  A good one is, when they are actually working for you. Get client status in writing, because under Missouri law a transaction broker owes no fiduciary duty to either side, then judge the fee against what they do: the pricing, the negotiation and catching the city inspection timeline before it trips your closing.
+### Q. Is there a place to rate real estate agents?
+A.  The state publishes license status and disciplinary actions imposed since June 30, 2011 on pr.mo.gov. Read reviews for style, and the state record for trust.
 ### Q. How do I check if a real estate agent is licensed in Missouri?
-A.  Use the Missouri Division of Professional Registration lookup at mopro.mo.gov/license/s/license-search to confirm the license is active and whether the person is a salesperson or a broker. Disciplinary actions since June 30, 2011 are posted separately at pr.mo.gov/realestate-disciplines.asp. Both are free.
-### Q. Does a seller in Missouri have to disclose a death in the house?
-A.  If reading about how agents get paid made you consider the other side of the table, here is what real estate school costs in Missouri.
-Thinking of renting the place out short-term instead? Know the rules first with our guide to short-term rental rules in St. Louis.
-Before the listing photos get taken, it helps to know what home staging does for a St. Louis sale and when it’s worth paying for.
-No. Missouri law states that property is not required to be disclosed as “psychologically impacted,” which includes a homicide, felony or suicide having occurred there, and it bars a cause of action against an agent for not disclosing it. Methamphetamine production on the property, by contrast, must be disclosed in writing if the seller knew.
-If your sign fell down tomorrow, would anyone online still know you exist? Also useful: why St. Louis real estate is so affordable. Or browse local professionals on St Louis Near Me Directory.
-If you’re the agent buyers should be calling, read this part. Six major AI engines are recommending local businesses today. Are you one of them? What’s the plan when the referrals slow down - hope? See what may already be yours →
+A.  Use the licensee search on the Missouri Real Estate Commission site at pr.mo.gov to confirm the license is active and whether the person is a broker or a salesperson. The same site posts disciplinary actions imposed since June 30, 2011.
+### Q. Related St. Louis guides
+A.  Why St. Louis real estate is so affordable
+What home staging does for a St. Louis sale
+Short-term rental rules in St. Louis
+What real estate school costs in Missouri
+Where to eat in Creve Coeur after the closing
+Read the compensation line before you read anything else. Then look up every agent on your short list, and browse local pros on St Louis Near Me Directory while you compare.
+If you’re the agent who writes the number in that line without being asked, a listing on St Louis Near Me Directory helps you get more customers who already want that kind of agent →
 
 ## 200-Amp Service Change? St. Louis Won't Let You Permit It
 Source: https://stlouismissourinearme.com/blog/old-house-wiring-in-st-louis
