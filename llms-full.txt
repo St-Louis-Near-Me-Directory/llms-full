@@ -15258,93 +15258,76 @@ A.  One with no startup cost that uses what you know. Paid election work in the 
 ### Q. Can a 70 year old woman get a job?
 A.  Yes. Employers who need reliability, patience and judgment have every reason to hire her. Start with roles that list their requirements plainly, like City election work, and with people who already know her work, then widen the search to part-time and remote listings.
 
-## What a Small Business Website Actually Costs (and When You Don't Need One Yet)
+## Your St. Louis Website Quote Has No Hours on It
 Source: https://stlouismissourinearme.com/blog/small-business-website-cost
+The quote glows on your phone at a south city kitchen table: a logo up top, a list of pages, a line that says “SEO setup,” a total at the bottom and a button that says sign. What it doesn’t show is hours, and in St. Louis the median web developer earns $51.14 for every one of them.
+The fridge hums. Your thumb hovers over the button. How many hours is that total supposed to buy? The screen won’t say.
+That’s not on you. It’s the format. The quote folds the hours out of sight and hands you one total. A platform prices a product, a freelancer prices a finished site, an agency prices a project, and the one number that would line all three up side by side sits on nobody’s page. You’re not bad at reading quotes. The quotes were never built to be compared.
+So what fills the gap? That $51.14. It isn’t a rate anybody quoted you; it’s what St. Louis web developers earn on average for one hour of work. What happens when you divide your total by it? You get the most hours that money could buy at the local median wage. And if the builder says 40 hours? 40 hours at $51.14 is $2,045.60 in wages alone, before their software, laptop and slow months.
+A website quote isn’t a price. It’s a count of somebody’s hours. Before you sign, did they show you the count?
 ### What does a small business website actually cost?
-Somewhere between about $200 a year and about $35,000, and that spread is not because anyone is confused. It is because “a website” is not one product. It is at least three, sold by three different kinds of business, and the price you are quoted tells you which one you are being sold. Which is the question hiding under every quote: not “how much is a website,” but “which of the three am I actually buying — and do I even need it yet?”
-You build it on a platform: roughly $17 to $49 a month, billed yearly, plus your time.
-A freelancer builds it: commonly $500 to $8,000 once, then hosting on top.
-An agency builds it: commonly $5,000 to $35,000 or more, usually with a retainer attached.
-All three can be the right answer. None of them is the right answer for everybody, and a good number of small businesses in this metro do not need any of them yet.
-### Why every number you find is different
-Search this question and look at who is answering. Every result on the first page is published by a company that sells websites, sells a tool for building them, or earns a commission when you sign up for one.
-Here is what each one says, with its stake in the answer named:
-Wix — $17 to $100 a month. Wix sells website subscriptions.
-GoDaddy — $145 to $640 a year. GoDaddy sells domains, hosting and website subscriptions.
-Forbes Advisor — $0 to $450 do-it-yourself, from around $1,500 professional. Forbes Advisor is an affiliate publisher; the links pay it.
-Agency blogs — $4,000 to $15,000. Agencies sell $4,000 to $15,000 builds.
-Elementor — $10,000 to $35,000, with e-commerce starting at $20,000. Elementor sells a page builder used on large custom projects.
-Development shops — $1,000 to $50,000. The widest range comes from the firms that take work at every point in it.
-Google’s own AI summary splits the difference and lands on $16 a month at the low end and $5,000 to $15,000 at the high end — assembled from exactly those sources.
-The tell that this is unsettled: a Reddit thread from a decade ago outranks most of the commercial pages. When a ten-year-old forum post beats the professionals on a pricing question, search is telling you it does not trust the professionals on that question.
-None of these companies is lying. Each is quoting the honest price of its own product. The problem is that all six answers wear the same label.
-### You are not buying one thing
-Sorting the products apart makes the numbers stop looking random.
-### A platform subscription
-You choose a template, type in your own words, and upload your own photos. Checked directly against their published pricing at the time of writing: Wix runs $17 a month for its Light plan, $29 for Core, $39 for Business and $159 for Business Elite, priced for a year paid up front. Squarespace runs $19, $29, $49 and $99 a month on the same annual basis. Both include a free custom domain for the first year on a paid plan.
-What you are actually paying for is hosting, security patching, and the fact that you never have to think about either. What you are not paying for is anyone writing your content or taking your photographs. That is your weekend, and for most owners it is the real cost.
-### A freelancer
-Five hundred to eight thousand dollars, depending less on page count than on how much of the work is genuinely yours: your words, your photos, your services list, your booking flow. A freelancer who hands you a template with your logo dropped in is worth the low end. One who interviews you, writes the copy, shoots the space and sets up the booking is worth the high end and frequently charges the middle.
-### An agency
-Five thousand to thirty-five thousand. At this level you are buying a team — strategy, design, development, content, and usually a monthly retainer afterwards. For a business with several locations, a real e-commerce catalog, or compliance obligations, that is money well spent. For a two-truck HVAC company, it is a truck.
-### The costs nobody quotes you
-The quoted price is the part you can compare. These are the parts that show up later.
-The domain after the first year. “Free domain” almost always means free for twelve months. In month thirteen it renews at the registrar’s standard rate, and standard rates vary enormously between registrars for an identical product. Some also sell you WHOIS privacy as an add-on. Cloudflare Registrar, by contrast, publishes at-cost registration and renewal with no add-on fees and includes WHOIS redaction and SSL at no charge. Same domain, different bill, and nobody mentions it during the sale.
-Payment processing. If you sell anything through the site, the platform’s cut is separate from the card network’s cut. Squarespace publishes card rates starting at 2.9% plus $0.30 and adds a 2% online store transaction fee on its entry plan, dropping to 0% one tier up. That upgrade can pay for itself long before you notice, which is worth understanding before you sign anything.
-Maintenance. On a platform this is included. On a custom build it is not, and a site nobody patches becomes a liability rather than an asset. Ask directly who is responsible for updates and what it costs, and get the answer in writing before the build starts.
-The move. Content typed into one platform’s editor does not lift cleanly into another. Changing platforms in three years usually means rebuilding, which is a cost you incur when you are least expecting it.
+Two very different bills. Do it yourself on Squarespace and it’s $19 to $49 a month, billed annually, with the domain free the first year and renewing at the standard rate after that. Hire it out and you’re buying hours, priced against a St. Louis median of $51.14 an hour for a web developer and $35.95 for a web designer. Which bill fits turns on a question only you can answer: what should a stranger do on your site?
+### Where does $51.14 an hour come from?
+Pull the table up on the same phone and hold it beside the quote. It’s almost boring: one row that says St. Louis, MO-IL, with five dollar figures running across it. The O*NET wage table for web developers puts the St. Louis median at $51.14 an hour, with the middle half earning $39.63 to $60.32. That’s above the Missouri median of $49.88 and the national median of $44.54 on the same page. So which number was your quote built on? The median web and digital interface designer here earns $35.95 an hour. Those are wages, before a freelancer’s own software, laptop and slow months, which is why dividing a quote by them gives you a ceiling on the hours, not an exact count.
+Would the builder tell you how many hours the quote assumes if you asked in writing, before anything gets signed? A real number typed back into your inbox, even a rough one, means somebody actually scoped your job. Hold it against $51.14 and the difference between a custom build and a template plus a long afternoon gets easy to see.
+### Two hours, a shut door and a big screen on South Lindbergh
+Rather build it yourself? Head up to the second floor of the Clark Family Branch. The room has a large table, four chairs and a big screen mounted on the wall, and for two hours it’s yours. The door shuts. The hallway noise drops away. The cables and adapters are already in the room, so your laptop goes up on that screen and your homepage fills the wall.
+St. Louis County Library’s Small Business Center has Wi-Fi, computers, a copy center and private rooms. Every appointment is 2 hours, Monday-Thursday from 9:30 a.m. to 7:30 p.m., with shorter hours Friday through Sunday. You can book up to 30 days ahead, one appointment a day and two a week, and if you’re 15 minutes or more late, the room goes to the next person waiting. The branch is at 1640 S. Lindbergh Blvd., and its phone is (314) 994-3300. The library also says you can take free courses to learn how to start and run a business through LinkedIn Learning and Udemy.
+Three questions are worth answering before any money changes hands. What should a stranger do on your site: call, book, buy or read? What does year two cost, down in the price page’s fine print where the domain renewal lives, the bill that shows up as an email a year from now? And how many hours does each quote assume, held against $51.14?
+If the honest answer to the first one is “call me,” how much website do you really need to buy?
+### Three purchases wearing one label
+The first is a platform subscription. You pick a template, type your own words and upload your own photos. On Squarespace’s own price page, the Basic plan is $19 a month and Core is $29 a month when paid annually, and plans bought for an annual term include one year of free domain registration. What you pay for is hosting and never thinking about it. What you don’t pay for is anyone writing your words or shooting your space. That part is your weekend, and your coffee.
+The second is a freelancer, and the third is an agency. Both are hours. A freelancer who drops your logo into a template is selling few of them. One who interviews you, writes the copy and walks your shop with a camera is selling many. An agency adds strategy, design and usually a monthly retainer, which makes sense for a business with a real catalog or several locations, and much less sense for a one-van trade working out of the driveway.
+### What shows up in month thirteen?
+The quoted price is the part you can compare. The rest arrives later, usually as an email you open on your phone between jobs.
+The domain after the first year. “Free domain” means free for the first year. Squarespace says domains registered through its promotion renew at its standard rate, plus applicable taxes, after the first year. Same domain, new bill, and it rarely comes up during the sale.
+Payment processing. If you sell through the site, the platform’s cut sits beside the card cut. Squarespace lists card rates from 2.9% + $0.30 and a 2% online store transaction fee on Basic, while Core lists no fees on online store transactions. Our guide to credit card processing fees walks through the rest of that math.
+Maintenance. On a platform it’s included. On a custom build it isn’t, and a site nobody updates slowly turns from an asset into a chore. The answer to “who updates it, and what does that cost?” belongs in writing before the build starts, not in a phone call after it breaks.
+The move. Pages typed into one platform’s editor don’t lift cleanly into another. Switching later usually means rebuilding, which tends to happen at the least convenient moment.
 ### Renting versus owning
-This is the distinction that matters most and gets discussed least.
-On a platform subscription you are a tenant. Stop paying and the site goes dark. You keep the domain, because the domain is registered to you, but the pages, the layout and the structure stay behind. That is not a scam — it is what a subscription is — but plenty of owners discover it during a cash-flow squeeze, which is the worst possible moment.
-A custom build on your own hosting is yours. So is the responsibility for it: updates, security, backups, and someone to call when it breaks at nine on a Friday night.
-Renting is the right call for most small businesses, and there is no shame in it. Just make the choice deliberately, and keep the domain registered in your name and your own account — not your web designer’s. A domain held in a departed contractor’s account is one of the more painful and avoidable problems in small business.
-### When you honestly do not need one yet
-Not every business needs its own website on day one, and a lot of the pressure to build one comes from people who sell them.
-Consider holding off if everything below is true of you:
-You do not sell anything online — customers call, book, or walk in.
-You have no storefront to send people to, because you work from home or travel to jobs.
-Your work is found through referrals and search, not through a catalog.
-You cannot yet name what a visitor is supposed to do on the site.
-That describes a great many home-based businesses, consultants, freelancers and one-van trades across Missouri and Illinois — real businesses serving a real region without a front door to photograph. For that owner, a claimed Google Business Profile and a complete directory listing cover the same ground a five-page brochure site would: who you are, what you do, where you work, how to reach you, and proof from customers.
-Say plainly what that is and is not. It is a genuine, findable presence for a business without one, and it costs a fraction of a build. It is not ownership, it is not a substitute for a real website once you have something to sell, and anyone who tells you a listing replaces a website in every case is selling listings.
-Nothing to do with budgets — but here’s where to eat in Brooklyn.
-### When you genuinely do need your own site
-Build one, and stop deliberating, if any single item here applies:
-You sell products online. A catalog, a cart and a checkout have to live somewhere you control.
-You take bookings or deposits. Scheduling with money attached needs to be yours.
-You are selling to other businesses. A procurement officer will look for a site, and its absence reads as risk whether that is fair or not.
-You are in a field where people research before they call — legal, medical, financial, anything where a stranger is weighing whether to trust you with something that matters.
-You have content worth publishing. If you are answering customer questions in writing, that work should accumulate on property you own.
-### What to actually budget
-If you are opening a business in this metro and want a number to plan against, here is an honest one.
-First year, doing it yourself: roughly $200 to $600. That is a platform plan billed annually, with the domain free for the first twelve months, and your own time on the words and the photographs. This is the correct starting point for most new businesses, and it is easy to underestimate how far it goes.
-First year, hiring a freelancer: roughly $1,500 to $5,000 all in. Budget the build, plus about $250 to $600 a year in hosting and domain afterwards, plus something for the changes you will want in month four.
-First year, hiring an agency: $8,000 and up, plus a retainer. Justify this with revenue, not ambition. If the site is not going to carry transactions or a real content operation, the money buys more elsewhere.
-Fold whichever figure you land on into your wider opening costs rather than treating it as separate — it belongs in the same column as registration, licensing and insurance, and it competes with them for the same dollars.
-### How to hire without getting taken
-Whoever you hire, four questions separate the professionals from the rest, and all four are fair to ask before you pay anything.
-Who owns the domain and the hosting account? The answer must be you. If it is not, walk.
-What happens if we part ways? Ask specifically what you keep. Get it in writing.
-Who writes the words? This is where projects stall for months. If the answer is “you send us the copy,” that is fine — but now you know the real timeline.
-What does year two cost? Hosting, maintenance, updates, and the hourly rate for changes. A vague answer here is the most reliable warning sign there is.
-Two red flags worth naming: a quote given before anyone has asked what your business does, and a monthly fee with no stated term. The first means you are getting a template. The second means the meter runs until you notice.
-And whichever route you choose, do the free things first. Claim your profile, get your name, address and phone identical everywhere they appear, and get listed where people in your area actually look. Those cost nothing and they work whether or not you ever build a site.
+On a platform you’re a tenant. Stop paying and the pages go dark, though the domain stays yours if it’s registered to you. That isn’t a trick, it’s what a subscription is, but plenty of owners only feel it during a tight month, staring at a declined card on a Sunday night.
+A custom build on your own hosting is yours, and so is everything that comes with it: updates, backups, and someone to call when it breaks right as the weekend starts. Renting is the right call for most small businesses. The trap is renting by accident, with the domain sitting in a designer’s account instead of your own name.
+### When you honestly don’t need one yet
+A lot of the pressure to build comes from the people who build. Holding off can make sense when all of these are true:
+You don’t sell anything online; customers call, book or walk in.
+You have no storefront, because you work from home or drive to the job.
+Your work comes through referrals and search, not a catalog.
+You can’t yet name what a visitor should do on the site.
+That fits a lot of home-based businesses, consultants and one-van trades across the region. For that owner, a claimed Google Business Profile and a complete directory listing cover what a small brochure site would: who you are, what you do, where you work and how to reach you. It isn’t ownership, and it doesn’t replace a real site once you have something to sell.
+### When you genuinely need your own site
+You sell products online. A cart and checkout have to live somewhere you control.
+You take bookings or deposits. Scheduling with money attached should be yours.
+You sell to other businesses. A buyer doing homework will look for a site.
+People research before they call. Legal, medical, financial, anything where a stranger weighs whether to trust you.
+You have something worth publishing. Answers you write should pile up on property you own.
+Whatever you land on, fold it into your opening budget next to registration, licensing and insurance, because it competes with them for the same dollars. And if the answer turns out to be an app rather than a site, the pricing works nothing like this; see what it costs to build an app in St. Louis first.
+Plan fees versus local hours
+### Do websites cost money to have?
+Yes, once it’s a real business site. A Squarespace plan runs $19-$49 a month billed annually, and hiring it out in St. Louis means paying for hours, with the median web developer earning $51.14 an hour. The number moves with how many pages you need, whether you sell online, and who writes the words.
+### What should you ask before you sign?
+Who owns the domain and the hosting account? The answer should be you, in your name, with your login.
+What do I keep if we part ways? Get it in writing, file by file.
+Who writes the words? This is where projects stall for months. “You send us the copy” is fine, as long as you know that’s the real timeline.
+How many hours does this quote assume, and what does year two cost? Hosting, updates and the hourly rate for changes. A vague answer here is the clearest warning sign there is.
+Two quiet red flags: a quote given before anyone asked what your business does, and a monthly fee with no stated term. The first usually means a template. The second means the meter runs until you notice, and nobody sends you a reminder.
+Put the phone face-down for an hour. Here’s where to eat in Brooklyn instead.
 ### Frequently asked questions
-### Q. Is a website worth it for a small business?
-A.  It is worth it when you can name what a visitor should do there — buy, book, apply, or read something only you can tell them. If you cannot name that action yet, a website will not create it, and the money is better spent on being findable. Revisit the question the moment you start selling or scheduling online.
-### Q. Is $1500 a good price for a website?
-A.  For a freelancer building a small custom site with your own words and photos, $1,500 is a fair market price. It is high for a template with your logo dropped in and low for anything with e-commerce or custom functionality. Judge it by who writes the content and who owns the accounts, not by the page count.
-### Q. How much does it cost to set up a small website?
-A.  Doing it yourself on a platform, roughly $200 to $600 for the first year — a plan billed annually, with the domain usually free for twelve months. Hiring a freelancer, roughly $1,500 to $5,000 all in. The setup is rarely the expensive part; year two, when the free domain renews and changes start costing hourly, is where budgets break.
-### Q. What can I use instead of a website?
-A.  A claimed Google Business Profile plus a complete listing on a local directory covers what a small brochure site covers: who you are, what you do, your service area, contact details, photos and reviews. It works well for home-based businesses and service-area trades. It does not work if you need to sell, schedule with deposits, or publish your own content.
-### Q. What is a fair price for a website?
-A.  Fair depends on which of the three products you are buying. Platform subscriptions are $17 to $49 a month billed yearly. Freelance builds are $500 to $8,000. Agency builds start around $5,000. A price is unfair mainly when it is quoted before anyone has asked what your business does, or when year-two costs are left vague.
+### Q. Which type of website is best for beginners?
+A.  For most first-time owners, a platform subscription: you pick a template, type your own words and the platform handles hosting. Squarespace’s Basic plan is $19 a month paid annually. If you need help learning the tools, St. Louis County Library offers free LinkedIn Learning and Udemy courses on starting and running a business.
+### Q. What is the downside of Wix?
+A.  The free version is limited. Wix says creating a website is free, but connecting your own domain and removing Wix branding take a Premium plan. Like any platform, you’re renting, so the pages stay behind if you stop paying.
+### Q. What is the downside to Squarespace?
+A.  Two costs that arrive later. The Basic plan carries a 2% online store transaction fee on top of card rates from 2.9% + $0.30, and the free first-year domain renews at Squarespace’s standard rate after the first year.
+### Q. What are the key differences between Squarespace and WordPress?
+A.  Squarespace is a subscription where hosting, security and updates come bundled. WordPress is software you run on hosting you choose, which gives you more control and more of the upkeep. Renting versus owning, in other words.
+### Q. What is a 1 page website called?
+A.  Usually a one-page website, or a landing page when it exists to get one action, like a call or a booking. For a service business with no storefront, a complete listing on St Louis Near Me Directory can work as a standalone web presence in the meantime.
+### Q. Which website builder is the best for SEO?
+A.  The builder matters less than what you put on it: clear service pages, your real service area and answers to the questions customers actually ask. Pair the site with a claimed Google Business Profile and listings like St Louis Near Me Directory so search engines see the same name, phone and address everywhere.
 ### Q. Do I need an LLC to run a website?
-A.  If the answer turns out to be an app rather than a site, the pricing works nothing like this — see what it costs to build an app in St. Louis before you ask anyone for a quote.
-No. Neither Missouri nor any platform requires a business entity before you can register a domain and publish a site. Forming an LLC is a liability and tax decision that stands on its own, separate from your website — and if you are weighing it, look at how the entity forms actually differ rather than at what a website builder tells you.
-If the budget question is really a marketing question, start with what small business marketing actually costs here. Setting up in general? See licensing and bookkeeping costs. Or browse local pros on St Louis Near Me Directory. Hiring out the marketing side too? How to choose an SEO company without getting burned - including what you must own before you sign anything. Wondering when any of it starts paying off? How long local SEO takes, split into the parts that move in days and the parts that take months.
-If you own a business with a website nobody visits, this part is for you. If you built it once and it compounded, when would you want to start - now, or a year from now? If your sign fell down tomorrow, would anyone online still know you exist? Are you okay staying invisible - or is it time to be found? See your options →
+A.  No. You can register a domain and publish a site without forming an entity. Forming an LLC is a liability and tax decision on its own; if you’re weighing it, read how the entity forms actually differ first.
+A website is one line in a bigger marketing budget. Start with what small business marketing costs here, then licensing, bookkeeping costs, choosing an SEO company and how long local SEO takes, or browse local pros on St Louis Near Me Directory.
+If you’re the web designer or one-person studio building sites for St. Louis owners, this part is for you. The owner squinting at a quote on their phone is also asking ChatGPT who builds sites around here. On a Gold listing, every image, blog, coupon and video can be indexed and cited on its own, across up to 10 categories, so that answer can land on you and you get more customers. See the Gold plan or join here. Refuse to be invisible.
 
 ## In Missouri, Your Nephew Counts: The Business Insurance Actually Required
 Source: https://stlouismissourinearme.com/blog/business-insurance-missouri-what-is-required
