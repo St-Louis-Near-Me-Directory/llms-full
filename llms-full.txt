@@ -13363,71 +13363,63 @@ A.  HomeGuide calls spring replacement the most common garage door repair. Opene
 ### Q. Is it cheaper to repair or replace a garage door?
 A.  Almost always repair, when the problem is a spring, cable, roller, sensor or opener. Replacement makes sense when panels are badly damaged or the door is old and failing in several places at once. Get both prices in writing before you decide.
 
-## Credit Card Processing Fees: What Missouri Businesses Actually Pay
+## St. Louis Charges You 2.45% to Pay by Card. Here's What Your Shop Pays
 Source: https://stlouismissourinearme.com/blog/credit-card-processing-fees-small-business
 ### What do credit card processing fees actually cost a small business?
-Between 1.5% and 3.5% of each transaction, and where you land inside that range depends less on luck than most owners think. Which is oddly good news: if it isn’t luck, then the gap between 1.5% and 3.5% is something you can actually control — once you know where to look.
-That range is the one point everyone agrees on — NerdWallet, the U.S. Chamber of Commerce and OnDeck all publish the same figures independently. Roughly:
-In person, tapped or swiped — about 1.8% to 2.6%, plus 8 to 15 cents
-Online or manually keyed — about 2.25% to 3.5%, plus 25 to 30 cents
-Debit — about 0.5% to 1.5%, lower because debit interchange is regulated
-So the same $100 sale costs you roughly $2 across the counter and closer to $3.50 typed into a form. If a meaningful share of your work is invoiced or taken over the phone, that difference is not rounding — it is a line item worth managing.
-And the question almost everyone is really asking: in Missouri, you are allowed to pass it on. More on that below, because it is the part page one does not answer.
-### Where the money actually goes
-Your rate is not one fee. It is three, stacked, and only one of them is negotiable — which is the single most useful thing to understand before any sales call.
-Interchange. The largest slice, and it goes to the bank that issued your customer’s card — not to your processor. It is set by the card networks, it is the same for everyone, and nobody can discount it for you. Rewards cards carry higher interchange, which is why the customer paying with a premium travel card costs you more than the one with a plain debit card.
-Assessments. A small cut to the network itself — Visa, Mastercard, and so on. Also fixed, also not negotiable.
-The processor’s markup. This is the only part that is actually up for discussion, and it is the entire basis of every competing quote you will ever receive.
-When a salesperson promises to “beat your rate,” they are talking about that third layer. Anyone claiming they can cut the first two is either confused or counting on you being.
-### The three pricing models, and the one to avoid
-Flat rate. One blended percentage for everything — the Square and Stripe model. You pay the same whether the customer used a debit card or a premium rewards card. It is simple, predictable, requires no negotiation, and for low volume it is genuinely hard to beat on total cost once you account for your own time.
-Published rates as of this writing: Square 2.6% + $0.15 in person on the free plan, 3.3% + $0.30 for online and invoices, 3.5% + $0.15 keyed. Stripe 2.9% + $0.30 for standard online domestic cards. Both change their pricing periodically, so check current rates rather than trusting any article, including this one.
-Interchange-plus. You pay the real interchange, whatever it happens to be for that card, plus a stated markup. A competitive markup for a small or mid-sized merchant runs roughly 0.20% to 0.50% plus 10 to 20 cents. It is the transparent option — you can see exactly what the processor is making — and as volume grows it usually wins. It also requires you to read a statement.
-Tiered. Your transactions get sorted into vague buckets labeled something like “qualified,” “mid-qualified” and “non-qualified.” The advertised rate is the qualified one. A great deal of your volume will mysteriously not qualify.
-Avoid tiered. The structure exists to make comparison impossible, and the headline number it advertises is the one you will rarely pay.
-### Can you charge customers the fee? In Missouri, yes.
-This is the most-asked question on the topic and the least well answered, because the answer genuinely depends on your state — and nearly every guide ranking for it is written for nobody in particular.
-Missouri has no state law prohibiting or regulating credit card surcharging. A Missouri business may add a surcharge to credit card transactions. You are still bound by the card networks’ own rules, which generally cap surcharges in the region of 3–4%, require advance disclosure, and require that you register the practice with the networks.
-For context on why this varies at all: in Expressions Hair Design v. Schneiderman, the Supreme Court held unanimously that surcharge bans regulate speech rather than conduct — they govern how a business is allowed to describe its prices. That reasoning dismantled outright bans in states that had them. Missouri never had one to dismantle.
-### Surcharge or cash discount?
-They sound like the same thing and they are not, legally or in how customers receive them.
-A surcharge adds a fee on top of the posted price when someone pays by credit card. A cash discount posts the higher price for everyone and takes something off for cash. Same arithmetic, different framing — and the cash-discount structure sits outside most surcharge rules entirely, which is exactly why many businesses choose it.
-Two practical notes. Debit is different: surcharging debit cards is not permitted the way credit surcharging is, so a blanket “card fee” applied to everything is a mistake. And disclose it before the sale, visibly — at the door, on the menu, on the estimate. The complaint customers make is almost never about the 3%. It is about finding out at the till.
-### If you take orders through a delivery app, that is a different number
-Worth separating, because restaurant owners routinely blame their processor for something else entirely. Go and read what owners post about this and you will find figures like “we have 14.81% come out of every sale” — and then a reply blaming the card processor. It almost never is.
-Card processing runs 1.5% to 3.5%. Third-party delivery marketplace commission is an entirely different order of magnitude — Uber’s own published pricing lists marketplace delivery in the region of 20–30%, against roughly 2.5% plus 29 cents when the order comes through your own website using their tooling.
-So an order placed on the app and the same order placed on your own site are not remotely the same transaction, and no amount of renegotiating your card rate touches the gap. If your effective cost per sale looks impossible, check which channel the orders are arriving through before you fire your processor.
-One Missouri-specific trap that rides along with this. Missouri Department of Revenue Letter Ruling LR 8316 addressed whether delivery platforms act as the marketplace facilitator for sales tax purposes — and concluded they do not, in the arrangement examined. The practical consequence is that the restaurant generally retains primary liability for the sales tax on those orders, even though the platform collected the money from the customer.
-That is not a processing question, it is a remittance one, and getting it wrong compounds monthly. If a meaningful share of your revenue arrives through a delivery platform, confirm with your accountant who is remitting what — and see our guide to the Missouri sales tax license for the underlying obligation.
-### The fees that are not on your rate sheet
-The percentage is the part people compare. The monthly extras are where a “cheaper” processor quietly becomes expensive:
-Monthly minimum — charged if your fees fall short of a floor. Brutal for seasonal businesses.
-PCI compliance fee, and worse, a PCI non-compliance fee if you never completed a questionnaire you may not know exists.
-Statement, batch and gateway fees — small individually, permanent collectively.
-Chargeback fees, charged per dispute whether or not you win it.
-Early termination fees, which is why the contract length matters more than the rate.
-The only number that means anything is your effective rate: total fees for the month divided by total card volume. Work it out from an actual statement. It is frequently 0.5 to 1 point above whatever rate was quoted, and it is the only figure worth comparing between providers.
-Random, but: Old North St. Louis is having a quiet comeback.
-### When switching is worth the hassle
-Run the effective rate before you do anything else. If it is close to the flat rates above, a switch will save you very little and cost you a week.
-Interchange-plus generally starts to win as volume grows, because the flat-rate blend that protects a small merchant becomes an overpayment once you are processing steadily. Rather than trusting anyone’s threshold — including a processor’s, whose threshold is always conveniently just below your volume — take one month of real statements and price it both ways.
-One more thing worth checking before you switch anything: how quickly the money actually lands. Two processors quoting the same rate can settle days apart, and for a business managing payroll against a thin balance, funding speed is worth more than a tenth of a point. Ask what standard settlement looks like, whether next-day funding costs extra, and what happens to deposits over a weekend or a holiday. It rarely appears on a rate comparison and it is frequently the thing you notice most.
-Before signing anything, ask four questions and write down the answers: what is the markup over interchange, what is the contract term, what are the monthly fees in full, and what does leaving cost? A processor that will not answer the fourth in writing has told you what you need to know.
+Pay your real estate tax by card at the City of St. Louis Collector of Revenue and a 2.45% transaction fee rides along. A small business pays in the same neighborhood. On Stripe’s posted standard pricing, a domestic card costs 2.7% plus 5 cents tapped in person and 2.9% plus 30 cents online, so a hundred-dollar online order nets $96.80. Debit runs far lower: federal rules cap the bank’s cut on most debit cards at 21 cents plus 0.05%.
+### Even the city passes the card fee on
+Late December. The real estate tax bill is on the kitchen table next to a cold cup of coffee, because the city adds a penalty to anything still unpaid after December 31st. You type in the card number, hit continue, and there it is on the screen before you can pay: a 2.45% transaction fee for paying by card. Right there, on the city’s own payment page, the government passes its card cost to the person paying, posted on the screen before anyone clicks.
+And Missouri law spells out how far a county collector may go. Section 52.250 of the state statutes lets a county collector take credit cards for taxes, and it draws a hard line: no county collector may charge a surcharge for payment by credit card which exceeds the fee or surcharge charged by the credit card bank for its service.
+The state lets its own county tax offices pass the card cost to you. Not a penny of profit on top.
+That is the line worth screenshotting, because it answers the question every owner is quietly asking when the receipt printer chatters out another card slip: can I pass this on? For its own tax offices, the state already answered it: yes, at cost, said out loud. A second Missouri statute, section 408.140, makes the same point from the lending side. A lender can charge a convenience fee for a card payment taken online or by phone, but only if the person paying is notified of the fee, and the fee is fixed or flat.
+Neither statute was written for a coffee shop or a one-truck plumbing outfit. But together they show how Missouri thinks a fair card fee looks: disclosed before the money moves, tied to what the bank actually charges, never a hidden profit line. The card brands keep their own surcharge rules on top of that, and your processor agreement binds you to them, so ask your processor for their surcharge terms in writing before a new line shows up on a single receipt.
+### The statement nobody reads past page one
+It lands in the inbox after close, while the mop water is still going gray in the bucket. A PDF, six or seven pages, rows of codes that look like a parts catalog. The total is on page one. How it got that big is spread across every page after it. Next month it comes again.
+That statement is built to be closed. The rate you were quoted on the sales call sits on page one. The rest of what you paid hides in the rows after it, in labels nobody outside the industry speaks. It is not that you missed something. The paperwork was written so the real number takes an evening to find.
+Three plain moves dig the real number out, and each one is something the processor already hands you or has to answer. First, pull one full month of the statement and divide the total fees by the total card sales. That one number, your effective rate, is the only figure worth comparing. Second, call the support line printed on that statement and ask, in these words, “What is your markup over interchange?” Ask for the answer by email. Third, ask what it costs to leave, and get that in writing too.
+So here is the one-line email worth sending your processor tonight: what was my effective rate last month, to the tenth of a point?
+### Three layers, and only one bends
+Your rate is not one fee. It is three, stacked like plates at the end of a lunch rush.
+Interchange goes to the bank that issued your customer’s card. You cannot haggle it. The card networks set it, and on most debit cards federal rules cap it. Network fees go to the card brand itself. Also fixed. The processor’s markup is the only slice that moves, and it is the entire fight behind every “we’ll beat your rate” pitch that walks through your door.
+So when someone promises to cut your interchange, smile and ask for the markup number instead.
+### Flat rate, interchange-plus, or the tiered maze
+Flat rate is one blended price for every card, the Stripe-style model above. You pay the same on a plain debit card and a premium rewards card. No reading required, and for a small, uneven month it is hard to beat once your own hours count.
+Interchange-plus passes the real interchange through and adds a stated markup. You can see exactly what the processor keeps. As steady volume grows it usually wins, but it asks you to read the statement you used to close.
+Tiered sorts your sales into buckets with names like qualified and non-qualified. The advertised price is the qualified one, and a lot of real sales somehow never qualify. If a quote comes back tiered, ask for it again as interchange-plus. If they will not do that, you have your answer.
+### Surcharge or cash discount: same math, different feeling
+Picture the two signs taped beside the register. One says a card fee is added at checkout. The other says the posted price is the card price, and cash pays a little less. The arithmetic can land on the same dollar. The customer’s chest does not. A surcharge feels like being charged extra. A discount feels like being let in on something.
+Which one you can run depends on your processor agreement and the card brands’ rules behind it, and the two setups are not treated the same way. So before you print either sign, email your processor one line: “Which of these do you support for my account, and what disclosure do you require?” Keep the reply. If a customer ever asks, you can show it to them.
+### What to say at the counter
+The fee is rarely the fight. The surprise is. Nobody minds a number they saw on the door; plenty of people mind one that shows up on the screen after the card is already in the reader.
+So say it first, and say it plainly. Put it on the door, on the menu board, on the estimate, on the invoice before it goes out. Keep it to one sentence a tired person can read at the end of a long shift. And if someone pays with debit, or pushes back, have the cash or check option ready without a sigh. The owners who handle this well treat it like posting their hours: just a fact about how the place runs.
+One hundred-dollar sale, priced out
+### What is the average charge for credit card processing?
+On Stripe’s posted standard pricing, a hundred-dollar domestic card sale costs $2.75 tapped in person (2.7% + 5¢) and $3.20 online (2.9% + 30¢). Typing the card number in by hand adds another 0.5%, and an international card adds 1.5%. Debit runs far lower, because federal rules cap the bank’s cut on most debit cards at 21 cents plus 0.05%.
+### The fees that are not on the quote
+The percentage is what gets compared. The extras are where a cheap processor turns expensive, one small row at a time.
+Chargebacks are the one that stings. That sinking feeling when a dispute email arrives for a sale you made weeks ago? On Stripe’s posted pricing it costs $15.00 just to receive the dispute, and another $15.00 if you counter it. Ask any processor for its full list of monthly, statement, compliance and early-termination fees before you sign, and read the cancellation clause before the rate.
+Card fees are one bill. The other one that grows when you’re not watching: what a small business website really costs after year one.
+### When switching is worth a week of hassle
+Run your effective rate first. If it sits close to the flat prices above, a switch saves you lunch money and costs you a week of reprogramming the reader.
+If it sits well above them, take one month of real statements and price it both ways, flat and interchange-plus. And ask when the money actually lands in your account. Two processors quoting the same rate can settle days apart, and for anyone making payroll off a thin balance, funding speed can matter more than a tenth of a point.
+Before you sign anything new, write four answers on the back of an old receipt: the markup over interchange, the contract term, the full list of monthly fees, and the cost to leave. If a salesperson gets vague on any of the four, slow down. The quote that sounds best on the phone is often the one with the longest contract behind it.
+A processor that will not tell you, in writing, what it costs to leave has already told you what you need to know.
+Running the numbers on starting out? Our guides to the Missouri sales tax license and the walk through Old North St. Louis, a neighborhood full of small owners doing exactly this math, are good next reads.
 ### Frequently asked questions
-### Q. Is it illegal to charge the 3% credit card fee?
-A.  Not in Missouri. The state has no law prohibiting or regulating credit card surcharges, so a Missouri business may pass the cost on. You must still follow the card networks’ rules — which generally cap the surcharge around 3–4%, require clear advance disclosure, and require registering the practice. Legality genuinely varies by state, which is why national guides dodge this question.
-### Q. Can I pass on credit card fees to my customer?
-A.  In Missouri, yes. You can either surcharge credit card payments or run a cash discount, where the posted price applies to everyone and cash customers pay less. The cash-discount structure avoids most surcharge rules. Either way, disclose it before the transaction — customers object far more to the surprise than to the amount.
-### Q. Can merchants charge 2% extra on credit card payments?
-A.  Yes, provided the surcharge does not exceed your actual cost of acceptance and stays within the networks’ cap, generally around 3–4%. A 2% surcharge on credit cards is well inside that. Note that debit cards are treated differently and cannot be surcharged the same way, so avoid a blanket fee on all card payments.
-### Q. Is a 3% credit card fee normal?
-A.  It is at the high end but not unusual, particularly for online, invoiced or keyed transactions, which run about 2.25% to 3.5% plus a fixed amount. In-person card-present rates should be lower, around 1.8% to 2.6%. If you are paying near 3% for mostly in-person sales, your effective rate is worth auditing.
-### Q. What is the cheapest way to accept a credit card payment?
-A.  Card-present beats keyed every time — taking the card in person is meaningfully cheaper than typing the number into a form, because keyed transactions carry more fraud risk. Beyond that: encourage debit where practical, since regulated debit interchange is lower, and match your pricing model to your volume rather than to whichever advert reached you first.
-### Q. How to avoid the 3% credit card fee?
-A.  You cannot avoid interchange — it goes to the card-issuing bank and nobody discounts it. What you can do is reduce the processor’s markup, take payments in person rather than keyed, steer toward debit, and in Missouri either surcharge or offer a cash discount. Start by calculating your effective rate from a real statement; most owners have never done it.
-Do you refuse to be invisible? The rest of the money side: the sales tax license, what it costs to start, and hiring your first employee. Or browse local pros on St Louis Near Me Directory. The other fee that hides in the fine print: what a small business website really costs, including the domain renewal after the free year.
-If you run a business that takes cards, these questions are for you. The machines are answering for your customers now. Do they know your name? Run your free visibility check →
+### Q. Is it legal to charge a 3% card fee?
+A.  St. Louis does it to its own taxpayers: the City of St. Louis Collector of Revenue charges a 2.45% transaction fee for all credit and debit card payments. And Missouri’s statutes model the limit: county collectors may add a credit card surcharge on taxes as long as it does not exceed what the card bank charges them. For a business, the safe version follows the same shape. Keep the fee at or under your real cost, tell the customer before they pay, and get your processor’s surcharge terms in writing, because the card brands’ rules apply on top of state law.
+### Q. What are the rules for credit and debit card surcharges?
+A.  Two layers: the law, and the card brands’ rules your processor agreement binds you to. In Missouri, the statutes that address card fees for tax collectors and lenders share a pattern: disclose the fee, keep it flat or tied to the bank’s actual charge. Debit is treated differently from credit by the card brands, so ask your processor before any fee touches a debit card.
+### Q. Is it illegal to charge a 3% fee on a debit card?
+A.  Check with your processor before you try it. Debit is where a 3% fee is hardest to defend on cost alone: federal rules cap the bank’s cut on most debit cards at 21 cents plus 0.05% of the sale, so 3% on a $50 debit sale would collect far more than the card actually costs you. The card brands also handle debit surcharges differently from credit.
+### Q. What is the cheapest way for a small business to accept credit cards?
+A.  Take the card in person. On Stripe’s posted pricing, a tapped card costs 2.7% plus 5 cents, against 2.9% plus 30 cents online, and keying the number in by hand adds 0.5% more. Then match the pricing model to your volume: flat rate while you are small and uneven, interchange-plus once card sales run steady.
+### Q. How to get away from credit card processing fees?
+A.  You cannot escape interchange, since it goes to the bank that issued the card. You can shrink everything around it: cut the processor’s markup, take cards in person instead of keyed, welcome debit, and disclose a fair surcharge if you choose to pass the cost on. Start with your effective rate from one real statement.
+### Q. Why is everyone charging credit card fees now?
+A.  The cost was always there, folded into the price on the shelf. Showing it as its own line is just being honest about it, and the City of St. Louis does exactly that with its 2.45% card fee on tax payments. The owners who get a nod instead of a complaint are the ones who say it before the card comes out. And when a regular tells a friend where they shop, that word travels further when the friend can look you up on St Louis Near Me Directory.
+Pull one statement tonight and find your real rate. Then work through the rest of the money side: the sales tax license, what it costs to start, and hiring your first employee.
+If you run the counter, the food truck or the one-person shop that takes cards, a lower rate only helps when customers walk in. Every sale you protect at the reader starts with someone finding you first. When a neighbor asks ChatGPT who to call, does it name you, or someone else? See who AI names instead of you →
 
 ## The Cash-Only Bakery That Takes Cards: What to Order at Missouri Baking Co on The Hill
 Source: https://stlouismissourinearme.com/blog/explore-the-delicious-missouri-baking-co-menu-what-s-new-for-2025
@@ -15331,75 +15323,69 @@ A.  Yes. RSMo 287.030 says an employee who is a member of the employer’s famil
 Paperwork done means you can finally get back to the work. Before the next license visit or lease renewal, get the certificate or exemption affidavit in hand and the contract’s required limit in writing. Then browse local pros you may need along the way on St Louis Near Me Directory.
 If you’re the contractor, the shop owner or the one-person crew who just squared away the insurance, here is the next question. You did the hard part so customers can trust you - can they find you? When a neighbor asks ChatGPT who to call, which name comes up instead of yours? See who AI names instead of you, and decide for yourself whether to get more customers from it.
 
-## Business Partnership Agreements in Missouri (You May Already Be in One)
+## No Partnership Agreement? Missouri Wrote One: Equal Split, No Pay for Your Hours
 Source: https://stlouismissourinearme.com/blog/business-partnership-agreement-missouri
 ### Do you need a partnership agreement in Missouri?
-Here is the part that catches people: in Missouri you can be in a legally binding partnership without ever signing anything. Which is worth reading twice: you could be legally bound to someone right now and not know it. So — are you already in a partnership you never actually agreed to?
-No filing creates a general partnership. Under Missouri’s partnership law, one exists as soon as two or more people associate to carry on a business for profit as co-owners. No paperwork, no registration, no conversation about it. Two friends doing jobs together and splitting the money have very likely formed one already.
-Which matters enormously, because if you never write an agreement, the state has already written one for you — and its default terms are almost certainly not what you had in mind.
-Search this topic and you will get a wall of template vendors. Page one right now is LawDepot, Rocket Lawyer, Legal Templates, eForms, Signaturely, Nitro. All selling the same document, none explaining what Missouri law does to you in the meantime.
-### Are you already in a partnership without knowing?
-Because formation requires no paperwork, the question is worth asking honestly. A few situations that commonly qualify, or come uncomfortably close:
-Two tradespeople splitting jobs. You quote together, work together, split the money, and each pay your own taxes on your share. There is no company and no contract — but you are carrying on a business for profit as co-owners, which is the statutory test.
-A friend who came in to help and stayed. It started as a favor, then they were doing half the work and taking half the money. Nobody ever named the arrangement. The law does not require anyone to name it.
-The person who put up money for a share of profits. If they are getting a cut of profits rather than repayment of a loan, that looks a great deal like a partner — with the liability and the say that implies.
-A spouse or family member working the business with you. Extremely common, almost never documented, and it becomes the central question in a divorce or an estate.
-Contrast those with arrangements that generally are not partnerships: an employee on payroll, a genuine subcontractor invoicing you for work, or a lender being repaid a fixed amount regardless of how the business performs. The dividing line is usually sharing profits as co-owners rather than being paid for work or capital.
-If any of the first four describe you, the useful thing is not alarm — it is that you can document it now. An agreement signed today can define contributions, split, authority and exit going forward, and that is a far better position than discovering the default rules during an argument.
-### What Missouri's default rules actually say
-Three of them do real damage, and every one is reversible by an agreement you have not written yet.
-### 1. Profits split equally — no matter what you put in
-Under RSMo 358.180, absent an agreement each partner shares equally in profits and surplus, and contributes toward losses in proportion to their share of profits.
-Read that against how these things usually start. One person puts in $40,000 and the truck; the other puts in labor and a client list. The default rule does not care. Fifty-fifty, unless you agreed otherwise in a way you can prove.
-Nobody argues about this while the business is working. It surfaces the first time there is a genuinely large check, or when one partner starts doing visibly less.
-### 2. You are liable for what your partner does
-RSMo 358.150 makes partners liable jointly and severally for everything chargeable to the partnership and for its other debts and obligations.
-“Severally” is the word that costs money. It means a creditor does not have to chase you both proportionally — they can pursue whichever partner can actually pay, for the whole amount. If your partner signs a lease, orders materials, or runs up an obligation in the partnership’s name, that debt can land entirely on you, and it reaches your personal assets because a general partnership offers no liability shield at all.
-This is the single strongest argument for an LLC over a handshake partnership, and it has nothing to do with taxes.
-### 3. Missouri is running on a 1914 statute
-Missouri’s partnership code is Chapter 358 — the 1914 Uniform Partnership Act. Many states have since moved to the substantially revised 1997 version. Missouri has not.
-The practical consequence is that generic advice written for “most states” can quietly describe rules that are not yours. It is another reason a template downloaded from a national site is a starting point rather than an answer.
-### If you have an LLC, Missouri requires an operating agreement
-This one surprises nearly every LLC owner we mention it to.
-RSMo 347.081.1 states that the member or members of a limited liability company shall adopt an operating agreement. Not “may.” It applies to single-member LLCs too.
-What confuses people is that you never file it. The Secretary of State does not want it and will not ask for it, so a great many Missouri LLC owners complete their $50 formation, receive nothing further, and reasonably conclude there is nothing further. The obligation sits quietly in the statute.
-Missouri also declares a policy of giving maximum effect to the principle of freedom of contract and to the enforceability of operating agreements. Read that as encouraging: what you write down is very likely to be honored. Which is only useful if something is written down.
-### What actually belongs in it
-Skip the boilerplate for a moment. These are the clauses that decide whether a disagreement becomes a conversation or a lawsuit.
-Who contributed what, in writing. Cash, equipment, vehicles, client lists, and the value assigned to each. Also whether later contributions are loans or additional equity — the difference matters enormously if the business is ever sold.
-How profits split, and when money comes out. Ownership percentage and distribution schedule are separate questions, and partners routinely assume the same answer to both.
-Who can bind the business. What one partner can sign alone, and what needs both. Given joint and several liability, this is the clause protecting your house.
-How decisions get made at a tie. Two equal partners deadlock eventually. Name the tiebreak — a third party, a coin, an area of final say each — before you need it.
-What counts as work. The most common quiet resentment in a small partnership is one person feeling they carry more. Hours, roles, and what happens if someone stops showing up.
-The exit. Covered below, because almost nobody writes it and it is the clause that matters most.
+Two people split a check on a tailgate after a job inside St. Louis city limits, nothing signed, and in Missouri that handshake is already a partnership. That is the catch: without a written agreement, the state’s partnership statute writes one for you, with equal shares of the profit no matter who bought the truck, no pay for the hours put in, and every partner liable for the partnership’s debts. The Secretary of State does not even accept a filing to create one.
+### “No partner is entitled to remuneration”
+The first big job inside the city is done. The two of you are leaning on the tailgate with the check, drywall dust still in your hair, doing the split in your heads. Four Saturdays on that job for one of you. One Saturday for the other, but he brought the client and the trailer. A handshake feels like nothing’s in writing yet. In Missouri, something already is. And the city already has its own line on that check: the City of St. Louis requires businesses that perform work inside city limits, even crews based out in the county, to pay an earnings tax of 1% of the business’s earnings.
+The state has a line on it too, written long before the two of you met. With nothing on paper, Missouri supplies the agreement, in Chapter 358 of the state statutes, and it reads like this: “No partner is entitled to remuneration for acting in the partnership business.”
+Those extra Saturdays earn nothing extra under the default. The same section says each partner shall be repaid their contributions and share equally in the profits. The statute splits it the same way whether one partner put in $40,000 or his phone contacts, unless an agreement overrides it.
+And no paperwork ever started any of this. Missouri defines a partnership as “an association of two or more persons to carry on as co-owners a business for profit.” The Secretary of State’s own startup guide says general partnerships can be formed without the involvement of the Secretary of State at all, and that the office does not receive or accept filings related to creating them. The default rules sit in a statute few people ever open, and no office mails a copy when two people start splitting checks. Missouri never mails it to you, and it governs the split anyway, starting with the first check.
+What does it take to overrule the state’s version? Not a stack of paperwork. One evening at the kitchen table. The Revisor of Statutes posts section 358.180 online: read its default rules out loud together, one at a time, and each of you write down the three you would change. That list is the first draft of your agreement. If the bigger question is a wall between business debts and your house, the Secretary of State’s startup guide lays out the routes: an LLC, formed by filing articles of organization, or a limited liability partnership, which a general partnership can elect with an application that costs $55 for two partners. And a crew trading under a business name instead of the partners’ own names registers that name with the same office as a fictitious name, which Missouri law requires.
+So which of those default rules would you two have picked on purpose?
+### The partnership has its own city tax paperwork
+The tax side runs on a quiet default too, and it doesn’t send a reminder. The City of St. Louis requires all businesses located in the city, except those exempted by law, to pay that 1% earnings tax, and a crew based out in the county still owes it when it performs work, services or business activity inside city limits. The return is Form E-234, and when a business closes or permanently stops activity in the city, the Collector of Revenue asks for Form E-5.
+Picture the last day: the trailer sold, the final check split on the same tailgate, both of you ready to be done. The city still expects that E-5. So the agreement has room for two names: who files the E-234 every year, and who files the E-5 when the partnership ends.
+### The handshake also makes you liable for the whole debt
+Picture the envelope on the counter: a supplier’s collection letter with your name on it, for a pallet of materials your partner ordered in the business name. You never saw the invoice. The statute says that doesn’t matter.
+Under section 358.150, all partners are liable jointly and severally for everything chargeable to the partnership. “Severally” is the word that costs money. A creditor does not have to split the bill between you. They can go after whichever partner can pay. If your partner signs a lease or orders a pallet of materials in the business name, that debt can land on you, and a general partnership puts no wall around your personal savings.
+That is why the structure question usually comes before the agreement question. A written partnership agreement decides how the two of you share the pain. It does not stop a creditor from reaching either of you.
+### Can a 51% owner fire a 49% owner?
+In a handshake partnership, the percentages may not mean what you think. Missouri’s default rules say all partners have equal rights in the management and conduct of the partnership business, and that ordinary disagreements may be decided by a majority of the partners. Partners, not percentage points. With two of you, a majority means both.
+The same section says no person can become a member of a partnership without the consent of all the partners. So the bigger owner cannot simply vote in a new partner, either. If one of you should have the final word on hiring, pricing or the books, the only place that power lives is in writing.
+Picture the moment it matters: the shop is quiet, the coffee has gone cold, and the two of you have been circling the same argument for an hour. Without an agreement, the statute has already said neither of you wins it alone.
+### If you have an LLC, Missouri says you shall adopt an operating agreement
+This one surprises nearly every LLC owner. Under RSMo 347.081, the member or members of a limited liability company shall adopt an operating agreement. Not “may.” Shall.
+What confuses people is that you never file it. The articles of organization go to the state. The operating agreement stays in your own drawer, so plenty of owners finish the online filing, see the approval come through, and reasonably assume they are done. The obligation sits quietly in the statute, waiting for the day a bank, a buyer or a judge asks to see it.
+### What should a partnership agreement include?
+Skip the boilerplate. These are the clauses that decide whether a disagreement becomes a conversation at the kitchen table or a filing at the courthouse.
+Who put in what. Cash, tools, vehicles, the client list, and the value you both agree each one is worth. Say whether later money is a loan or more ownership.
+How profit splits, and when money comes out. Ownership and paychecks are two different questions. Remember the default says no pay for your work.
+Who can sign for the business. What one partner can sign alone and what needs both. With joint and several liability, this clause protects your house.
+How a tie breaks. Two equal partners deadlock eventually. Name the tiebreak before you need it.
+What counts as showing up. Hours, roles, and what happens if one of you stops coming in.
+The exit. Covered next, because it is the clause almost nobody writes.
 ### The clause nobody writes
-Every partnership ends. Someone retires, moves, gets divorced, gets sick, wants out, or dies. The agreement’s real job is to describe that day while everyone still likes each other.
-How is a departing partner bought out, and at what valuation? “Fair market value” is not a formula — it is a future argument. Write the actual method.
-Can a partner sell their share to a stranger? Without a right of first refusal, you may find yourself in business with someone you have never met.
-What happens on death or disability? Absent terms, a partner’s interest can pass to their estate, which means negotiating the future of your business with a grieving spouse.
-Who keeps the name, the phone number, and the customer list? For a local service business this is frequently worth more than the equipment, and it is the fight we see most often. The listings, the reviews, the number people have saved — decide now who walks away with them.
-Unrelated, and we know it — Carondelet is worth a wander.
+Every partnership ends. Someone retires, moves, gets sick, gets divorced, gets an offer, or dies. The agreement’s real job is to describe that day while you still like each other enough to talk about it over a beer.
+How is a departing partner bought out, and at what price? “Fair market value” is not a formula. It is a future argument. Write the method.
+Can a partner sell their share to a stranger? Without a right of first refusal in your agreement, you may end up negotiating with someone you have never met.
+What happens on death or disability? Without terms, you could find yourself sorting out the future of the business with a grieving family at the worst possible moment.
+Who keeps the name, the phone number and the customer list? For a local service business that is often worth more than the equipment. The listings, the reviews, the number people have saved in their phones: decide now who walks away with them.
+Tonight, read the default rules together and mark the ones you would change. Then line up the rest of the setup: LLC or sole proprietor, licensing, and buying someone out. Or browse local pros on St Louis Near Me Directory.
+If you run a two-person crew, a shop with a co-owner, or a side business with a friend, the name you share is worth protecting together. When a neighbor asks ChatGPT who to call, does your shared name come up, or somebody else’s? A listing you both own puts the business where customers look, and it stays with the business, not with whoever kept the old phone. See how it works →
 ### The honest limits of a template
-A template is better than nothing, and nothing is what most partnerships have. Use one to structure the conversation.
-But understand what you are getting: a national form written for no particular state, sold by a company whose product is the form. It will not know that Missouri runs the 1914 act, and it cannot referee the buyout formula you and your partner have been avoiding.
-There is also a timing point worth being blunt about. The best moment to write this is the moment you least want to — at the start, when everyone is optimistic and raising the topic feels like distrust. Every partner who has been through a bad split will tell you the same thing: the conversation that felt awkward in month one is the one that would have saved them in year three. Framing helps. This is not a document about what happens if you stop trusting each other; it is a document about what happens if someone gets sick, gets divorced, or gets an offer.
-An hour with a Missouri business attorney, while you still agree, is inexpensive relative to any version of the alternative. If you are going to skip that, at least write the exit terms yourselves and both sign them — a rough document you actually negotiated beats a polished one nobody read.
-And if you are still deciding the shape of the business, the structure question comes first: our guide to what it costs to start a business here covers LLC versus sole proprietor, and what licensing you actually need covers the local layer.
+A template is better than nothing, and nothing is what most handshake partnerships have. Use one to structure the conversation.
+But know what you are holding: a national form, written for no state in particular, sold by a company whose product is the form. It will not walk you through Missouri’s default rules, and it cannot referee the buyout number the two of you have been avoiding.
+The best time to write this is the moment you least want to, at the start, when everyone is excited and bringing it up feels like distrust. It helps to frame it right. This is not a document about what happens if you stop trusting each other. It is a document about what happens if someone gets sick, gets divorced, or gets an offer.
+A review by a Missouri business attorney, while you still agree, costs far less than any version of the fight later. If you are going to skip that, at least write the exit terms yourselves and both sign them. A rough page you actually negotiated beats a polished one nobody read.
+Before you split the first check, settle the other paperwork too: the licenses a St. Louis business actually needs.
+Still deciding the shape of the business? Our guide to what it costs to start a business here covers LLC versus sole proprietor. And if the two of you need a walk to talk it through, Carondelet is worth a wander.
 ### Frequently asked questions
-### Q. Do you need a partnership agreement for an LLC?
-A.  In Missouri an LLC needs an operating agreement — RSMo 347.081.1 says the members shall adopt one, including single-member LLCs. It is never filed with the Secretary of State, which is why so many owners do not realize the obligation exists. Missouri law expressly favors enforcing what members agree, so what you write down carries real weight.
-### Q. How to make a business partnership agreement?
-A.  Start with the hard conversations, not the document: contributions and their agreed values, profit split, who can bind the business, how deadlocks break, what counts as work, and how someone exits. Write the answers down, then have a Missouri business attorney review it. A template can structure the discussion but cannot settle the terms for you.
-### Q. What are 6 items included in a partnership agreement?
-A.  Typically: contributions and ownership percentages; how profits, losses and draws are divided; each partner’s authority to act for the business; a decision-making and deadlock process; what happens on death, disability or withdrawal; and a dissolution or buyout method. For local service businesses, add who keeps the business name, phone number and customer list.
-### Q. What are the 4 types of partnership in business?
-A.  Broadly: general partnerships, limited partnerships, limited liability partnerships, and partnerships at will. The important distinction for most small Missouri businesses is that a general partnership forms automatically with no filing and gives no liability protection, while the others require formal steps and change who is exposed to the debts.
-### Q. What are the disadvantages of a partnership?
-A.  The largest is joint and several liability — under RSMo 358.150 a creditor can pursue one partner for the full amount of a partnership debt, including obligations the other partner created, and a general partnership shields no personal assets. Add the default equal profit split regardless of contribution, and the fact that disagreements have no referee unless you appointed one.
-### Q. Can you have a partnership without a written agreement in Missouri?
-A.  Yes, and that is precisely the risk. A general partnership arises automatically from two or more people carrying on a business for profit as co-owners — no signature needed. Missouri’s default rules then govern: equal profit shares under RSMo 358.180 and joint and several liability under RSMo 358.150, whatever you each believed you had agreed.
-The rest of the setup: LLC or sole proprietor, licensing, and buying someone out. Or browse local pros on St Louis Near Me Directory.
-If you own a business with a partner, this part is for both of you. You do good work. Why should getting more customers cost you a fortune and your trust? If AI is the new word-of-mouth, what is it saying about you? If doing nothing were working, would you still feel unseen out there? See how it works →
+### Q. Why do you need a partnership agreement?
+A.  Because without one, Missouri’s default rules decide for you. Under section 358.180, partners share profits equally and no partner is paid for working in the business, whatever each of you put in. An agreement is the only way to replace those defaults with terms you actually chose.
+### Q. What should a partnership agreement include?
+A.  Contributions and what each is worth, how profit is split and paid out, who can sign for the business, how ties break, what each partner is expected to do, and the exit: buyout price, sale to outsiders, death and disability. For a local service business, add who keeps the name, phone number, reviews and listings, including a listing on St Louis Near Me Directory if you have one.
+### Q. Can a 51% owner fire a 49% owner?
+A.  Not by default in a Missouri general partnership. Section 358.180 gives all partners equal rights in management, lets a majority of the partners decide ordinary matters, and says no one becomes a partner without the consent of all the partners. Ownership percentages only carry voting power if your agreement says so. For an LLC, the operating agreement controls.
+### Q. Is it better to do LLC or partnership?
+A.  It depends on how much personal risk you can carry. In a general partnership, section 358.150 makes partners liable jointly and severally for partnership debts. An LLC is formed by filing articles of organization with the state, and Missouri law then requires its members to adopt an operating agreement. Talk it through with a Missouri attorney or accountant before you choose.
+### Q. How much does it cost to set up an LLC in MO?
+A.  Missouri’s statute, section 347.179, sets the fee for filing the original articles of organization at $45 online and $100 on paper. If you are a general partnership choosing limited liability partnership status instead, the Secretary of State lists an initial application fee of $55 for two partners, with a renewal required annually.
+### Q. What are 5 disadvantages of a partnership?
+A.  Under Missouri’s default rules: partners are jointly and severally liable for partnership debts; profits split equally regardless of contribution; no partner is paid for their work; a majority of partners, not of ownership, decides ordinary matters; and no new partner joins without everyone’s consent. Section 358.180 says those rules apply subject to any agreement between the partners.
+### Q. How do I write a partnership agreement?
+A.  Start with the default rules in section 358.180 and decide, one by one, what you want instead. Write those answers down in plain language, cover the exit in detail, and have a Missouri business attorney review it before you both sign. A template can organize the conversation, but the decisions have to be yours.
 
 ## The Free Customer List Lead Sellers Won't Mention Is Upstairs on Lindbergh Blvd.
 Source: https://stlouismissourinearme.com/blog/st-louis-county-small-business-directory-your-local-discovery-engine
