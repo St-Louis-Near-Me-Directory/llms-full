@@ -6178,78 +6178,70 @@ A.  I won’t hand you a blacklist, because I couldn’t find one built on evide
 ### Q. What should I ask an AC repair company before they come out?
 A.  Ask what the diagnostic fee is, whether it goes toward the repair if you approve the work, and whether the quote will be itemized and in writing before work starts. When the tech arrives, ask to see the Section 608 card, since technicians who service equipment that could release ozone-depleting refrigerants must be certified.
 
-## DIY Lawn Care vs. Hiring a Pro in St. Louis: What the Science Says
+## Your Spring Grass Seed Can Fail Completely in St. Louis
 Source: https://stlouismissourinearme.com/blog/diy-lawn-care-vs-hiring-a-pro-in-st-louis
-University of Missouri Extension has a sentence about seeding a lawn in spring that ought to be printed on every bag of grass seed sold in this state:
-“In some cases, complete failure should be expected.”
-That is a land-grant university telling you that the seed everyone buys in April is largely money in the trash. Timing, not effort and not equipment, is what separates a good St. Louis lawn from a bad one — and it’s also what decides whether you should be doing this yourself.
+Spring grass seed can die here. All of it.
+You know the routine. The spreader rattles across the yard on the first warm Saturday in April, seed hissing out in a fan, and by May the bare spots have a thin green fuzz you check every morning with your coffee. By late July, in the wet-towel heat of a St. Louis summer, that fuzz is gone. What’s left is cracked clay and crabgrass, and an empty bag in the garage that cost you a weekend and a chunk of a paycheck.
+You didn’t do it wrong. You did it in the wrong month.
+University of Missouri Extension says it straight in its lawn establishment guide: seeding cool-season grass in spring “can be extremely difficult,” and “in some cases, complete failure should be expected.” The water that sprouts your seed in spring sprouts the weeds too, and then summer finishes the job. That one sentence settles most of the DIY-versus-hire question, because it means the expensive mistake is the calendar, not a lack of skill or gear.
 ### Should I do my own lawn care in St. Louis?
-Mostly yes, with two exceptions. Missouri law lets you apply any general-use product to your own lawn with no license, and the highest-value task — seeding in the August 25 to October 10 window — requires timing rather than skill. Hire out core aeration, where renting the machine barely beats the roughly $107–$202 a service charges, and hire out anything on a neighbor’s property, because applying pesticide on someone else’s land for money legally requires a certified commercial applicator’s license.
-### Why nothing quite works here
-St. Louis sits in what turf scientists call the Transition Zone — and MU Extension defines it exactly as bluntly as it deserves: an area “where neither warm- nor cool-season grass species are completely adapted.”
-There is no perfect grass for this city. There are only trade-offs, and picking one means choosing which season you’re willing to lose.
-Cool-season grasses grow best between 60 and 75 degrees — spring and fall — and struggle through a St. Louis August. Warm-season grasses want 80 to 95 degrees and go dormant in the cold.
-MU’s recommendation for Missouri lawns has been the same for decades: turf-type tall fescue, ideally as a mix of 90% tall fescue and 10% Kentucky bluegrass. It has a deep root system and handles heat and drought better than other cool-season options. It is green in April and green in November and it suffers in high summer.
-Zoysia is the other legitimate choice, adapted to the southern two-thirds of Missouri. It is genuinely tough — durable, weed-resistant, heat- and drought-tolerant, easy to mow. The price is that it goes straw-colored from mid-fall to mid-spring. Roughly half the year, your lawn is brown while your neighbor’s is green.
-Neither is wrong. But bermudagrass is, at least here — MU says flatly that it is “not recommended for lawns in Transition Zone,” and is best adapted to the southern third of the state.
-One number worth having if you pay a water bill: properly managed, tall fescue needs about 25% less water and zoysia about 50% less than Kentucky bluegrass to stay green and growing here.
-### The three weeks that decide your year
-If you take one thing from this article, take this. For cool-season grass in Missouri, the seeding window is August 25 to October 10, and lawns seeded around Labor Day outperform ones seeded in October.
-Spring seeding fails because spring moisture feeds weeds that outcompete your seedlings, and then summer heat kills whatever survived. Fall works because the soil is still warm enough for fast germination while the air is cooling, rain is more regular, and weed pressure has dropped.
-The seeding rates make the point by themselves. MU specifies 7 pounds of tall fescue per 1,000 square feet in fall — and 10 pounds in spring. Forty percent more seed, for a result the same publication says may fail completely.
-And here is what makes that window so efficient: the three highest-value jobs of the entire lawn year all land in it. Aeration is best in early fall. Seeding runs August 25 to October 10. And September is, in MU’s words, the most important time to fertilize — 1 to 1½ pounds of nitrogen per 1,000 square feet.
-Done as one operation, the sequence is: mow low, aerate, seed, lightly rake in, fertilize, water. One weekend in early September does more for your lawn than everything you will do in April, May and June combined.
-### The rest of the calendar
-For tall fescue: half a pound to a pound of slow-release nitrogen in early-to-mid April, the big feeding in September, and a moderate application in late October or November once temperatures drop below 50 degrees to push root growth.
-Mowing height matters more than people think. MU gives 2 to 3½ inches in spring, 3 to 4 inches in summer, and 2½ to 3½ in fall. Cutting tall fescue short in a St. Louis July is a self-inflicted wound — taller grass shades its own roots and holds soil moisture.
-If you have zoysia, throw all of that out, because the calendar is nearly the mirror image. Fertilize from late May through mid-August only — MU is explicit: do not fertilize into September, because the plant is heading for dormancy. Plant it in mid-May to early June, not fall. Mow it short, 1½ to 2 inches.
-Applying the fescue program to a zoysia lawn is actively harmful, and a lot of people do it without realizing they have zoysia at all. If your lawn browns out every October while the neighborhood stays green, that’s your answer.
-### Clay, and what actually helps
-Heavy clay compacts, restricts water and air movement, and produces shallow roots that stress fast in drought. Two things about it are worth knowing before you spend money.
-Do not add sand. This is the single most common expensive mistake. MU is unambiguous: sand mixed into clay “can set up into a bricklike mixture,” and you need 75% or more sand by volume before you see any improvement in aeration, drainage or texture. Anything less makes it worse. A few bags of sand on a clay lawn is money spent making the problem harder.
-What does work is organic matter — compost, peat or well-rotted manure, 1 to 3 inches worked into the top 6 inches, aiming for 2.5 to 3% organic matter. And note this carefully: MU says topdressing with topsoil “does not generally improve” heavy clay “unless it is done in combination with core aerification.” The aeration is what makes the amendment reach anything.
-Test your drainage before you diagnose anything. Dig a hole and fill it with water. Gone within 18 to 24 hours is satisfactory. Two days or longer and you have a drainage problem that no fertilizer program will fix.
-One thing in clay’s favor, since it gets a uniformly bad press: it holds water and nutrients well — ammonium, potassium, calcium, magnesium — which makes it naturally fertile. It’s a mixed blessing, not a curse.
-### Aeration is the one to hire out
-Core aeration — pulling plugs rather than poking holes — is the highest-value service on this list, and it’s the one where DIY math stops working.
-Early fall is the best timing for cool-season lawns, which conveniently puts it in the same window as seeding. Coring also stresses the lawn less than dethatching with a power rake, and it reduces compaction at the same time.
-A service runs roughly $107 to $202 nationally, with a second independent source putting it at $100 to $300 — those ranges corroborate each other, which is more than can be said for most home-services pricing. Against that: renting the machine, getting it home, running it, and returning it. The margin is thin and the machine is heavy. This is where hiring wins on the merits, and where it pays to compare the lawn and landscaping crews working your part of the metro before you book one.
-Whoever does it, leave the plugs on the lawn to dry and crumble. Mowing them once dry redistributes the soil microbes that break down thatch. Raking them up throws away half the benefit.
-Unrelated, and we know it — but Ellendale is worth a scroll.
-### What you can legally do yourself
-There is a clean legal line here, and almost no local lawn content states it correctly.
-On your own lawn: MU Extension puts it plainly — general-use pesticides “may be used by anyone, so long as the pesticide is used only on lands owned or rented by that person,” and “homeowners do not need a private applicator license.” Anything you can buy off the shelf at a hardware store is general-use. Read the label, follow it, and you’re fine.
-On anyone else’s lawn, for money: Missouri law states that no individual shall use any pesticide “on the lands of another at any time without a certified commercial applicator’s license.” That’s $65 a year, under Category 3, Ornamental and Turf Pest Control, plus proof of financial responsibility through bond or insurance.
-Which means the mowing side-hustle is fine, and the moment it becomes a spraying side-hustle it isn’t — not even once, not even as a favor with twenty dollars attached.
-It also gives you a way to vet a lawn company in one sentence: “What’s your Missouri commercial applicator license number and category?” A legitimate operator has it ready. Certified applicators also recertify on a three-year cycle and must keep application records for three years, so a company that treats your yard should be able to tell you exactly what went down and when.
-### What hiring costs
-There is no government or research source for lawn service pricing — not the Bureau of Labor Statistics, not the Department of Agriculture, not Extension. Every figure available comes from lawn-service marketplaces, which have an obvious interest in the framing. So treat these as national marketplace estimates, not St. Louis quotes:
-Mowing: roughly $42 to $68 per visit. Core aeration: $107 to $202. Fertilization: $67 to $405 depending on program. Full-service monthly: $100 to $410.
-Mowing is the biggest line item in any full-service quote, because it’s the highest-frequency task. It’s also the lowest-skill one. If you want to cut a lawn bill in half without learning anything, mow it yourself and buy the rest.
+Mostly yes. Mowing, seeding and feeding your own lawn reward timing more than skill: MU Extension puts the best seeding window at August 25 to October 10, and calls September the most important time to fertilize. Hire out heavy machine work you’d have to rent, and any spraying on a neighbor’s yard as a business, which Missouri law reserves for a certified commercial applicator.
+### The free lawn doctor most St. Louisans never call
+Before you pay a company to walk your yard and name the brown patch, there’s a free option most of the metro drives right past. The Missouri Botanical Garden runs Ask the Plant Doctor, a free walk-in service in its Center for Home Gardening, Monday through Friday from 9 a.m. to 3 p.m., staffed by experts and Master Gardeners.
+Can’t get there? The Garden’s Horticulture Answer Service takes calls at (314) 577-5143, Monday through Friday, 9 a.m. to noon. That’s a real person who knows St. Louis dirt, on the phone, before you’ve spent a dollar. If the answer is “you can fix this yourself,” you just saved a service visit. If it’s “this is bigger than a weekend,” you hire knowing exactly what to ask for.
+Most people skip this step and go straight to a quote. The walk-in costs nothing.
+### The six weeks that decide your whole year
+Late August in St. Louis still smells like hot asphalt, but the nights are starting to turn. That’s the moment. MU’s guide says the best time to seed cool-season grasses is between August 25 and October 10, and that lawns seeded within a week of Labor Day are more likely to fill in completely by winter than lawns seeded in October.
+The seed bag math backs it up. MU lists tall fescue at 10 pounds per 1,000 square feet in spring and 7 pounds in fall. More seed, for the season it warns may fail completely.
+And the jobs stack up neatly in that same window. MU’s cool-season calendar calls September “the most important time to fertilize,” at 1 to 1.5 pounds of nitrogen per 1,000 square feet, and its thatch guide names early fall as the preferred time for dethatching. One long weekend in early September, with the mower dropped low and a borrowed rake, does more than every spring Saturday combined.
+### What is the recommended lawn care schedule for Missouri?
+For a tall fescue lawn, MU’s calendar runs like this. In April, a light feeding of 0.5 to 1 pound of nitrogen per 1,000 square feet, preferably slow-release, and crabgrass preventer down by April 15. In summer, raise the mower: MU’s table gives tall fescue 3 to 4 inches in summer, against 2 to 3.5 inches in spring. In September, the big feeding and the seeding. Tape that to the garage wall next to the rake, and when something on the list doesn’t look right, that’s a question for the Garden’s answer line, not a reason to sign a season-long contract.
+The tall grass matters more than it looks. On a July afternoon when the sidewalk burns through your sandals, a tall lawn shades its own roots. A scalped one bakes.
+### Clay, and the sand mistake
+Push a shovel into a St. Louis yard in August and you feel it: the blade stops, the soil comes up in a slab. The instinct is to buy sand. Don’t.
+MU Extension’s soils guide says 75 percent or more sand by volume has to be mixed into heavy clay before there’s any improvement, that lesser amounts can make drainage worse, and that sand mixed with clay “can set up into a bricklike mixture.” Peat or compost is what it recommends instead.
+Test before you spend. Dig a hole and fill it with water. MU’s rule: if it drains in 18 to 24 hours, drainage is satisfactory. If water sits for two days or longer, the soil is poorly drained, and that’s a grading conversation, not a fertilizer one.
+### The September weekend, step by step
+Here’s the job a crew would charge you for, laid out the way MU’s renovation steps run it. It takes a weekend and a sore back.
+Mow low and rake clean. Drop the deck as far as it goes and pull out the dead stuff. The rake fills with brown thatch that smells like old hay.
+Open the surface. MU names power rakes, verticutters, slit seeders and core aerators as the machines that get seed into contact with soil. This is the one step you may want to hire.
+Seed at the fall rate. For tall fescue, MU’s fall rate is 7 pounds per 1,000 square feet. Measure the yard first so you buy the right number of bags.
+Cover, roll, mulch, water. MU’s own order: rake or drag to cover seed lightly, roll lightly, mulch, water.
+Wait to mow. MU says begin mowing once a week when the seedlings reach 3 inches.
+The hard part isn’t any single step. It’s keeping the seed damp through the first couple of weeks, standing out there with the hose at dusk while the cicadas wind down. That’s the whole secret, and it’s free.
+### When summer turns it brown
+Every St. Louis August, somebody panics at a crunchy, straw-colored lawn and calls for help. Often the grass isn’t dead. It’s dormant.
+MU’s watering guide says as much as 80 percent of the water used around the home during summer is used outside, mostly on lawns. You don’t have to keep it green to keep it alive: MU says dormant lawns should get at least 1 inch of water every two or three weeks in summer to prevent complete turfgrass loss. It also warns that this does not guarantee a full recovery, which is one more reason to keep the mower high and the roots deep before the heat arrives.
+If you can’t tell dormant from dead, that’s exactly the kind of question the Garden’s answer line takes. Describe when it browned, how much sun it gets and what you’ve put on it, and let someone who has heard a thousand St. Louis lawns tell you which it is.
+### Is it worth it to pay for lawn care?
+For the machine jobs, often yes. Core aerators, power rakes and verticutters are the tools MU names for preparing a lawn for seed, and its guide notes dethatching equipment is only “sometimes available” from rental shops. A coring machine pulls plugs 2 to 3 inches deep, and it’s heavy enough that loading it into a hatchback is its own afternoon. That’s where a crew earns its fee, and where it pays to compare the lawn and landscaping crews working your part of the metro before you book one.
+For mowing, it’s a time trade, not a skill trade. Mowing is the most frequent job on any lawn, and the one that asks the least know-how. Doing it yourself and paying for the rest is the cheapest split there is.
+Done with the mower for the day? Go wander Ellendale instead.
+### The legal line between DIY and hiring
+Missouri law, section 281.035, says no individual shall engage in the business of using any pesticide “on the lands of another” without a certified commercial applicator’s license issued by the director. The annual fee for that license is set at sixty-five dollars, and the law requires application records to be kept for three years.
+So the mowing side job for the neighbor is fine. The moment it turns into spraying their yard for twenty bucks, it isn’t.
+It also hands you a one-line test for any lawn company that wants to treat your yard: “What’s your Missouri commercial applicator license number?” A real operator answers without a pause, and can tell you what went down on your grass and when.
 ### The honest split
-DIY genuinely wins on mowing, and on seeding and fertilizing your own lawn — where the law is entirely on your side and where timing beats technique. A homeowner who seeds on Labor Day weekend beats a professional who seeds in April, because MU says the April job risks complete failure regardless of who does it.
-Hiring genuinely wins on core aeration, on anything touching a property you don’t own, on a lawn you suspect is zoysia and can’t confirm, and on a drainage failure — if water sits in that test hole past two days, you need grading and soil work, not a fertilizer program.
-And if you do nothing else this year: put the seed and the fertilizer down in the first half of September. That single decision outweighs everything else on this page.
+Do it yourself: mowing, seeding and feeding your own lawn, on MU’s calendar. A homeowner who seeds the week of Labor Day beats anyone, pro or not, who seeds in April.
+Put it on the fridge if it helps: the April urge is the one to resist. The first warm Saturday makes everybody want to do something to the yard. Mow, pull a few weeds, sharpen the blade, and save the seed money for the end of August, when the ground is warm, the air is cooling and the work actually sticks.
+Hire it out: core aeration and dethatching if you’d have to hunt down the machine, anything sprayed on a yard you don’t own, and a test hole that still holds water two days later. And when you can’t tell which bucket you’re in, call the Garden first. Once the mowing is handled and you’re dreaming bigger, see what goes into hiring a landscape architect in St. Louis.
+Want hands that aren’t yours on the aerator this fall? Start with our guides to landscaping services and sprinkler repair, or browse local pros on St Louis Near Me Directory.
+If you run a mowing crew or a one-truck lawn outfit, this part is for you. The homeowner reading this in August is about to search for someone to aerate and seed. Those are customers looking for you right now, so make sure your name is the one that comes up. Claim your spot.
 ### Frequently asked questions
+### Q. Is it worth it to pay for lawn care?
+A.  For machine work like core aeration and dethatching, often yes, since MU Extension notes dethatching equipment is only sometimes available from rental shops. For mowing, seeding and fertilizing your own lawn, timing matters more than skill, so doing it yourself on MU’s calendar usually wins.
+### Q. What is the recommended lawn care schedule for Missouri?
+A.  For tall fescue, MU Extension recommends a light slow-release feeding in April, crabgrass preventer by April 15, mowing at 3 to 4 inches in summer, and the main feeding plus any seeding in September. The best seeding window runs August 25 to October 10.
+### Q. What month do you fertilize a lawn?
+A.  September, for cool-season grass in Missouri. MU Extension calls it the most important time to fertilize, at 1 to 1.5 pounds of nitrogen per 1,000 square feet, with a lighter 0.5 to 1 pound feeding in April.
+### Q. What is the 1/3 rule for lawn?
+A.  Never cut off more than one-third of the grass blade in a single mowing. MU Extension calls it a standard guide, because the leaf is what feeds the roots. If you miss a mowing, MU says to cut only half the way back to your usual height, then cut to the regular level a couple of days later.
+### Q. What are some red flags when hiring a lawn care service?
+A.  A company that sprays your yard but can’t give you a Missouri commercial applicator license number is the big one, since state law requires that license for the business of applying pesticide on the lands of another. Another is a pitch to seed in spring, which MU Extension warns can fail completely.
+### Q. What are the most common lawn care mistakes to avoid?
+A.  Seeding in spring instead of late August to early October, mowing tall fescue short in summer, and adding sand to clay soil. MU Extension says sand needs to reach 75 percent or more by volume before clay improves at all, and smaller amounts can make drainage worse.
 ### Q. When should I seed my lawn in St. Louis?
-A.  Between August 25 and October 10, with Labor Day weekend the sweet spot — MU Extension finds Labor Day seedings outperform October ones. Spring seeding is far riskier; MU states that with spring seeding “in some cases, complete failure should be expected,” because weeds outcompete seedlings and summer heat finishes them.
-### Q. What is the best grass for St. Louis?
-A.  Turf-type tall fescue, ideally in a 90% fescue / 10% Kentucky bluegrass mix, is MU Extension’s long-standing recommendation for Missouri lawns. Zoysia is the warm-season alternative — tougher in summer but straw-colored from mid-fall to mid-spring. Bermudagrass is explicitly not recommended for our transition zone.
-### Q. How much seed do I need per 1,000 square feet?
-A.  For tall fescue, MU specifies 7 pounds per 1,000 square feet when seeding in fall, and 10 pounds in spring. That 40% increase for spring seeding — for a worse expected result — is itself the strongest argument for waiting until late August.
-### Q. When should I fertilize my lawn in Missouri?
-A.  For cool-season grass, September is the most important application at 1 to 1½ pounds of nitrogen per 1,000 square feet, with a half to one pound of slow-release in early-to-mid April and a moderate rate in late fall once temperatures fall below 50 degrees. Zoysia is the opposite — feed late May through mid-August and never into September.
-### Q. Should I add sand to clay soil?
-A.  No. MU Extension warns that sand mixed with clay “can set up into a bricklike mixture,” and you would need 75% or more sand by volume before seeing any improvement. Use organic matter instead — 1 to 3 inches of compost worked into the top 6 inches — and note that topdressing generally does not help heavy clay unless combined with core aeration.
-### Q. Do I need a license to spray my own lawn in Missouri?
-A.  No. General-use pesticides may be used by anyone on land they own or rent, and MU Extension states plainly that homeowners do not need a private applicator license. But applying pesticide on someone else’s property for compensation requires a certified commercial applicator’s license — $65 a year, Category 3 Ornamental and Turf.
-### Q. How much does lawn care cost per month?
-A.  National marketplace estimates put full-service programs at roughly $100 to $410 a month, with mowing at $42 to $68 per visit and core aeration at $107 to $202. No government or research source publishes lawn service pricing, so treat all of these as national estimates rather than St. Louis quotes.
-### Q. When should I aerate my lawn in St. Louis?
-A.  Once the mowing is handled, a bigger plan may be worth it — see what goes into hiring a landscape architect in St. Louis.
-Early fall is best for cool-season lawns, which conveniently overlaps the seeding window — aerate, then seed, then fertilize in one operation. Zoysia and bermuda are different: mid-June is preferred, and only while actively growing. Leave the soil plugs on the lawn to dry and crumble rather than raking them up.
-If your sign fell down tomorrow, would anyone online still know you exist? Need a pro instead? See our guides to landscaping services and sprinkler repair. Or browse local pros on St Louis Near Me Directory.
-If you own a lawn care business, here is your part. You do good work. Why should getting more customers cost you a fortune and your trust? Six major AI engines are recommending local businesses today. Are you one of them? Find out →
+A.  Between August 25 and October 10 for cool-season grass like tall fescue, according to MU Extension, and ideally within a week of Labor Day. Lawns seeded then are more likely to fill in completely by winter than lawns seeded in October. Spring seeding is the risky one: MU warns that in some cases complete failure should be expected.
 
 ## The St. Louis Homeowner Starter Toolkit (and Knowing Your Limits)
 Source: https://stlouismissourinearme.com/blog/must-have-handyman-tools-for-st-louis-homeowners
