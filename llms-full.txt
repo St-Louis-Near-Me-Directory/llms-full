@@ -19545,96 +19545,86 @@ A.  Start with whatever has been ignored longest - usually review replies, then 
 ### Q. Is a Google Business Profile free?
 A.  Yes. Google calls it a free Business Profile, and its help page says there’s no way to request or pay for a better local ranking. The cost is your time, plus the $7 Missouri fictitious name registration if you operate under a name other than your own.
 
-## How to Respond to Google Reviews: A St. Louis Business Guide
+## How to Respond to Google Reviews: The Reviewer Gets Notified and Can Change the Stars
 Source: https://stlouismissourinearme.com/blog/how-to-respond-to-google-reviews-st-louis-guide
-A few nights ago I left a restaurant four stars. I wrote that the service was great, the food was good, and that it was a typical strip mall location in a nice neighborhood. Fair, I thought. Mostly kind. And yet a reply to that ordinary review could have done two jobs at once. So when someone leaves you a fair, unremarkable review, what are you leaving on the table by staying silent?
+The owner thanked me for a review I never wrote. I’m Lane Forman, the guy behind St Louis Near Me Directory, and I left a chain steakhouse just across the Missouri River four stars on Google, and I wrote that the service was great, the food was good, and that it was a typical strip mall location in a nice neighborhood. Fair, I thought. Mostly kind.
 About an hour later, the owner replied. They thanked me for my “glowing review.” They said hearing about my “fantastic experience” filled them with gratitude. They were “thrilled at the prospect” of serving me another “scrumptious meal.”
-Does it look like any restaurant personnel read my post or read their reply before it posted? I don’t think so. Here is why:
+Nobody had read my review. A piece of software had, sort of, and it had answered a review I never wrote.
+Here’s the part the reply screen doesn’t spell out, and it changes how a reply should be written. Google’s own help page says the person who wrote the review is notified when you reply - and that customers can still change their review after reading your reply. A reply isn’t a note left on a wall. It lands in the reviewer’s pocket, with their stars still open to edit.
+That matters most on the bad ones. Say a one-star lands at 9 p.m. A furnace tech showed up an hour late to a house in Kirkwood on the first cold night, and the family waited in their coats. That customer is still holding the phone, thumb over the stars, when your reply buzzes in. Andy Kohn, who owns the three EdgeWild restaurants, told St. Louis Magazine he has answered every review personally since day one, and on the bad ones he will sometimes ask the guest to come back “on us - whether I feel we were at fault or not, hoping to earn back a customer and flip a negative review.” Sugarfire Smoke House co-owner Charlie Downs put it this way: “Nowadays, we find ourselves responding to any negative reviews personally and quickly, which is important.”
+Kohn also drew the one line worth keeping: “I learned never to dispute a customer’s opinion, but I feel it’s our obligation to correct incorrect facts.” He once had a guest who insisted EdgeWild’s housemade potato chips were store-bought, even after the server said they weren’t. They offered to walk him into the kitchen to see them made. He passed. Some reviews can’t be won. The reply is still for the next person reading.
+For that Kirkwood review, three sentences do it. Name the problem: “You waited in the cold, and that’s on us.” Own it without excuses. Then hand over a way to reach a real person: “Call me at [your business number] and I’ll make it right.” Read it once out loud before you post it.
+Then do the same for the oldest review nobody answered. When was the last time someone read your replies before they went live?
+### How do you respond to a Google review?
+Open your Business Profile, select Read reviews, and choose Reply next to the review. Answer the specific thing the customer said, keep it short, and write it yourself or read any draft before it posts. Google notifies the reviewer when you reply, and the customer can still change their review after reading it, so a calm, specific reply can turn a complaint around. You can edit or delete the reply later.
 ### The two jobs a review reply is supposed to do
-Here is the thing that reply missed, and it missed it twice.
-A response to a Google review does two separate jobs. Most businesses know about the first one. Almost nobody uses the second.
-Job one: it talks to the next customer, not the last one. The person who wrote the review has already eaten, or already hired you. Their mind is made up. Your reply is for the stranger scrolling your profile next Tuesday, deciding whether to call. That stranger is reading between the lines, looking for whether anyone at your company is actually paying attention.
-Job two: it is public, indexable text on your business listing. Your Google Business Profile is one of the few places online where you get handed free space to describe your business, over and over, every time somebody leaves feedback. What you write there sits next to your name in search results and on the map.
-“Scrumptious meal” does neither. It does not answer what I wrote. And it tells Google, and every future customer, absolutely nothing about the restaurant. Not what they cook. Not where they are.
-That is a genuinely wasted opportunity, and it happens thousands of times a day across the metro.
-### How to actually reply, step by step
-The mechanics are simple, and this is where most people get stuck, so let us clear it first.
-Sign in with the right account. It has to be the Google account that owns or manages the Business Profile. This is the single most common reason people cannot find the reply button.
-Search your business name on Google or open Google Maps. If you are signed in as the owner, your profile management panel appears directly in the search results.
-Open your reviews. Look for “Read reviews” or the Reviews tab.
-Click Reply under the review you want to answer, write your response, and post it.
-Google’s own help documentation encourages owners to reply to reviews. It is not a gray-area tactic. It is a feature they built and actively tell you to use.
-One thing worth knowing: you can edit a reply after you post it. So if something went out that should not have — an automated one that called a mixed review glowing, for instance — you can go back and fix it. Most people never check.
+That reply to my four stars missed both of them.
+Job one: it talks to the next customer, not the last one. The person who wrote the review has already eaten, or already hired you. Your reply is also for the stranger scrolling your profile on the couch at 10 p.m., deciding whether to call in the morning. That stranger is reading between the lines, looking for whether anyone at your place is paying attention.
+George Mahe, St. Louis Magazine’s dining editor, gives owners one rule for that stranger’s benefit: take the argument out of the public domain, “as arguments are rarely won in the public sandbox.” Answer in public, briefly, then move the real conversation to the phone. In his own restaurant days, he wrote, when he called an unhappy guest, “the guest either didn’t call back or I made a friend.”
+Job two: it’s public text on your business listing. Google says an approved reply is publicly posted under the customer’s review, and it appears as your business replying - your personal name isn’t shown. That makes every reply a few free sentences, in your own words, sitting right next to your name on the map.
+“Scrumptious meal” did neither. It didn’t answer what I wrote, and it told every future customer nothing about the restaurant. Not what they cook. Not where they are. Not that anyone was home.
+### Where the Reply button lives
+The mechanics are simple once you’re signed in to the right account - the Google account that owns or manages the Business Profile. Google’s steps: go to your Business Profile, select Read reviews, select Reply next to the review, type your reply, and select Reply again. Google checks replies against its content policies before they post; it says that usually takes up to 10 minutes, but sometimes up to 30 days. If a reply isn’t approved, you’ll be asked to edit it.
+And if something went out that shouldn’t have - say, a software reply that called a mixed review glowing - you can fix it. Under the reply, select Edit, change it and select Update, or delete it entirely. Most owners never go back and look.
 ### What a good reply actually looks like
-Specific. Written like a person who was there. And when the review is a friendly one and you have the room, carrying real information about what you do and where you are.
-Take my four-star review. Here is a reply that would have done both jobs, with the owner filling in their own details where the brackets are:
-Thanks for taking the time. Glad the service was on point — I will pass that along to the team. We are tucked in to a shopping center in [location] because we want our customers to find us easily and have plenty of parking to serve you well. We like being close to travelers off I-64 and [street] and close to our neighbors that enjoy our wholesome steaks, chicken, seafood, salads and sides. We even have a fully stocked bar if you’d like to try an appetizer and adult refreshment with us. We look forward to providing the same great service to you next time you’re hungry for our flavorful lunches and dinners.
-Read that again and notice how much work it is doing. It answers the actual thing I said about the strip mall — and turns it into a reason instead of an apology. It names what they cook. It tells a traveler coming off the interstate that they are close by. It mentions the bar, which the original reply never did.
-Anyone reading that learns something true about the restaurant. So does Google.
-Nothing in it is stuffed. It is a business describing itself in plain language, in the one public place where customers are already looking. That is the difference between a reply that fills space and a reply that works.
+Specific. Written like a person who was there. Google’s own tips say to keep it short and simple, because if a reply is too long, people might stop reading before they get to the main point.
+Take my four-star review. Here’s a reply that would have done both jobs, with the owner filling in their own details where the brackets are:
+Thanks for taking the time. Glad the service was on point - I’ll pass that along to the team. We picked a shopping center in [location] so our customers can find us easily and park right out front. We like being close to travelers coming off the interstate and to our neighbors who come in for our [steaks, chicken, seafood, salads and sides]. Next time, try a seat at the bar. We look forward to seeing you again.
+Notice how much work that does. It answers the actual thing I said about the strip mall and turns it into a reason instead of an apology. It names what they cook. It tells a traveler they’re close by. Anyone reading it learns something true about the place.
 ### When the review is positive
-Thank them by name if they used one. Call out the specific thing they raised — the dish, the technician, the turnaround time. Skip the superlatives about yourself. “We are thrilled you had a fantastic experience” is what a robot says. “Glad Mike got the water heater sorted the same day” is what an owner says.
+Thank them by name if they used one. Call out the specific thing they raised - the dish, the technician, the turnaround. Skip the superlatives about yourself. “We are thrilled you had a fantastic experience” is what a robot says. “Glad Mike got the water heater sorted the same day” is what an owner says.
 ### When the review is negative
-This is where the money is, and where most businesses panic.
-Do not argue. Do not explain why the customer is wrong, even when they are. Everybody reading it later is judging your temperament, not relitigating the sandwich.
-Acknowledge the specific problem. Take responsibility for the part that is yours. Then move it offline: give a phone number or an email and offer to make it right. Three or four sentences, maximum.
-A calm, specific reply to an angry review does more for your reputation than ten five-star reviews with no response. It shows the next person what happens when something goes wrong — which is the actual thing they are worried about.
+This is where your stomach drops, and where the reply matters most. Don’t argue. Don’t explain why the customer is wrong, even when they are. Everybody reading it later is judging your temperament, not relitigating the sandwich.
+Acknowledge the specific problem. Own the part that’s yours. Then move it offline with a phone number or an email and an offer to make it right. Three or four sentences. Remember who gets the notification: the person who’s still upset, with their stars still editable.
 ### When the review is mixed
-Mixed reviews — the threes and fours — are the most common and the most ignored. They are also the easiest to answer well, because the customer has already told you exactly what they liked and what they did not. Answer both halves. That is it.
-### The part almost nobody uses: your replies are searchable
-Here is where this stops being customer service and starts being marketing.
-The words in your reviews and in your replies are public text attached to your business listing. When somebody in your area searches for what you sell, Google is trying to work out which businesses are relevant to that phrase. The content on and around your profile is part of how it decides.
-Nobody outside Google knows the exact weighting, and anyone who tells you they do is guessing. But the direction is not controversial: a profile whose reviews and responses repeatedly, naturally describe a specific service in a specific place is giving search engines a clearer signal than one whose replies all say “thanks so much!”
+The threes and fours are the easiest to answer well, because the customer already told you what they liked and what they didn’t. Answer both halves. That’s it.
+### Your replies are words customers can read in search
+Here’s where this stops being customer service and starts working for you. The words in your reviews and your replies are public text attached to your business listing. Nobody outside Google knows how much weight they carry, and anyone who tells you they do is guessing. But a reply that plainly says what you did and where you did it tells the next reader more than “thanks so much!” ever will.
 So when you reply, use the plain words a customer would use:
-What you actually did — “replaced the water heater,” “the brisket,” “your closing paperwork”
-Where you are — the town, the neighborhood, the part of the county
-Who you serve — homeowners, families, contractors, whoever it really is
-Not all three in every reply. That reads like a robot too, just a different kind of robot. One, naturally, where it fits.
+What you actually did - “replaced the water heater,” “the brisket,” “your closing paperwork”
+Where you are - the town, the neighborhood, the part of the county
+Who you serve - homeowners, families, contractors, whoever it really is
+Not all three in every reply. That reads like a robot too, just a different kind. One, naturally, where it fits.
 ### The same idea, applied earlier: how you ask
-There is a second half to this that most owners never think about.
-Most review requests say some version of “please leave us a review.” The customer stares at an empty box, writes “great job, very professional,” and moves on. That review is pleasant and says nothing.
-But if the request gently reminds them what the job actually was — the service, the town — people tend to write about it. Not scripted, not dictated. Just prompted. Ask a customer “how did the roof repair in Kirkwood go?” and their review will usually mention a roof repair in Kirkwood.
-The result is what we would call keyword-rich reviews: real, honest customer language that happens to contain the words other customers are typing into Google. Pair that with replies written the same way, and both sides of the conversation are working for you.
-One firm line, though, because this is where businesses get themselves in trouble: never write the review for them, never offer anything in exchange for a review, and never tell a customer what rating to leave. That crosses from prompting into buying, and Google removes reviews and penalizes profiles over it. Prompt the topic. Never the verdict.
+Most review requests say some version of “please leave us a review.” The customer stares at an empty box, types “great job, very professional,” and moves on. Pleasant, and it says nothing.
+If the request gently reminds them what the job was - the service, the town - people tend to write about it. Ask a customer how the roof repair in Kirkwood went, and the review will often mention a roof repair in Kirkwood.
+One firm line: never write the review for them and never tell a customer what rating to leave. Google is blunt about rewards, too - offering incentives, like free or discounted goods or services, in exchange for customers to post reviews, change reviews, or remove negative reviews is considered fake and misleading content and is strictly prohibited. Prompt the topic. Never the verdict.
 ### Can you remove a fake or unfair review?
-Sometimes — but only if it breaks Google’s policies. Google will not remove a review for being negative, and honest criticism stays up no matter how much it stings. What can come down is spam, a review from someone who was never a customer, a conflict of interest, hate speech, or an off-topic rant.
-Report it through your profile and be patient; removal is neither instant nor guaranteed. In the meantime, reply calmly and professionally, because future readers are watching how you handle an unfair attack. We walk through the process in how to remove a Google review — just be honest with yourself about whether it is fake or merely unflattering. Google only removes the first kind.
+Only if it breaks Google’s policies. Google’s help page says not to report a review just because you disagree with it or dislike it, and that Google doesn’t get involved in conflict between businesses and customers. What can come down is fake engagement - content not based on a real experience - and content based on a conflict of interest, like a review from a current or former employee.
+Report it through your profile and be patient. In the meantime, reply calmly, because future readers are watching how you handle an unfair hit. We walk through the process in how to remove a Google review - just be honest with yourself about whether it’s fake or merely unflattering.
 ### Simple templates you can adapt
-Templates are a fine starting point as long as you change them every time. Three to keep on hand:
+Templates are a fine starting point as long as you change them every time:
 Warm positive: “Thank you, [name]! Glad you enjoyed [specific thing]. It means a lot, and we hope to see you back.”
-Rating with no words: “Thanks for the [X] stars, [name] — we appreciate you.”
-Negative: “Thank you for the honest feedback, [name]. I am sorry [specific issue] fell short. I would like to make it right — please contact me directly at [contact].”
-The one non-negotiable edit is swapping in the person’s name and a real detail from their review. That single touch is what makes a reply read like a person wrote it, not a machine.
-Unrelated, and we know it — dinner in Sunset Hills, sorted.
-### Four ways businesses get this wrong
-1. Publishing automation nobody reads. The example at the top of this article. Software wrote a warm reply to a review it did not comprehend, and an hour later it was live under the owner’s name. Tools are genuinely useful here — drafting replies is exactly the sort of work worth handing off. But a draft is not a decision. Somebody has to read it before it goes out.
-2. Using the same template every time. Scroll a profile where all thirty responses open with the identical sentence and you learn something about that business, and it is not good.
-3. Keyword stuffing. The opposite failure. “Thank you for choosing our St. Louis plumbing company for your St. Louis plumbing needs, St. Louis’s best plumber.” Customers find it repellent and it works against you.
-The line between that and the longer example further up is worth naming, because it is not length. It is repetition. Describing what you genuinely offer — the menu, the parking, the neighborhood, the bar — is a business explaining itself, and every word of it is true. Repeating one phrase three times in two sentences is a business talking to an algorithm. Readers can feel the difference immediately, and so can Google.
-4. Only replying to the good ones. Deeply human, completely counterproductive. A wall of cheerful responses with silence under every complaint tells a shopper exactly what happens when things go sideways.
+Rating with no words: “Thanks for the stars, [name] - we appreciate you.”
+Negative: “Thank you for the honest feedback, [name]. I’m sorry [specific issue] fell short. I’d like to make it right - please contact me directly at [contact].”
+The one non-negotiable edit is the person’s name and a real detail from their review. That single touch is what makes a reply read like a person wrote it.
+Replies done, stomach growling? Dinner in Sunset Hills is waiting.
+### Four ways the reply process goes wrong
+1. Automation nobody reads. The example at the top. Software wrote a warm reply to a review it didn’t understand, and an hour later it was live under the business’s name. Drafting tools are useful. But a draft isn’t a decision. Somebody has to read it before it goes out.
+2. The same template every time. Google’s tips put it well: instead of sending the same “thank you” to everyone, focus on reviews where you can share a helpful update or answer a question.
+3. Keyword stuffing. “Thank you for choosing our St. Louis plumbing company for your St. Louis plumbing needs.” Customers find it repellent. The line isn’t length; it’s repetition. Describing what you really offer is a business explaining itself. Repeating one phrase three times is a business talking to an algorithm.
+4. Only answering the good ones. A wall of cheerful replies with silence under every complaint tells a shopper exactly what happens when things go sideways.
 ### How often, and how fast
-Reply to everything. Aim for a few days, not a few months, and move faster on the negative ones — a prompt answer can defuse a complaint before it hardens, while a bad review sitting untouched for weeks signals neglect to everyone who scrolls past.
-The exact speed matters less than the consistency. A profile that gets a thoughtful reply on every review, week after week, reads as a business that is genuinely running. Ten minutes a week covers it for most small businesses — but it is ten minutes that never feels urgent, which is why it is the first thing to slide. Turn on review notifications, and put it on the calendar beside your Google Business Profile posts.
-And if you have not looked at the rest of your profile lately, replies are only one piece. Our guide to optimizing your Google Business Profile covers the categories, services, photos and hours underneath all of this, and the full profile management guide ties it together. Restaurants have their own quirks, which we get into in local SEO for restaurants in St. Louis.
-### If reviews are the part that keeps sliding
-Answering every review well, every week, is genuinely a chore - and it is the chore most owners drop first. It is also one of the few things you control completely. For the one review you can’t live with, read how to remove a Google review.
-If you own a business that dreads the review notifications, here is the honest part. Our Diamond plan handles it for you: automated review requests with follow-up for customers who have not left one yet, plus keyword-optimized replies written to support your search visibility with every response. If you would rather keep writing them yourself, the guide above is everything we would tell you anyway. If doing nothing were working, would you still feel unseen out there? You do good work. Why should getting more customers cost you a fortune and your trust? See what may already be yours →
+Reply to everything, and move fastest on the negative ones - while the notification is fresh and the customer is still deciding how they feel. Consistency matters more than speed records. A profile with a thoughtful reply under every review reads as a business with the lights on. Turn on review notifications, and put replies on the calendar beside your Google Business Profile posts.
+Replies are only one piece of the profile. Our guide to optimizing your Google Business Profile covers the name, categories, photos and hours underneath all of this, and the full profile management guide ties it together. Restaurants have their own quirks, which we get into in local SEO for restaurants in St. Louis.
+Answer the oldest unanswered review first - tonight, in your own words. It’s the one thing on your profile you control completely. For the one review you can’t live with, read how to remove a Google review.
+If you’re the restaurant, the plumber or the salon that dreads the review notifications, this part is for you. Our Diamond plan automates review requests, follows up with customers who haven’t left one yet, and writes keyword-optimized replies for you. If you’d rather keep writing them yourself, everything above is what we’d tell you anyway. You do good work - should getting more customers really depend on whether you had ten free minutes tonight? See what may already be yours → Refuse to be invisible.
 ### Frequently asked questions
-### Q. How do you respond to someone’s Google review?
-A.  Sign in to the Google account that manages your Business Profile, search your business name on Google or Maps, open the reviews section, and click Reply beneath the review. Write a short, specific response that addresses what the customer actually said, then post it. You can edit the reply later if you need to.
-### Q. How do I respond to a Google review?
-A.  The same way — through your Business Profile, using the Reply button under each review. The part that matters is not the mechanics but the content: name the specific thing they mentioned, keep it to a few sentences, and write in your own voice rather than a template.
-### Q. Why can’t I respond to Google reviews?
-A.  Almost always it is an account problem. You need to be signed in with the Google account that owns or manages the listing, and the profile has to be verified. If you are signed in as a personal account, or the listing was set up by a former employee or an agency, the Reply button will not appear for you. Claiming or recovering ownership of the profile fixes it.
-### Q. What is a good example of responding to a review?
-A.  A good reply answers the actual comment and sounds human. For a positive review: “Thanks Dana — glad Mike got the water heater replaced the same day. We appreciate you calling us.” For a negative one: “You are right that we were late, and I am sorry. Please call me at [number] and I will make it right.” Short, specific, no superlatives about yourself.
-### Q. How to reply to Google reviews examples?
-A.  Use the review itself as your outline. Thank them, name the specific service or item they mentioned, add one honest detail only someone who was there would know, and close simply. Avoid copy-and-paste templates — a profile full of identical replies is obvious to anyone scrolling, and it defeats the purpose.
-### Q. How do I comment on someone else’s Google review?
-A.  As a business owner, you can only reply to reviews left on your own Business Profile. Regular users cannot comment on another person’s review, though they can mark it helpful or report it if it violates Google’s policies. If a review of your business is fake or breaks the rules, flagging it is the correct route rather than arguing in a reply.
+### Q. Do I need to respond to Google reviews?
+A.  You don’t have to, but it’s worth it. Google says helpful and positive replies can show that you’re responsive to your customers, and the reviewer is notified when you reply. If keeping up is the problem, St Louis Near Me Directory’s Diamond plan includes keyword-optimized review replies.
+### Q. How to professionally respond to Google reviews?
+A.  Thank the customer, answer the specific thing they mentioned, keep it short and sign off simply. Leave out anything private about the customer. Read any software draft before it posts, and edit a reply later if it missed the point.
+### Q. How do I reply to a negative comment?
+A.  Stay calm, name the specific problem, own your part, and offer a phone number or email to make it right. Keep it to a few sentences. The customer can still change their review after reading your reply, so the goal is to fix the problem, not win the argument.
+### Q. How do I get negative reviews removed from Google?
+A.  Only reviews that break Google’s policies come down, such as fake engagement or a conflict of interest. Google says not to report a review just because you disagree with it. Report a violating review from your Business Profile, then reply calmly while you wait.
+### Q. What is an example of a good response to a positive review?
+A.  “Thanks, Dana - glad Mike got the water heater replaced the same day. We appreciate you calling us.” It uses the customer’s name, repeats the real detail, and sounds like a person. Short, specific, no superlatives about yourself.
+### Q. Can companies get rid of bad Google reviews?
+A.  Not just because they’re bad. Google says it doesn’t get involved in conflict between businesses and customers, and offering incentives to remove negative reviews is strictly prohibited. A business can report a review that violates Google policies for removal, and it can reply.
 ### The short version
-Reply to every review. Answer what the person actually wrote. Sound like yourself. Use the real words for what you do and where you do it, because that text is working for you long after the customer has moved on.
-And whatever tool you use to help — read it before it publishes. Somewhere out there, an owner is being thanked for a glowing review they never received.
+Reply to every review. Answer what the person actually wrote. Sound like yourself. Use the real words for what you do and where you do it.
+And whatever tool you use to help - read it before it publishes. Somewhere out there, a customer is being thanked for a glowing review they never wrote.
 
 ## Google Maps Is Free - in St. Louis, Your Business Name Has to Match Everywhere
 Source: https://stlouismissourinearme.com/blog/how-to-add-your-business-to-google-maps-st-louis
