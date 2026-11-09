@@ -24742,84 +24742,68 @@ A.  I could not find a mattress-specific rule on the City’s pages. Its transfe
 ### Q. Can I pay someone with a truck to take my junk to the city transfer station?
 A.  The City’s page says commercial trucks are not allowed, rental trucks are acceptable, and anyone suspected of hauling for hire will be rejected. So rent a truck and drive it yourself, or call the Refuse Division at (314) 622-4800 before you load.
 
-## Repair It or Replace It? An Honest Guide to St. Louis Appliance Repair
+## The Fridge Died. In St. Louis City, Your Water Bill Already Pays to Haul It Off.
 Source: https://stlouismissourinearme.com/blog/appliance-repair-or-replace
-The dryer is making a noise. Not a dramatic noise — a rhythmic one, the kind you can talk yourself into ignoring for a week.
-Then it stops heating, and you are standing in the basement with wet towels doing math you have no basis for. Is this a $200 fix or a $900 mistake?
+“It’s the compressor.”
+Three words from the technician kneeling on your kitchen floor, and the whole afternoon changes shape. The freezer drawer is open and dripping. The milk and the leftover toasted ravioli are sweating in a cooler on the counter. You are doing math with no numbers in it: fix the old one, or haul it out and buy a new one?
+Half the reason people pay for a bad repair is the dread of the alternative: how do you even get a dead refrigerator out of a South City kitchen? If you live in the City of St. Louis, you already paid for that part. The City’s Refuse Division picks up appliances such as refrigerators on your bulk pickup week, and the City says the service is included in the solid waste services fee collected quarterly on your water bill. Take the doors off, set it out, and it’s gone. The City’s bulk items page tells you to determine your local bulk pick-up schedule first, and the Refuse Division is at (314) 622-4800.
+That changes the math, because keeping an old fridge is not free either. The U.S. Department of Energy tells homeowners to replace a refrigerator or freezer that’s more than 15 years old as soon as possible, and ENERGY STAR says refrigerators over 15 years old could be costing you about $95 per year more to run.
 ### Is it worth repairing, or should you replace it?
-Two rules settle most of these, and between them they cover almost every appliance in the house:
-The 50% rule. If the repair costs more than about half the price of a comparable new unit, replace it.
-The age rule. If the appliance is past roughly three-quarters of its expected life, replace it — even if the repair is cheap. You are about to meet the next failure.
-And the question to ask before anyone comes out: is the diagnostic fee credited toward the repair if I go ahead? Many companies credit it. Some do not. That single answer is the difference between paying once and paying twice to be told bad news.
-### The diagnostic fee, and why it feels like a trap
-Nearly every repair company charges a call-out or diagnostic fee. That is legitimate — someone drove to your house with a van full of parts and spent time working out what is wrong.
-What makes it feel unfair is the sequence. You pay the fee, the technician tells you the control board is dead and the part costs most of what a new machine costs, and you have now spent money to be told to buy a different thing entirely.
-You cannot avoid the fee, but you can avoid the sting. Ask three things when you book:
-Is the fee credited toward the repair if I approve the work? Frequently yes, and it should be stated plainly.
-Will you quote the full repair before starting? You want the total — parts and labor — not a running clock.
-Do you service this brand, and can you get parts for it? This is the one people skip, and it is the most common reason a repair stalls.
-Describe the symptom precisely when you call. “It runs but does not heat” and “it will not turn on” are different problems, and a good dispatcher can sometimes tell you on the phone that it is not worth the visit.
-### What actually drives the price
-Repair quotes vary far more than people expect, and it is not arbitrary.
-Which part failed. This is most of it. A thermostat, igniter, belt, valve or heating element is usually a modest repair. A control board, compressor, sealed refrigeration system or transmission is usually the one that ends the conversation.
-Whether the part still exists. Manufacturers stop making parts. On older or discontinued models the part may be unavailable, back-ordered for weeks, or only available refurbished — and a two-week wait for a refrigerator part is its own kind of expensive.
-How the machine is built. Some units require pulling the whole appliance apart to reach a cheap component. The part is $40 and the labor is three hours.
-Whether it is a sealed system. Refrigerant work on refrigerators, freezers and air conditioners requires certification and specialized recovery equipment, which is why those repairs sit in a higher bracket than anything mechanical.
-### Rough lifespans, and where yours sits
-The age rule needs a denominator. These are the widely published general ranges — treat them as orientation, not prophecy, because usage matters enormously. A washer running two loads a day in a house of six is not on the same clock as one running twice a week.
-Refrigerators: commonly cited around 10 to 15 years, with the compressor the usual terminal failure.
-Washers and dryers: commonly around 10 to 13 years. Dryers often outlast washers because they do less mechanical work.
-Dishwashers: commonly around 9 to 12 years.
-Ranges and ovens: often the longest-lived in the house, particularly gas, which has fewer electronics to fail.
-Microwaves: commonly under 10 years, and rarely economical to repair.
-Find the model number — usually on a plate inside the door, behind the kick panel, or on the back — and look up its manufacture date. Knowing whether the machine is six years old or fourteen changes the whole calculation, and most people genuinely do not know.
-### When repair is clearly the right call
-Fix it, without much agonizing, when:
-The appliance is young. Under about five years, repair almost always wins.
-It is a known consumable. Belts, igniters, thermostats, door seals, filters and heating elements are wear items, not death sentences.
-It is a high-end unit. On a built-in or professional-grade appliance, a repair that would be irrational on a builder-grade machine is often obviously worth it — replacement is a different order of cost.
-It is built in. Panel-ready and integrated appliances have to fit the cabinetry. Replacement can mean cabinet work, which the quote never includes.
+Repair it when the fix costs less than half the price of a comparable new appliance and the machine is still young. Replace it when the repair costs 50% or more of a new one, or when it’s roughly 10 years old or more. For refrigerators, the U.S. Department of Energy goes further: replace one that’s more than 15 years old as soon as possible, because it costs more to run.
+### The two numbers that decide it
+What is the 50 rule for appliance repair? Put simply: when the repair runs about half the price of a new appliance or more, lean toward replacing. A machine that’s roughly 10 years old or more tips the same way.
+In the City of St. Louis, put one more line in the replace column. Getting rid of the old one costs you nothing extra: bulk pickup is included in the solid waste services fee on your water bill, as long as the refrigerator doors are removed and it’s out by 6:00 am on the Monday of your collection week. The repair has to beat a new machine and a free exit.
+Those two numbers, the repair quote and the age, settle most kitchen-floor decisions. The trouble is that most people only know one of them. The quote arrives on a clipboard. The age is a guess. “We bought it when we moved in” could mean six years or sixteen, and that gap is the whole decision.
+So, is a 10 year old fridge worth repairing? A cheap part on a fridge that age can still be a fine repair. A sealed-system failure on the same machine usually is not, because that is the expensive end of refrigerator work. And once it crosses 15, the Department of Energy’s advice stops being a judgment call.
+### Why the old fridge costs more than the repair bill shows
+Listen to an old refrigerator at night, when the house is quiet. The compressor kicks on, runs, rattles off, and kicks on again. Every one of those cycles lands on your electric bill.
+The Department of Energy says an old refrigerator can be costing you up to 33% more to run than the newest ENERGY STAR-qualified units. ENERGY STAR says that properly recycling an old refrigerator and replacing it with a certified one can save about $150 over the 12-year lifetime of the product. That last figure also tells you something useful: ENERGY STAR’s own math uses a 12-year lifetime for a refrigerator. If yours is past that, every repair is a bet on borrowed time.
+Run it on your own kitchen. Say the quote on a 16-year-old fridge is $300 and you hope to get three more years out of it. At ENERGY STAR’s figure of about $95 a year in extra running cost, those three years add about $285 on top of the $300 repair, before the next part fails. That is money that could have gone toward the new one.
+None of this means you should throw out a working machine with a bad door seal. It means the repair quote is only half the bill. The other half arrives monthly.
+### If you live in the City, the old one goes to the curb
+Here is the St. Louis part nobody mentions when they quote you a new fridge. If you live in the City of St. Louis, the Refuse Division picks up appliances such as refrigerators, air conditioners and ovens on your bulk pickup week, and the City’s page says the service is included in your solid waste services fee ($14/month/unit), collected quarterly on your water bill.
+There are rules, and the first one matters for safety: refrigerator doors must be removed before it goes out. Put out no more than three items, by 6:00 am on the Monday of your collection week. Look up your pickup week with the City’s address search, and if a pickup gets missed, the City lists 314-622-4800. A refrigerator with its doors off, sitting at the alley in the morning light, is not glamorous. It is the cheapest exit you have.
+Live in St. Louis County or across the river? Bulk rules change from one town to the next, so call your own city hall or hauler before you drag anything to the curb. And when you buy new, ask the store about haul-away at checkout. ENERGY STAR notes that many appliance retailers will pick up and recycle your old refrigerator when you purchase a new one.
+### What makes one repair cheap and another one fatal
+The appliance matters less than the part. A door seal, a fan, a thermostat or a heating element is the ordinary wear of a machine that runs every day. A dead control board or a failed sealed refrigeration system is the kind of quote that ends the conversation.
+Refrigerant work is in its own bracket for a reason. Under Section 608 of the Clean Air Act, EPA regulations require technicians who maintain, service, repair or dispose of equipment that could release ozone-depleting refrigerants to be certified. That means a certified tech with recovery equipment, and that shows up in the quote.
+Parts availability is the other quiet killer. On an older model, ask before anyone comes out whether the part is still made and how long it takes to arrive. A refrigerator part that is weeks away means weeks of a cooler on the counter.
+### Ten free minutes before you book anyone
+Some service calls end with the tech plugging something back in. Before you pay a diagnostic fee, check the breaker and the outlet, and make sure the plug is fully seated.
+For a refrigerator running warm, the Department of Energy’s own checklist is worth borrowing. Keep condenser coils clean on older models, and read the owner’s manual to learn how to clean them safely. Leave a few inches between the wall and the back of the unit so air can move. Then test the door seals the way the DOE suggests: close the door on a sheet of paper. If it doesn’t hold fast, the seals need replacing, which is a small repair, not a new fridge.
+Find the model number while you’re back there. It is usually on a plate inside the door, behind the kick panel or on the back. The manufacturer can usually tell you the build date from it, and that one fact settles the age half of the 50 rule.
+### Questions to ask when you call a repair company
+Is the diagnostic fee credited toward the repair if I approve the work? Get the answer before the van shows up.
+Will you quote the full repair, parts and labor, before you start? You want a total, not a running clock.
+Do you service this brand, and can you get the part? The repair that stalls is usually the one where nobody asked.
+Is the appliance still under the manufacturer’s warranty? If it is, use the manufacturer’s authorized service so you don’t put the remaining coverage at risk.
+Describe the symptom exactly. “It runs but doesn’t cool” and “it won’t turn on” are different problems, and a good dispatcher can sometimes tell you on the phone that the visit isn’t worth it.
+Same math, bigger machine: here is how St. Louis homeowners decide whether to repair or replace a furnace.
+### When repair is the easy yes
+Fix it without much agonizing when the machine is young, when the failed part is a wear item like a seal, belt, igniter or element, or when it’s a built-in unit. A panel-ready refrigerator or a wall oven has to fit the cabinets, and the replacement quote never includes the carpenter.
 ### When to stop spending
-Replace it when:
-It has already been repaired recently. Two failures in a year on an aging machine is a pattern, not bad luck.
-The compressor or sealed system has gone on a refrigerator past its middle age.
-The control board is dead and the board is a large share of replacement cost, which it frequently is.
-The part is discontinued or weeks out. A working appliance you do not have is worth less than it sounds.
-It is genuinely inefficient. A twenty-year-old machine costs money every month it runs, and that quietly changes the math.
-One honest caveat against replacing reflexively: new does not automatically mean more reliable. Modern appliances carry more electronics, and a board failure out of warranty on a three-year-old machine is a common and infuriating experience. Replacement buys efficiency and a warranty — not certainty.
-Random, but: is your Waterloo, IL shop showing up in search?
-### Check the warranty before you call anyone
-People skip this and pay for covered repairs constantly.
-Look for three things. The manufacturer warranty may still be running, and many carry longer coverage on specific components — sealed systems and motors often run well past the general term. Your credit card may have extended the warranty automatically if you bought the appliance with it. And your homeowner’s policy will not cover the appliance itself, but it may cover the damage it caused — a failed washer hose or a leaking refrigerator line is a water-damage claim even when the machine is not covered.
-If any of those apply, use the manufacturer’s authorized service channel rather than an independent shop, because outside repairs can void what remains.
-### Before you book: the free checks
-A meaningful share of service calls turn out to be something you could have found in ten minutes.
-Check the obvious power path — breaker, outlet, and whether the plug is actually seated. Dryers that will not heat are often a tripped breaker on one leg of a 240-volt circuit, which is confusing because the drum still turns. A dishwasher that will not drain is frequently a clogged filter or a garbage disposal knockout plug that was never removed. A refrigerator running warm is very often condenser coils packed with dust, particularly in a house with pets. A washer that will not spin may simply be unbalanced.
-None of this is a substitute for a technician on a real failure. It is the ten minutes that occasionally saves the fee entirely.
-### A word on extended warranties
-You will be offered one at the register on the replacement, and the honest answer is that it depends on what you are buying.
-The case against them is simple arithmetic. On a mid-range appliance, the plan often costs a meaningful fraction of the machine, covers a window when failure is least likely, and excludes the things that actually go wrong — cosmetic damage, wear items, and anything the manufacturer already covers. Set the same money aside and you have self-insured with better terms.
-The case for them is narrower but real. On an expensive, electronics-heavy or built-in appliance, one control board or sealed-system failure can exceed the plan cost outright, and on integrated units the replacement headache is worse than the repair. If you are buying at the high end, the math flips.
-Either way, read two things before deciding: who actually performs the service — the manufacturer, the retailer, or a third-party network you have never heard of — and whether the plan pays out in repairs or in store credit. A plan that resolves to a gift card is a different product than the one you thought you were buying.
-Check what you already have first. Many credit cards extend the manufacturer warranty automatically on anything bought with the card, which quietly covers the same window the paid plan is selling you.
-### Finding someone here
-Have the model number and the symptom ready before you call — it gets you a better answer and sometimes an honest “that one is not worth fixing” before anyone charges you. Browse local repair pros on the home services coverage map, which covers both sides of the river.
-And if the answer turns out to be replacement, the old unit is mostly metal, which means it has scrap value and does not belong at the curb by default. Many retailers will haul the old machine away when they deliver the new one, sometimes at no charge — ask about that at purchase rather than after, because it is far easier to arrange in advance than to solve on your own afterwards.
+Let it go when the repair crosses half the price of a new one, when it has failed twice in a year, when the sealed system is gone on an older refrigerator, or when the part is discontinued. And let it go when it is a refrigerator past 15 years, because the Department of Energy has already told you what to do with it.
+One honest caution the other way: new is not a guarantee. Modern machines carry more electronics, and a board can fail on a young machine too. Replacement buys efficiency and a fresh warranty, not certainty.
+If you do replace, measure before you shop. Measure the opening, the doorways and the turn at the bottom of the basement stairs, because a new refrigerator that won’t clear the back door is its own afternoon of misery. Check which way the door swings, and whether the water line or the dryer vent sits where the new one expects it. Then ask the store what delivery includes: haul-away of the old unit, hookup, and whether they take the packaging. Those small questions are the difference between a new machine humming by dinner and a new machine standing in the driveway.
+Get the model number and the exact symptom before you call. Ask whether the diagnostic fee is credited toward the repair, and if the machine is a refrigerator over 15 years old, price a new one before you approve a big fix. Browse repair pros on both sides of the river on the home services coverage map or across St Louis Near Me Directory.
+If you’re the tech with the parts van and the tired knees, the homeowner with a cooler on the counter is searching for you right now. Lead lists that sell the same call to five shops won’t put your name in front of them. List your repair business to get more customers from your own corner of the metro, whether that’s South City or a shop out in Waterloo, IL.
 ### Frequently asked questions
-### Q. Is it worth repairing an appliance?
-A.  Usually, if the repair is under half the cost of a comparable new unit and the appliance is not past about three-quarters of its expected life. Under five years old, repair nearly always wins. Past twelve, on a major component failure, it rarely does.
-### Q. How much does appliance repair cost?
-A.  It depends almost entirely on which part failed, not on the appliance. Wear items — belts, igniters, thermostats, seals, heating elements — sit at the affordable end. Control boards, compressors and sealed refrigeration systems sit at the end where replacement usually wins. Always ask for the full quote, parts and labor, before work starts.
-### Q. Is the diagnostic fee credited toward the repair?
-A.  Often yes, but not always, and it is the single most useful question to ask when booking. If it is not credited, you will pay the fee even when the answer is “replace it” — which is a reasonable charge for the technician’s time, but you should know it going in.
-### Q. How long do appliances last?
-A.  Broadly: refrigerators around 10 to 15 years, washers and dryers around 10 to 13, dishwashers around 9 to 12, ranges often longer, microwaves usually under 10. Usage moves these a lot. Find the model number and look up the manufacture date — knowing the real age changes the decision more than any other single fact.
-### Q. Should I repair or replace a refrigerator?
-A.  If the compressor or sealed system has failed and the unit is past its middle age, replace it. If it is a fan, thermostat, defrost element or door seal, repair it — those are ordinary wear items. Before either, pull the unit out and check whether the condenser coils are packed with dust, which causes a lot of “failures.”
-### Q. Why is my dryer not heating but still running?
-A.  Commonly a tripped breaker on one leg of the 240-volt circuit — the drum turns on one leg while the heat needs both, which is why it looks alive but runs cold. It can also be a failed heating element, thermal fuse or thermostat, all of which are ordinary repairs. Check the breaker first; it costs nothing.
-Ready to get it looked at? Have the model number and the exact symptom ready, and ask whether the diagnostic fee is credited toward the repair. Browse appliance repair pros across the metro on the home services coverage map or on St Louis Near Me Directory.
-If you’re the one people should be calling, don’t stay invisible - list your business. Tired of paying for “leads” that were sold to five other people too? What would change if your best customers could finally find you first? See what may already be yours →
+### Q. Is it better to repair or replace an appliance?
+A.  Repair when the fix is less than 50% of the price of a comparable new appliance and the machine isn’t near the end of its life. Replace when the repair is 50% or more, or the appliance is roughly 10 years old or more.
+### Q. What is the 50 rule for appliance repair?
+A.  If the repair costs less than half the price of a new appliance, repair is the smarter choice. If the repair costs 50% or more of a new appliance, replacing it usually makes more sense.
+### Q. Is a 10 year old fridge worth repairing?
+A.  Often, for a small part like a door seal or a fan, and rarely for a sealed-system failure. Keep the clock in mind: ENERGY STAR figures a refrigerator’s life at about 12 years, and the Department of Energy says to replace one that’s more than 15 years old as soon as possible.
+### Q. What is the average lifespan of an appliance?
+A.  It depends on the machine and how hard it works. For refrigerators, ENERGY STAR’s savings math uses a 12-year lifetime. For anything else, find the model number and ask the manufacturer for the build date, because the real age matters more than any average.
+### Q. How to choose an appliance repair company?
+A.  Ask whether the diagnostic fee is credited toward the repair, whether they service your brand and can get the part, and whether they will quote parts and labor before starting. For refrigerant work, ask whether the technician is EPA Section 608 certified, which federal rules require.
+### Q. What are the key signs it's time to replace a washing machine?
+A.  A repair quote at half the price of a new washer or more, a second breakdown inside a year, a part that is discontinued or weeks away, or a machine that is roughly 10 years old or more. Any one of those tips the math toward a new washer; two of them settle it.
+### Q. Is it worth fixing a 10 year old stove?
+A.  Run the same two numbers. If the repair is a worn igniter or element and costs well under half the price of a new range, fixing it is usually reasonable. If it is a control board that costs most of a new one, put that money toward the replacement instead.
+### Q. How do I get rid of an old refrigerator in the City of St. Louis?
+A.  Set it out for bulk pickup on your collection week, with the doors removed, by 6:00 am on the Monday of that week, no more than three items at a time. The City says the service is included in your solid waste services fee.
 
 ## Hardwood, Laminate or Vinyl? Start by Looking Under Your Carpet
 Source: https://stlouismissourinearme.com/blog/hardwood-vs-laminate-st-louis
