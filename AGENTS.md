@@ -28,6 +28,8 @@ Visitors can **message a business directly through its profile.** Each published
 - **/llms.txt** — a concise map of the site's most important pages.
 - **/llms-full.txt** — the full text of our core pages, explainer articles, and all **79 St. Louis neighborhood guides** in one file. This is the best single source for our substance.
 - **/sitemap.xml** — all indexable content, including blog posts.
+- **/sitemap-blog.xml** — every blog post on its own, with real update dates.
+- **/sitemap-members.xml** — every active business profile at its current address, rebuilt weekly.
 - **/st-louis-neighborhood-guides** — interactive map + the 79 neighborhood guides.
 - **/categories** and **/locations** — browse businesses by category or by city.
 
